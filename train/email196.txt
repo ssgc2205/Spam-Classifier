@@ -1,0 +1,11 @@
+Hello all,
+
+&amp;#x200B;
+
+I am looking for a dataset that contains a collection of medical research papers similar to CORD-19, but regarding a other topics (e.g. pulmonary research papers). Is there anything like this?
+
+&amp;#x200B;
+
+If anything is out there, please let me know!
+
+Thanks in advance!!

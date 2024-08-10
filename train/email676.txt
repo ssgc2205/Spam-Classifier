@@ -1,0 +1,5 @@
+Hi everyone! Can you please tell me the way i can extract in the CSV format the data from this chart? in the format of the ("date", "tweets per day")
+
+[https://bitinfocharts.com/comparison/tweets-btc.html](https://bitinfocharts.com/comparison/tweets-btc.html)
+
+When i “Inspect” the page, the data seem to be right there, but i have no idea how to extract it. (i dont know how to code :/ )

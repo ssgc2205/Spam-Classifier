@@ -1,0 +1,10 @@
+I am conducting research that requires interviewing data custodians that provide a public API for their data. Even better if the data is real-time/dynamic.
+
+I am particularly interested in understanding why you provide this public endpoint and who uses it. 
+
+The interview will be no longer than 15 minutes. If you're interested, please PM me.
+
+I plan on summarizing my results and posting them here later this week (or the next). Hopefully these insights will benefit more than a few.  
+
+
+Thanks !  

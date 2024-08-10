@@ -1,0 +1,6 @@
+Hi,
+
+I'd like to try training a model to determine the target of particular pronouns in a text. The pronouns I'm mainly looking for are he (masculine singular), she (feminine singular), and they (group or gender neutral singular).
+
+Does anyone know of a dataset that would contain this information?
+Thanks

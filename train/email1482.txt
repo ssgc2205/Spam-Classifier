@@ -1,0 +1,5 @@
+Eg, need the gold price, oil price, US inflation, employment, population growth rate, GDP etc, 
+
+I need all the data to be arranged by month and year, in one single (large) spreadsheet. Ie, all the data for each column should have been recorded within the same month.
+
+If anyone has seen a spreadsheet like this, please let me know

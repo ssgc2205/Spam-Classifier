@@ -1,0 +1,1 @@
+That data sets should contain the online image and video ads. I want to detect the ads on the browser using the chrome extension with the help of machine learning (especially CNN) to differentiate what's an ad and what's not an ad on a website. Then it will block the ads automatically, it will work differently from the current static data or filter list method of the adblocking.

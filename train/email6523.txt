@@ -1,0 +1,9 @@
+Hello,
+
+I'm looking for directed, weighted graphs suitable for Ford-Fulkerson algorithm, data should describe "real-world problem".
+
+For now closest I've found:
+
+(*) [Network representing the neural network of C. Elegans.](http://www-personal.umich.edu/~mejn/netdata/)
+
+But I don't think that using MaxFlow on data above would give any useful informations.

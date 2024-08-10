@@ -1,0 +1,5 @@
+Hello everyone, i am doing a spark project on stock market data and news data. I would be really happy if someone can lead me to a news data. Thank you.
+
+&amp;#x200B;
+
+I got this one:  [https://components.one/datasets/all-the-news-2-news-articles-dataset/](https://components.one/datasets/all-the-news-2-news-articles-dataset/) from the other reddit post, if i could have more i would be really happy thanks in advance.

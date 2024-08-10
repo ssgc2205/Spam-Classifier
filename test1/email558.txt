@@ -1,0 +1,17 @@
+Basically I made a AI that learns things. Thing is though I'm using a text file as a training data. it should follow this format:
+
+Q
+
+A
+
+Q
+
+A
+
+&amp;#x200B;
+
+where Q is for question, A is for answer. there cant be any signs in the beggining.
+
+&amp;#x200B;
+
+Is there any dataset ready like this?

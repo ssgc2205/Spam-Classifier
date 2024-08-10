@@ -1,0 +1,1 @@
+Do you know where to find datasets with qualitative variables and a response type yes no variable ?

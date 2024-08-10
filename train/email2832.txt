@@ -1,0 +1,4 @@
+I'm looking for a dataset of audio recordings that are annotated for sarcasm/irony.  
+
+
+I'm aware several such datasets exist for text, but does anyone know of one that includes audio?

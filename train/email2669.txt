@@ -1,0 +1,1 @@
+My goal is to achieve data on these instances described above to build a neural network to help predict future failures. Any findings on these failure instances would be extremely helpful for me! Let me know if you have any questions! Thank you.

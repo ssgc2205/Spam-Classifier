@@ -1,0 +1,3 @@
+Hi All,
+
+I'm new to deep learning and completed some theoretical courses. I want to enhance my skillset doing a project and hence looking for a dataset related to computer vision.

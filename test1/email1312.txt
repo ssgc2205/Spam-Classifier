@@ -1,0 +1,15 @@
+Finding an interesting and open image dataset is quite a challenge, especially if you want to use it for creating a workshop, tutorial, or book.
+
+I'm writing a book now, and I didn't want to use the standard cats-vs-dogs dataset, and of course, not MNIST. But I couldn't find a good one.
+
+That's why I decided to create one - a dataset with images of clothes. I've already collected 1000+ images, but I need more
+
+Once I have 10000 images, I'll label them and share under a public domain license (CC0), so anyone can use it for any purpose. 
+
+You can help in many ways:
+
+* Upvote this post to increase visibility 
+* Share it with your friends and colleagues
+* Take pictures of your clothes and share them
+
+More info here: [https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1](https://medium.com/data-science-insider/clothing-dataset-call-for-action-3cad023246c1)

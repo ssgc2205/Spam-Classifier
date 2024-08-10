@@ -1,0 +1,2 @@
+Does anyone know of any comprehensive datasets that provide data on poverty for countries in South Asia for the past 25-30 years.
+I have looked at world Bank datasets and they have too many missing values for various years. 

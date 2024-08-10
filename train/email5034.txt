@@ -1,0 +1,1 @@
+I'm looking for data sets that record if care is received within or outside the Golden hour (the hour from a patients injury) and that also record the outcome of the patient after care (e.g., discharge, mortality, etc.)

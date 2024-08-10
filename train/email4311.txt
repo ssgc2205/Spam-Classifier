@@ -1,0 +1,3 @@
+Cornell Natural Language Visual Reasoning (NLVR) is a language grounding dataset. It contains 92,244 pairs of natural language statements grounded in synthetic images. The task is to determine whether a sentence is true or false about an image. The data was collected through crowdsourcing, and requires reasoning about sets of objects, quantities, comparisons, and spatial relations.
+
+http://lic.nlp.cornell.edu/nlvr/

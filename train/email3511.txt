@@ -1,0 +1,7 @@
+Hi folks,
+
+I'm looking for a time-series dataset of Android / iOS market shares with as recent data as possible, preferably within the European Market. Could anyone point me in the right direction?
+
+(inb4 LMGTFY. Most results I find are from 2016 or earlier)
+
+Thanks :)

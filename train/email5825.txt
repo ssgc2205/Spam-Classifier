@@ -1,0 +1,5 @@
+Hi, 
+
+for my thesis I am currently looking for a basket dataset of a DIY/ hardware store. 
+
+There are various datasets for grocery stores but I have not found one for DIY stores - can anybody help with that?

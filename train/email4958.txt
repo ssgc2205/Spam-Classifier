@@ -1,0 +1,13 @@
+I need to extract the triplets from a given utterance of a conversation. 
+
+For example, I dislike rainy weather.  Triplets ==&gt; (Person1, dislikes, Rainy Weather). 
+
+I basically need to extract structured data from conversations.
+
+&amp;#x200B;
+
+The first task is determining the domain of the sentence (like Weather, Sports, Politics, Hobbies, Music, Movies, Profession, etc).
+
+&amp;#x200B;
+
+Can someone point me the resources to get the corresponding dataset. (i,.e, Sentences related to preferences)

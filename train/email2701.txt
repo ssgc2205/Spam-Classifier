@@ -1,0 +1,9 @@
+Hello,
+
+I collected a dataset containing over 200,000 car offers with 26 variables from one of the largest car advertisement sites in Poland, and I want to share it with you.
+
+I would love to see someone use this data to perform some EDA or car price prediction.
+
+[Dataset on Kaggle](https://www.kaggle.com/bartoszpieniak/poland-cars-for-sale-dataset)
+
+Its my first public dataset and I would greatly appreciate any feedback.

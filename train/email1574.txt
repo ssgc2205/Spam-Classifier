@@ -1,0 +1,2 @@
+Hello. I am looking for some interesting and relatively new datasets for regression, classification etc. Preferably tabular data. Also, in case you could share with me some non-public datasets, that would be perfect. I need these for my research.
+P.S. I looked at UCI repository datasets already

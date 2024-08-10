@@ -1,0 +1,3 @@
+I've seen a few threads on this but haven't found a definitive answer.
+
+Is there a way to extract player attributes from the game in bulk? Or even a website with the same info?

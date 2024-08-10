@@ -1,0 +1,9 @@
+I just finished my first year in a data science graduate program. I got some good exposure to various algorithms and hands on experience with real data sets. Two areas that we didn't have time to devote individual assignments to are: 
+
+\- (User-item) recommender systems 
+
+\- Associate rules (like market basket analysis.) 
+
+Any datasets out there that are good for exploring (either of) these ML techniques? 
+
+I understand that there is likely no single dataset that would be applicable for both, but didn't want to create separate posts.

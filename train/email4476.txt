@@ -1,0 +1,7 @@
+Hey! About 2 weeks ago there was a [request](https://www.reddit.com/r/datasets/comments/kpa6b6/wrangling_new_hospital_price_transparency_data/) for Hospital Price Data, and we thought it would be very cool and neat to help make this happen so we created a bounty! Come help us!
+
+[Here's a link to the bounty](https://www.dolthub.com/repositories/dolthub/hospital-price-transparency/bounties/00000000-0000-0000-0000-000000000001)
+
+[Here's a link to a blog post with an example submission](https://www.dolthub.com/blog/2021-01-14-hopsital-prices-bounty/)
+
+Let me know if you have any questions!

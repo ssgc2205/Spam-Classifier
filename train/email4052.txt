@@ -1,0 +1,10 @@
+Hello everyone,
+
+I'm looking for any industrial dataset and can't find anything online. Hoping someone could point me in the right direction.
+
+I'm looking for data that has to do with process control, chemical processes, wind turbine output data, combined cycle power plants. Any industrial nonlinear system will work just fine. 
+
+I came across a dataset from UCI from a combined cycle power generation but unfortunately,  the data has been previously shuffled and the data is not sufficient to train my model. 
+
+
+Have an awesome Sunday, everyone!

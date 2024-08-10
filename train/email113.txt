@@ -1,0 +1,13 @@
+I need to analyze US data from 1970 onwards. I'd like to use [https://usa.ipums.org](https://usa.ipums.org)   
+
+
+Does anyone knows more about the 1970s samples? Is anyone of the following better than the other, or should I choose all of them?
+
+* 1970 1% Form 1 State sample
+* 1970 1% Form 2 State sample
+* 1970 1% Form 1 Metro sample
+* 1970 1% Form 2 Metro sample
+* 1970 1% Form 1 Neighborhood sample
+* 1970 1% Form 2 Neighborhood sample
+
+&amp;#x200B;

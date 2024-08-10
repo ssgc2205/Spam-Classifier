@@ -1,0 +1,5 @@
+Hello all!
+
+I am looking to do a small practice project on predicting solar farm output. So far I haven't been able to find any good datasets for solar farms. Can someone point me in the right direction?
+
+Thanks in advance :)

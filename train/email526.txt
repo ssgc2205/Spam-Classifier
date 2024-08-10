@@ -1,0 +1,1 @@
+Hi everyone! I am looking for a way to get images specifically used in educational content like textbooks, answerbooks, etc. For eg. A picture of food cycle in a science textbook or a picture of tom sawyer in a english textbook, etc. Does anyone happen to know any such dataset or any other source for this?

@@ -1,0 +1,11 @@
+Hi all, 
+
+I'm looking for some basic US city data.  
+
+1.  Population of US Cities
+
+2.  Longitude and Latitude of US Cities
+
+3.  (Long Shot) US Cities on Interstate Highways.  Might have to farm this one from Wikipedia.  
+
+Thanks!

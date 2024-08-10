@@ -1,0 +1,1 @@
+I found the dat files going back to 1962 on [this website](http://www.nber.org/data/cps.html), but honestly I've never read a dat file into statistical software. I've tried reading the codebooks to figure out the headers, but it's going way over my head. Has anyone read these files into SPSS or Stata that could give me some advice?

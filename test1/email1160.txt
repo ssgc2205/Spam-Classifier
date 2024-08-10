@@ -1,0 +1,1 @@
+I want to take my comment history and mess around with the data. Besides copying and pasting every comment, is there a way to grab the text?

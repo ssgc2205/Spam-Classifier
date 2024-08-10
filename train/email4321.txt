@@ -1,0 +1,7 @@
+I'm running late on a project deadline and the application for my twitter developer account has been under review for 2 days now. It would be of tremendous help if someone can provide me with the consumer key, consumer secret, access token, access token secret of their twitter dev account.  
+
+
+I just need to pull data for sentiment analysis on mental health impact due to Covid-19. Have a deadline on 30th so won't be using the credentials after that.  
+
+
+Please help a brother out!

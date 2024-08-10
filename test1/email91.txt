@@ -1,0 +1,5 @@
+Hi, I'm doing a task where I need to predict the demographics of a FULL name. Right now, I find it hard to have a full name dataset that has both race/ethnicity and gender data.
+
+I am aware of the SSA dataset, but it seems like they only provided the first names and sex.
+
+Anyone else has recommendations?

@@ -1,0 +1,3 @@
+Does anyone know where I could find a data set showing the average EV/EBITDA, Quick Ratio, Current Ratio, ROA, FCF/Equity, etc. for the entire S&amp;P 500 index over time?
+
+Right now, the only way I can think of to get this information would be to manually get data the for all stocks from Yahoo finance and calculate all the ratios myself for every single year; but that would take too long.

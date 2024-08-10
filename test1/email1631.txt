@@ -1,0 +1,7 @@
+Hi everyone, 
+
+I am searching for a dataset containing pictures of computer parts, such as motherboards, video cards, and RAM sticks. These parts could also come from laptops. 
+
+If someone knows a dataset like this, please share :)
+
+Thanks

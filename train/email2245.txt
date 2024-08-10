@@ -1,0 +1,11 @@
+ 
+
+Hi community,
+
+I planned to build a machine learning models that can read text biographies and extract out certain attributes such as the degree and the industry a person is working in. This is for a postgrad thesis i am working on.
+
+I thought this linkedin dataset would be perfect to train such a model:
+
+[https://www.reddit.com/r/dataisbeautiful/comments/25qjpz/how\_many\_employees\_are\_moving\_between\_companies\_oc/](https://www.reddit.com/r/dataisbeautiful/comments/25qjpz/how_many_employees_are_moving_between_companies_oc/)
+
+Unfortunately, the link is down :( Would anyone have an archival copy of this dataset ? Happy to buy a beer for that kind soul

@@ -1,0 +1,3 @@
+[Research Inspiration](https://www.aeaweb.org/articles?id=10.1257/app.20120387)
+
+The paper above observes governor elections and labor market outcomes, which made me wonder if this analysis could be useful if observing governor elections and crime. Anyone know any datasets that could help with this? Thanks!

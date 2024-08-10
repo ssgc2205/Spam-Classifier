@@ -1,0 +1,8 @@
+Hi all,
+
+I'm wondering if anyone knows where I can find soccer datasets that include player salary as well as player statistics such as goals, seasons, assists, etc. Any league will do. 
+
+I'm looking to create a multiple linear regression showing a relationship between salary and a number of variables.   
+
+
+Thank you for your help.

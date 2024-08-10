@@ -1,0 +1,1 @@
+I'm doing a statistics modeling project and I need to find a data set with at least 10 explanatory variables and at least 100 observations. Any suggestions?

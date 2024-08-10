@@ -1,0 +1,7 @@
+Are there any free, publicly available databases with ZIP codes, ZIP+4 Codes and corresponding County codes with FIPS codes if possible?
+
+I have the Census data but these don't have the ZIP+4 codes in them and that creates a problem.
+
+Google Earth Pro (which is now free) has this data but I have no idea how to pull this data out of Google Earth into a excel sheet or a  csv. They also have county names in the same database. 
+
+Regardless, any help regarding this would be greatly appreciated. 

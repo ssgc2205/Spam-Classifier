@@ -1,0 +1,3 @@
+EDIT: I ended up finding this: http://data.worldbank.org/data-catalog/world-development-indicators
+
+it contains a monstrously big database with everything I could need and plenty more. hope it helps anyone looking for something similar

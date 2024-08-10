@@ -1,0 +1,17 @@
+Hi everyone, I'm studying on an undergraduate project about military surveillance system. 
+
+System can be used for the following scenarios:
+
+\- Wide area motion detection
+
+\- Civilian and soldier distinction
+
+\- Monitoring suspicious vehicles/persons
+
+\- Abnormal situation detection and predictions
+
+I'm looking for datasets for these scenarios. Because i think creating my own dataset is a very long process. I'm open for your any advices.
+
+Hope you can help me.
+
+&amp;#x200B;

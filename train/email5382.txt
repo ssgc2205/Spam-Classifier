@@ -1,0 +1,4 @@
+Hi,
+I'm hoping that an a more aggregated dump of this exists:
+http://dumps.wikimedia.org/other/pagecounts-raw/2014/2014-05/
+Any ideas?

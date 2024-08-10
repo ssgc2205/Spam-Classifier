@@ -1,0 +1,19 @@
+Hi everyone!
+
+My friends and I built [databar.ai](https://www.databar.ai), a free no-code API tool that lets you get datasets from all over the web without code (works for \~100 APIs right now). We started it out as a side-project/internal tool and thought that others might find it useful too.
+
+Basically all you do is pick an API you want to use (for example Coin Gecko or [Data.gov](https://Data.gov)), customize your request with parameters, and get a clean, structured csv/xslx file in return.
+
+Right now you can get datasets on:
+
+\- Anything relating to crypto (social media stats, market caps, volumes, ROIs, etc.)
+
+\- Finance (public financials, IPO data, transcripts, technicals, DCFs)
+
+\- Scraped data (news articles/blogs, App store reviews)
+
+\- Public data (crime, education, environment, etc.)
+
+\- Anything to do with COVID
+
+You don't need to know how to work with APIs to use it and we're wondering if there are any features people would prefer - mostly posting for feedback/ideas. Figured r/datasets is the best place to ask, please let me know if I'm posting in the wrong place!

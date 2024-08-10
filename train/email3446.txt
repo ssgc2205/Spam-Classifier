@@ -1,0 +1,4 @@
+March 2018 reddit comments are now available for download.  There are 96,490,262 comments in this data set.  The file size (compressed) is 9,594,069,532 bytes.  
+
+Location:  https://files.pushshift.io/reddit/comments/RC_2018-03.xz
+

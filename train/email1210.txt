@@ -1,0 +1,8 @@
+Hey!
+
+
+I'm working on making a house evaluation model for the Greater Toronto Area.
+
+Currently we are using the MLS feed but it would help to get more information on any given house - i.e. square footage, the year it was constructed, etc.
+
+Any help would be appreciated! Willing to pay

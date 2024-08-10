@@ -1,0 +1,1 @@
+I'm looking for (offshore) wind turbine datasets. I would like to have environment variables on a fixed time scale . E.g. the wind speed, generated power, temperature,... every 10 minutes. Its very hard to find these just lying around, ... maybe I have more luck here.

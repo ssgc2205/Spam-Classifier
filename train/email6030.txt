@@ -1,0 +1,1 @@
+Hi Folks, I am looking for a dataset that would be used for symbolic regression through gene expression programming. I am going to compare the results with the Neural Net based regression.   I have used the Boston house prices dataset so far but results are not encouraging on GEP. If anyone has any idea, please help.

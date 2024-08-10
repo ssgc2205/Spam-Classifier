@@ -1,0 +1,3 @@
+I’d like to perform logistic regression on the factors that could cause someone to commit suicide. Please let me know if something like this is available - I haven’t been able to find a dataset that doesn’t only show deaths by suicide. 
+
+Thanks!!

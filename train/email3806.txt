@@ -1,0 +1,5 @@
+Hi Everyone,
+
+I'm new to reddit, so apologies for any mistakes! I am doing a personal data project where I would like to collect the current gas prices for every county across every state in the US. So far, I have found 
+
+[https://www.gasbuddy.com/gaspricemap](https://www.gasbuddy.com/gaspricemap) which gives it in a map format, but obviously it is extremely tedious to go through thousands of counties by clicking thoroughly on a map across every state. Any help would be greatly appreciated, as I am sure [gasbuddy.com](https://gasbuddy.com) sources their data from somewhere

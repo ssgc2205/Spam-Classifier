@@ -1,0 +1,3 @@
+I have been recording my 4 month olds sleep patterns since we began sleep training 2 weeks ago. I have recorded the time we put him down, the time he fell asleep, and the time he woke from everyone one of his naps and nighttime sleeps.
+
+I would like to record this electronically, and generate a chart to visualize the data, but I'm not entirely sure where to start.  I know my way around excel, and I'm somewhat handy with d3.js and other tools like that, but I am not sure how to format my data or what chart would best visualize my data.  Any advice would be greatly appreciated!

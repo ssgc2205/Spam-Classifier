@@ -1,0 +1,1 @@
+[Florida FDoC](http://www.dc.state.fl.us/pub/obis_request.html) publishes detailed metadata for offenders inmate releases. Some counties publish warrants or recent bookings. Are there similar public data sources with &gt;100K rows, person's name, and race?

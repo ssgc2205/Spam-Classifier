@@ -1,0 +1,4 @@
+Hello all
+I am looking for a free dataset which I can use for speaker recognition purposes. Any dataset would do.
+
+It would be even more helpful if it is something that has a ready-made recipe in the kaldi-asr toolkit.

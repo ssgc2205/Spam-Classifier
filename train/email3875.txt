@@ -1,0 +1,3 @@
+I need datasets that come in the form of a network, preferably where things are interacting in some way. Could be a graph of traffic lights (vertices) and the roads connecting them (edges), could be a social network of friendships, or something especially interesting like banks and who owns how much debt from whom.
+
+Anyone seen interesting datasets like this lately?

@@ -1,0 +1,1 @@
+Hi, i'm looking for a dataset to perform lasso, ridge and elasticnet regression. So i need a quantitative response variable. I'm struggling to find a interesting dataset. It has to be somehow related to economics also (health, environment or something like this would work too)

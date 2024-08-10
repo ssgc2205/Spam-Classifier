@@ -1,0 +1,1 @@
+I'm looking for a data set that contains vibration recordings for HVAC's. It would be a big plus if the data set contains vibrations from a failing HVAC. Thanks!

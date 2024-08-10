@@ -1,0 +1,3 @@
+So I'm learning R to analyze census data from my city among other things and I'm hoping that with practice, this can help me find a viable business to start in my area.
+
+Backstory aside, sorry mods if this isn't worthy of its own post. How should I arrange my data? My intuition says make a CSV file but I have like no experience with R yet ive just dabbled in the first parts of the swirl courses.

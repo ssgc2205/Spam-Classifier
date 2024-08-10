@@ -1,0 +1,21 @@
+I'm not sure if this is the right subreddit for this question but you are used to datasets so you might have good recommendations.
+
+We plan create data and store them is this way
+
+`Campain1Folder`  
+`-&gt;labelling.json`  
+`-&gt;measures1.csv`  
+`-&gt;measures2.csv`  
+`-&gt;measures3.csv`  
+`-&gt;measuresN.csv`  
+`Campain2Folder`  
+`-&gt;labelling.json`  
+`-&gt;measures1.csv`  
+`-&gt;measures2.csv`  
+`-&gt;measures3.csv`  
+`-&gt;measuresN.csv`  
+`CampainNFolder`
+
+Q1) is this an acceptable format ? Or what would you recommend
+
+Q2) How do you store the information top avoid loss ? On a shared disk / sharepoint/ box/ git ?

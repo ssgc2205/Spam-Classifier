@@ -1,0 +1,17 @@
+Hi, I am looking at doing some research into relapse in individuals who have quit smoking. I am looking for a data set which has a variable denoting someone who has quit smoking, and also a variable showing whether or not they have since relapsed.
+
+&amp;#x200B;
+
+I am also keen to look at how the initial incentives for quitting smoking may effect chance of relapse (Quitting for financial reasons v Health reasons etc).
+
+&amp;#x200B;
+
+If possible, Longitudinal data may be perfect, as it would also be interesting to see what factors change post-cessation, and how these may impact relapse, in particular changes in alcohol consumption and BMI.
+
+&amp;#x200B;
+
+I appreciate there's a lot of requests here, but if anybody knows of any datasets which at least show individual who have quit smoking and whether they have relapsed that would be much appreciated.
+
+&amp;#x200B;
+
+Thank you

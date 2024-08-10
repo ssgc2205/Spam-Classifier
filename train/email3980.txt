@@ -1,0 +1,1 @@
+I am looking for a dataset with around 0.5 million values, but these values are recorded over around 10 separate periods with the values being able to change within every period. Does anyone know where I can find such a dataset when I need that many values? I have looked at weather and stock datasets, but the values are only in the 1000s.

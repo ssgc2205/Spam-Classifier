@@ -1,0 +1,13 @@
+Hello guys, I'm a statistics undergraduate student.
+
+We have to do a school project which is to find data and to show normal distribution
+
+using that data. So I have decided to find EPL players' height to represent a normal distribution.
+
+From what I have learned in school, heights of EPL players will fall mostly close to the average.
+
+I'm kind of excited to see that if it is true(I guess it has to be true.)
+
+Do you guys have any idea where I can find the data for EPL players' height?
+
+Thanks in advance.

@@ -1,0 +1,9 @@
+Hi r/datasets!
+
+My team and I launched a website that provides a seamless way to search datasets for your machine learning projects. We’ve all experienced the pain of searching for that perfect dataset. The world's datasets are scattered across academic websites and Github repos. That’s why we came up with Bifrost Data Search.
+
+Bifrost Data Search is an initiative to aggregate, analyse and deliver the world's image datasets straight into the hands of AI developers. You can search from over 1000 listings paired with rich information and in-depth analyses. It’s 100% free and we’re always adding more datasets and features.
+
+This is just a beta release, and we’d love to hear your feedback so we can make this a valuable resource for the community! We're currently live on [https://www.producthunt.com/posts/bifrost-data-search](https://www.producthunt.com/posts/bifrost-data-search).
+
+We really hope you like it!

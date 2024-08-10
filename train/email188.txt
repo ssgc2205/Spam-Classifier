@@ -1,0 +1,1 @@
+I am looking for a dataset to analyse for a semester project in a data science class. It needs to have at least 1000 records and 10 fields, with at least 2 numeric fields, at least 2 text fields, and at least 1 date/time field (although I think I can get away with not having the last one). I would also like it to be related to animals, as I am going for a biology minor.

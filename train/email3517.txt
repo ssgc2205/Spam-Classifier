@@ -1,0 +1,3 @@
+Hi, I am working on a database project for school and wanted to make a flight database that would allow for some niche search parameters that I think most travel websites do not have. So I would like to collect the flight data such as departure airport, destination airport, time, current cost of tickets. 
+
+Ideally, this dataset already exists, but if not tips on how to go about scraping would be appreciated. I posted in /r/opendata but thought here might be more appropriate.

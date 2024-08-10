@@ -1,0 +1,1 @@
+hey everyone!  im currently attempting to build a program that will detect if a person is sick, or healthy, but to do so I need to train the program with images, so if anyone would know if there is a dataset with images of sick or healthy people it would be appreciated!

@@ -1,0 +1,1 @@
+Looking for an overhead imagery dataset like NAIP, but with metadata including geolocation and date/time information for when the photos were taken. Can't find anything with accurate date/time. Anyone know of a dataset like this?

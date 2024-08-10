@@ -1,0 +1,7 @@
+Hi,
+
+I've spent some time looking for a data sets for housing that include things like price, zipcode, number of bedrooms, bathrooms, square footage ect for specific cities. The data needs to be for a specific city and it could be for any of the USA cities in this list  [http://insideairbnb.com/get-the-data.html](http://insideairbnb.com/get-the-data.html) 
+
+even if someone could point me in the right direction that would be super helpful. 
+
+Really appreciate the help!

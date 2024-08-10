@@ -1,0 +1,6 @@
+I've trained a ML model on the PASCAL VOC dataset (2012) (train+val) to *classify* images in 20 classes.
+
+I'd like to submit my results on the test dataset to the evaluation server (http://host.robots.ox.ac.uk:8080/ ), but it's always offline (as is the dataset page, in fact i downloaded train+val &amp; test datasets from a mirror).
+
+Is there some dataset with the same label of the PASCAL dataset, or at least with compatible classes (eg: a lots of dog species that can be merged in a dog super-class) on which I can evaluate my results?
+

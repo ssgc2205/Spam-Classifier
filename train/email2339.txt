@@ -1,0 +1,21 @@
+I am browsing through FEMA's data, but am not sure which of the many available datasets would be best for helping calculate the economic impact of a hurricane.
+
+&amp;#x200B;
+
+From an NPR article, I know that "Hurricanes Katrina, Sandy, Harvey and Maria all caused between roughly $70 billion and $125 billion each in damages. That was in destroyed property, flood damage, businesses being suspended or even permanently closed in some cases." 
+
+&amp;#x200B;
+
+With this in mind, what datasets would you recommend for evaluating property damage, flood damages and businesses suspending or closing their operation?
+
+&amp;#x200B;
+
+I am currently considering using the following datasets:
+
+* [https://www.fema.gov/openfema-dataset-hazard-mitigation-assistance-mitigated-properties-v1](https://www.fema.gov/openfema-dataset-hazard-mitigation-assistance-mitigated-properties-v1)
+* [https://www.fema.gov/openfema-dataset-fema-web-disaster-summaries-v1](https://www.fema.gov/openfema-dataset-fema-web-disaster-summaries-v1)
+* [https://www.fema.gov/openfema-dataset-individual-assistance-housing-registrants-large-disasters-v1](https://www.fema.gov/openfema-dataset-individual-assistance-housing-registrants-large-disasters-v1)
+
+&amp;#x200B;
+
+Any input or feedback is much appreciated!

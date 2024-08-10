@@ -1,0 +1,15 @@
+Hello
+
+I am looking for datasets that contain information on nutrition &amp; food calories. However, I couldn't find one that includes food divided by calories.
+
+e.g. Apple includes X calories. Almond milk from a company A includes Y calories. 
+
+I found some websites, but not a comprehensive datasets.
+
+[https://fdc.nal.usda.gov/](https://fdc.nal.usda.gov/)
+
+[https://www.webmd.com/diet/healthtool-food-calorie-counter](https://www.webmd.com/diet/healthtool-food-calorie-counter)
+
+&amp;#x200B;
+
+Any help would be appreciated.

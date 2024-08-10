@@ -1,0 +1,3 @@
+Hello! I'm working on a group project for a data analytics course and my group is interested in running some analyses on infidelity data. We've found some good datasets but they seem extremely out of date (1970s/80s). We've searched the internet high and low for more recent datasets but haven't had any luck. Does anyone know of more recent infidelity datasets? 
+
+Thanks!

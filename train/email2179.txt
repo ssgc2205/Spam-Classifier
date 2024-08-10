@@ -1,0 +1,83 @@
+
+
+&gt;**TL;DR:** See datasets / example notebooks below 👇
+
+
+Hi Guys,
+
+I collected high frequency cryptocurrencies market data and uploaded them as.csv's to Kaggle. 
+They include over 4 years of data for some of the most traded coins.
+
+The datasets were collected using an automated collection pipeline that collected minute-by-minute market data for Cryptocurrencies and updated it every day to Kaggle!
+The whole project took me a lot of time to develop and is not easy to maintain, so please if you find this of value: Your feedback &amp; support is highly appreciated!
+
+This was mainly done for the cryptocurrencies forecasting competition that is currently in it's "frozen stage" where participants now watch their algorithms forecast the future and had not happen yet. (And hope for the best ;))
+
+
+## Trading Related Kaggle Notebooks
+
+Also, I also released **+20 example notebooks** that use the datasets for trading, each demonstrates a different approach for forecasting future returns.
+This project is also beginner-friendly since it is highly documented, this can serve as a "first stop" when studying Time Series analysis.
+
+
+## The Datasets:
+
+* [Bitcoin](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-bitcoin)
+* [Ethereum](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-ethereum)
+* [Binance Coin](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-binance-coin)
+* [Bitcoin Cash](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-bitcoin-cash)
+* [Cardano](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-cardano)
+* [Dogecoin](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-dogecoin)
+* [Eos.io](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-eos-io)
+* [Ethereum Classic](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-ethereum-classic)
+* [Iota](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-iota)
+* [Litecoin](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-litecoin)
+* [Monero](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-monero)
+* [Maker](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-maker)
+* [Stellar](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-stellar)
+* [TRON](https://www.kaggle.com/yamqwe/cryptocurrency-extra-data-tron)
+
+
+## Baselines &amp; Starter Notebooks
+
+|CV + Model|Hyperparam Optimization|Time Series Models|Feature Engineering|
+|:-|:-|:-|:-|
+|[Neural Network Starter](https://www.kaggle.com/yamqwe/purgedgrouptimeseries-cv-with-extra-data-nn)|[MLP + AE](https://www.kaggle.com/yamqwe/bottleneck-encoder-mlp-keras-tuner)|[LSTM](https://www.kaggle.com/yamqwe/time-series-modeling-lstm)|[Technical Analysis #1](https://www.kaggle.com/yamqwe/crypto-prediction-technical-analysis-features)|
+|[LightGBM Starter](https://www.kaggle.com/yamqwe/purgedgrouptimeseries-cv-with-extra-data-lgbm)|[LightGBM](https://www.kaggle.com/yamqwe/purged-time-series-cv-lightgbm-optuna)|[Wavenet](https://www.kaggle.com/yamqwe/time-series-modeling-wavenet)|[Technical Analysis #2](https://www.kaggle.com/yamqwe/crypto-prediction-technical-analysis-feats-2)|
+|[Catboost Starter](https://www.kaggle.com/yamqwe/purgedgrouptimeseries-cv-extra-data-catboost)|[Catboost](https://www.kaggle.com/yamqwe/purged-time-series-cv-catboost-gpu-optuna)|[Multivariate-Transformer \[written from scratch\]](https://www.kaggle.com/yamqwe/time-series-modeling-multivariate-transformer)|[Time Series Agg](https://www.kaggle.com/yamqwe/features-all-time-series-aggregations-ever)|
+|[XGBoost Starter](https://www.kaggle.com/yamqwe/xgb-extra-data)|[XGboost](https://www.kaggle.com/yamqwe/purged-time-series-cv-xgboost-gpu-optuna)|[N-BEATS](https://www.kaggle.com/yamqwe/crypto-forecasting-n-beats)|[Neutralization](https://www.kaggle.com/yamqwe/g-research-avoid-overfit-feature-neutralization/)|
+|[Supervised AE \[Janestreet 1st\]](https://www.kaggle.com/yamqwe/1st-place-of-jane-street-adapted-to-crypto)|[Supervised AE \[Janestreet 1st\]](https://www.kaggle.com/yamqwe/1st-place-of-jane-street-keras-tuner)|[DeepAR](https://www.kaggle.com/yamqwe/probabilistic-forecasting-deepar/)|⏳Target Engineering|
+|[Transformer)](https://www.kaggle.com/yamqwe/let-s-test-a-transformer)|[Transformer](https://www.kaggle.com/yamqwe/sh-tcoins-transformer-baseline)||⏳Quant's Volatility Features|
+|||||
+|[Reinforcement Learning (PPO) Starter](https://www.kaggle.com/yamqwe/g-research-reinforcement-learning-starter)|||⏳Wavelets|
+
+[About the validation: GroupTimeSeriesSplit](https://www.kaggle.com/yamqwe/let-s-talk-validation-grouptimeseriessplit)
+
+(⏳ - in the making..)
+
+Fork them as you please! Enjoy Yourself!
+
+## Technical details about the Data
+
+For every asset, the following fields from [Binance's official API endpoint for historical candlestick data](https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md#klinecandlestick-data) are collected, saved, and processed.
+
+1. timestamp - A timestamp for the minute covered by the row.
+2. Asset\_ID - An ID code for the cryptoasset.
+3. Count - The number of trades that took place this minute.
+4. Open - The USD price at the beginning of the minute.
+5. High - The highest USD price during the minute.
+6. Low - The lowest USD price during the minute.
+7. Close - The USD price at the end of the minute.
+8. Volume - The number of cryptoasset u units traded during the minute.
+9. VWAP - The volume-weighted average price for the minute. 10.Target - 15 minute residualized returns. See the 'Prediction and Evaluation section of this notebook for details of how the target is calculated.
+10. Weight - Weight, defined by the competition hosts [here](https://www.kaggle.com/cstein06/tutorial-to-the-g-research-crypto-competition)
+11. Asset\_Name - Human readable Asset name.
+
+**Indexing** The dataframe is indexed by `timestamp` and sorted from oldest to newest. The first row starts at the first timestamp available on the exchange, which is July 2017 for the longest-running pairs.
+
+
+&gt;**Bonus dataset:** I've also uploaded a dataset containing the most powerful source for predicting cryptocurrencies movement: Elon Musk's Twitter 😂! It is simply an updated dataset of all Elon Musk's tweets 😂. I must check if Elon Musk can help us win! 👌 You can play with it yourself [here](https://www.kaggle.com/yamqwe/elon-musks-twitter-updated-031121).
+
+
+Enjoy Yourself!
+And thank you in advance for your support! This was not an easy system to maintain!

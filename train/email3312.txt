@@ -1,0 +1,6 @@
+I'm working on a project that focuses on finding new use cases of AI in industry 4.0 I'm looking for dataset that can be used to build a prototype for any applied use cases like: 
+
+Quality control 
+Inventory
+Computer vision applications 
+Managing supply chain

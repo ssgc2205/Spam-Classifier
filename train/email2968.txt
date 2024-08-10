@@ -1,0 +1,1 @@
+I want to try my hand at making a classification model that will classify minerals based on metrics/properties associated with minerals. Been searching the internet for a while but have not been able to find a data set that I can use for training. Any suggestions?

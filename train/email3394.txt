@@ -1,0 +1,20 @@
+Disclaimer: I work for bit.io, where I've hosted the analysis-ready dataset. 
+
+I put a ton of work into cleaning up this dataset and have done several cool analyses with it. I want to share the data and I hope others will find interesting things to do with it.
+
+Here is an analysis-ready version of the United States Consumer Product Safety Commission's National Electronic Injury Surveillance System (NEISS) data from 2016-2020: https://l.bit.io/neiss-r
+
+The raw data can be found here: https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data/
+
+The bit.io repository also links to the R script used for cleaning the data. The major data cleaning steps involved merging multiple years of data (originally need to download year-by-year as excel files) and translating numerical codes to more descriptive values (e.g. injury type 67 to "Electric shock"). This involved quite a bit of careful alignment across years of data.
+
+Some key data characteristics:
+- More than 1.5M records of product-related injuries
+- Five complete years of data
+- Categorical columns indicating (1) which product(s) were involved in the injury; (2) which body part(s) were harmed; and (3) what the diagnosis was
+- Weights to extrapolate from individual records to nationally-representative estimates
+- Narrative summaries of each incident (I think there's a lot of potential for some kind of NLP project with these summaries).
+
+Projects I've done with the data so far (more self-promotion, and hopefully some inspiration):
+- [Local Outlier Factor Analysis with Scikit-Learn](https://l.bit.io/r-lof): includes a section applying outlier analysis to the NEISS data and concludes that holidays are outlier in terms of patterns of injuries (July 4 Fireworks).
+- [Independence Day is the Most Dangerous Holiday](https://l.bit.io/independence-r): A holiday-themed analysis of injury data comparing holidays to determine which is the most dangerous and why (hint: fireworks).

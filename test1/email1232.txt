@@ -1,0 +1,3 @@
+The amount of votes tend to decrease as the level of the comment lowers, so top-level comments tend to have the highest score, and replies less so.
+
+It'd be awesome if somebody could represent this trend visually, and pretty interesting as well.

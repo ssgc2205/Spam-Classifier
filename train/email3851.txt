@@ -1,0 +1,5 @@
+Hey there,
+
+so for the ESA there is this beautiful [page](https://eumetview.eumetsat.int/static-images/latestImages.html) where one can find static links to the latest images at 0° and 41.5°. 
+
+Is there anything similar for NASA images for North / South America?

@@ -1,0 +1,14 @@
+ 
+
+Hello All,
+
+I hope you can help me out here. I am looking for some sort of data set for the assessment test for newly appointed IT Analyst that we will interview on Friday.  
+We would like to ask them to complete some data analysis and present the result. This would test their Excel Skills like vlookups, pivottable, formulas, creating charts
+
+I could prepare something from my WMS but one of the candidates is internal and that would be unfair for the rest applicants.
+
+Do you have something you can share that you used before or any idea what this could be?
+
+Thanks
+
+aberforth

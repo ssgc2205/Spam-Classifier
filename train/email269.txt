@@ -1,0 +1,1 @@
+I have had a look at all the available dataset here on Reddit and on Kaggle, but I couldn't find any dataset including movie reviews and the associated movie's plot (i.e. storyline). I don't necessarily need also the rating, but it would be a plus! Do you have any suggestions?

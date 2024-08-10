@@ -1,0 +1,5 @@
+Pretty much the title, I am looking for datasets where people rate each other based on some services exchanged. But more critically, it would be awesome if there are multiple interactions between any given pair of individuals X,Y.
+
+So, I guess that would rule out the like of Uber/Airbnb where with the number of participants so high, repeated transactions between a single pair are less likely.
+
+Any pointers would be really helpful.

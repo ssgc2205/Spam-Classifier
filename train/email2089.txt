@@ -1,0 +1,1 @@
+Specifically, patient demographics, prognosis, treatments, labs, outcomes, etc.

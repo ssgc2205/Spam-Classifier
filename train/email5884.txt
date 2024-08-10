@@ -1,0 +1,5 @@
+Breast cancer Coimbra: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra
+
+Does anyone know datasets that are similar to this but larger? This one is quite small.
+
+I've been quite interested in analysing results of blood tests so if anyone knows of related datasets please let me know, I'd really appreciate it :D

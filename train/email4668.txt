@@ -1,0 +1,5 @@
+This is to inform software being written for open-source machines with linear motion functionality. The machines are novel in that they allow for arbitrary displacement over time, and are not locked into a specific stroke length. (Ie, both displacement and speed are variable during use.)
+
+One company has analyzed NSFW videos to [determine motions seen during oral sex.](https://autoblow.com/bjpaper/) While this may be a promising approach to get some data, it's not ideal, both for the amount of labor involved and the accuracy of the data being collected.
+
+This data may not exist anywhere, but figured I'd go fishing and see what might be out there.

@@ -1,0 +1,11 @@
+Hi y'all;
+
+I'm looking at the Reddit public datasets on BigQuery and I can't seem to find data for the following (even though columns exist for them):
+
+\- Downvotes
+
+\- Quarantined
+
+&amp;#x200B;
+
+Any thoughts?

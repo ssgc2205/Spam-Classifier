@@ -1,0 +1,6 @@
+Hello all!
+
+I would like to ask if anyone knows any data set publicly available, which is a good case for a data integration exercise. Ideally I would like something that exists in more than one formats in any domain.  
+For example in tourism industry we may have a dataset with the Hotels in Germany provided in a csv file and the hotels in Italy provided via an API.  
+The idea is, that the participant will get the datasets from their respective sources, unify and prepare them for some data science tasks (e.g descriptive analytics).  
+Thank you!

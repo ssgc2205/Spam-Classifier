@@ -1,0 +1,16 @@
+Hey
+
+Looking for a dataset of actors who have starred in remakes of other movies.
+
+The dataset I am looking for would have information of -
+
+- name of actor in the remake 
+-  name of movie (remake) 
+-  name of the actor in the original movie 
+- name of the original movie
+
+Preferably Hollywood.
+
+I am aware of IMDB dataset, though I don't know how to filter the entire dataset just for movie remakes.
+
+Any ideas?

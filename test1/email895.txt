@@ -1,0 +1,1 @@
+Folks, I'm working on company name standardization process hence I may require a cleansed source/dataset that has company name, address, city, country, hierarchy details etc. Suggestions welcome

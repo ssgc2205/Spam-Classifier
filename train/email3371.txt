@@ -1,0 +1,7 @@
+Hey guys,
+
+I'll keep it brief to save you time but I've recently lost a diabetic family member to a pressure ulcer that wouldn't get better and want to do a research project on the matter. No reason for it other than personal fulfillment I guess.
+
+The question for yall would be where would I start gathering data from? Some deep diving on google searches lead me to find some quality measures data from the Home Health care setting, where should I be looking? I'm familiar with working with python and web crawlers to gather data before in highschool if that helps in any way.
+
+Thank you for your time.

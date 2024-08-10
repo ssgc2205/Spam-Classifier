@@ -1,0 +1,17 @@
+Hi r/datasets,
+
+Starting December, we ran a $25,000 data bounty to wrangle US Presidential Precinct-level results. The bounty ended yesterday. We think we have created the best open US Election precinct level database.
+
+https://www.dolthub.com/repositories/dolthub/us-president-precinct-results
+
+Here are some of the highlights:
+
+* 15.5M cells edited. 1.7GB of data collected
+* [All 51 "states" covered for 2016](https://www.dolthub.com/repositories/dolthub/us-president-precinct-results/query/master?q=SELECT+COUNT%28distinct%28state%29%29%0AFROM+%60vote_tallies%60+where+election_year%3D2016%0ALIMIT+200%3B%0A%0A%0A%0A%0A%0A%0A&amp;active=Tables). [38 states covered for 2020](https://www.dolthub.com/repositories/dolthub/us-president-precinct-results/query/master?q=SELECT+COUNT%28distinct%28state%29%29%0AFROM+%60vote_tallies%60+where+election_year%3D2020%0ALIMIT+200%3B%0A%0A%0A%0A%0A%0A%0A&amp;active=Tables). 
+* [100% of the vote covered for 2016](https://www.dolthub.com/repositories/dolthub/us-president-precinct-results/query/master?q=SELECT+sum%28votes%29%2F136669276%0AFROM+%60vote_tallies%60+where+election_year%3D2016%0ALIMIT+200%3B%0A%0A%0A%0A%0A%0A%0A&amp;active=Tables). [78% for 2020](https://www.dolthub.com/repositories/dolthub/us-president-precinct-results/query/master?q=SELECT+sum%28votes%29%2F159633396%0AFROM+%60vote_tallies%60+where+election_year%3D2020%0ALIMIT+200%3B%0A%0A%0A%0A%0A%0A%0A&amp;active=Tables).
+* 75 Pull Requests (PRs) accepted across 6 bounty participants. 
+* Top bounty participant earned over $10,000.
+
+Read more in our blog about it: 
+
+https://www.dolthub.com/blog/2021-02-15-election-bounty-review/

@@ -1,0 +1,1 @@
+I am working with the SAT dataset into the faraway library, and I am thinking that the results I am obtaining are not true in the best of the cases, because they are not considering the fact that in some states the SAT was mandatory for all the students.

@@ -1,0 +1,3 @@
+I see figures for severe cases on sites such as Our World in Data but it’s not clear what the definition is and how the data is sourced. 
+
+Do hospitals or states publish these figures?

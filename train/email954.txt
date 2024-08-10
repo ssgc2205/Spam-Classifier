@@ -1,0 +1,1 @@
+Not sure if this post fits the sub, but here it goes. I’m looking at a dataset and want to find the turn-around-time (TAT) that 90% of my sample or population completed in. I have the TAT for each record already, but looking for the formula to find the TAT of 90% of n. Thank you!

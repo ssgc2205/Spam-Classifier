@@ -1,0 +1,3 @@
+Hi all, 
+
+Are the polling data that are used by fivethirtyeight and other sites publicly available? I'd like to do an analysis on polling by district vs. actual results. Thanks in advance!

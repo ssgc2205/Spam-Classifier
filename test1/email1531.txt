@@ -1,0 +1,4 @@
+The site Basketball Monster has a tool called "[usage monster](https://basketballmonster.com/usagemonster.aspx)" where you can see how many minutes a player is active and then gives a percentage breakdown of their activity at each position (such as Kevin Huerter playing 1%, 73%, and 25% at the PG/SG/SF). I do not know where this data would be sourced from (I don't know that they're an NBA affiliate or anything), so my biggest question would be where to find it. I have the play by play data for the last season, but positional breakdown is not included. 
+
+
+Additionally (and likely easier to source), I would like the height and weight of NBA players. The majority of data sets I find are not maintained and thus the data is out of date. Is there a dataset (as opposed to scraping basketball-reference) with this information that's updated through last season?

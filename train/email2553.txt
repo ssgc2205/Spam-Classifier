@@ -1,0 +1,30 @@
+We took the top 100 business / entrepreneurship podcasts, transcribed them, and ran them through an NLP algorithm (AWS Comprehend for now, looking to build our own in the future). 
+
+This dataset is for 7/12/20-7/18/20 (last week Sat - Sun)
+
+The synthesized data is in Airtable 
+
+[https://airtable.com/shr6hOa7qoTpKi0ue](https://airtable.com/shr6hOa7qoTpKi0ue)
+
+&amp;#x200B;
+
+It categorizes key phrases of the audio transcripts into 9 different categories:		
+
+|COMMERCIAL\_ITEM|A branded product|
+|:-|:-|
+|DATE|A full date (for example, 11/25/2017), day (Tuesday), month (May), or time (8:30 a.m.)|
+|EVENT|An event, such as a festival, concert, election, etc.|
+|LOCATION|A specific location, such as a country, city, lake, building, etc.|
+|ORGANIZATION|Large organizations, such as a government, company, religion, sports team, etc. |
+|OTHER|Entities that don't fit into any of the other entity categories|
+|PERSON|Individuals, groups of people, nicknames, fictional characters|
+|QUANTITY|A quantified amount, such as currency, percentages, numbers, bytes, etc.|
+|TITLE|An official name given to any creation or creative work, such as movies, books, songs, etc.|
+
+&amp;#x200B;
+
+Each of the topics has the top 20 results, except in the few cases where we removed duplicates (It counted Instagram and instagram as two different topics for example). This avoids the really long tails of single keyword mentions. 
+
+The "Top 100" comes from Chartable's top 100 podcasts for the business / entrepreneurship category based on the apple podcast data out of the U.S. 
+
+If this is interesting/cool/valuable for this sub I can post a new one here each week. What other categories do you think would be cool to do? I like the idea of financial news to add to trading algorithms but would be curious what comes to mind.

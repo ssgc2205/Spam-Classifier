@@ -1,0 +1,7 @@
+I was wondering if there is a open dataset for workouts. Not each individual exercise, but a workout for each situation like a beginner who is trying to run should use this workout? 
+
+I see all these apps online using having a set of workouts, but I have no idea where they get it from. 
+
+I don't want to data scrape a website because of the legal issues for using it for commercial purposes. 
+
+Any advice on how to move forward with this?

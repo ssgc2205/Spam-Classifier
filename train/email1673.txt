@@ -1,0 +1,7 @@
+I've got Northern Ireland's 2011 census data. There are 45 CSVs containing data for roughly 4500 small areas that cover the region. The data is what I would consider crosstab format. [Here](https://imgur.com/a/dIop4) are two examples of how of the CSVs are formatted. Also note that in addition to the raw count column there is also a percent column for each variable.
+
+I'm interested in mapping this data, particularly to see relationships between religious identification and other demographic characteristics. I have a shapefile and have been able to load some of this into Tableau successfully but I'm really not sure how to proceed. I feel like the most obvious, simplest solution would just be to join all of this together by area ID but I don't know if that's appropriate. I have the nagging suspicion that this data needs to be taller and shouldn't be in crosstab format but I have no idea how to restructure something with so many variables. It gets dizzyingly complex.
+
+Any tips? I know a little R so if that would be a help I can dig in there.
+
+Edit: replaced links with screenshots

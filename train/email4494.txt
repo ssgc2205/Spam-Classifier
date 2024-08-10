@@ -1,0 +1,4 @@
+It's hard to know what's true or not lately, with people's agendas spurring sensational ideas through dangerous misinformation. I'm a senior computer engineering college student building a web app (small but running successfully) with a focus on statistical cognizance for the public, using engaging style and having no paywall.
+
+
+I'm currently focused on locating good data sources—from economics, to science, to politics—and I'm wondering if y'all in this community would recommend any websites or specific pages in general; for example census.gov's economic census data over the years, which I may present with an emphasis on wealth inequality. Some general good tips for building a data app would be appreciated too! Feel free to check out the beginnings of this if you'd be interested in collaborating: https://github.com/jackalakalaka/data-viz

@@ -1,0 +1,5 @@
+Statistics such as PPG, RPG, TS%, etc in college as well as general stats like age, height, and wingspan are often used to predict future NBA success and I have an idea for a model that incorporates a few more variables into the mix for potentially better accuracy. Gathering these college statistics is very difficult due to the sheer number of college basketball players relevant to the how many of these players are drafted. The website with the college statistics (Sports Reference) bans web scraping as it has slowed down their site too much. However, some have already built a dataset of these statistics. An example is given below.
+
+[https://www.thestepien.com/2018/05/15/college-basketball-draft-model-starter-kit-database/](https://www.thestepien.com/2018/05/15/college-basketball-draft-model-starter-kit-database/)
+
+I've tried to get in contact with the author but his online presence has vanished. So now I will ask here, does anyone have an available dataset of statistics pre-NBA for players who entered the NBA Draft?

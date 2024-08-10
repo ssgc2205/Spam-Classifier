@@ -1,0 +1,8 @@
+Hey,
+
+I'm a CS student, and I have a homework in which I have to analyse an irregular / unevenly spaced time series.
+I've only been able to find the Missing Migrants set, but it's not ideal to demonstrate a trend or seasonality.
+
+Do you know any irregular time series I could use?
+
+Thanks in advance!

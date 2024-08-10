@@ -1,0 +1,12 @@
+Interested in the following data for every year as far back as I can get (United States based):
+
+* Federal Minimum Wage
+* Average Income
+* Average CEO Income
+* "Yearly Salary" of richest person in United States, where yearly salary is how much income they make in a year.
+
+I want to adjust for inflation all these numbers and see the comparison. My end goal is to compare it to average cost of living, cost of average house, and cost of college in the United States.
+
+The reason for this is I've never seen this data visualized in one place. Its generally agreed that costs are going up, but  income isn't rising at the same rate in the United States. But I think I need to take this data and visualize it so that I can see for myself.
+
+I might not end up doing anything with this data, but its gnawing at me.

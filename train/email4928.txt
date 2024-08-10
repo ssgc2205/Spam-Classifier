@@ -1,0 +1,3 @@
+Hi guys, I'm looking for a car dataset ie. Manufacturer, Model Type, Year, Fuel Type and Transmission etc...
+
+Can anyone tell me where to find such dataset or what I have to do to obtain/buy this type of data?

@@ -1,0 +1,11 @@
+Hi! I am looking for some dataset which looks like Instacart. I need products and carts/busket they were in.
+
+&amp;#x200B;
+
+Here are some instacart dataset links:
+
+[https://www.kaggle.com/serigne/instacart-simple-data-exploration](https://www.kaggle.com/serigne/instacart-simple-data-exploration)
+
+[https://www.kaggle.com/c/instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)
+
+[https://www.instacart.com/datasets/grocery-shopping-2017](https://www.instacart.com/datasets/grocery-shopping-2017)

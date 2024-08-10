@@ -1,0 +1,5 @@
+Hey guys,
+
+does anybody have a dataset for aircraft price. It doesn't matter of used or new onces. I have just a dataset with small aircraft, like c172 or piper... But I need a price/cost dataset with large airplanes like 747, 787 or older aircraft types. 
+
+If anybody can help me find remotely similar it would be a huge help. Thank you!

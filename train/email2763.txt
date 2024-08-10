@@ -1,0 +1,2 @@
+Looking for data on Texas Holdem that has player’s initial 2 card hand and if they win. I’m trying to find the win percentage of initial hands. 
+Thanks

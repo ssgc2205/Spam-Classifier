@@ -1,0 +1,3 @@
+Is there any software that will take an image of a map (for example a print screen of a google maps map with marked points on it) and translate this into map data that can be exported?
+
+For example: a print screen of a map with petrol stations in Texas shown in it, into a data file with the petrol station mapped coordinates. Want to make sure this doesn't exist already before I commit to writing my own version in Python, I guess.

@@ -1,0 +1,3 @@
+I want to do a Datascience project on failed retail store locations. My idea is to get a list of all active retail store locations for a specific, large chain (e.g. Starbuck, Marks &amp; Spencer, etc') and a list of all of their historical locations (all stores they ever opened), then mark the difference as "closed"/failed stores. Even better would be some dataset with store level performance (i.e annual sales) but I can't find that. I need real world location (latLong is best), so anonymized data like Kaggle's Rossman store sales doesn't cut it. 
+
+Any advice? I found datasets for all existing store locations (for, e.g. Starbucks), but nothing about historical locations (scraping wouldn't help for that. Ideally i'd love an existing dataset, not scraping). 

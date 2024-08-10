@@ -1,0 +1,2 @@
+I want to work with this dataset using google colab, but all files in zip is in DLL format.  
+[https://www.himalayandatabase.com/downloads.html](https://www.himalayandatabase.com/downloads.html)

@@ -1,0 +1,4 @@
+I am working on a project and would like to get a free stream of data that contains geolocated data.  Its for a research project, so I'm more interested in the geo info than the rest.    
+
+
+I found a few sources (earthquake info..etc) but they don't have the volume I'm looking for.  I used flightradar24 a long time ago but that's no longer free.

@@ -1,0 +1,7 @@
+Hi r/datasets,
+
+I'm looking for a (preferably public access) dataset for computer processes, so time started, stopped, memory usage / allocation, process ID (if one exists) etc. I've had a look through UCI and a few other places, but no such luck. Does anyone know of a good resource site I might have missed, or happen to have the above data themselves?
+
+It is for an academic project, so if need be I can use an academic email address to make a request for the data from an organization (like CAIDA).
+
+Thanks all.

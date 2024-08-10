@@ -1,0 +1,7 @@
+Hello everyone!
+
+I'm currently on a project where I need to build a Chatbot in French.
+
+I've looked online, and I didn't find a dialog or conversations dataset big enough that I can use.
+
+Any help or just an advice is welcome.

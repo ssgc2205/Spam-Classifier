@@ -1,0 +1,9 @@
+Hey there, 
+
+I work for a charity and we are wanting to look at data for shootings in america. 
+
+We found one API for mass shootings but we would like ALL gun crime and also the api to be filterable by date period. So we can gets stats for 2011/12/13/14 etc...
+
+As we are based in England we are not sure if there are any government or public knowledge ones. 
+
+Please help..

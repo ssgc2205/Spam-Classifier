@@ -1,0 +1,9 @@
+I'm just finishing up a project this summer and put together this dog breed dataset. Doesn't exist anywhere online and AKC's site makes it hard to extract the info so I figured I'd make it public.
+
+Essentially it just categorizes all the AKC dog breeds into 5 breed size categories (xs, s, m, l, xl). I also added the average weight of each breed into the file.
+
+Hope someone finds it useful so that they don't have to rip their hair out trying to find this info.
+
+Here's the link:
+
+[https://github.com/MeganSorenson/American-Kennel-Club-Breeds-by-Size-Dataset](https://github.com/MeganSorenson/American-Kennel-Club-Breeds-by-Size-Dataset)

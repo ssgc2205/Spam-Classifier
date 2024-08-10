@@ -1,0 +1,4 @@
+Hello!
+I am looking for real data for multivariate analysis with R (regression,decision tree,claster,component,logistic regression,etc).
+
+I really tried all those free dataset libraries you linked here but i just can't find a simple dataset with 6-9 attributes to do these kind of analysis. I already tried those datasets from the libraries, i am looking for online datasets to import them to R and make some reports to practice.

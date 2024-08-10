@@ -1,0 +1,9 @@
+Open Elections is an exciting source of election data, but having the data spread across per state repository and directory per cycle makes it hard to consume. Also CSVs do not provide type safety. We built a Dolt dataset using the precinct level voting totals (almost) nationwide. Would be great to get contributions from those interested.
+
+Also, Open Elections is awesome and folks should contribute to the valuable work they are doing!
+
+&amp;#x200B;
+
+[https://www.dolthub.com/blog/2020-07-01-open-elections/](https://www.dolthub.com/blog/2020-07-01-open-elections/)
+
+[https://www.dolthub.com/repositories/open-elections/voting-data](https://www.dolthub.com/repositories/open-elections/voting-data)

@@ -1,0 +1,5 @@
+As the title says, I'm looking for datasets that contain job postings from the past few years till present. The data can be from job boards such as indeed, monster, ziprecruiter etc. 
+
+Anyone know where I can get this data from? Is this something the commoncrawl would have? Any other sources or leads would be appreciated. 
+
+P.S. I had a look at datashop, they only have very recent data and nothing before one or two years.

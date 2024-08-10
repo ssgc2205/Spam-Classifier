@@ -1,0 +1,6 @@
+Looking for a datasets that contain help desk type information, specifically details such as: 
+Response time. 
+Ticket Open/close status.
+Problem reported and solutions. 
+
+Looking to do some root cause analysis and knowledge management.

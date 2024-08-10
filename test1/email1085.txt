@@ -1,0 +1,1 @@
+You can find the data [here](https://www.kaggle.com/sagunsh/fifa-20-complete-player-dataset) and the scraping code [here](https://github.com/sagunsh/sofifa)

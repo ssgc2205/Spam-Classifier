@@ -1,0 +1,3 @@
+I want to provide autocomplete suggestions in technical domains. E.g. if I write block, I want suggestions such as block cipher. Does a dataset for this exist?
+
+On Kaggle there is "Wikipedia Article Titles" which could be a suitable starter but was wondering if there is anything more refined.

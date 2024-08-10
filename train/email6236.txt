@@ -1,0 +1,1 @@
+Haven't been able to find any data set that are mapped to the person being measured. Wish to use it for training convolutional neural net for getting body measurements.

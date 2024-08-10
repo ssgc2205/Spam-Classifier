@@ -1,0 +1,1 @@
+More specifically, a dataset that models friendships as edges and users as nodes.

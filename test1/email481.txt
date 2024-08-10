@@ -1,0 +1,1 @@
+I have an ACS datasheet showing 2010 through 2018 population estimates for all metro and micropolitan statistical areas (MSAs) in the US. I also have a list of about 250 complete street addresses. Does anyone know a lookup table or some other tool through which I could determine which MSA each of the addresses is located within?

@@ -1,0 +1,7 @@
+I’m an absolute beginner and I’m being asked to find a research topic for a college course on data analysis using Excel. 
+
+One subject I’m interested in is vaccine refusal in wealthy countries, specifically the US, but could be anywhere if the dataset is good and bountiful. 
+
+I’m finding lots of data on world vaccination rates but not data that can specifically tell me about vaccine refusal and it’s effects. 
+
+If anyone has any thoughts to share or would like to direct me to some data on this, I’ll be eternally grateful.

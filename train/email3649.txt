@@ -1,0 +1,7 @@
+As part of my Master's thesis, I was to work on a few novel research topics. The core idea behind it was to train modified sparse versions of RNN, LSTM, and GRU for sequence learning purposes. While doing the research, I found out that [the paper that introduced LSTM](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) worked on Reber Grammar Sequences, and realized this would be a good dataset to work with.
+
+However, I could not find a dataset of Reber sequences, and therefore, I went on to create one for my thesis. I successfully defended my Master's thesis with very good grades, and therefore, now I am free to make this dataset public.
+
+I have uploaded the dataset on Kaggle at: [https://www.kaggle.com/harshildarji/reber](https://www.kaggle.com/harshildarji/reber)
+
+Its corresponding visualizations are at: [https://www.kaggle.com/harshildarji/about-reber](https://www.kaggle.com/harshildarji/about-reber)

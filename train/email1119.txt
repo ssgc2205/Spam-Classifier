@@ -1,0 +1,5 @@
+I've seen some of the new sites showing pm2.5 levels for major asian cities but I haven't been able to find anywhere to download datasets of that information.  I was thinking that it would be kind of cool to see if there are annual trends, or how certain cities rate against one another at certain times of the year, or any annual increases/decreases.
+
+Any help or pointers to datasets would be appreciated.
+
+Thanks in advance.

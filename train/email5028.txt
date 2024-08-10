@@ -1,0 +1,5 @@
+Hey guys!  I'm doing a linguistics research project on violent language change over time in sports commentary and I'm wondering if there any sports corpora out there you might suggest.
+
+Specifically, I'm looking for NFL, MLB, and NBA.  But if you have any others from say boxing, UFC, or whatever else that would be helpful too.  
+
+Any help would be great, thanks guys!

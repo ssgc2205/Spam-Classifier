@@ -1,0 +1,14 @@
+Hi,  
+
+
+I'm looking for a dataset which includes neutral tweets, to be used during training of a naive bayes classifier. So far I have found the Sentiment140 dataset which includes 1.6 million tweets (800 000 positive/negative). I would like to have a third sentiment, for neutral tweets. 
+
+&amp;#x200B;
+
+Do anyone know where I can find such dataset? I found T4SA dataset but unfortunately you need a password to download the dataset.
+
+&amp;#x200B;
+
+Much appreciated,
+
+Nowarez

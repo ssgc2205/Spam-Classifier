@@ -1,0 +1,5 @@
+The dataset contains more than 1 million meticulously cleaned up and preprocessed recipe ingredient lists.
+
+[**Download**, more information and **original sources and credits**](https://dominikschmidt.xyz/simplified-recipes-1M/)
+
+[I also trained a neural network on this dataset to improve existing recipes, **see the results here.**](https://dominikschmidt.xyz/recipe-net/)

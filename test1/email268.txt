@@ -1,0 +1,1 @@
+Hey guys, can anyone share datasets needed for face anti spoofing/ face liveliness detection. Such as MSU, CASIA-FASD , CASIA-SURF or Replay Attack,

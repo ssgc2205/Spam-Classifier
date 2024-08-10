@@ -1,0 +1,3 @@
+Hey,
+
+I need to simulate some multi-word search queries, and was hoping to find a dataset that I could use. I don't need detailed per-user or per-session logs; just the overall distribution of terms. I don't want to use the AOL dataset because I need to submit the work and I think there may be an ethics objection to that. Does anyone know of a good dataset? Doesn't need to be huge, but  ideally not too domain specific.

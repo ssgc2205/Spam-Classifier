@@ -1,0 +1,11 @@
+Hi r/datasets,
+
+I am working on a research to cluster Asian languages based on just the numerals of the language. I searched and could not find databases of some languages. If anyone has an idea where I can find the handwritten numeral dataset? TIA
+
+* Thai
+* Malayalam
+* Burmese
+* Gujarati
+* Chinese
+* Japanese
+* Tamil

@@ -1,0 +1,1 @@
+I am doing a project and I am looking for all of the arrivals and departures (flights) for at least the past three weeks (globally), if anyone knows of a free database or API that is available.

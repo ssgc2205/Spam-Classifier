@@ -1,0 +1,4 @@
+Hello everyone, i hope you are doing well.
+I have a collected dataset ( telecom equipment images ). And i need to clean them and extract information about the dataset. 
+Quality control, statistics about them. So could you help me with articles or adviced to better prepare the data cleaning. 
+Thanks in advance.

@@ -1,0 +1,16 @@
+I am having a difficult time finding a dataset with the following data points:
+
+* Part Number (more than 10 Part Numbers)
+* Defect Quantity
+* Defect Reported On (Date)
+
+Bonus data points:
+
+* Defect Responsible (Supplier or Production)
+* Supplier Name (if Supplier Responsible)
+
+Ideally the analysis is identify future part defects based upon historical data, so data based on more than a year would be great. I tried looking in Kaggle, and they have the Bosch dataset which doesn't met the needs for my request. 
+
+Any support is appreciated. If you are able to find me the dataset that meets my request, I don't mind gifting a $20 Amazon card for this trade. 
+
+Thank you in advance!

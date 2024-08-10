@@ -1,0 +1,1 @@
+I am trying to use the Yahoo Answer archives on the internet archive ([https://archive.org/details/archiveteam\_yahooanswers](https://archive.org/details/archiveteam_yahooanswers)) to create a question-answer dataset. I'm confused by the file structure and don't know what exactly to download to get the question-answers. Can someone help?

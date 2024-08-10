@@ -1,0 +1,6 @@
+Hi,everyone.  
+For my thesis work I need general ledger (list of all company’s accounting transcations happened during the reporting year).  
+Does anyone know where I can get one?  
+I know that I can generate one using 'Generate Data' website but it is hassle to be honest.
+
+Thanks!

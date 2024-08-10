@@ -1,0 +1,7 @@
+Hi All,
+
+I have some ~2,000,000 addresses in the UK that I need to geocode. Rather than pay a bulk geocoder I am looking for a spatial dataset that I can use to geocode the addresses to Lat/Lng points. 
+
+Ideally right down to the house number, but street-level resolution could be ok, 
+
+Anybody know of datasets available?

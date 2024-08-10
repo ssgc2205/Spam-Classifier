@@ -1,0 +1,3 @@
+Does anybody know of any website where I can find data sets that include whether a website is malicious or benign. I am looking for one in which external variables including URL\-length, character set, number of special characters, etc. I have linked an example which I have already explored. 
+
+[https://www.kaggle.com/lsingh4/malicious\-and\-benign\-websites/data](https://www.kaggle.com/lsingh4/malicious-and-benign-websites/data)

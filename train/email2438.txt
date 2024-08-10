@@ -1,0 +1,7 @@
+i want to create a chatbot for which i dumped with lots of data in the form of question and answer only.
+
+eg(**Q.**Shall be Facilitation Centre(FC) remain open on Sunday's and Holiday?
+
+***Ans :****All FCs shall remain open on all days including holidays and Sundays during 10.00 am to 5.00 p.m. during scheduled period only.*) 
+
+so how do i create a dataset in the form of csv or json. Is there a tool to do that or manually. 

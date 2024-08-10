@@ -1,0 +1,5 @@
+I am trying to create a website to correlate information about companies versus their stock prices for a class project. To do that, we need individual information about the S&amp;P 500 such as their sector, HQ location, # employees, etc. After looking online, I couldn't find anything free to use. The best equivalent I found is the LinkedIn API, but that requires that your users go through an OAuth2 portal to scrape anything. Does anyone have any recommendations?
+
+&amp;#x200B;
+
+I looked at some older posts which asked for similar requirements here and didn't find anything:  [https://www.reddit.com/r/SecurityAnalysis/comments/1js4er/free\_api\_to\_access\_fundamental\_company\_data/](https://www.reddit.com/r/SecurityAnalysis/comments/1js4er/free_api_to_access_fundamental_company_data/)  [https://www.reddit.com/r/datasets/comments/2fppfa/request\_apis\_for\_company\_information/](https://www.reddit.com/r/datasets/comments/2fppfa/request_apis_for_company_information/)

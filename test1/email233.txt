@@ -1,0 +1,17 @@
+Hello. I previously have found a site that sells spatial data. Package costs around $100, but I forgot the website and cant find it anymore (even in my browsing history).
+
+I hope you could help me find it. Here's a description on what I can recall:
+
+\-They sell spatial data (includes airways, buildings, households)
+
+\-They sell each data based on country and category. You may check the checkboxes of your choice.
+
+Example: i want household and buildings in Iceland, so I will pick Iceland then check only household and buildings checkboxes, and the price will update accordingly.
+
+\-They provide sample data ( I got sample data from a region in Iceland, I just cant find the file anymore)
+
+I hope somebody could help me find the website. Been searching for hours, and I really need it.
+
+If I really cannot find it, perhaps other cheap source of somewhat reliable dataset would definitely help.
+
+Thank you in advance. :)

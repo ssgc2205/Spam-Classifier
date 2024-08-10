@@ -1,0 +1,1 @@
+I'm trying to find a table of charities that includes their ratings (e.g., Charity Navigator's Stars), or at least variables that I can operate on to create my own ratings.

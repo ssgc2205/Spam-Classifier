@@ -1,0 +1,1 @@
+Is there some data set on book purchases in the US based on location?  I have in mind, for example, a heat map that would show the purchases on Amazon or from a publisher of particular books per 100,000 people by county.

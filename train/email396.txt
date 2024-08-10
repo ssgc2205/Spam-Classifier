@@ -1,0 +1,3 @@
+Looking for datasets that include all arriving and departing flights from the airports surrounding Southern California (LAX, SNA, ONT, BUR, SD, etc.)
+
+Information can also include flight pricing, airline carriers, flight duration, month/year, flight capacities.

@@ -1,0 +1,1 @@
+Are there any really good datasets for law firms in America? I'd love it if there was a dataset out there that had firmographic data like amount of law firms, size of firms, and practice area. Does the American Bar Association or someone else have something like that? I've been looking but haven't found anything really good so far.

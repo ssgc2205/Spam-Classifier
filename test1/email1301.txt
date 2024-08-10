@@ -1,0 +1,9 @@
+# New dataset released from DataverseNO
+
+ Lewandowski, Wojciech, 2018, "Replication data for: The Spanish completive reflexive: Idiosyncratic, motivated or both?", [https://doi.org/10.18710/4QHOBK](https://doi.org/10.18710/4QHOBK), DataverseNO, V1, UNF:6:tokJXAhE3MEy0uanXSF5aQ== \[fileUNF\] 
+
+&amp;#x200B;
+
+**Description**:
+
+Many researchers seem to think that construction grammar posits the existence of just wholly idiosyncratic constructions or form-meaning pairings. However, this idea demonstrates a deep misunderstanding of the approach, since constructions rarely emerge sui generis. Rather, construction grammar aims to balance the fact that some linguistic uses cannot be fully predicted from other well-established uses, with the fact that extensions of a construction, while not predictable, are motivated by other senses in the constructional network. This study illustrates this tenet of constructional approaches to language by providing an analysis of the Spanish completive reflexive marker se. In order to identify the different senses of the completive se-construction I used data from the Spanish corpus CREA (Corpus de Referencia del Español Actual, http://corpus.rae.es/creanet.html). Given the large size of the corpus (200 million words), the frequency search—which is merely indicative—was arbitrarily limited to constructions in which the verb appeared in 3rd person singular and was directly followed by a direct object headed by the determined articles el ‘the’ (masculine) or la ‘the’ (feminine) in singular. The data set includes all the instances of the completive reflexive found in the sample described above. (2018-10-17) 

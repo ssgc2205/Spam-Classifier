@@ -1,0 +1,1 @@
+ Hi all, I'm trying to find a data set for a graduation project that  includes physical activity or nutrition plans recommendations according  to users according to their personal information like sex, weight,  height, pregnant or not, etc.., or just according to bmi will be fine too, if anyone can help my with that I would  be really thankful

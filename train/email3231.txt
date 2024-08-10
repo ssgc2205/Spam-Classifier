@@ -1,0 +1,8 @@
+Hello,
+
+&amp;#x200B;
+
+I am looking for a Data Set to work with university students to introduce "Data Mining with R". It will be a presentation where the students should do a quick and easy assignment in R to get results on this Data Set. They will not have any R experience other than a quick introduction from myself.  
+I thought about something visual like a world map with colors or something. The students should see some visualizations and it should look cool. Couldn't really find a lot googling.
+
+Thank you for your ideas!

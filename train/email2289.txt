@@ -1,0 +1,17 @@
+I am happy to announce that I finally finished cleaning, organizing creating baselines, and uploading the first version of the **Massive 33 datasets collection of** [**Openpsychometrics**](https://openpsychometrics.org/)
+
+The whole project took me around two weeks to clean and organize (way more than I planned) so please if you find this of value:  Your feedback &amp; support is highly appreciated!
+
+**Why would you want to work on them?**
+
+* **Small** \- Size is similar to titanic.
+* **Clean** \- Someone on this cleaned them a lot!
+* **Intuitive** \- You see what was the question. You see what the individual answered. Nothing more. Nothing less.
+* **Funny &amp; Fun to work with** \- Questions like Would you rather own a gun or do the dishes?
+* **Has the prettiest starter notebooks you have ever seen in your life**Seriously. I invested an embarrassingly amount of time on the basline notebooks. check them out!
+
+## The Collection:
+
+The collection includes 32 psychology &amp; pseudo-psychology datasets, links are all here:
+
+[https://www.kaggle.com/general/284428](https://www.kaggle.com/general/284428)

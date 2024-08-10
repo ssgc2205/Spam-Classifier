@@ -1,0 +1,3 @@
+Hey there I would like to make a bar chart race with Twitter users by following for every year since twitter’s founding. Unfortunately I can only find the data set for the year 2020 but not for any other years. Does anyone know where I could find a complete dataset for all the years since twitter’s founding?
+
+Thanks in advance!

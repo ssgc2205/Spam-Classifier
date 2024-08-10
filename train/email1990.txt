@@ -1,0 +1,9 @@
+i found [this api](https://geo.fcc.gov/api/census/) but i have no clue how to use it. The api also says census block not tract. you guys have any ideas how to find the census tract from long and lat data?
+
+&amp;#x200B;
+
+**SOLUTION:**
+
+for anyone else looking for the solution to a problem like this, just use this url and pop in the longitude and latitude data (probably mixed up where lat and lon goes) and you will get a json response. The census tract is the value of the key "BASENAME"
+
+[https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=longitude&amp;y=latitude&amp;benchmark=Public\_AR\_Current&amp;vintage=Current\_Current&amp;format=json](https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=longitude&amp;y=latitude&amp;benchmark=Public_AR_Current&amp;vintage=Current_Current&amp;format=json)

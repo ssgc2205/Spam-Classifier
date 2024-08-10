@@ -1,0 +1,1 @@
+Title says it all kinda. Bonus points for unittests and/or non-buggy version. I've seen defects4j, but I was looking for much simpler self-contained functions, instead of a real world dataset. Ideally functions would be integer types only.

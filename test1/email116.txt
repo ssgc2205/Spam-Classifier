@@ -1,0 +1,5 @@
+**Search and Create Datasets for iOS.**  
+I just implemented a barcode scanner and image to text to help create and search CSV files on iOS!  
+Check it out...  
+[https://apps.apple.com/us/app/quicklookcsv/id1521784684](https://apps.apple.com/us/app/quicklookcsv/id1521784684)   
+quicklookcsv@gmail.com

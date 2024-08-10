@@ -1,0 +1,9 @@
+Hi, I am searching for a dataset of carotid artery bifurcation transversal (b-mode) ultrasound image sequences. By "sequences" I mean images taken in known distance between each other (ideally dense).
+
+Thanks in advance
+
+edit: added photo to make it clearer
+
+also In case it helps someone what I want to do is to develop a method to reconstruct the 3d shape of the artery and the bifurcation as part of my master thesis. I would also be helpful to know the stenosis percentage
+
+https://preview.redd.it/6x3nc5dwv1l61.png?width=840&amp;format=png&amp;auto=webp&amp;s=91b06e6945654d65a6a06c1a0193746a4fb8194f

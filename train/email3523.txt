@@ -1,0 +1,2 @@
+So there are tons of datasets out there for taxi cab rides: locations and times of pick-ups and drop-offs. [(Here's one of my favorites.)](http://nyctaxi.herokuapp.com/) However, I'm interested in datasets that cover what taxis do BETWEEN these passenger trips. I want to apply some foraging theory to taxi patterns, but I need to know what they do when passengers aren't inside: how do they prowl around looking for customers.
+Anyone know of some datasets like this?

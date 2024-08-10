@@ -1,0 +1,7 @@
+I'm doing a project on analyzing the water quality of major cities in the US for a class.  I've found data for NYC that I've linked below. 
+
+ [https://data.world/city-of-ny/bkwf-xfky](https://data.world/city-of-ny/bkwf-xfky) 
+
+I also found a website where they show the contaminants for all cities but I'm not able to figure out their source.
+
+ [https://www.ewg.org/tapwater/](https://www.ewg.org/tapwater/)

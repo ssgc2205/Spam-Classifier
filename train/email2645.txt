@@ -1,0 +1,7 @@
+Hi all, 
+
+I'm looking to get a large dataset of MRI brain scans of a broad range of adults, the MRIs would also need to include age/sex/race. I'm looking to use it for AI diagnosis so the larger the better. 
+
+&amp;#x200B;
+
+If anyone could point me in the direction of a dataset or even a company that could supply the data.

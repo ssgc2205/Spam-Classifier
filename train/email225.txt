@@ -1,0 +1,5 @@
+So I would like to study a reliable dataset on the matter.
+
+I saw a few data (very small sets) regarding chest xrays, but so far I found nothing of decent quality.
+
+Have you found anything worth studying? I'm interested only in classification tasks.

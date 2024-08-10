@@ -1,0 +1,17 @@
+Hello r/datasets, first time posting here, so please go easy on me. I'm thinking about doing a project studying the effects of green roofs on city temperatures and was hoping someone could help jump start my data search. 
+
+I'm wondering if anyone has leads on finding data for city temperatures over a long time period. It could be averages by month, daily readings, or yearly averages for all I care. In a perfect world, this dataset would look something like this: 
+
+city|year|average temperature
+
+NYC|2017|70
+
+NYC|2016|71
+
+Singapore|2016|82
+
+Singapore|2015|84
+
+&amp;#x200B;
+
+If anyone would be able to point me the right way, I'd appreciate it!

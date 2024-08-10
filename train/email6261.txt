@@ -1,0 +1,1 @@
+I want to build an object detection model which finds the food nutrition table in food packets. Is there any dataset relevent to the problem in which such food nutrition table images are given.

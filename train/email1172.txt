@@ -1,0 +1,7 @@
+Hi guys, 
+
+I'm aware that RCP and 538 publish topline results of aggregate polls, but I've really maxed out on insights from these. 
+
+&amp;#x200B;
+
+I'm looking for dis-aggregated, de-identified polling data on the 2020 primary that is on an individual voter-level basis (i.e. each observation is one voter). Does anyone know of such a dataset existing anywhere? Harvard has a few from 2016 it looks like, but you need to have a Harvard login to get it and  I'm looking for 2020 anyway...

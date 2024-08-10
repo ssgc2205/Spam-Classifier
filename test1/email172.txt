@@ -1,0 +1,5 @@
+I'm a post graduate student in Data Science. I'm working on the topic "Flood Prediction" for my capstone project.   
+Hard time finding the right dataset and deciding as well, as to what type of dataset should i go for? Should it be image one or the normal dataframe one?  
+Also should i do it on a global level or chose a specific country or region?  
+Have to complete the capstone project by the end of this year! Suggestion needed accordingly and much appreciated  
+thank you

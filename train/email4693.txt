@@ -1,0 +1,17 @@
+Does anyone know where I can find a robust Pokémon dataset that includes Gen8? 
+I would also be satisfied with a dataset that included Gen 1-7. 
+
+
+I recently finished a Tableau Bootcamp and want to have some fun with all the great stuff I learned. 
+
+
+If anyone is interested, I can share my dashboard and visualizations on this sub after it’s all said and done. 
+
+
+Has anyone here ever manipulated Pokémon data in the past? What were some of the questions you were looking to answer? Were you satisfied with the results? 
+
+
+Did you use any cool visualization techniques or dashboard tricks? 
+
+
+Thanks!!!

@@ -1,0 +1,3 @@
+I need a database of product names, their category (type), and their country of origin (company that makes the products) or country of manufacturing.
+
+Is there any services that sells datasets as I described above? Thanks.

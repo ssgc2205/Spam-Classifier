@@ -1,0 +1,3 @@
+I'm trying to look at past forecasts and see how accurately they predict precipitation as a function of time in the future from when the forecast was made. I'd like the forecasts to go up to 7 days in the future of when the forecast was made and I'd like data from multiple locations in the United States.
+
+Is anyone aware of how I could obtain this data?

@@ -1,0 +1,3 @@
+Hi, does anyone know where I can find a data set with aerial images of a cattle farm?
+
+ I am planning to do aerial image recognition using DNN for a livestock project for my semester module.

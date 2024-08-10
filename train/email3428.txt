@@ -1,0 +1,23 @@
+If you live in the academic ecosystem, you know that publication in your fields top tier journals is increasingly the only thing that matters for hiring, promotion, and tenure. If that's the game, we thought it would be interesting to know the standings. We recently undertook a project to identify all top tier journal publications in each academic field and self publish the data. We recently completed this for economics and are wrapping up marketing and management. Please let us know in the comments if there is a field you would like to see summarized.
+
+
+We recently completed our analysis of top tier economics journal publications from 2014 to 2017. By collecting author, work affiliation, and graduate programs authors graduated from information, we were able to summarize the number of top tier publication for each economist, each department, and the amount of research published by alumni for each economics Ph.D. Program. We found that 1,323 economists published in top tier economics journals during this period.
+
+
+Best Economists
+
+Professor Daron Acemoglu of the Massachusetts Institute of Technology and Xavier Gabiax of Harvard University with five (5) publications each. Only 172 economists published two or more articles, and only 39 published three or more. Publishing 4 or more landed you in the top most productive economists from 2014 to 2017.
+
+Best Departments
+
+We found that Harvard University (77 publications), University of Chicago (70), and MIT (60) had the most research productive economics faculty. Faculty from only 324 departments, centers, companies, or government agencies published in top tier journals. Only 29 had more than 10 articles published.
+
+PhD Programs
+
+We found that Harvard (179 publications), MIT (122), and Princeton (67) had the most productive alumni. All authors graduated from one of only 168 economics PhD programs and only 20 PhD programs had alumni with 10 or more articles published. Interestingly, alumni from the University of Rochester were the 10th most productive with 30 published articles. 
+
+
+We summarized these findings in three datasets and provided the individual publication data as well as data collection methodology and results available [here](https://www.dataandsons.com/data-market/social-sciences/best-economists-departments-and-phd-programs-2018).
+
+
+Disclaimer: I am the co-founder of the hosting site and accessing the datasets requires you to login or create a free account.

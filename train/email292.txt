@@ -1,0 +1,7 @@
+Hi everyone,
+
+I'm looking for a no BS way to draw a heat map of the continental USA based on max/min/average temps by week of year. For example, "show me a heat map of the USA's average temps in the first week of January".
+
+Any recommendations for datasets that would allow me to yield these results?
+
+Only reason I picked by weather station is I suspect it would be the easiest to find and deal with.

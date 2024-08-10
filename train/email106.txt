@@ -1,0 +1,7 @@
+Hey, guys.
+
+I'm doing a project about simulating a manufacturing network and I need some simple data to model the factories, like demand, processing times, stocks, etc.
+
+Nothing fancy, I just don't know where to look for. Private companies aren't that willing to share their data.
+
+Thanks.

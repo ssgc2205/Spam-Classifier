@@ -1,0 +1,1 @@
+Looking for a dataset of historical subscriber counts on large number of subreddits. Best I could find was [redditmetrics.com](https://redditmetrics.com) but it stopped updating a while back it seems.

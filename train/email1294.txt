@@ -1,0 +1,3 @@
+As you all know, the biggest bottleneck in data-science today is probably, well, the data. Therefore, I'm always impressed whenever I see a paper in which the authors used a dataset in a unique and clever way. 
+
+This leads me to my question: What are the most unique ways you've seen a dataset being used?

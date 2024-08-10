@@ -1,0 +1,11 @@
+Hi everyone,
+
+We coded this dataset generator to help in the field of converting wireframes / hand sketched images of webpages to code (HTML) using deep learning approaches.
+
+[Project repository on github](https://github.com/Dev-Tarek/sketched-webpages-generator)| [Article on Medium](https://medium.com/@devtarek/dataset-generator-for-sketch-to-code-deep-learning-problems-be9317b7e9b2)
+
+This was actually a part our graduation project that I published a year ago, but I couldn't follow up with the research because I had to do military service.
+
+I thought of sharing it here to see what you guys think if this currently helps anyone or and to know if this problem (sketch to code using deep learning) is still active, so I hope to get your feedback!
+
+Thanks.

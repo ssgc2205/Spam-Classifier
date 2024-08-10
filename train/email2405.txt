@@ -1,0 +1,5 @@
+ Hi everyone,
+
+I want to combine some data analysis in an MBA class. Want to show them the importance of using stat tools and digging into data for insights. Is there any available relevant data that you can point me to? I mainly need customer-level data or some other data that can be used to inform managers decisions and gain some insights about customers, segments, sales, campaigns, etc.
+
+Open to suggestions :)

@@ -1,0 +1,1 @@
+I'm writing my master's thesis on automated ontology learning, and I'm looking for some gold-standard ontologies to evaluate this on. I've come across countless mentions of a "Lonely Planet ontology" and "Lonely Planet corpus" in articles, but I haven't been able to actually find these files. Does anyone know where I could find this?

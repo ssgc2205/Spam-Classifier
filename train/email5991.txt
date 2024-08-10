@@ -1,0 +1,31 @@
+Hey guys, probably considered a bit of a silly question here but I am new to this, if i was to create a dataset with multiple outputs, how would this be written.
+
+would I have 24 columns for my 24 outputs? or would I divide 1 by 24 and use each decimal as a new possibility?
+
+for example,
+
+1 0 0 0....
+
+0 1 0 0....
+
+0 0 1 0....
+
+0 0 0 1....
+
+&amp;#x200B;
+
+Or
+
+&amp;#x200B;
+
+0.04
+
+0.08 
+
+0.12
+
+0.16
+
+&amp;#x200B;
+
+Thanks!

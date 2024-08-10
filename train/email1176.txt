@@ -1,0 +1,3 @@
+Hi, I'm looking for a data set with lots of "software requirements documents". (RFPs?)  to try some natural language processing. Does anyone know about such a thing?
+
+Thanks!

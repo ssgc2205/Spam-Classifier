@@ -1,0 +1,3 @@
+I'm going to learn some Java and WebGL but need some good ideas of what kind of data would be awesome to display. Only catch is the data needs to be open for the taking (i.e. census). Thanks, see link to the class below. 
+
+http://machineproject.com/blog/2014/06/25/data-art-workshop/

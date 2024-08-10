@@ -1,0 +1,1 @@
+Greetings, is there anyone who worked on sentiment analysis on financial tweets (platform doesn't matter), I have finance data and NLP model ready to work but missing the text data

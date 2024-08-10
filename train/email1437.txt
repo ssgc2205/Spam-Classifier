@@ -1,0 +1,31 @@
+Hello all, 
+
+I have a Project to complete in r for a class at my university. Me and my group have spent hours looking for a viable dataset, but are not able to find any. I was hoping someone could help us here....
+
+&amp;#x200B;
+
+Here are the requirements: 
+
+&amp;#x200B;
+
+a. Find a data set with two variables Y,X with the following properties:
+
+ • At least 150 observations 
+
+• The data set should not be a time series or directly correlated with time
+
+ • The independent variable X should be approximately evenly distributed over its range
+
+ • The error terms should be homoscedastic
+
+ • The data should be from economics or related topics
+
+ • Suitable for the multiple linear regression model (no nonlinearities) 
+
+• You may use suitable transformations to linearize a nonlinear data set (Briey describe the transformation)
+
+ • Clear relationship between X and Y for at least 1 variable (see task b.)
+
+&amp;#x200B;
+
+We have already browsed through some threads and found nothing. Thank you all!

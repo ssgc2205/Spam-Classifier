@@ -1,0 +1,5 @@
+Anyone know if raw data used by the Rat Information Portal is available? Ideally a table or tables where rows correspond to events like sightings, reports, etc. 
+
+I can only find **aggregated** raw data by zip code on the site.
+
+[Link](http://www.nyc.gov/html/doh/html/environmental/disclaimer.shtml)

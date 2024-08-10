@@ -1,0 +1,3 @@
+It contains about 5000 news articles about Trump, from CBC news. What do Canadians feel about Trump. You might find out in here! 
+
+[https://www.kaggle.com/ryanxjhan/latest-5000-trump-news-coverage](https://www.kaggle.com/ryanxjhan/latest-5000-trump-news-coverage)

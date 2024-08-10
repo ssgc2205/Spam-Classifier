@@ -1,0 +1,1 @@
+Can we use Facebook graph explorer to see(and extract) other users comments/posts/friends etc? I found lot's of (older than this year) tutorials on this and it was working until about a year ago.    Is it still possible? Thanks in advance.

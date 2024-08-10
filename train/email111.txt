@@ -1,0 +1,12 @@
+Hello. I've been working on a project that involves using the Riot Games API to scrape various in game stats. 
+
+The dataset contains 53452 rows of players' from matches. It was stored in a SQL database using Python then exported into CSV format. The dataset contains 65 features including winner/loser. Some of them are non-descript ordinal which you can remove and there are a few more that do not pertain to solo queue match stats(dominion stats that do not get tracked). 
+
+I plan to upload the dataset with 44 features in the near future. The github should also contain teamstats dataset which are team objective stats recorded from the same games.
+
+All matches are after 9-21-2015 which is a day after a certain patch. Can't remember off the top of my head. 
+
+Let me know if you have any questions. Dataset is released under MIT license. 
+I have done various work on this including knn, logistic regression, correlation/covariance analysis, and some other feature selection techniques. The final report should be completed in two weeks so I will be uploading that to my github as well. Have a great day everyone.
+
+https://github.com/torontosj/League-of-Legends-Capstone

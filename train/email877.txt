@@ -1,0 +1,3 @@
+Hey all,
+
+Do you know of any available (free or otherwise) transaction data sets? Ideally, I'm looking for credit/debit card transactions that give me at least a purchase description and price. Email data (so I can comb through digital receipts) would also be really interesting to look at! Thanks ya'll. 

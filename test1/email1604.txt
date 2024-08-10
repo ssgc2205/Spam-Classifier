@@ -1,0 +1,6 @@
+Im new to this machine learning and dataset stuff, so please bear with me haha. I want to filter out the color responses from the [Moodo Dataset](http://mood.musiclab.si/index.php/en/dataset) 
+
+The public dataset includes 200 audio clips and 37 responses per clip and I only need the color responses per audio clip. Is there any way I can filter out the .xml file and get the audio and color response only?
+example:
+audio #1 : [ color responses ]
+audio #2 : [ color responses ]

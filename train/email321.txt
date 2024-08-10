@@ -1,0 +1,1 @@
+Newb to working with datasets. How would I go about getting all the titles of each rumour on the website alongside information on whether it is 'true' or 'false' as determined by Snopes? Apologies if this is a rather vague request.

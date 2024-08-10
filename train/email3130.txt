@@ -1,0 +1,5 @@
+Team, I‘m in need of a dataset with data showing causes of network breach and the financial impact or network event that occurred because of the breach. I’m trying to do research to show the probability of a public event, ie reporting a breach, or financial impact as a result of a cyber incident and how / what the compromise was.
+
+Any body have any idea where to find a dataset that is publicly available like this? Tia
+
+Mark

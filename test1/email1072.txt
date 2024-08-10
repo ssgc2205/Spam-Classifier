@@ -1,0 +1,3 @@
+Hey folks, I have created the Maize seed dataset for the Deep Learning Project "Seed Quality Tester". You can check it out at  [https://www.kaggle.com/zom8ie99/maize-seed](https://www.kaggle.com/zom8ie99/maize-seed).
+
+\#KaggleDatasets

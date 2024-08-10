@@ -1,0 +1,2 @@
+I have the openflights.org datasets (airports, airlines, routes) but I need actual flights data (like number of the flight, date-time, origin and destiny, etc). This can be historical. The routes.dat only show connections between airports but no actual flights. 
+Thanks a lot for any help.

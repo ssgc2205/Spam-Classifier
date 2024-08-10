@@ -1,0 +1,22 @@
+Hey guys,
+
+I would like to visualize the flow of nutrition in our food.
+
+    E.g. the cow eats grass, which contains 100g of nitrogen, 50g of nitrogen gets shit out, 50 gram of nitrogen goes into milk, 10g lost during production of dairy products, 40 grams of nitrogen is found in dairy products, human etats 40 grams, shits out 30 grams  - of the 100grams which the grass contained, 10g stay in the body. 
+Now imagine doing this not only for milk, but also for meat, cereals, fruit etc. 
+
+It becomes a pretty complex diagramm pretty quick.  The program should also be able to adjust the whole sankey diagram if I change the input at the very top  (e.g. if I increase it to 110g, the 10g at the end would increase to 11g).
+
+This is the closest example I found:
+
+https://preview.redd.it/lekmt19tucd51.png?width=779&amp;format=png&amp;auto=webp&amp;s=c91f34b0ed8e30d0b977c9f5767875ec2993bdc5
+
+As we use Tableau, I tried using it, however, quickly realised that Tableau ist not made for Sankeys.
+
+I came across some freeware where you have to enter each number individually, but this is not suitable for larger projects. 
+
+My favorite right now ist [this programm](https://www.ifu.com/e-sankey/), maybe you have other suggestions...
+
+&amp;#x200B;
+
+Thank you in advance,

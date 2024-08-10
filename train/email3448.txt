@@ -1,0 +1,6 @@
+Hello,  
+I have a dataset that was given to me in a .txt file and I need to convert it into a relational database. Here is an image of the data so it's easier to see what I mean:  
+http://imgur.com/cGa3hRx  
+I would appreciate any help on converting this to some sort of database.  
+
+Thanks!

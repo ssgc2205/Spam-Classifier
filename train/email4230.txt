@@ -1,0 +1,2 @@
+I want to figure out the population in specific US cities that falls in a specific age range, education level, type of housing and income.
+Are there any resources that do this for you? I'm trying to find resources that go off of the census but can't find anything valuable

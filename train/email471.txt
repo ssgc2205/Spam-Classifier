@@ -1,0 +1,7 @@
+Does anyone have a good source(s) of SQL databases, or CSV, that they would use to as examples in teaching about databases and SQL.  
+
+
+I want to be able to say things like "Write some SQL to get all employees for a salary over 30,000". I could create these myself, but it seems time consuming... especially when thinking up names of people! Something with some tables to join on would be good to.  
+
+
+Or do/would you just create your own?

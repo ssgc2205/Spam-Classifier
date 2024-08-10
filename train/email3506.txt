@@ -1,0 +1,1 @@
+I'm looking for datasets with nutrition data for many commercial food products (i.e. Lucky Charms, Monster Energy, Nutella, etc).  I'm just thinking of the table on the majority of product packaging, usually it's called Nutrition Facts or Supplement Facts.  Ideally I'd want all types of food but a dataset of just cereals or just drinks would be cool as well.

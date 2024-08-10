@@ -1,0 +1,1 @@
+So looks like Columbia's servers have been down for sometime now...can anyone share a subset (1k songs) of this dataset? I'm literally screwed for an AI project if I can't find it.

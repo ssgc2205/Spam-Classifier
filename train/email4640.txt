@@ -1,0 +1,3 @@
+Hi all, 
+
+I’m doing a project for university and I’m looking for a dataset that contains data related to allergies, such as how many people have them, what kind, what % per region, and whatever else comes to mind. Even reported allergic reactions data is helpful. Anything you have in mind I would appreciate being posted here!

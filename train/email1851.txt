@@ -1,0 +1,3 @@
+Hello everyone,
+
+I'm totally new to databases and I am having a very difficult time getting some good data I can easily import to phpmyadmin. I ideally need over 10k pieces of data and was originally aiming to get the data from IMDB or rotten tomatoes, but the data I've located from those guys is very difficult to get into phpmyadmin and when I do get it in there they have a bunch of useless information fields I would never end up using. Can anyone help me out?

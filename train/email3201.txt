@@ -1,0 +1,3 @@
+Hi, I have been looking for the IIT CDIP 1.0 (Illinois Institute of Technology Complex Document Information Processing Test Collection, version 1.0) for months. The original [link](https://ir.nist.gov/cdip/) is invalid now. I tried to email [the author](https://www.researchgate.net/publication/221299542_Building_a_test_collection_for_complex_document_information_processing), yet got no response. It was provided for TREC 2016, but surprisingly, there is no track of it anywhere.
+
+Could someone who has one copy could provide a valid link for it please?

@@ -1,0 +1,2 @@
+Hey! 
+The recent weeks I always get in top the statistic rating videos from DataIsBeautiful and similar and I was wondering, how are these videos made. I know that the tool is flourish, but where do they get such datasets and so updated? Everything there looks pretty amazing and I don’t believe that anyone would do their own datasets for that. Statista doesn’t have such timelines and other websites are out of date. Any ideas where to find it?

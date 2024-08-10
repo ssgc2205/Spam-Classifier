@@ -1,0 +1,9 @@
+Collection of the dataset that has the global list of websites built with [Magento](https://magento.com) providing valuable insights into the market share and is an essential tool for market research and competitor analysis.
+
+&amp;#x200B;
+
+[https://www.kaggle.com/wiredwith/websites-list/download](https://www.kaggle.com/wiredwith/websites-list/download)
+
+[https://wiredwith.com/technology/ecommerce/magento](https://wiredwith.com/technology/ecommerce/magento)
+
+[https://wiredwith.com/technology/dataset/download/ecommerce/](https://wiredwith.com/technology/dataset/download/ecommerce/)

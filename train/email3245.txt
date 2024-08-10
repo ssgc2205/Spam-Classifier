@@ -1,0 +1,5 @@
+I would like to build an IA to detect cards (any playing cards, not only standards) with bounding boxes or object segmentation and I did not find any dataset for this.  Where could I find it ? the best would be card segmentation.
+
+Thanks in advance !
+
+&amp;#x200B;

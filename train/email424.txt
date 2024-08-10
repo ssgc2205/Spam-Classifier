@@ -1,0 +1,1 @@
+As the title says, what is the easiest (free) way to download around 1 million images of maps given a list of coordinates, similar to when using Google maps.

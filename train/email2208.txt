@@ -1,0 +1,10 @@
+Do you know of a dataset of book prices over time? 
+
+Max Roser from ourworldindata was asking here [https://twitter.com/MaxCRoser/status/1387329348068331520](https://twitter.com/MaxCRoser/status/1387329348068331520)  
+There is a table in Zander 2009 [https://brill.com/view/title/16726](https://brill.com/view/title/16726) but not the underlying data  
+
+
+You hear stories about how Gutenberg reduced the price of a bible by X but I can't find actual data of the price of even the bible over time.  
+
+
+It seems an interesting problem. A bit like Moores law can be followed back to mechanical relays price over time. Or the price of light can go back to candles. The price of information going back using book prices seems useful.

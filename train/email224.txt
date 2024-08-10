@@ -1,0 +1,5 @@
+I'm looking for a dataset to use in a presentation to teachers on how to use My Maps by Google, which can take a data set with longitude and latitude and plot it.
+
+I thought it would be cool to highlight an example using a dataset on average daily temperatures per region or even arctic ice. Any ideas?
+
+Thanks so much!

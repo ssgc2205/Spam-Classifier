@@ -1,0 +1,4 @@
+Hi do you know if there is readily available image datasets of buildings? We would like to try to generate new building design using GAN. Thank you very much!  
+
+
+I googled for a bit and find it difficult to find some group datasets.

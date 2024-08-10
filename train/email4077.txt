@@ -1,0 +1,1 @@
+Hey, guys. Can I find somewhere dataset with all nhl players ever played? Goals, assists, games , etc. I can find it here ([https://www.eliteprospects.com/league/nhl/stats/all-time?page-goalie=1#goalies](https://www.eliteprospects.com/league/nhl/stats/all-time?page-goalie=1#goalies)), but I cannot find good format for this data (csv, xlsx, xls)

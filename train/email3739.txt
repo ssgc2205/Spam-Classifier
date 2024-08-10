@@ -1,0 +1,3 @@
+I am currently working on a data-driven project of football teams worldwide and would like to add a filter based on the popularity of clubs. However, I could not find a dataset or a single website that provides such information (with some exceptions).
+
+Does somebody know of a dataset that lists clubs of different leagues worldwide based on the number of their supporters?

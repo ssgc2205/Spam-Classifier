@@ -1,0 +1,5 @@
+Hi,
+
+I‘m looking for a dataset of labor replacing technologies’ penetration at ideally country-industry-occupation level. I have worked with the usual one of the IFR of robots per country, but now I am looking for a broader definition of a labor replacing tech, like AI penetration or something like that.
+
+Any ideas? Thank you in advance!

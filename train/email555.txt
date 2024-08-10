@@ -1,0 +1,8 @@
+Hey guys, I need a dataset which should follow these requirement. 
+
+* 3 numerical variables
+* 3 categorical variables
+* datetime variable
+* 7-12 columns
+
+I need to visualize a dataset using python.

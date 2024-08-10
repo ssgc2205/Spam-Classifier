@@ -1,0 +1,1 @@
+Looking for raw data (.csv/.txt) of choices and wins/losses of gamblers on the IGT. Unfortunately most published papers are some years old and the datasets are not retrievable anymore. Could someone help with this?! Anonamyzed and unpublished data is fine, we will not analyze it but use it for simulations in a matlab model. 

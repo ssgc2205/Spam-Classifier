@@ -1,0 +1,5 @@
+This is my own image dataset about rice and its diseases. The dataset contains more than 3300 images splits into 4 labels: 1 label for Healthy plant, and 3 labels for the diseases (Brownspot, Leaf Roller, Leaf Blast). The dataset was collected from the paddy fields in Vietnam, from April 2019 to May 2019. This dataset is the first version, so there are many problems (wrong labeling, noises,...).
+
+I am planning to keep up with developing this dataset in December 2019. Hope the dataset is useful for you ( ͡° ͜ʖ ͡°)
+
+[https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset)

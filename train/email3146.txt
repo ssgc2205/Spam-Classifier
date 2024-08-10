@@ -1,0 +1,9 @@
+I'm looking for some kind of simple data set containing records of simulated Americans with statistically appropriate distributions of demographics, income, locations, etc. Fake names would be cool too, don't you think?
+
+It seems like the Census provides something similar to this ([
+Synthetic SIPP Data
+](https://www.census.gov/programs-surveys/sipp/guidance/sipp-synthetic-beta-data-product.html#par_textimage_6)), but you have to request access to the server for some official use. I'm just looking to fuck around with it.
+
+Edit: [Looks like Pew Research created](https://www.pewresearch.org/methods/2018/01/26/appendix-b-synthetic-population-dataset/) exactly what I'm looking for!
+
+You can [download it here](https://www.pewresearch.org/methods/dataset/2016-online-opt-in-comparison-study/) with a free account. There are 20,000 records with 38 variables.

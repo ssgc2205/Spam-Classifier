@@ -1,0 +1,3 @@
+Hey guys, 
+
+New to ML, but have been learning. What are some good data sets for medicine and ideally cardiology that are public and useful for research (that is not practice).

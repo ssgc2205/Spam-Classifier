@@ -1,0 +1,11 @@
+Hi all,
+
+&amp;#x200B;
+
+I would like to start conducting some research for my thesis on the topic of fake news in Brazil. A lot of this fake news is sent through WhatsApp, but I highly doubt there are datasets out there to analyse these messages. It is very unlikely but if they do exist, could someone put me in the right direction? 
+
+Alternatively, are there are sites for compiled datasets/archives of facebook comment/post/groups data?
+
+&amp;#x200B;
+
+Many thanks for taking the time to read this specific question!

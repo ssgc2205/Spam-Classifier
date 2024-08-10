@@ -1,0 +1,1 @@
+I have already looked into Clearbit's Logo API but I do not wish to manually generate enough training data for my analysis. Thanks!

@@ -1,0 +1,9 @@
+Need help creating a data set I’ll be using. analogies below to help avoid industry specific jargon usage:
+
+I have a group of friends who all have different food preferences and budgets (min and max they’d pay for dinner as well as food they like and food they dislike). I need to create a dataset for their preferences so that if on a given night I say I’d like to go get Italian and pay $30 I would be able to pivot the data and see whose budget I’m within and who likes Italian food and who dislikes Italians food.
+
+The problem is I can’t figure out how to organize the preference section of the data set. While min and max price are easily added as a single cell in a spread sheet for each person. Some of the individuals like 12 foods and dislike 5. What is the best way to organize the data so I can easily analyze the data set to figure out which individuals I would and would not like to ask to go to dinner with.
+
+Any videos or help would be greatly appreciated
+
+Thanks for any help that comes my way

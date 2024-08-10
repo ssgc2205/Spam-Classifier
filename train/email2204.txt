@@ -1,0 +1,1 @@
+Hello, I am hoping someone can point me in the right direction. I am looking to find a dataset with some college football spreads and odds to do some analysis on. I am trying to avoid at all costs writing a script to do this, as my coding knowledge is in developing stages lol. Any help is appreciated!

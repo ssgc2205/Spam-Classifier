@@ -1,0 +1,14 @@
+Are conflict and violence declining throughout the world? 
+
+The **GDELT Conflict Dataset** may help us investigate this question. [Get it on Kaggle.](https://www.kaggle.com/vladproex/gdelt-conflict-events-1979-2021) 
+
+It is extracted from the [GDELT events database](https://www.gdeltproject.org/). From their website:  
+
+
+&gt;The GDELT Event Database records over [300 categories](http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf) of physical activities around the world, from riots and protests to peace appeals and diplomatic exchanges, [georeferenced to the city or mountaintop](http://www.dlib.org/dlib/september12/leetaru/09leetaru.html), across the entire planet dating back to January 1, 1979 and updated every 15 minutes.
+
+The GDELT Conflict Dataset leverages GDELT to examine the evolution of conflict in the past 40 years. It aggregates information on more than 83 million events extracted from media reports in 258 countries for the period 1979-2021. The events are grouped in 32 categories describing conflict actions at various scales, such as \`Confiscate property, 'Carry out suicide bombing', 'Occupy territory'. Events are aggregated by event type, year and country, for a total of 176k rows. 
+
+The full documentation and preparation code is [available on GitHub](https://github.com/vlad-ds/gdelt-conflict). 
+
+It's the first time I am sharing a new dataset on Kaggle, so I would love to hear some feedback. Happy exploring!

@@ -1,0 +1,1 @@
+Hi I have a dataset with US zip codes that I need to get the timezones for. I already tried R packages like zipcodeR but the issue is that even for those there are a lot of zip codes with missing geocodes/timezones. Has anyone had any better luck in finding another package or public dataset with a full accurate mapping of zip codes -&gt; timezones? Thanks!

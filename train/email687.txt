@@ -1,0 +1,25 @@
+I've been looking into the GDP growth of financial markets relative to the Global growth in economic output and activity, though I've came accross these three international organisation, each provide a different set of growth rate for Global GDP, does anybody have any opinion on which one would have the most reliable methodology for use?
+
+||IMF|World Bank|WTO|
+|:-|:-|:-|:-|
+|2019 Global GDP Growth|2.9%|2.4%|2.3%|
+|2019 Trade Volume Growth|1.0%|1.4%|1.2%|
+
+Since 2019 is just finished and the data may be preliminary but even their 2018 data are different from each other.
+
+||IMF|World Bank|WTO|
+|:-|:-|:-|:-|
+|2018 Global GDP Growth|3.6 %|3.0 %|2.8 %|
+|2018 Trade Volume Growth|3.7 %|4.0 %|3.0 %|
+
+Here is where I've obtained the above figures:
+
+IMF: [https://www.imf.org/en/Publications/WEO/Issues/2020/01/20/weo-update-january2020](https://www.imf.org/en/Publications/WEO/Issues/2020/01/20/weo-update-january2020)
+
+World Bank: [https://www.worldbank.org/en/publication/global-economic-prospects](https://www.worldbank.org/en/publication/global-economic-prospects)
+
+WTO: [https://www.wto.org/english/news\_e/pres19\_e/pr840\_e.htm](https://www.wto.org/english/news_e/pres19_e/pr840_e.htm)
+
+Please help to advise me which would be best to use, or if you have an even better source, do share!
+
+Thanks!

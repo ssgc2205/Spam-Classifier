@@ -1,0 +1,3 @@
+I'm looking for weekly hotel occupancy rates, broken down by city. I've found a few sources of monthly, but none for weekly. 
+
+In particular, I'm looking at how different holidays (4th of July, Labor Day) affect hotel occupancy for a few specific cities.

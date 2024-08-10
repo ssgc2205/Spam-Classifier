@@ -1,0 +1,5 @@
+I spent over a month creating a hand cropped and labeled dataset with 32000 images and 90+ train labels from an 80s Anime. Ultimately my use case had too much error to even be close to useable at that scale (Using [a new deepfake algo](https://arxiv.org/abs/2104.11280) to see if it could translate to animated face replacement), but maybe all of that work could be useful to someone for something simpler (like a character classification).
+
+My question is how strongly does Reddit (and this subreddit) defend Fair Use? The images are from a copyrighted work, but would likely be classified as fair use by any rational person. (1. educational, 3. Low substantiality 4. Possible slightly positive impact on sales).
+
+Also related, if the site won't be overly skiddish, does anyone have good file hosting recommendations for the total file size of 2.7GB (256x256) and 12.6GB (512x512)?

@@ -1,0 +1,5 @@
+Hi all, for college I am tasked to do a project for an AI course, I was thinking of doing an app that reads a food label from a photo and the result is a kind of street light that has like "HIGH" in red, "MEDIUM" in yellow, "LOW" in green for fats, sugar and salt. The problem is that I have searched through the internet with no luck for a dataset of food labels pictures to train the AI. I just wanna know if such dataset exists, because in case that it does not I need to change my topic for the project.
+
+[Here](https://images-prod.healthline.com/hlcmsresource/images/AN_images/cereal-nutrition-label-labels-box-facts-1296x728-header.jpg) is an example of a food label in case you do not know what it is
+
+[Here](https://www.savalnet.ec/medios/SAVALnet_EC/mm/noticias/2019/03/946606815ng01.jpg) is an example of what I am trying to do in case you didn't understand the street light analogy, this is a system that it is used in my country if you were curious.

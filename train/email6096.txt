@@ -1,0 +1,5 @@
+Hey reddit, I'm looking for a current data set regarding demographics and income. I'm looking to predict income, based on the variables in the dataset(age, employment, marital status, ect..). I was able to easily figure this out with the data set that i have, the problem is it is from 1994. 
+
+I was hoping to find a more current data set to compare this for a presentation. This has become a lot more difficult than I first anticipated, and have now turned to reddit for help. I've include the data set below, and if you could at least point me in the right direction for finding a similar, updated set (2010-13)I would greatly appreciate it.
+
+http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data

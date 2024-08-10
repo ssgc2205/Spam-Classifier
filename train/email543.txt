@@ -1,0 +1,42 @@
+**Description:**
+
+This is a five hour sample of the Twitter firehose (+33.3% sample rate) during the beginning of the United States / North Korea Summit in Singapore on June 12, 2018.  This is a fully hydrated dataset using the "extended_tweet" setting to ensure the entire tweet text is preserved.  The data also includes a user object for every original tweet, retweet, quoted tweet and reply tweets.
+
+______________________________
+
+Key | Value
+:--|:--
+File | https://files.pushshift.io/twitter/TF_USNK.ndjson.xz
+Format|NDJSON
+Compression|.xz (LZMA2)
+Size (Compressed)|8,415,064,076 bytes
+Size (Uncompressed)|112,101,421,878 bytes
+Number of Tweets | 21,552,423
+
+This file represents a five hour period of the beginning of the UK/NK Summit (starting at 7:30 PM ET and extending to 12:30 AM).  There are approximately ~1,200 tweets per second and includes original tweets embedded in each retweeted object.  The probability of getting an original retweet is 50% if it was retweeted once and quickly approaches 100% after 10+ retweets.
+
+This file contains millions of user objects with many belonging to news organizations throughout the world.  If you have ever wanted to play with a sample much larger than 1%, this file will give you a lot to analyze.
+
+This data is for academic purposes only and cannot be used for commercial purposes.
+
+When processing this file, keep in mind that there could be additional data (tweets) under the "retweeted_status" and "quoted_status" keys.  Every tweet object will also contain a user object as well.  
+
+The probability of an original tweet being present in this dataset is dependent on the number of times it was retweeted.  The following chart shows the probabilities:
+
+Times retweeted|Probability of capturing an original tweet
+---:|--:
+0 | 33.5%
+1 | 55.7%
+2 | 70.6%
+3 | 80.4%
+4 | 86.9%
+5 | 91.3%
+6 | 94.2%
+7 | 96.2%
+8 | 97.4%
+9 | 98.3%
+10| 98.9%
+15| 99.85%
+20| 99.98%
+25| 99.99%
+30| Virtually 100%

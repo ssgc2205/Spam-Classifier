@@ -1,0 +1,5 @@
+Hey guys,
+
+I've (somewhat recently) discovered a passion on using data to find insights, fortunately I now have some extra time to develop it further. As a first project I want to look at income and wealth inequality over the last 50 years. 
+
+For this project I've been looking for data on the historic MSRP of supercars since 1966, with the introduction of the Lamborghini Miura, until present day. However, I've been facing difficulty in finding sources for this kind of data (especially in the pre-digital days). Does anyone have any suggestions on where to look? Thanks!

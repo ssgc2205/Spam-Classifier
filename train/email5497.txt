@@ -1,0 +1,4 @@
+This seemed useful to a few people in various comments already, so I thought I would post it directly in the /r/datasets
+
+
+http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html

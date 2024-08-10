@@ -1,0 +1,7 @@
+At the beginning of this year I purchased a Raspberry Pi 4 Model B 4GB to tinker with basic coding and machine learning. Yet, somehow, I have found little opportunity to try it out.
+
+I am currently undertaking postgrad studies in art history, and stumbled across the emerging field of 'digital art history' recently. (A field borne out of the digital humanities and data science, Lev Manovich makes an interesting case for digital art history in this [article](https://dahj.org/article/data-science-and-digital-art-history).)
+
+Long story short, I am curious about any thoughts anyone may have about the possible use for a Raspberry Pi, TensorFlow and machine learning, and dataset analysis might have in art history?
+
+Many thanks for your comments and ideas.

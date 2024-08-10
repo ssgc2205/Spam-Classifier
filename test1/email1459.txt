@@ -1,0 +1,13 @@
+I'm looking for a war deaths or any kind of death data that is associated with year and month.
+
+I found the Correlates of War (COW) Project here:
+http://www.correlatesofwar.org/COW2%20Data/WarData_NEW/WarList_NEW.html
+
+This data appears comprehensive but it spreads the number of battle deaths for each country across multiple years and months. So, to get the time based data I need, I will have to parse each line and average across the date range for each value.
+
+Anybody know of a related data set?
+
+EDIT:
+I parsed the COW dataset and finally got a 13k record combined output that distributes deaths over the year/month range for each conflict. 
+
+Thanks everybody for all your input!   On to the next step in creating my visualization.

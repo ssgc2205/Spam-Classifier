@@ -1,0 +1,3 @@
+Hi,
+
+For my portfolio I'm creating an app that will allow you take a picture of a product it and translate the text to your language of choice. I really don't plan on searching all over the web and cropping out thousands of letters so if any of you know of a data-set for this, I would greatly appreciate it!

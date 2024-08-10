@@ -1,0 +1,3 @@
+I'm a student in my first data mining class looking for a dataset/good project for class. I found a credit fraud detection dataset that looked promising, but it has  "PCA Dimensionality reduction to protect user identities and sensitive features", meaning I don't know what the data represent (column headers V1, V2, etc.). I need a clean dataset I can analyze to eventually help me pitch a product or service.
+
+I freely admit I'm being somewhat lazy (though the real work lies ahead, after the dataset is selected). I'm just trying to make sure I have a dataset that provides a definite end product. Thanks.

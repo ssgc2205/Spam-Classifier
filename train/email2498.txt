@@ -1,0 +1,3 @@
+Hi everyone,
+
+Just wondering if anyone has any suggestions on interesting/fun multivariate datasets to analyse? Apart from the usual UCI etc. datasets

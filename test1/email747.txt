@@ -1,0 +1,9 @@
+Hi all,
+
+I'm looking for an AFI (American films insitute) top 100 movies of all time. IMDB has such lists but expressly forbids one from screen scraping and the API access docs says "contact us".
+
+Letterboxd is a possibility, however the lists are curated by users, which I suppose I could curate my own list....
+
+The AFI website has no documented API but I suppose screen scraping could be possible.
+
+Does anyone know of an API for the AFI top 100, ideally by year, as it changes from year to year.

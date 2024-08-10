@@ -1,0 +1,7 @@
+  
+
+Hi,
+
+for a project wich includes motion detection I need a video dataset where the camera is not moving. Does anyone know such a video dataset? The videos should incloude pedestrians and/or animals (cats, dogs).
+
+Many thanks

@@ -1,0 +1,1 @@
+I've been trying to look for datasets that are related to Schizophrenia, but I've had no luck. I have found some interesting ones related to personality testing: https://openpsychometrics.org/_rawdata/ but I'm not 100% interested in using any of them. I would prefer to work on data that'll help predict risks of psychosis.  

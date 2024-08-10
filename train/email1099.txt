@@ -1,0 +1,5 @@
+Hello,
+
+I work as a Category Manager more a mid tier grocery chain. I wanted to see how COVID has affected people's shopping routines (i.e. time in store). Is there anyway to see peoples GPS locations? For instance, when I'm at the dentist for an appt my Google timeline will reflect that automatically without me having to check in. Does google make that data available on their API? I'm fairly new to data science so when i read the documentation I didnt see what i was looking for but maybe I just didnt understand. 
+
+Thanks in advance for the help!

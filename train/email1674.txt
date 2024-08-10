@@ -1,0 +1,14 @@
+  
+hello all!  
+i am currently doing an analysis of the data is beautiful subreddit over at r/dataisbeautiful for my BA of Media and was hoping to access some sort of dataset about it  
+
+
+i was looking to see if anyone had crawled the subreddit before, or is willing to do it, to gather various data about the community 
+
+&amp;#x200B;
+
+i was hoping for some data about how many people post in a certain time frame and the engagement of posts, or just any data that could be useful for analysing the way that people interact in the subreddit 
+
+&amp;#x200B;
+
+this would be extremely useful, thank you!

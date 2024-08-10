@@ -1,0 +1,2 @@
+Hi everyone, I'm designing a data analysis and machine learning challenge. The goal is to choose/predict a serial murderer's next victim from a list of possible future victims based on police reports of the previous victims.
+I'm looking for descriptive texts of the victims, I don't want them to be exactly like police reports but having a similar nature in their pattern of description is preferred.

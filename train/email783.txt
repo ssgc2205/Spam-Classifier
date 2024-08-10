@@ -1,0 +1,11 @@
+Hi,
+
+I am not sure if this is the appropriate sub to post this. Please let me know the correct sub to post this question to. Anyway, back to my question.
+
+I am assuming that many of you are familiar with the [HUBZone](https://www.sba.gov/federal-contracting/contracting-assistance-programs/hubzone-program). There are designated areas in the US which are called HUB Zones. Small businesses located in these areas who are certified as a HUB Zone business get preference when Federal contracts are awarded. Now, the areas defined are in terms of census tracts, counties and Indian reservation lands. My goal is to see if socio-economic standards have improved over the past couple of years in those areas.
+
+Now, the counties, census tracts and Indian lands overlap in many locations. If I can get the census tracts that comprise of all these regions, I can cover all the regions.
+
+Now, coming to my problem. I can only get information of various indicators like GDP, income, etc at the county level. How can I get this at the census tract level? I am looking exclusively for census tract information as it is the smallest level of granularity and can effectively cover all the regions in the HUBZone (counties and Indian lands). 
+
+If there is another approach, please advise.

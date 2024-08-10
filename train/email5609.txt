@@ -1,0 +1,9 @@
+If there was a quick way to automate
+
+- JSON to CSV conversion
+- push JSON data into SQL databases
+- consume webhook data easily
+
+Without having to write a single line of code. 
+
+I'm developing a simple and intelligent UI based to tool for this. Would that be valuable?

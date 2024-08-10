@@ -1,0 +1,7 @@
+For a university project I am looking for a dataset or other resource that has a list of URLs of articles about false health news.
+
+This can be anything from false health advice, ie, "rub dog food on your face for the perfect complexion" to the more serious "drink salt water to prevent ebola."
+
+I need as many fake articles as I can get, and if possible, the refutations of the fake articles as well. 
+
+Many thanks if a resource like this is available. If not I'll be sure to post what I put together by the end of my project. 

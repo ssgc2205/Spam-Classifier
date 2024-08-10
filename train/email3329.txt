@@ -1,0 +1,8 @@
+Hello,
+
+I’m looking for mobile ecommerce user interaction/activity data for a school project.
+I’ve looked on Kaggle, GitHub and Google Cloud Platform but I couldn’t find any.
+
+Can someone either tell me where can I find one or just give me more ideas of places where I can browse datasets so that I can find one?
+
+Thank you in advance!

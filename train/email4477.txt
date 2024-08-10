@@ -1,0 +1,5 @@
+Thought such a dataset might exist since Harry Potter is a popular subject for data science, but no dice. All I've found is a static infographic produced by Pottermore that I could use to create this dataset, but it would be tedious.
+
+Thought I would ask! Maybe someone knows something I don't.
+
+EDIT: When in doubt, check the [fandom wiki](https://harrypotter.fandom.com/wiki/House_points#:~:text=House%20points%20were%20awarded%20to,an%20inter%2Dhouse%20Quidditch%20match.&amp;text=Each%20student%20earned%20points%20for,be%20awarded%20the%20House%20Cup).

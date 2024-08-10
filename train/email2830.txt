@@ -1,0 +1,5 @@
+It seems that Flickr8k dataset has been discontinued. I am a beginner, have limited access to internet bandwidth so wanted to fiddle with this smaller dataset. Does anyone happen to have the dataset I can download?
+
+&amp;#x200B;
+
+Alternatively, any suggestions on a different dataset I can use? I am looking to do Image/Video Captioning.

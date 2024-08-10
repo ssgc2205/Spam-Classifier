@@ -1,0 +1,7 @@
+ 1. What are the **multilevel diseases** that **identify** with help of scanning **images**? Such as diseases that identify from MRI, X-ray, CT scans.
+
+As **examples**, I can say Breast cancer, Chronic liver disease.
+
+2. Where can I find the **image dataset** for that disease?
+
+Any ideas and suggestions are much appreciated🖤

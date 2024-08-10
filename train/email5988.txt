@@ -1,0 +1,12 @@
+Hello friends!
+
+After a bunch of digging around I found a data set in [data.gov](https://data.gov) that would be absolutely perfect \[[Link - Nielsen: Homescan](https://catalog.data.gov/dataset/nielsen-homescan)\]. How ever the problem is that the dataset is nonpublic. Is there a dataset that is similar to this one?   
+
+
+Generally what I am looking for is a time series that is updated weekly or biweekly, tracks the groceries total amount of users of an area, and is around the time of a disaster (like hurricane season in Florida or shortly after a earthquake). 
+
+(bonus points if it contains March or April of this year so it contains the impact of corona virus). 
+
+&amp;#x200B;
+
+Thank you guys and much love for taking a look at this post &lt;3

@@ -1,0 +1,7 @@
+I am looking for any large text databases to help train a program to (somewhat) understand English and show a "stream of conscience". Preferably novels, anything about science, research papers, magazines, encyclopedias or any other kind of educational text. It needs to be in either text file or something easily converted to a text file. I currently have a rip of Wikipedia and reddit comments but I am looking to expand on it. I am looking for large amounts around 0.1-1tb.
+
+Any help would be appreciated.
+
+Edit: changed some words 
+
+Edit: I am not using any AI libraries yet it’s more of a cross between natural language processing and short n-gram models with certain words. Categorized into many different topics

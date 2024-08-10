@@ -1,0 +1,5 @@
+I am looking for a huge list(csv?) which includes all countries, cities,villages, airports, cafes, etc, for a project that requires structured places for easy search.
+
+And alongside each place, it would be nice to have the country, city, gps coordinates, and anything else.
+
+Does anyone know of such a dataset I could buy/download?

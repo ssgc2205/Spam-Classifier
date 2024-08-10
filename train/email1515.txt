@@ -1,0 +1,3 @@
+The main thing I'm looking for is the proportion of new grads in the US graduating with each major, over the past ~50 (ideally as many as possible) years. I realize this is not entirely well defined, as different universities have different programs.
+
+Other data on these students, split by major, would also be welcome.

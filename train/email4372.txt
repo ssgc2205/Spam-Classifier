@@ -1,0 +1,1 @@
+Hello, I am planning to develop a project on facial expression recognition in children/adults with ASD. I need an image dataset of facial expressions of children/adults with ASD To develop this project. Any recommendations of labeled/unlabeled datasets will be very helpful.

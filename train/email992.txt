@@ -1,0 +1,7 @@
+I am working on a project that uses ngrams and vectorization to do name matching. I have a list of random financial institution names (about 50k) and I would like to match these names against a dictionary of companies. I have been using the government consumer complaints data dump and it works decently well, however, I'm curious if there is another source to find a list of unique financial institution names. This includes companies like,
+
+* Mortgage Lenders
+* Credit Card Companies
+* Banks
+
+&amp;#x200B;

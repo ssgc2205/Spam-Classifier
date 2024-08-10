@@ -1,0 +1,7 @@
+[https://www.kaggle.com/ashaheedq/video-games-sales-2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019)
+
+This is a scrape of the website vgchartz as of Apr 12, 2019, a total of 55,792 records in the dataset
+
+you can check the source code of the script used to generate this dataset
+
+[https://github.com/ashaheedq/vgchartzScrape](https://github.com/ashaheedq/vgchartzScrape)

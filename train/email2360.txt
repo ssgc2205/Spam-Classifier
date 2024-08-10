@@ -1,0 +1,7 @@
+Technically, I'm aiming for the employment population ratio for people 16-19 by state by month, but if I had the unemployment rate and teen population or labor force participation, I could easily generate that ratio. I'd like it to go as far back as possible, but will be happy with anything.
+
+I can't seem to find monthly state data for this anywhere - I've exhausted BLS and CPS datasets and I just can't seem to find it. Does anyone have a good lead on where to get this data? Even a starting point would be appreciated. 
+
+&amp;#x200B;
+
+Thanks in advance!

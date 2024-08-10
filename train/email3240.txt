@@ -1,0 +1,9 @@
+Hi, what I'm looking for is pretty simple but I've been unable to get to it. I want to do a bit of a cohort analysis on covid cases. I want to know what percentage of daily covid cases are occurring among the:
+
+* unvaccinated
+* post dose 1
+* post dose 2
+* post dose 3
+* etc..
+
+Ideally for the UK. Thanks

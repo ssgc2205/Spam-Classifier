@@ -1,0 +1,9 @@
+Any pointers to a dataset / website with structured content on Travel Destinations? I am looking for  data  like weather, 'things the destinations are known for',  popularity, travel season, 'things to do there' etc.. 
+
+Granted, Wiki has this information, albeit in a rather unstructured way, meaning they have paragraphs  under a heading, which may or may not exist for another destination. 
+
+Think about  making your own TripAdvisor which gives you a lot of information about a particular destination. How would you go about collecting all that information, if you did not have the resources to hire a content team or did not want to go the 'scraping' route.
+
+I need this information for about 1500 destinations.
+
+Any pointers appreciated. Much thanks !

@@ -1,0 +1,1 @@
+Is there a labeled dataset for tonality in English? I am looking for labels like formal, casual, matter of fact, enthusiastic, irreverent, respectful, funny, serious, passionate, quirky etc. or something on similar lines. Let me know if there's a known dataset or an api that can classify content (ideally social media content) in these (or similar) tones.

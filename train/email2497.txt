@@ -1,0 +1,5 @@
+More or less, I'd like part of speech features for sentences, if anyone knows where to find them.
+
+A sufficiently well-trained language understanding system will probably naturally discover features that can trivially learn this, so I could use a well-trained neural network to generate the dataset; but I'd much prefer if there is a large dataset I can try it on. I'm hopeful that there's a dataset with thousands of examples; if that exists, I'll be super happy.
+
+I looked around for something like this, and all I found were tiny, tiny worksheets that wouldn't even be enough to train a human who already knows the finicky details of how english works like they know the back of their hand.

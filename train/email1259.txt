@@ -1,0 +1,20 @@
+Canadian Tire is one of Canada's largest retailers with 503 locations, and at least one location in all provinces/territories other than Nunavut.
+
+Dataset includes:
+
+* Store url
+* Location Name
+* Street Address
+* City
+* Province
+* Postal Code
+* Country
+* Longitude
+* Latitude
+* Region
+* Collection Date
+* Store Phone Number
+* Store Services (skate sharpening, garden centre, key cutting, etc)
+* Store Hours
+
+[https://wtrfll.ca/canadian-tire-locations/](https://wtrfll.ca/canadian-tire-locations/)

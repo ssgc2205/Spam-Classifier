@@ -1,0 +1,5 @@
+Im starting an experiment which will compare biometric data from blood, breathe, sweat and urine twice a day for 90 days.
+
+I know how to put all this in a google sheet and generate charts, but can anyone recommend something a bit easier and perhaps sophisticated? I dont need a full set of business analytics tools like some of the stuff Im coming across...
+
+just something to quickly convert my daily inputs into nice visualizations, minus the clumsy workflow of a spreadsheet.

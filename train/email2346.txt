@@ -1,0 +1,3 @@
+Hi guys,
+
+I am looking for a **dataset that contains** apart from the ratings, user, and/or item features **ALSO**  the **recommended items**.  I am currently studying the effects of recommendation strategies.

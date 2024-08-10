@@ -1,0 +1,10 @@
+I’m looking for any dataset, the more interesting the better it is.
+
+It must have at least these 3 fields
+1) Unique ID
+2) Open Date
+3) Close Date
+
+Typically datasets that are good for survival analysis are good examples.
+
+But I’m keen in finding customer support service tickets datasets if it exist. Customer can open multiple tickets, and each ticket would have varying open date and close date.

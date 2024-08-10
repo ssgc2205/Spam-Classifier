@@ -1,0 +1,1 @@
+I’m doing a project in school regarding clustering categorical data (using rock algorithm) and I’ve been searching all day for datasets similar to Mushrooms (https://archive.ics.uci.edu/ml/datasets/mushroom) with no results. Thanks in advance!

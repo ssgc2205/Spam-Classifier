@@ -1,0 +1,4 @@
+Hi,
+I wish to work on HER2 analysis scoring methods and I found out there once was a contest about it @ https://warwick.ac.uk/fac/sci/dcs/research/tia/her2contest
+if someone could download that dataset and upload it somewhere I'll be really greateful! apparently you need a Warwick University login to do so.
+THANKS!

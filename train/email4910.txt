@@ -1,0 +1,3 @@
+I have a spreadsheet with 1500 school names with city and state but no address.  Is there a way to automate a search for all the addresses? 
+
+https://docs.google.com/spreadsheets/d/1HqbfMxnk9X3_mQvLyW_LEUe3Yyr7cXMPfwqUVfdq7sY/edit?usp=drivesdk

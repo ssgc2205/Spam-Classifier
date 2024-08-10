@@ -1,0 +1,7 @@
+Hi all,
+
+I think it would be interesting to merge the genetic tests that you can currently buy that tell you your ethnic origins from your DNA and photos of a person’s face.
+
+I would imagine that given a large enough data set, we could probably produce some kind of predictor of ethnicity using just photos of people’s faces.
+
+Do you guys agree?

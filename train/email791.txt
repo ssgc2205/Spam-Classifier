@@ -1,0 +1,4 @@
+Hi, guys!
+
+I would like to work on a personal ML project on Aurora Borealis (Northern Lights)/Australis visibility prediction. So far I figured out I should look for Kp/Solar flares datasets.   
+If you have any knowledge about any useful datasets, pretty please help a fellow in need! \^\^

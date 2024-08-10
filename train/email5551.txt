@@ -1,0 +1,3 @@
+I'm looking for datasets to portray the impact of Covid on any other subject (education, mental health, online sales...). The covid datasets are obviously easily retrievable - I am however having problems finding differing datasets that include data from since corona/the lockdown started. Kaggle etc seems pretty empty, or maybe I'm not very good at looking.
+
+Anyone have any interesting datasets to compare to the Covid impact ?

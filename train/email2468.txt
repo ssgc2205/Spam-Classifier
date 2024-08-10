@@ -1,0 +1,3 @@
+Hello , I am a master's student currently working on a capstone project. I wanted to ask where I can get respondents  with mental illness for my survey. For context I am working on building a model for mental illness prediction based on family history and trauma.
+
+I would appreciate any help.

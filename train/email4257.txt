@@ -1,0 +1,1 @@
+So I hardly even know what a dataset is. I’ve been researching but can’t really find anything in the proper format. I need a CSV dataset. I tried looking for ones about global real estate markets, clean energy, etc. If anyone has a dataset that easy to understand or generally interesting, please let me know!

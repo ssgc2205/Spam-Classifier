@@ -1,0 +1,1 @@
+I am working on text classification. I am interested to work on covid-19 tweets. Can any one suggest which type of information is helpful from the tweets? I will create some labeled datasets and please give some  ways for creating labeled datasets. Suggest some other example methods related for creating datasets.

@@ -1,0 +1,5 @@
+Hi all,
+
+I'm looking for an HR dataset, preferably from one real organization that has individual difference variables (e.g., personality, intelligence), demographics, and performance, that is open-source. 
+
+Appreciate any recommendations!

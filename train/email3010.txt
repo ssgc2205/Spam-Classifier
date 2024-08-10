@@ -1,0 +1,11 @@
+Hi r/datasets,
+
+CEO of the company that built [Dolt](https://github.com/liquidata-inc/dolt) and [DoltHub](https://www.dolthub.com) here. 
+
+Most folks on this sub should be pretty familiar with Dolt and DoltHub at this point. But if you aren't Dolt is Git versioning wrapped around a SQL database. DoltHub is a place to share databases in Dolt format. We think it's a better way to share open data on the internet. No importing. SQL comes with the format.
+
+Every month we'll be publishing a blog on new or interesting datasets on DoltHub. This is the first in that series:
+
+[https://www.dolthub.com/blog/2020-05-01-april-dataset-spotlight/](https://www.dolthub.com/blog/2020-05-01-april-dataset-spotlight/)
+
+If you put a dataset on Dolt and DoltHub you want us to spotlight, [hit us up](https://www.dolthub.com/contact).

@@ -1,0 +1,3 @@
+We require this for college project. I found NY Times and Huffington Post provide API. But we need articles from more business oriented newspapers like WSJ and CNN Money. 
+
+Do I have to just scrap their websites and extract articles?

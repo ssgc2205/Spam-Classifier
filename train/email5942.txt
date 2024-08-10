@@ -1,0 +1,5 @@
+Some time ago I saw, and cannot find, an infographic for Europe that showed what %age of each country was used to house 90% of the population. (Interesting take away was that the UK feels crowed compared to Germany because the UK population is more densely packed into a smaller proportion of the overall space).
+
+Am looking for base data to recreate and expand.
+
+UPDATE: I am looking for fine grained : Population in each postal code or each unit of area. I then want to sort by population and get the area of land taken by 90% of the population. Most of the density sets assume people are evenly distributed across the land.

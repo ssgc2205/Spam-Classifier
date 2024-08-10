@@ -1,0 +1,1 @@
+Where can I find data on registered or purchased electric vehicles for New York City? I've checked [data.cityofnewyork.us](https://data.cityofnewyork.us) but cannot find anything. Any ideas? Just trying to find any raw data on the breakdown of gas vehicles vs electric vehicles, etc.

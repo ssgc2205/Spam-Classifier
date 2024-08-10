@@ -1,0 +1,9 @@
+I [scraped a lot of election data from Politico a few days ago], and a kind reader discovered that Politico's third-party candidates had a lot of errors in their indicated party affiliation (Green called Democratic, etc.). So I rescraped the whole thing without identifying individual third parties (the Democrats and Republicans had no false negatives) and looked for a site that could give me the party affliations for small parties I could merge back in.
+
+Lo and behold, the New York Times embeds its election data as a JSON blob in the page source, so that was easy. As a bonus, they also include things like state legislatures and other more local offices that Politico's results didn't have. They don't drill down to the county level, however, so I couldn't have used them to begin with.
+
+I quickly scraped all the JSON blobs and put them into one JSON file with the state name as key.
+
+I'll parse and merge some more after work today, but meanwhile, I thought some might find this useful:
+
+[https://github.com/Prooffreader/election_2016_data/blob/master/nyt_election_2016_by_state.json](https://github.com/Prooffreader/election_2016_data/blob/master/nyt_election_2016_by_state.json)

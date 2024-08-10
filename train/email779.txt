@@ -1,0 +1,3 @@
+Hey, I need a dataset which will provide me info about which power generator is connected by whom. For example, Generator A in UK is connected with Generator B, Generator B with Generator D, Generator D with Generator F from Belgium etc. In short words, this should be basic info in order to build a graph (edges in this case).
+
+If you don't have info about any dataset but rather have info about a website that provides this kind of info, please do write it so I can scrape the data myself.

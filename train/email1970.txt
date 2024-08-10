@@ -1,0 +1,5 @@
+Hi all!
+
+I would like to de-trend my google search index values for a specific keyword with search volume. Do you know how it can be obtained?
+
+Thanks.

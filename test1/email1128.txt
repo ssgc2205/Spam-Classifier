@@ -1,0 +1,17 @@
+Greetings,
+
+&amp;#x200B;
+
+I am attempting to write an undergraduate econometrics paper but could REALLY use some help. In order to do so (based on my topic) I am searching for a dataset containing the following information (with at least 200 data points):
+
+&amp;#x200B;
+
+* Total life insurance coverage
+* Income
+* Home Value
+* Geographic region (preferable at least three regions within the US)
+* Number of kids
+* Age
+* Level of education
+
+If it has most but not all of these, that will be okay as well. But I for sure want to have it include the total amount of life insurance, and income of the policy holder

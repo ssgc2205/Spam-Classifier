@@ -1,0 +1,5 @@
+Does anyone know where to find this data? I'd prefer to not license the data from places like schooldigger and not having much luck apart from state-specific websites—I need it standardized for all schools nation-wide. 
+
+I've looked at [https://nces.ed.gov/](https://nces.ed.gov/) and they have great demographic and geographic data, but I'm not seeing the assessment data (I could be missing something there though). 
+
+Thanks!

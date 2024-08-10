@@ -1,0 +1,9 @@
+I'm finishing a project for one of my undergrad econometrics classes and I was trying to think of a way to measure nationalism. I was thinking hate crimes but finding that data by country seems to be near impossible. I'm kind of new to this type of analysis so I was wondering if anyone had any ideas what I could use in this situation.
+
+&amp;#x200B;
+
+Thanks so much in advance
+
+&amp;#x200B;
+
+edit: for more context on what I'm trying to measure, just an overall sense of having duty to one's country or almost...protectionist type feelings I guess

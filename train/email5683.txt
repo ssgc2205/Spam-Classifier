@@ -1,0 +1,1 @@
+Hello, I am trying to create a model in which has some connection to the weather. I look through kaggle and [data.org](https://data.org) but there isn't much data on california weather such as raining, sunny, the temperature, the wind. Can someone direct me to the dataset? Mainly Los Angeles to be specific.Thank you very much

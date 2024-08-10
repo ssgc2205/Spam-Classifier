@@ -1,0 +1,5 @@
+Hello fellow data people,
+
+I am looking for health outcomes data for all of LA County, disaggregated by ZIP Code or ZCTA. The 500 Cities project would be perfect but it doesn't cover the entire county, just the metro area. 
+
+I found one ZIP level dataset for ED visits and a few older ones (2015) at the Health District level, but otherwise no dice.

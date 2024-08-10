@@ -1,0 +1,3 @@
+I want to work on an NLP project, preferably in finance domain. For that, I am trying to search for any available dataset/documents which I can analyze and come up with some interesting results. Any ideas where I can find such a dataset and what finance-related problems I can look into?
+
+P.S. I have looked kaggle, but could not find a dataset which has documents to work on a finance domain-related task.

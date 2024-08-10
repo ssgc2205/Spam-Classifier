@@ -1,0 +1,1 @@
+hey, Everyone! Does anyone know where I can get a dataset for different dog skin diseases. Or Can anyone guide me how to scrape for them? I am currently able to scrape them from google images, but almost half of them are diagrams or irrelevant photos, that will not be useful for training a neural net.

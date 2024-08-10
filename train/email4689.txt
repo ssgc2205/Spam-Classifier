@@ -1,0 +1,21 @@
+Let's say there is a poll that 100 people voted on. The
+topic and choices with votes in parentheses are as
+following:
+Which brand of TV is better?
+1. Samsung (38)
+2. Sony (34)
+3. Same thing (28)
+
+How would you interpret the data?
+
+1. "Samsung" would be the answer bc it had the most votes
+
+OR
+
+3. "Same thing" be the answer be it encompasses the two
+individual options in a singular choice and the two
+individual options (as well as choice 3) are fairly evenly distributed
+
+Side question: 
+How does choice 3 affect votes? Couldn't I
+have drawn the conclusion they are about the same just from having choices 1 and 2 polled?

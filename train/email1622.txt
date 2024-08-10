@@ -1,0 +1,7 @@
+hey guys,
+
+I want a dataset that contains a big amount of news headlines along with their sentiment ( whether it is a positive or. negative news).
+
+If it is labeled by human it is better but I can't seem to find one on the internet.
+
+I found one which had like 1000 news and one that had 10,000 news but was labeled using Vadar so it wasn't labeled by humans or at least a more trustable algorithm.

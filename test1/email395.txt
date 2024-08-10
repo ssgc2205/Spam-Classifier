@@ -1,0 +1,1 @@
+Hey, I’m looking for a dataset about adoptees for my data science project. Especially when that takes into account if their adoptive parents are the same or different race than them.

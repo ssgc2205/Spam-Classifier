@@ -1,0 +1,1 @@
+Amazon has about 50 public datasets available through their Web Services (link in comments). Has anyone used these? The documentation talks about accessing them through AWS, does anyone know if its possible to download them once I have the set on EC2?

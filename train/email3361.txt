@@ -1,0 +1,7 @@
+Do you all know about Data Asset eXchange?
+
+The [Data Asset Exchange](https://developer.ibm.com/exchanges/data/?cm_mmc=LittleMissData-_-Data-_-WW_WW-_-LittleMissDataDAX) (DAX) offers easy navigation of open datasets for AI that are ready to use in enterprise AI applications.  For each dataset you have the option of downloading the data, exploring pre-created analysis notebooks (in R and Python), and also duplicating those notebooks in your own (free) [Watson Studio](https://www.littlemissdata.com/blog/watsonstudio) environment.
+
+Source:
+
+[https://www.littlemissdata.com/fdf/dax](https://www.littlemissdata.com/fdf/dax)

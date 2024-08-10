@@ -1,0 +1,1 @@
+I'm looking for an inexpensive place to retrieve stock market data via an API. Data doesn't have to be real time, but 15 minute delayed would be nice. If this is impossible, how about just closing prices?

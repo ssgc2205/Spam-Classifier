@@ -1,0 +1,7 @@
+Hello 
+
+Does anyone know where I can find a dataset that has covid19 active case counts for US states? I checked many datasets like JHU, but they stopped counting active cases. 
+
+All the resources given in this thread are nothing but a website that has graphs and stats. But they do not give their data anywhere (eg. Worldometer).
+
+Does anyone have any lead? Or point me in a direction where I can find one?

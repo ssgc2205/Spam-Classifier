@@ -1,0 +1,1 @@
+There seems to be a decent amount of data sets about food and their component ingredients.  What I haven't been able to find is a data set relating ingredients in food to common allergies (such and such is a derivative of wheat, etc.).

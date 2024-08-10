@@ -1,0 +1,13 @@
+I'm trying to figure out what FitBit (or similar smart watch/smart device) people have for tracking data. I'm having a hard time finding good reviews that focus on this as a main consideration.
+
+Main biomarkers to track would be the standards   
+\- heart rate  
+\- gps/steps/stairs  
+\- sleep tracking
+
+Any advice would be helpful, including things like how hard it is to export the data, and what portions of data are actually accessible after the export.
+
+  
+
+
+[View Poll](https://www.reddit.com/poll/g0kply)

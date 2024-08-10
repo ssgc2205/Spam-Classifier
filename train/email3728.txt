@@ -1,0 +1,1 @@
+I am looking for a transactional dataset such as credit card transaction data/purchase history of a consumer of a restaurant and the demographics of the consumer if possible.

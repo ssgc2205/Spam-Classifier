@@ -1,0 +1,4 @@
+Hi
+I searched UCI repository, could not find one. I can't use anything like kdd99 set which has 40 or so features. 
+
+Any help is appreciated.

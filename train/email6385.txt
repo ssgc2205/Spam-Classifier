@@ -1,0 +1,15 @@
+I imported V1 and V2 of the SQuAD dataset in Dolt for folks who want a SQL interface. [https://rajpurkar.github.io/SQuAD-explorer/](https://rajpurkar.github.io/SQuAD-explorer/)
+
+[https://www.dolthub.com/repositories/Liquidata/squad](https://www.dolthub.com/repositories/Liquidata/squad)
+
+V1 and V2 are on their own branches:
+
+[https://www.dolthub.com/repositories/Liquidata/squad/data/v2\_0](https://www.dolthub.com/repositories/Liquidata/squad/data/v2_0)
+
+[https://www.dolthub.com/repositories/Liquidata/squad/data/v1\_0](https://www.dolthub.com/repositories/Liquidata/squad/data/v1_0)
+
+V2.0 is a strict superset of V1.0 in terms of data. It seems they also removed some non-ascii characters like extra non-breaking spaces for V2.0.
+
+Quick tour of the dataset. The dataset is articles from wikipedia broken down into paragraphs. Each paragraph has a series of questions and answers associated with it. The answers also include the position of the answer in the paragraph text where the answer was stated. Some of the questions are impossible based on the text. These are marked as such.
+
+The paragraphs marked train have a single answer. The paragraphs marked dev may have multiple answers. These sometimes do not agree. According to the documentation ([https://arxiv.org/pdf/1806.03822.pdf](https://arxiv.org/pdf/1806.03822.pdf)), the questions in the dev set were answered by paid "crowdworkers".

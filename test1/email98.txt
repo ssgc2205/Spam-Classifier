@@ -1,0 +1,3 @@
+Hi all,
+
+Every coursera course I have taken has an introductory survey that asks some basic demographic information. Are there any datasets available that contain the results of these surveys? I'm looking to see which MOOCs have the highest success rates and whether there are any trends relating to demographic information.

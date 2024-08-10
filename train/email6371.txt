@@ -1,0 +1,1 @@
+I need a dataset consisting from outfits that user liked, like the user X liked the triple (top, bottom, shoes). I experimented on Polyvore datasets available on the internet but this datasets seems not to represent real user preferences

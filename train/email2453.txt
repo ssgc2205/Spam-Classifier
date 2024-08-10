@@ -1,0 +1,4 @@
+Hi guys!
+Can anyone help me to find a dataset on crowdsourcing tasks and workers?
+Something that can represent a ground truth of the crowdsourcing: incompetent workers vs super-skilled workers and so on?
+Thanks a lot in advance!

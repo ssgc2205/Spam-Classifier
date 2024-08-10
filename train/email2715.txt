@@ -1,0 +1,11 @@
+Hi /r/datasets!
+
+&amp;#x200B;
+
+As part of my master's studies we have to analyze a dataset from an organization in Tableau. I've looked around on Kaggle, but there does not seem to be any (?) organizational data on there. 
+
+Do you guys know of any datasets, websites, or other places where I could acquire such data? Apologies is this questions has been asked already, I couldn't find anything through Google or using the search function on Reddit.
+
+&amp;#x200B;
+
+Thank you!

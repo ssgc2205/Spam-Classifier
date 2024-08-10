@@ -1,0 +1,13 @@
+Lately I've become interested in figuring out how much positive equity a typical long-term homeowner has in their home, in both high-growth and not-high-growth regions. For example, in California the law prevents property tax increases, enabling people to stay in their homes even as prices go up. I'd like to examine this a bit closer, and try to understand how much equity homeowner who purchased in the 80's in, say, Mountain View, have in their homes.
+
+&amp;#x200B;
+
+So far the hard part of this analysis is not the existing home values... that stuff is everywhere. The challenge is figuring out how much of that value is eaten up by one or more mortgage. I believe I can do this one of two ways. One way would be a "positive equity" dataset. [Zillow has a great dataset](https://www.statista.com/statistics/460677/average-ltv-in-the-usa-by-state/) on "negative equity" but they don't include any numbers on positive equity! I'm not sure if this type of data exists, but it would be one way to do it.
+
+&amp;#x200B;
+
+The other way would be a dataset that contained loan-to-value (LTV) ratios by zipcode, county, metro or some other geographical factor. The closest I've come to this is [an FHA dataset that contains bands of LTV](https://www.fhfa.gov/DataTools/Downloads/Pages/Public-Use-Databases.aspx) ratios by metro statistical area. The geographic detail is excellent, but the bands are sort of broad and I'd like to be more precise.
+
+&amp;#x200B;
+
+I'll check back in tonight and tomorrow am if anyone has any questions. Appreciate any advice!

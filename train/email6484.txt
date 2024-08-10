@@ -1,0 +1,32 @@
+ 
+
+I'm looking for an eCommerce dataset, which works with implict data and should be suitable for a neuronal network. This dataset should be equivalent to Spotify Million Playlist Dataset Challenge.
+
+Instead of the tracks, there should be the order with different articles. The dataset that I'm looking for should be:
+
+     "order": [
+            {
+                "orderid": "01", 
+                "order_at": 1493424000, 
+                "num_articels": 5,
+                "price": 120.85 
+                "articels": [
+                    {
+                        "pos": 0, 
+                        "articel_name": "Apple", 
+                        "articel_id": "articel1545", 
+                        "price": 12.45, 
+    		    "amount": 2, 
+                    }, 
+                    {
+                        "pos": 0, 
+                        "articel_name": "Banana", 
+                        "articel_id": "articel1585", 
+                        "price": 5.45, 
+    		    "amount": 1, 
+                    }, 
+                   ...
+               }
+
+Does someone know a dataset that is similar to what I'm looking for? Thanks for suggestions, ideas and answers!  
+It doesn't matter if json, csv, …

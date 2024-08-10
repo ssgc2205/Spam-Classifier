@@ -1,0 +1,9 @@
+[https://www.zenrows.com/datasets/us-real-estate](https://www.zenrows.com/datasets/us-real-estate?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=dataset-us-real-estate)
+
+Disclaimer: Dataset obtained scraping [https://www.zillow.com/](https://www.zillow.com/) using a tool that we created, self-promotion.
+
+In the file, you will find features describing 10.000 houses on sale: price, bedrooms, baths, area, latitude/longitude, address, state, ...
+
+If you are interested in more data or a different Country/Region let me know. We are working on a full dateset with +100k houses that might reach 1M.
+
+If anyone uses the data for a demo or anything I'd be grateful if you share it :D

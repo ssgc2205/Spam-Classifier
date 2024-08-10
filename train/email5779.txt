@@ -1,0 +1,33 @@
+Hey there,
+
+Currently i am dealing with a large amount of unstructured user related data.
+
+General data structure:
+
+User
+
+\- Browsing history
+
+\- Browser System Data
+
+\- Mobile Phone System Data (iOS/Android)
+
+\- Application Usage (Mac/Win)
+
+And everything which can be somehow derived from the above (interest in politics, hobbies, interest in products, and so on).
+
+All data is ongoing, means: User profiles can be watched overtime (possibility to detect if user "attributes" change overtime)
+
+My question is very simple and straight:
+
+What is the data worth?
+
+Is the data already "sellable" if there are only 100-500 users or do i need 10k+ users?
+
+Why is that so confusing? Because various sites publish different "values".
+
+E.g. [https://ig.ft.com/how-much-is-your-personal-data-worth/](https://ig.ft.com/how-much-is-your-personal-data-worth/) and [https://www.vice.com/en/article/j5dkmd/how-much-is-is-your-personal-data-really-wort](https://www.vice.com/en/article/j5dkmd/how-much-is-is-your-personal-data-really-worth)h say my data is worth only \[micro\]cents, while others like [https://pawtocol.medium.com/how-much-is-user-data-worth-f2b1b0432136](https://pawtocol.medium.com/how-much-is-user-data-worth-f2b1b0432136) claim its around 35$ per month ?
+
+Legal issues are being targeted by a lawyer, therefore i only need answers regarding the data value.
+
+Thanks in advance!

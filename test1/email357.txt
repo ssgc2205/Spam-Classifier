@@ -1,0 +1,1 @@
+Hey guys, I am looking for a dataset to do some regression analysis in SAS. I have no preference as to what kind of data I use, as long as it is not sports. Also, as long as it has at least 3 predictor variables, 1 response variable, 1 categorical and 1 numerical variable, it should work for me. I am having trouble finding a good dataset. Or maybe I am just picky :( 

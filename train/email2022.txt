@@ -1,0 +1,9 @@
+I've recently been scoping out a project which, if successful,  would give me access to thousands of residential rooftops across the UK. 
+
+With this in mind, I had been tossing around the idea of throwing some additional sensing technology into the system to gather localised data. My first thought had been for environmental/local weather data, but I have no idea what sort of industries may be interested in this, and if it has any monetary value.
+
+Does anyone know if there is a market for this sort of data? 
+
+Is there any other localised data that might have value?
+
+*Apologies if I've posted this in the wrong sub!*

@@ -1,0 +1,7 @@
+Hi all, 
+
+I am looking for a Covid-19 dataset that contains the current/future planned state of zip codes (in lock-down, open phase 1 or phase 2.., opening as of x date) in North American (US and/or Canada). 
+
+I know there are a lot of sources for Covid cases, deaths and timelines which is great  :)
+
+Any direction is appreciated, cheers,

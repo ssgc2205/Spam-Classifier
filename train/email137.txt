@@ -1,0 +1,4 @@
+Hi,
+I'm searching for a dataset to test my recommender system. I need something with real content, e.g. RSS articles/feeds, blogs... AND ratings (e.g. 1-5). I've found this link for reddit data http://www.reddit.com/r/redditdev/comments/bubhl/csv_dump_of_reddit_voting_data/ but it only contains user, link_id and rating. The downside is, that trying to crawl a huge amount of data from the reddit api is slow and btw against the api conditions.
+
+So does anyone know where I can get such data? Some social related stuff would also be great (e.g. a twitter or fb user rated this article...)

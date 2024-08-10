@@ -1,0 +1,5 @@
+Hello everyone,
+
+I need to find driving data in order to make driver profiling machine learning models (preferably labeled dataset) for my diploma theses. Does anybody know any public driving dataset?
+
+Thanks in advance. Cheers

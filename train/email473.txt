@@ -1,0 +1,15 @@
+Hi folks, 
+
+I was hope to try a few machine learning techniques for recognising offensive texts. I guess I'd define offensive in the corporate kind of "not safe for work" way, or say something that would make it on the Apple app store.     
+
+Obviously it's easy getting loads of sets of texts, Twitter and what have you, it's just that these aren't separated in to what would be considered offensive and not. 
+
+Reddit seems a good source, I was thinking maybe a few of the jokes forums. And then split the two datasets in to /r/cleanjokes and /r/meanjokes. I tried youtube safety filter on and off but there's been changes to the API and this doesn't work. 
+
+Also, as this is an ML experiment obviously the more data the better. Millions of samples would be great.  
+
+The second problem is I'd like eventually like to try this on multiple languages. Again, multilingual on Twitter is super easy, it's just the labelling that's the problem. Although I'm going to concentrate on English just to start.
+
+Any thoughts on any of the above would be great. 
+
+Cheers.

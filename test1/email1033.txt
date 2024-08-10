@@ -1,0 +1,2 @@
+I  have a Python weather and air quality based data science project in mind. And I need historic Data of air and weather conditions for Delhi and Goa (states of India).
+Thanks in advance.

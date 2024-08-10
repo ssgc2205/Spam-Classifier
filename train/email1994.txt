@@ -1,0 +1,3 @@
+Hey guys. I'm currently working on a university project that consists on developing a cyberbullying detection module. As I am not supposed to build my own corpus/corpora, I'm searching the web to find corpora that are already adapted to cyberbullying detection. However, I just found two corpus and I'd like to know if you guys know some more corpus. 
+
+Thank you!

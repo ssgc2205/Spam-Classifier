@@ -1,0 +1,14 @@
+Hello frens,  
+
+
+I made an auto-updating crawler to get all stock and company data available for all companies in the S&amp;P 500 index every day.  
+
+
+It is available [here](https://www.kaggle.com/andrewmvd/sp-500-stocks).
+
+  
+Soon I will add some automated reports as well, so that high quality investment information is free and open to anyone.  
+
+
+Hope it helps,  
+Cheers

@@ -1,0 +1,4 @@
+Is there any doctor-patient conversational dataset available? It could be an audio or textual conversations dataset.  
+
+
+I'm looking for a project which involves summarizing the conservations and identifying key takeaways i.e. prescribed medicines, symptoms, etc from the conversation.

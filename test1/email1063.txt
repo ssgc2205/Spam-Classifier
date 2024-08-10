@@ -1,0 +1,5 @@
+Hi,
+
+I've been doing some research and I have a dataset that shows all institute average tuition from the 1960s to roughly today, but not broken down by college. The datasets that *are* broken down by college only start from 1990s to roughly today.
+
+Anybody have any thoughts on where I can find both?

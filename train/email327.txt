@@ -1,0 +1,16 @@
+I want to take the database of Jeopardy! answers and responses at j-archive.com and put them in a sortable database that I can use to study to try to become a contestant on the show (in jepardy, the answers are given and contestants must respond in the form of a question).  
+
+I am not a web developer. I know it's possible b/c Roger Craig, who holds the record for most money won in a game and made a lot of money at it and did well in the tournament of champions made one. He also gave a ted talk about it. 
+
+At first I tried using Excel to extract from the page, but that scraped a lot of stuff that I did not need such as contestant names. And it didn't capture the correct responses. 
+I have been able to extract using the Chrome extension posted in this thread: http://www.reddit.com/r/datasets/comments/1reixf/web_scraper_chrome_extension/
+I was able to narrow it down to just giving me the categories, dollar values, and answers, but I again did not end up with the correct responses.
+
+Ideally, my end result would have a database with the answer and correct response and dollar value all associated. so imagine a row with:
+**Category	Value	Answer	Response**
+States $200 Lake Mile Lacs in this state means 1,000 lakes, probably an understatement. 	Minnesota
+
+Potent potables $200	Vodka and orange juice.								Screw driver
+MMA		$400	President of the Ultimate Fighting Club			Dana White
+
+Is there a way for an amateur to do this?

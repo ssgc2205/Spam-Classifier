@@ -1,0 +1,5 @@
+Imagine I find data about an event that is clearly not meant to be public (since I know it is sold by a company), but that it is scrapable from a public website. It would need some processing, but it is doable.
+
+Also, the event itself is public, so there's no proprietary nature to the information itself. I can just release it and say that I collected it myself.
+
+So, can I release the dataset without much considerations? If not, what should I be concerned about?

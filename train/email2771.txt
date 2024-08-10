@@ -1,0 +1,11 @@
+Hi there,
+
+I have two data sets and see something interesting going on, but I want to check if I'm doing it right. I am looking at population from the American Community Survey 5 year estimates (2017) and also at the 2017 LEHD data from  [https://onthemap.ces.census.gov/](https://onthemap.ces.census.gov/) . I am looking at a small area in Grand Rapids.
+
+So the ACS data, which is all residents in the study area, shows that this area is primarily composed of black and Hispanic-identified people. (about 70-80%%). The jobs data from LEHD, which is composed of all workers, shows workers to be mostly white--about 70-80%. This is feasible since the overlap on population (ie, workers who also live in the study area) is very low, something like 1500 workers out of 17,000 jobs. However, when I look at LEHD's output just for workers who live in the study area (and may work elsewhere), it is also heavily white and non-Hispanic.
+
+In general, it really looks like there is a racial gap in terms of access to jobs and employment rates. Does anyone know how I might go about checking this and being sure?  I am thinking I need to do something with the margins of error for eachdata set.
+
+&amp;#x200B;
+
+Thanks.

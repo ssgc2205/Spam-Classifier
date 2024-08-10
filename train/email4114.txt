@@ -1,0 +1,5 @@
+Is there any public labeled image dataset of traffic camera feeds. I am looking to analyze traffic camera data to infer road conditions (flooded/snow/accident)? Many public datasets are available for detecting objects such as cars,  but I'm yet to come across anything related to road conditions. 
+
+Thanks.
+
+PP

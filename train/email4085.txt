@@ -1,0 +1,4 @@
+Hello reddit peeps. I am using the common BIO tagging method to tag words in a sentence.  
+I have structured my data in two lists list a contains the sentence that needs to be tagged listA --&gt; \[text\] and listB is a list of words contained within the sentence that needs to be tagged listB---&gt;\[worda, wordb, wordc,....etc\].  
+Now i have looked for open source solutions but none seem to quite work, so i wrote my own and it works fine for English language but not for Spanish or other languages. (DM will send the gist link)  
+Does anyone know how to solve this????

@@ -1,0 +1,11 @@
+Hi guys,
+
+I'm a new here.
+
+Recently I am trying to develop something using Python.
+
+What I need is CO2 emission data.
+
+Could you guys recommend me an API of CO2 emission data?
+
+Plotting CO2 emission data on y axis and x axis can be countries of the year, months, years of the country something like this.

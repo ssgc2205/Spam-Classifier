@@ -1,0 +1,3 @@
+I was wondering where I could find an hourly dataset of a climate station of a specific county.  The ideal dataset will be **hourly**, and will have information like wind speed, wind direction, atmospheric pressure, humidity, temperature, cloud type, and rainfall. 
+
+ I know that there are climate stations that collect this data but I  can only find monthly or daily datasets.

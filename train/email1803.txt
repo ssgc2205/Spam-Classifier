@@ -1,0 +1,1 @@
+I am looking for any dataset with small talk to implement in a chatbot to make it seem very conversational. I tried out api.ai's smalltalk dataset. It's good but the data is very less. Any help is appreciated.

@@ -1,0 +1,9 @@
+I am looking for a product (items) dimensions dataset that contains the item's length, height, width, weight, etc. 
+
+For example, Amazon items or products with its dimensions.
+
+I found this one [https://www.kaggle.com/olistbr/brazilian-ecommerce](https://www.kaggle.com/olistbr/brazilian-ecommerce) from kaggle.
+
+Does anyone know other than this? 
+
+Thank you

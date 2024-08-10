@@ -1,0 +1,1 @@
+Hello everyone, I need to find a data set that demonstrates some element of risk. I need to upload it to tableau. I tried to find something but I couldn't. That data set can be about spending, investing or real estate, etc.

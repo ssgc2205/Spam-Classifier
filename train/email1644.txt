@@ -1,0 +1,3 @@
+I'm looking to run some benchmark tests against a 1TB table. Where can I find one? Looked: Commercial data- https://cloud.google.com/commercial-datasets/ Public data - https://cloud.google.com/bigquery/public-data/
+
+But couldn't find any large ones.

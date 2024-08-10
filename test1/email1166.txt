@@ -1,0 +1,5 @@
+Hey guys, i want to collect data through an API but i cant find them online if any can help or point me in the right direction to look for them.
+
+I need two API's:
+1- data on available transportation on each country containing mode of transport, locations and fare price.
+2- data on COVID19 restrictions in countries containing the restrictions on travel mainly. For example in turkey there is a restriction that the country locksdown after 10 pm.

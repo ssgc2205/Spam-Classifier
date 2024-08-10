@@ -1,0 +1,1 @@
+I [posted some name data](http://www.reddit.com/r/theydidthemath/comments/22hdzn/least_number_of_names_that_cover_x_of_the_us/) in /r/TheyDidTheMath recently. [Here](http://www.speedyshare.com/HWraK) is the CSV file.

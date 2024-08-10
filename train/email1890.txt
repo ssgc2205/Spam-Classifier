@@ -1,0 +1,7 @@
+[https://drive.google.com/file/d/1QajjuQBiNUTFcba1lcFBPRvvXBxyDai0/view?usp=sharing](https://drive.google.com/file/d/1QajjuQBiNUTFcba1lcFBPRvvXBxyDai0/view?usp=sharing)
+
+I'm going to be using this dataset to predict the success of a movie using the revenue and average rating as prediction values.
+
+How should I clean this dataset? Ex: Should I make individual columns for each genre and mark them as binary values for each movie or take another approach? and much more tips like this would be appreciated.
+
+Thanks in advance

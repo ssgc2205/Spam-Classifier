@@ -1,0 +1,12 @@
+Hi All, 
+
+I'm experimenting with building an application that would utilize historical metadata on classical tracks. Specifically, the place and time a particular piece was first performed. Example unit of data:
+
+* Composer: Ludwig van Beethoven
+* Title: Symphony No. 5
+* First Performed:
+ * Nation: Austria
+ * City: Vienna
+ * Year: 1808
+
+This information can usually be found by manually reading Wikipedia, but I was hoping there was something more easily programatically accessible out there. Thanks in advance for any leads!

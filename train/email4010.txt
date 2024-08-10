@@ -1,0 +1,8 @@
+I've seen various examples of such datasets [e.g. Correlates of War], though they either don't appear to be geotagged, or *are* geotagged but don't go back far enough in history.
+
+My ideal dataset would something that begins somewhere around the year 1000 AD and ends in 2018 AD, and is either already geotagged, or has the battle location down to a city/state level . (so I can do geotagging myself).  
+
+[This Wikipedia list](https://en.wikipedia.org/wiki/List_of_battles_by_casualties) actually has everything I need (battle location *and* casualty figures), however, the data is semi-unstructured and would require some extensive and pretty messy web scraping that I don't really want to get involved in. 
+
+Would much appreciate any ideas.
+

@@ -1,0 +1,11 @@
+Hi /r/datasets!
+
+I'm doing a project centered around NFL salary data, but I'm having an extremely difficult time in finding easily accessible data on historical salaries. I'm not even talking about like salaries from 1986. I just need information going back to like, 2010. 
+
+[This is basically what I'm looking for, but for previous years](https://www.pro-football-reference.com/players/salary.htm). Pro Football Reference does not appear to have previous years.
+
+Spotrac has good data, but it doesn't seem to break it out yearlyin an easily digestable manner. If in fact it does and I'm missing something, let me know.
+
+Over The Cap also doesn't appear to have much historically, even recent history.
+
+Does anyone know of any datasets out there which could help me out? R Packages? I'm open to anything.

@@ -1,0 +1,3 @@
+I ran a script to collect all tweets using the hashtag #Chelsea for a 72 hour period from Sat - Mon. There are 297,765 tweets (42,002 are flagged as non-retweet).  I haven't really looked at the data yet, but was curious to see how news evolved on Twitter during a live situation. There is some soccer stuff mixed in there as they share the same tag. But I've uploaded the data as a JSON file, MongoDB backup, and BigQuery link. The MongoDB has a few extra fields not part of the dump.
+
+[https://github.com/jbencina/chelsea_twitter_dump](https://github.com/jbencina/chelsea_twitter_dump)

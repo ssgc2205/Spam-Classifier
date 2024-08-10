@@ -1,0 +1,13 @@
+I am working with the shapefiles from the US Census Bureau for Colorado School Districts. In the files is a variable called ALand10 or something similar. It just spits out a number and I have no clue what the units are, and I can't seem to figure it out.
+
+[Here are some notes](http://www.census.gov/geo/www/tiger/tgrshp2010/usernotes.html) from the US Census Bureau.
+
+Consider an example of Moffat County, CO (The School District is the same as the county for this case)  [Wolfram|Alpha](http://www.wolframalpha.com/input/?i=area+moffat+county%2C+co) says the area is 4751 square miles. The data from the shapefile says the area for that district is 1,494,753,340 (no units specified).
+
+I know I could just use a conversion factor, but for the paper I am working on, as well as for the sake of robustness, I would like to know what the units of measure from the shapefiles is. (Edit: The conversion factor would only work if its a linear relationship)
+
+Thanks!
+
+**tl;dr** The US Census could make their data a bit more user friendly.
+
+**Edit:** After more digging, I think the number given in the shape file is decimal degrees. I've also read that it is a bad idea to use these to calculate area. Any opinions on this?

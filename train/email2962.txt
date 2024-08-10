@@ -1,0 +1,6 @@
+Hello,
+I'm currently working on my master thesis in which i focus on big data solutions (SAP HANA in particular). I am in need of a decently sized (preferably few milion rows in fact table) data sample with some sort of transactional data for development of a business scenario. Preferably something related to retail since that's what I'm most familiar with. 
+
+I've been trying to find some sort of sample set for quite some time, yet most of them are not available publicly / contain small sample sizes. Vertica's sample (https://my.vertica.com/docs/4.1/HTML/Master/1833.htm) is more or less what I'm looking for, sadly it's not available to public.
+
+I'm looking for something containing huge fact table along with few dimension tables. Any help/tips will be appreciated.

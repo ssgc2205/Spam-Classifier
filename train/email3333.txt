@@ -1,0 +1,9 @@
+A client of mine has decades worth of data that they want to monetize. They are focused mainly on scraping, BI, and analytics, but since they already have the datasets available, they want to monetize them.
+
+We're developing the strategy as of now, but it's always best to have input from the consumer on these matters, which leads me to the following question:
+
+Which way do you go about searching datasets? Do you use the data marketplaces already out there (like Quandl), or you search a niche dataset provider to buy data from directly?
+
+Since we're currently compiling the data there is, I can't really put my finger on which datasets are available; some of them got lost throughout the years. What I know for sure is that there is quite a lot of Amazon data for specific niches, datasets on multiple aggregator sites, like job aggregators, and SM data.
+
+TL;DR: What's the best way to monetize datasets, taken from the approach of availability to find, as well as trustworthiness?

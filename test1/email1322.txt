@@ -1,0 +1,7 @@
+ [https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv](https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv)
+
+At first, I thought it meant when the project got launched online but now I'm not so sure...I'm starting to think it's when the project got started?
+
+Here is the list of unique years of launch dates:  
+
+2015 2017 2013 2012 2016 2014 2010 2011 2009 1970 2018

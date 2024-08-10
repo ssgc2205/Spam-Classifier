@@ -1,0 +1,1 @@
+I am working on a regression analysis project and am having trouble finding a good dataset that provides the average MPG for different vehicles for 2018 or later. I have tried a couple of different database websites but can not seem to find any recent datasets that I can use for this project. Does anyone know where I might find a dataset comparing the MPG of different vehicles?

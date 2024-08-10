@@ -1,0 +1,1 @@
+I'm new to stream processing and looking for some inspirational data sources I can connect to.

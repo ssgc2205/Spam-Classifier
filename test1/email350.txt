@@ -1,0 +1,13 @@
+Trying to create an app similar to [camelcamelcamel.com](https://camelcamelcamel.com). 
+
+&amp;#x200B;
+
+I need to extract prices of all amazon products daily. Can you please suggest how can I use the PA api to get the results?
+
+&amp;#x200B;
+
+I read that amazon has limited the number of responses to avoid fetching all the data. But if that is the case how is camelcamelcamel and Pricehistory, etc applications able to fetch the data daily?
+
+&amp;#x200B;
+
+Any advice would be a great help. Thank you!!

@@ -1,0 +1,7 @@
+I'm trying to run a classification tree but keep getting an error message. Can someone please point me in the right direction of what I am doing wrong?
+
+&amp;#x200B;
+
+tr &lt;- rpart(RESPONSE \~ TELEPHONE + FOREIGN + JOB + NUM\_DEPENDENTS + OWN\_RES + AGE, data = german\_credit.train, method = “anova”, minbucket = 1, maxdepth = 30, cp = 0.001) prp(tr) 
+
+Error: unexpected input in "tr &lt;- rpart(RESPONSE \~ TELEPHONE + FOREIGN + JOB + NUM\_DEPENDENTS + OWN\_RES + AGE, data = german\_credit.train, method = “"

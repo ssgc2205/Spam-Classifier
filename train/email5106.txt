@@ -1,0 +1,7 @@
+Since Shanghai Disneyland recently reopened, looking for live datasets of the wait times.
+
+Also looking for data relating to the actual queue lines at all the attractions over in Orlando. 
+
+Ex. Haunted Mansion’s line is 2500 ft long and can fit max amount of guests, while the ride itself can accommodate x amount of guests per hour.
+
+Would appreciate data also from Universal and SeaWorld Orlando locations.

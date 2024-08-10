@@ -1,0 +1,1 @@
+I'm having trouble finding data sources that have historical day-to-day case, hospitalization, and death counts. State websites are hit or miss with having day-to-day granular data. Are there any more centralized sources that are compiling this data for public consumption?

@@ -1,0 +1,5 @@
+I recently saw a collection of the cases of workplace deaths (US). I really want to use this data for university arts project. I can't find it, despite definitely discovering it on Reddit. 
+
+A quick google search returns data sets *about* workplace deaths in the US from the Bureau of Labor Statistics, but this is not what I'm looking for. I'm looking for a list of *the individual cases*. 
+
+If anyone has come across a data set like this or could point me in the right direction, that would be amazing. 

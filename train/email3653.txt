@@ -1,0 +1,47 @@
+I'm working with the FEC dataset on campaign finance. Specifically the table which shows money movement from one committee to another - [Any transaction from one committee to another file description | FEC](https://www.fec.gov/campaign-finance-data/any-transaction-one-committee-another-file-description/). My problem is ensuring that I'm correctly deduplicating reciprocal entries such that I'm not counting the same money twice.
+
+For example, here is an aggregate view for two connected committees. In line 1, the $35K is recorded as an inflow while in line 2, the same $35K is recorded again as an outflow. I only want to count the 35K once.
+
+C00010603 -&gt; C00136200 = $35,000 (18G - Transfer in from affiliated committee)
+
+C00136200 -&gt; C00010603 = $35,000 (24G - Transfer out from affiliated committee)
+
+From this, I know that 18G/24G are related, but there are quite a number of codes: [Transaction type code descriptions | FEC](https://www.fec.gov/campaign-finance-data/transaction-type-code-descriptions/). Some descriptions seem to provide some hints, but where possible I would like to avoid inferring these relationships and definitively identify the inflow/outflow pairs.
+
+Is anyone aware of someone who has done this exercise already?
+
+**Edit:**
+
+I did do an analysis to flag any identical inverted $ amounts between two committees as possibly fitting this criteria, though it doesn't give me much understanding. The first pair for example wouldn't seem like they're connected in reading the descriptions:
+
+18K = Contribution received from registered filer
+
+24K = Contribution made to nonaffiliated committee
+
+\--Top 10 pairs (Number of Pairs)--
+
+18K-&gt;24K 25,464
+
+18G-&gt;24G  2,388
+
+18J-&gt;24K  1,533
+
+22Z-&gt;24K 154
+
+18G-&gt;24K 138
+
+18K-&gt;24G 129
+
+18J-&gt;18K 118
+
+16C-&gt;20C 102
+
+18K-&gt;24Z  77
+
+24K-&gt;24Z  62
+
+||||
+|:-|:-|:-|
+||||
+
+&amp;#x200B;

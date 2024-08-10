@@ -1,0 +1,15 @@
+Hello,
+
+In 1931 a British historian named John B. Sparks made this incredible map of world history:
+
+[https://www.davidrumsey.com/luna/servlet/detail/RUMSEY\~8\~1\~200375\~3001080:The-Histomap--Four-Thousand-Years-O](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~200375~3001080:The-Histomap--Four-Thousand-Years-O)
+
+However it is not particularly rigorous (x axis is arbitrary), a bit biased towards England's imperialism and it stops at 1931. I would be interested in making a contemporary version of it, but computer-generated and using real data. Therefore I would need any of the following:
+
+– Dataset of world population by polities
+
+– Dataset of all country/polity surface area, or even of country borders over time, from which I can calculate the areas
+
+– Any other idea? 
+
+Do you know of any data source I rely on?

@@ -1,0 +1,1 @@
+I need a public dataset that contains images of blemished or defective items. Ideally this dataset would be large.  A clever proxy for this problem would also be really welcome.  Anyone have an idea?

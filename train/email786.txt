@@ -1,0 +1,4 @@
+Hello!  
+
+
+Is anyone aware of an existing dataset or set of datasets that contain the net worth of world politicians. The more countries the better and the more politicians the better. I'm willing to aggregate datasets if needed.

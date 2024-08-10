@@ -1,0 +1,1 @@
+I am basically detecting cotton diseases and need image data. Any help would be appreciated.

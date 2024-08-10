@@ -1,0 +1,3 @@
+My goal is to predict overdose rates on a more granular level, (County, city). I tried using CDC Wonder and the results are aggregated data that has no use to me. Using the API for Wonder gives me summarized data as well.
+
+I'm looking for a raw dataset similar to CDC Wonder (that isn't summarized).

@@ -1,0 +1,1 @@
+Hi there. I'm trying to generate some metrics about the media interests in some keywords. I want to get how many pieces of news were published in a historical time range (like 2014/01-2014/02). I checked a lot API, many of them have results capped, or did not support the news back in that far. Any good resources I should check? Thanks in advance.

@@ -1,0 +1,5 @@
+I'm working on a project that requires bank statements or similar - the kind any consumer gets monthly from their bank. 
+
+While searching, I see a bunch out there, (Kaggle, etc.) but these are transactions in csv. I need something that looks like actual PDF version. It doesn't have to be real customer info, just the format, so we can train and test. 
+
+Have you seen around? Thanks in advance.

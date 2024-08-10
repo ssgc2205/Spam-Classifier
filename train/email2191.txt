@@ -1,0 +1,3 @@
+Hey! I'm working on a waste detection and classification model, If anyone knows where I can find this dataset, it would really help me.
+
+Thanks in advance.

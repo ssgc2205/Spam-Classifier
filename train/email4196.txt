@@ -1,0 +1,9 @@
+I have some small datasets (&lt;10 GB each) that I want to make available for public use.
+
+I also want to release sample Python code to access and perform basic operations on the data.
+
+I was thinking of creating an organization under GCP or AWS and loading the data to BigQuery or Athena.
+
+I'm not sure if that's a good plan or how the costs could run up if people widely use the data.
+
+I'd love some suggestions for hosting data for public use! Thanks!

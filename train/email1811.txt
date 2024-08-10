@@ -1,0 +1,3 @@
+Hot on the news are the released documents of conversations between USA President Clinton and UK Prime Minister Tony Blair. There's also a lot of fake clips of the documents being shared for humorous affect. After a bit of searching (and sifting past news stories), I found these are published online [here](http://clinton.presidentiallibraries.us/items/browse?tag=Tony+Blair). However they are PDF files of scanned documents.
+
+Has anybody pushed them through some OCR to make a machine-readable version?

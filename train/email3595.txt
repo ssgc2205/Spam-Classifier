@@ -1,0 +1,3 @@
+I have a dataset that contains energy consumption collected from various buildings in my city. I am wondering normally what would an analyst use such data for. 
+
+I don’t work with energy data normally, so would be awesome if I could get some ideas from here. Thanks!

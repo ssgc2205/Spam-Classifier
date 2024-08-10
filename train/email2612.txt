@@ -1,0 +1,4 @@
+I'm putting some geospatial analysis together for cycling and I need data as finely grained as possible for the UK.  lat/long/business size or employment count   
+What I'm looking to do is plot markers on a map over an area that can be cycled to in 20 mins.  
+I've done the cycle part - I just need to overlay markers for employment.  
+I've looked at  [https://www.nomisweb.co.uk/](https://www.nomisweb.co.uk/)  but I seem only able to get summary data.   Can anyone recommend any data sources for regions of the UK?

@@ -1,0 +1,3 @@
+Hi everyone, 
+
+I am wondering if anyone knows of any fun or interesting data sets to explore as I need one for my multivariate statistics course. Basically we are to chose a data set and then perform an analysis of our choosing on it (one we learned in class) and write about it. The data set can be on anything. Thanks!

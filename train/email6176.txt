@@ -1,0 +1,3 @@
+Hey all,
+
+I'm looking for a dataset showing nutrition data for associated consumer foods. Something similar to what is used for My Fitness Pal. Anyone know of anything like this that exists or how I could go about getting my own data?

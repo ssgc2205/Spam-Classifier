@@ -1,0 +1,7 @@
+Hi 
+
+I need text-based conversations between human and chatbot in a closed domain such as customers service, education, online support...
+
+&amp;#x200B;
+
+Please help me to find a valid dataset.

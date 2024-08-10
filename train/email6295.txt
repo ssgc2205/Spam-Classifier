@@ -1,0 +1,7 @@
+I am trying to download and open the  [CPS 2000 30-day Food Security Supplement Data File: Data](https://www.ers.usda.gov/webdocs/DataFiles/50764/26552_fs00xtra.zip?v=0) from the URL link below and when it downloads on my computer I have no idea how to open it or import it into Excel or Stata so that it is actually usable. I don't have any experience with using data sets, and I'm unsure of what to do with the DAT file that it comes in. Any help is incredibly appreciated!!
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+ [https://www.ers.usda.gov/data-products/food-security-in-the-united-states/](https://www.ers.usda.gov/data-products/food-security-in-the-united-states/) 

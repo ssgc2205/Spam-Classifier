@@ -1,0 +1,7 @@
+I used this census tract shape file from [NYU](https://geo.nyu.edu/catalog/nyu-2451-34505) but there is a lot of census tracts that i am missing. For example, i have some census tracts that i need to map in my data, Im using the NYU shapefile to map them. But the shapefile dont have about 86 of the census tracts that i have. **I either need to use 2010 census tract data and then use 2010 census shapefiles or use my current 2019 census data and fidn a 2019 shapefile**
+
+Here is a list of  census Tracts i have on my data but isnt in the shapafile, Im thinking that the shape file is too old? But census is every 10 years so idk?
+
+4.03, 6.02, 6.01, 8.01, 11.02, 11.01, 13.02, 13.05, 17.02, 13.01, 17.01, 22.04, 24.03, 21.05, 21.01, 22.03, 48.02, 57.04, 59.01, 63.02, 68.01, 68.02, 74.02, 74.01, 83.02, 84.03, 79.01, 89.01, 97.02, 97.03, 108.01, 109.02, 111.01, 122.02, 119.02, 123.03, 131.02, 131.04, 132.02, 133.04, 148.08, 148.11, 153.02, 148.09, 147.03, 153.01, 199.01, 199.02, 462.03, 462.07, 462.09, 108.03, 109.03, 15.04, 21.04, 128.03, 7.01, 135.01, 148.05, 148.06, 63.01, 889.02, 2.03, 1207.01, 1347.02, 1347.01, 70.01, 24.05, 24.02, 79.02, 29.02, 83.01, 84.04, 93.01, 97.01, 1551.04, 1551.03, 107.02, 108.04, 109.01, 111.02, 116.02, 9810.0, 122.01, 123.04, 15.03
+
+Anyone got a current 2019 census tract shapefile?

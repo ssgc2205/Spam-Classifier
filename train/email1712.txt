@@ -1,0 +1,9 @@
+I'm attempting a project involving coming up with a "similarity" or "dissimilarity" measure between songs, and I think a dataset of "likes" or "dislikes" by user/playlist would be really helpful here. Is there such a thing?
+
+EDIT: I guess what I'm looking for is a dataset that looks something like
+
+    playlist1: {likes: [song1, song2, ... ], dislikes: [songA, songB, ... ]}
+    playlist2: {likes: [ ... ], dislikes: [ ... ]}
+    ...
+
+So a list of playlists each with a list of liked songs and disliked songs.

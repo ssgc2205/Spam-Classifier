@@ -1,0 +1,1 @@
+Can anyone please share some information on how to create data for CDR analysis and IP detail record analysis. And please anyone share the existing data repository link I need to do some analysis on data set and tried different data generators but didn't get the desired result. Any help will be appreciated.

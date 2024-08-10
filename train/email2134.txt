@@ -1,0 +1,5 @@
+Hello,
+
+I am currently working on bed detection for university using infrared pictures and I am struggling to find infrared pictures of beds. 
+
+Does anyone know where to find infrared pictures of beds?

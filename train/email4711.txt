@@ -1,0 +1,1 @@
+Does anyone know where I can find datasets for pictures of people/infants with jaundice? I am working on a model that predicts Jaundice, as part of a larger model which detects many diseases like Jaundice from just a picture of the subject. It doesn't need to be labeled, I just need pictures of people with Jaundice. Thanks.

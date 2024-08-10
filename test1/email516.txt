@@ -1,0 +1,3 @@
+I've been looking around for a corpus of [IPTC NewsCode](http://textalytics.com/core/classmodels?model=IPTC_en) tagged data for training a text classifier. 
+
+So far I haven't been able to find anything (as most of the IPTC recommended sites are down or require crazy fees before I can even check that they provide what I need).

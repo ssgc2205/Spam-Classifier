@@ -1,0 +1,1 @@
+ Hey there, I'm doing a data science project at UoT and I'm looking for a dataset, or datasets, that include: Date of Birth, Occupational Title, and Level of education, for Canada or elsewhere but I'm having a really hard time finding anything. I figured stats can but they only list age and not date of birth. Would anyone know where to look?

@@ -1,0 +1,1 @@
+I am looking for some stream data sources that people know of that I can use for experimenting with some Complex Event Processing tools/platforms. I find the area really interesting, however I have no idea where to get data to practice with.

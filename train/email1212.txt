@@ -1,0 +1,3 @@
+Hey Guys! I'm working on a large scale data project that will require a lot of database analysis. Only problem, I was given the data on paper. Is there a program that will take scanned docs and put them in a spreadsheet relatively cleanly? 
+
+I'm putting them in hand but it is taking a TON of time... 

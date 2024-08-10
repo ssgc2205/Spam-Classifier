@@ -1,0 +1,6 @@
+I know the question sounds stupid and I need to be more specific but I need a classifier(binary) for tweets based on its "relatedness" to money. Few of the possible ways I have thought: 
+1. Get the twitter data from multiple money related hashtags.
+2. Parsing wiki for the terms and getting the corpus, followed by extracting nouns and verbs. What would be the easiest way to do this? 
+
+Any direction is much appreciated for extracting the data I am looking for.
+

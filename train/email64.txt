@@ -1,0 +1,5 @@
+I'm part of a joint class between the School of the Art Institute of Chicago and Northwestern University called Data as Art. It challenges us to think about data in different ways, and not just look at it as the result of some form of automated data collection we often see in our modern day lives. 
+
+This dataset contains RGB values, color names, and brightness levels from the sunrise in Chicago on October 3rd. Thought some of you may enjoy playing around with this!
+
+[Chicago Sunrise Data](https://github.com/vc1492a/Chicago-Sunrise-Data)

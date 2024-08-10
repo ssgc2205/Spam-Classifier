@@ -1,0 +1,5 @@
+Basically a data collection/creation service for data sets that do not yet exist that you want. Pricing would be based on size of data set, difficulty to collect, etc. You define the data set you want and it is collected and created for you. 
+
+Example: “All college tuition rates for in state and out of state students for the largest school in each of the 50 states from 2000-2019” 
+
+You would just need to define what columns (variables) you wanted and approximate how many rows (records) you would estimate.

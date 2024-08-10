@@ -1,0 +1,7 @@
+I want to explore some data with included location.
+
+[This graph for example](https://github.com/mnd-af/src/blob/master/2017/06/04/Uber%20Data%20Analysis.ipynb), came from a huge datasets of uber cars / drivers. Jupyter Lab has never seen a map of New York in its entire life and still it was able to print it, just by data of where the cars often are.
+
+[New York with Uber data](https://preview.redd.it/vrzaux24d6n51.png?width=1175&amp;format=png&amp;auto=webp&amp;s=4dd2957a3a24839f9f519297d233fb2ca999e34a)
+
+Anyway. If you know something let me know.

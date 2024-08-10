@@ -1,0 +1,1 @@
+I'm working on this project where mobile banking/payments data can be used to analyse the risk associated with a customer. I've looked for datasets that can be useful but to no avail (I'm pretty new to this). Could someone point me in the right direction, please?

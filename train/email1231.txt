@@ -1,0 +1,1 @@
+Looking for public data sets with hospital discharge patients primary ICD-9 Admission diagnosis, length of stay, mortality, and other any other data elements about the hospital stay.  Any sources available with clean anonymous data?

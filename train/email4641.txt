@@ -1,0 +1,5 @@
+Hey Everyone,
+
+I remember after the ... events ... at the US Capitol on January 6th, a [researcher scraped](https://threatpost.com/parler-archive-amazon-suspension/162928/) content from [Parler.com](https://Parler.com) and claimed that he/she would post it on [archive.org](https://archive.org). I have been waiting for the data to become available but have still had no luck finding it. Given that it's been months, I figure that I'm just not looking in the right place. 
+
+Would any of you kind people know where I can find the dumps?

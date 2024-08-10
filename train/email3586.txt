@@ -1,0 +1,6 @@
+
+I feel it would be easy to have a website with the most visited places by Covid patients, and make it public. This could be helpful to know what places to avoid.
+
+I am able to make a webpage displaying the data, but don't know how to get the verified data.
+
+Any patient can go to https://takeout.google.com/settings/takeout and take it themselves.

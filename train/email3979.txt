@@ -1,0 +1,5 @@
+Hello,   
+I'm looking for a large dataset (preferably over 150+ images) of pixel art character, but the characters need to have the same shape concept (round, or standing), i would even prefer if the image was only of the character's face.   
+Does anyone knows any datasets or websites that would suit my goal ?
+
+Preferred size would be 24x24

@@ -1,0 +1,7 @@
+Currently we build http://pytools.codeplex.com and customers are asking us to enhance it to be a better tool for their DS type scenarios. We'd love to get your insight, understand your stack, pain points, ...
+
+If interested please take this 2 minute survey (even if not on Windows or Visual Studio or using Python):
+
+http://surveymonkey.com/s/VSforDataScience
+
+Thank you! (PTVS engineers, not marketing)

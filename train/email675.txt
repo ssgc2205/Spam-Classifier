@@ -1,0 +1,13 @@
+I'm working on an experiment to create a OSS tool that when given a screenshot, it identifies the browser, browser version and operating system.
+
+The goal here is to help web devs identify a browser when they receive screenshot bug reports and the dev needs to work out what browser was being used.
+
+&amp;#x200B;
+
+My first obstacle however, is finding a collection of browser images (eg Chrome/Chromium/Firefox/IE/Edge/Safari) across their various versions..
+
+Any ideas?
+
+&amp;#x200B;
+
+&amp;#x200B;

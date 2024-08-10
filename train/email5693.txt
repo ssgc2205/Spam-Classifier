@@ -1,0 +1,5 @@
+Hi, all
+
+I am working on a data project about chocolate bar reviews, and am trying to track down data about the beans that are grown into them. 
+
+I have lots of data on the location, and the region they were in, but I am wondering if there are datasets related to these weather patterns in them. My data is from 2006-2017, if anyone knows anything, please do share :)

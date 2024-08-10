@@ -1,0 +1,7 @@
+Hey everyone,
+
+As the title says, I'm looking for a database relating to all types of investments/acquisitions done in the Israeli startup scene. I have found this website with search queries for companies and VCs  
+[https://finder.startupnationcentral.org/](https://finder.startupnationcentral.org/)  
+, but I can't figure out if I can download a cvs or excel version of all of the deals. Trying to do minimal data harvesing.
+
+Thank you!

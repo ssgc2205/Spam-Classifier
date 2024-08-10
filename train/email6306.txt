@@ -1,0 +1,9 @@
+Hey all,
+
+I'm looking for historical data on subreddit subscriber growth. 
+
+[subredditstats.com](https://subredditstats.com) and [frontpagemetrics.com](https://frontpagemetrics.com) provide nice graphs showing the subscriber growth of a given subreddit over the years, but I didn't find a way to get the data myself.
+
+Does anybody know where to find it? Where do those two sites get the data from?
+
+TIA

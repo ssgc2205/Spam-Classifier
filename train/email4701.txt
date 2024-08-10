@@ -1,0 +1,5 @@
+Hello,
+
+I was wondering if anyone of knew of any sites that has data on a county level for the USA. Looking for datasets that contain home prices, income, unemployment, number of jobs.
+
+Any help is appreciated!

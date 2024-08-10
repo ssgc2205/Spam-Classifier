@@ -1,0 +1,2 @@
+Hi Reddit,
+  A research project I am currently involved in is in trying to process blogs to mine memes from them. I was wondering if anyone knew if the entire reddit comment/post corpus was available because I figure that a ton of memes come up here? If so, can someone point me to this?

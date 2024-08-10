@@ -1,0 +1,1 @@
+I had an idea for a project which would require a dataset (hopefully a large one) of images containing pictures/drawings of mazes. Imagine a printed maze on a piece of paper, held to the camera and you basically have the idea. I could not find anything on any search engine or on Kaggle, so I hoped maybe someone here has such a dataset, for whatever reason. Thanks!

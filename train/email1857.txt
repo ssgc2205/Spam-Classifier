@@ -1,0 +1,9 @@
+Hey,
+
+Is there any place where I can find a dataset with the median wage per country, worldwide (not the average wage)?
+
+Average wage is available from the International Labour Organisation, but I'm yet to find data on the median wage. I know the OECD must have them, since they publish the data on the [minimum wage relative to the median wage](https://www.oecd-ilibrary.org/employment/data/earnings/minimum-wages-relative-to-median-wages_data-00313-en), but as far as I could find, the statistics on the median wage are not disclosed.
+
+Any help?
+
+Thanks!

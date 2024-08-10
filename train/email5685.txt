@@ -1,0 +1,1 @@
+I am in need of a dataset to analyze for my final project and really want something super random. My partner and I were looking at quality control of lemons or gnome information but we were having trouble downloading the datasets. So if anyone has any random datasets, preferably in an SQL format, and wants it analyzed hmu. We really just want something to throw off our prof.

@@ -1,0 +1,3 @@
+Hi,
+
+I've been trying to compile data for ethnic groups living in Canada but have hit a dead end. I can only find data for cities, eg. Toronto, Vancouver but I can't narrow it down by zip code. Does anyone have any idea how I should go about this?

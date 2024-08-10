@@ -1,0 +1,3 @@
+Hello i have dataset from this website [https://steam.internet.byu.edu](https://steam.internet.byu.edu) when i extract it it have 160 gb and i need to change file from sql to csv. I need that data to work with python .
+
+Thank you

@@ -1,0 +1,7 @@
+I'm working on a project and part of this project involves knowing where bathrooms, maintenance sheds and other such structures are inside certain California Parks. 
+
+I'm specifically looking for coordinates, so point data... but I'll take anything at this point. My partner in this endeavor has found underground structures and I've found utility maps... it seems logical that this should exist but scouring CA parks data has yielded nothing. 
+
+I've tried CA parks, SACOG, CA Spatial info library, Geographic network, Geo community, Geoinformatics, Stanford University NA GIS db, CA.data.gov, the general dept of conservation CGS publications, the dept of natural resources, ... I'm starting to think no one has this sort of information. I thought maybe it would have been stored as part of the information associated with fire control or auditing after the huge fiasco with the parks a few years ago... but can't seem to find anything.
+
+The idea is that we will cross this with information on usage of coastal parks and pollutant information to better analyze pollutant control information.

@@ -1,0 +1,3 @@
+Hi,
+
+I am looking for a dataset containing the exact location and some housing status information (like tenure) for households leaving in New York. Is there anything I can use?

@@ -1,0 +1,3 @@
+This has probably been asked a million times, so apologies in advance...
+
+Using Google's search data, how would one search weekly interest within a certain time frame and then get topic results that match?

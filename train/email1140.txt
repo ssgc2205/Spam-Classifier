@@ -1,0 +1,1 @@
+Stock prices manipulation using spam emails. Or some advice how to create it.

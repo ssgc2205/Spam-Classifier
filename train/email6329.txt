@@ -1,0 +1,5 @@
+I work for a startup that simplifies the sale of entry passes for parks &amp; museums in my state, and was granted access to spreadsheets containing all purchases made from 2015 to present. There are ~12M rows, each containing a customers' name/address/county/phone#, and the pass type/purchase date/expiration date and a few other rows.
+
+I'm using the data to build pivot tables in Excel. The question I want to answer is: "how would I identify customers who are the most likely to respond favorably to an email, phone call, text message, or letter, inviting them purchase a renewed pass from my startup's website? 
+What do you ask your data?
+If you were in my shoes, what would you ask my data?

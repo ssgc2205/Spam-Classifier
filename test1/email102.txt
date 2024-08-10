@@ -1,0 +1,17 @@
+Hi All,
+
+&amp;#x200B;
+
+I have prepared a couple of technical indicators for GPW/WSE (Warsaw Stock Exchange, Warsaw, Poland) stock prices. If anybody is interested in any other indicator or in any other format of data, please let me know. All comments more then welcome.
+
+&amp;#x200B;
+
+1) Accumulation Distribution Line (ADL)
+
+2) On-Balance Volume (OBV)
+
+3) Moving averages
+
+&amp;#x200B;
+
+[https://www.kaggle.com/hadzio/datasets](https://www.kaggle.com/hadzio/datasets)

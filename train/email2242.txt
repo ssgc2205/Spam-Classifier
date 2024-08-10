@@ -1,0 +1,5 @@
+I'm working on a project that needs data of air conditioners' electricity consumption under various conditions. 
+
+So far, I found a dataset on [Kaggle](https://www.kaggle.com/chillerenergy/chiller-energy-data) for Chillers and it's great. But I couldn't find any for normal split air conditioners or VRF systems. 
+
+Any ideas where I can find some data? Thanks in advance.

@@ -1,0 +1,3 @@
+Looking for a dataset with daily precipitation data across major stations in the UK. 
+
+The UK Met Office website has [one that has monthly averages for all the major stations](https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data) and [one that has daily averages by region](https://www.metoffice.gov.uk/hadobs/hadukp/data/download.html), but I need one that has both, daily averages and across major stations.

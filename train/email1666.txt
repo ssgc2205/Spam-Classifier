@@ -1,0 +1,3 @@
+Google Playstore Dataset now updated with 600k+ Applications and 23 attributes. Available in Kaggle:
+
+[https://www.kaggle.com/gauthamp10/google-playstore-apps](https://www.kaggle.com/gauthamp10/google-playstore-apps)

@@ -1,0 +1,5 @@
+I was wondering if I could get some help with data resources. 
+
+Im looking to build a very simple model of the effect of ecological shockes (droughts, etc.) on food/water/resource distribution. I'd be intending to get it to make better predictions of future shocks by feeding it more data (using ML techniques). 
+
+Any ideas?  

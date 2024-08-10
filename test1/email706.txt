@@ -1,0 +1,9 @@
+Hey all, I'm hoping you can help.
+
+I'm trying to do an analysis of ethnicities using the census datasets ([data.census.gov](https://data.census.gov)).
+
+What I ideally want as an end result is something like this ([http://aafederation.org/cic/briefs/2019pk.pdf](http://aafederation.org/cic/briefs/2019pk.pdf)) but for multiple ethnicities.
+
+However, the census data just gives me ethnicities that are broad. I know there is a breakdown for specific ethnicities - otherwise how did the study I linked to create their set - but I can't seem to figure out how to get this dataset.
+
+Any tips?

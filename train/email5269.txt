@@ -1,0 +1,4 @@
+So I am working on a fire prediction model and one of the datasets I am using is this fuel dataset from land fire.gov:
+https://landfire.gov/fbfm40.php
+
+I am using the python library, Rasterio, to read the dataset, but need a way to get a specific pixel value based on a long lat coordinate.  Does anyone have advice on how to do this? Help is much appreciated!

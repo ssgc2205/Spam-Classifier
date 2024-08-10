@@ -1,0 +1,3 @@
+I'm working on summarizing time series embedding to capture the holiday, weekend, seasonality impact in time series. Currently, I use data from FRED + some stock data + some kaggle dataset, but seems that most data are economically oriented and biased. 
+
+I wonder where else I can find more time series in aggregate to get better embedding? Or any suggestions on the data source for this kind of project? Any help would be appreciated!!

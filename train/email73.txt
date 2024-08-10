@@ -1,0 +1,7 @@
+Hey guys,
+
+I'm building a panel dataset for my thesis, and I need some player level data from the English Premier League and the Championship league (division below the EPL), such as shots on target, passes per game, shots on target, etc.
+
+The premier league's website has most of the stuff for teams that were in the premier League, but I also need data from some championship clubs that indicate the performance of their players, using these indicators. Would anyone know of a database/Website that has such a thing? 
+
+Cheers!

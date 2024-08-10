@@ -1,0 +1,3 @@
+I've seen the Logistic Index at the World Development Indicators (WDI) from World Bank Database, but it starts at 2007.
+
+An index that would take into account the density and quality of railways, roads, etc for each country.

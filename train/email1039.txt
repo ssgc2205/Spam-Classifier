@@ -1,0 +1,4 @@
+I'm looking for pre-1990 U.S. county-level land area. Anyone know where I can get this from the census?
+
+Exactly this, but pre-1990:
+https://www.census.gov/geo/maps-data/data/gazetteer1990.html

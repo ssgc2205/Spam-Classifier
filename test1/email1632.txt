@@ -1,0 +1,13 @@
+This is a x-post from /r/bigdata 
+
+Over the last two years, we have been designing, building, and testing a payload to be flown to the International Space Station. Our project is called GLobal AIS on Space Station (GLASS). Here are some details:
+
+* The purpose of the GLASS project is to track maritime vessel traffic worldwide from the International Space Station.
+* Most vessels over 300 gross tons must transmit an [Automatic Identification Signal \(AIS\)](https://en.wikipedia.org/wiki/Automatic_Identification_System), which is detectable from space.
+* We are looking for evaluators to participate in a one-year applied research initiative.
+* We are specifically looking to work with businesses, government organizations, and academic researchers and institutions.
+* The hardware is complete, and will launch on a SpaceX vehicle this summer.
+* When the hardware is installed, checked out, and operational, we will begin offering the data to evaluators.
+* After the one-year evaluation period is over, we intend to commercialize the platform.
+
+Anyone interested in participating in the project should visit [our website](http://www.jamssamerica.com/glass-overview/) for details. Thanks!

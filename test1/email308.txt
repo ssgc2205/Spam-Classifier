@@ -1,0 +1,5 @@
+Does anyone have any publicly available data on how much energy each country imports, ideally over the last decade, and from which countries these imports comes from?
+
+This might be a long shot, and i'm sure country-specific data is easier to find, but it would take me an eternity or two to find a same denominator for all countries, and clean the data. I was hoping someone's already done that.
+
+The closest I found is [World Bank EG.IMP.CONS.ZS](https://data.worldbank.org/indicator/EG.IMP.CONS.ZS?view=map&amp;year=2014)[ Indicator](https://data.worldbank.org/indicator/EG.IMP.CONS.ZS?view=map&amp;year=2014), but unfortunately it doesn't tell from which sources each country imports its energy.

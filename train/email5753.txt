@@ -1,0 +1,3 @@
+Hello, where can I find datasets that give raw data on the **production costs** (including capital costs, operation and maintenance costs, fuel costs... basically all the costs that can be used to calculate Levelised Cost of Energy) of electricity in France? The data also has to cover **all energy sources** (nuclear, oil, gas, coal, renewables).
+
+I need this for a college assignment that is due in a few days so any help will be greatly appreciated! Thank you :)

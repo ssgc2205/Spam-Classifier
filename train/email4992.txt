@@ -1,0 +1,17 @@
+Hey guys,
+
+I'm one of the founders of ParseHub - www.parsehub.com - a visual data extraction tool. We really want to make the world of data accessible to anyone within a few clicks. ParseHub was primarily built to handle javascript and dynamic websites, where getting data from logins, tables, dropdowns, search, pagination, forms, etc. is not a problem.
+
+It would be great if anyone can share their experience with web scraping and checkout out ParseHub for user feedback.
+
+What challenges or hassles did you encounter with web scraping or other methods or data collection?
+
+Have you tried any data extraction tools?
+
+What purpose did you need a large set of data from the web for in the past?
+
+Again, would love to hear your feedback good or bad. Please reach out at angelina@parsehub.com if you want to chat!
+
+:)
+
+Angelina

@@ -1,0 +1,1 @@
+I'm working on a market segmentation project and i'm trying to find a data vendor that can provide me with a list of companies and the number of customers each company has.  I've looked into Hoovers, Data.com, Inside View but no luck so far.  Any suggestions?

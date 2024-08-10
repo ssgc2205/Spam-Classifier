@@ -1,0 +1,4 @@
+Hiii everyone, how is life going ?!!  
+I need help to find a dataset about **FIRE** to use in an ML model. I've found one but it's for regressions only, and i need to build a model for **classification**, i also found a couple of image-based datasets, witch i don't need, i just need a simple one.
+
+**THANK YOU**

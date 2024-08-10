@@ -1,0 +1,5 @@
+I am working on evaluating healthcare needs in the year 2000 for zip codes in California, and I am looking for the percentage of uninsured individuals in California at a zip code level - I was wondering if anyone knew of a source I could turn to.
+
+So far, I have not found data on American Fact Finder, and the Small Area Health Insurance Estimates does not have zip code level data - it only has county level data.
+
+I was wondering if there are other sources I could turn to, or if there were any data vendors with that information available.

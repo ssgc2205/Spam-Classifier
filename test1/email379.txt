@@ -1,0 +1,5 @@
+I have a large dataset (website scrape) with around 200k files and ~400mb compressed. I try to move it around my local network with ZIP or 7z but it's very slow to compress, decompress, and work with it.
+
+Is there any secret sauce to make it more snappy with this datasets or I just have to suck it up?
+
+Edit: Forget the "¿", although it's a giveaway of what's my primary language.

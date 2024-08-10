@@ -1,0 +1,1 @@
+Hi. I'm in my junior year of a CS degree. I'm working on developing a predictive model for crop yields in India. I'm having trouble finding datasets for the same. If anyone has sources for such a dataset, please leave the link in a comment. It would be of great help! Thanks!

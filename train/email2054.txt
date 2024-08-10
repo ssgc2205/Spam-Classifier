@@ -1,0 +1,4 @@
+Hello
+I was thinking about a data analysis I wanted to do, essentially mapping my facebook messages with certain people over time - but i wasn't too sure how to get this data.
+
+Facebook has that "download your data" tool, but it didn't seem to give my all my messages (seemed like a weird haphazard amalgamation of conversations). I was wondering if anyone knew if it was possible to easily get this data.   

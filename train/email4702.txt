@@ -1,0 +1,3 @@
+I'm aware of the BigQuery archive of Reddit but they don't allow access to the last 6-7 months of data. So i'm looking for an alternative?
+
+I notice there has been an explosion of a particular type of submission to a sub in the past few of months. So i want to see the numbers on this.

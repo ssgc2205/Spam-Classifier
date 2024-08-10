@@ -1,0 +1,7 @@
+Hi! I'm new to the sub, so feel free to alert me to any rule-breaking behavior.
+
+I'm doing research for my uni and I'm looking for a dataset that contains a list of accounts labeled as either an organization, a bot, or an individual. I couldn't find much online despite there being a few papers on the subject. 
+
+&amp;#x200B;
+
+Thanks for the help.

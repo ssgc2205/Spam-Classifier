@@ -1,0 +1,1 @@
+I am going to develop a chatbot using Rasa NLU and I need to use it's tensorflow pipeline. To train my model I need a dataset with intents and user utterences in English. Could anyone please share a dataset suitable for this task?

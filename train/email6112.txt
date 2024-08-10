@@ -1,0 +1,1 @@
+For an assignment I need a dataset through which I can basically play out a story using at least 4 visualizations. Out of those one needs to be out of the big 3(bar, pie and line) or any of it's variations so I was thinking of probably using a geomap/heatmap if possible. Bonus points if it is relevant to the current police brutality situation but it is not a necessity

@@ -1,0 +1,5 @@
+Hello reddit world.
+
+I am a doctoral student at a research institution looking for a publicly available dataset. The desired parameters for said dataset is one that has services use outcomes (e.g., mental health treatment, medical treatment, informal treatment, etc) among a population of individuals living with a serious mental illness.  I have looked through ICPSR, SAMHSA and other sites to locate a desirable dataset but no luck...so far. The CPES dataset is of no use to me, since there are too many respondents missing in the services use domain.
+
+Do you have any suggestions of an appropriate dataset?

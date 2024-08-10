@@ -1,0 +1,1 @@
+I am not asking for the set of possible values (domain) but the values actually taken for an attribute in a given table. For example, in math, the set of values taken by a function is called the range. Is this concept useful or commonly used?

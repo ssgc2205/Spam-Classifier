@@ -1,0 +1,1 @@
+Is there any 'free' regional/district-level historical data available that has hourly points for last 8-10 years for cities like Seoul/Bangkok. I am specifically looking for districts like Seodaemun-gu in Seoul or Sala Daeng in Bangkok?

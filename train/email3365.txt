@@ -1,0 +1,13 @@
+I want to have an up-to-date data set of the most popular songs in the US over the past few years.
+
+Basically I want to find "trendy" lyrics, or phrases that are memorable and people recognize them. For example, a lot of people would recognize these phrases:
+
+"shake it off"
+"0 to 100 real quick"
+"numa numa"
+"under my umbrella"
+"slim shady"
+...
+how do I find more?
+
+I could go scrape billboard.com for the top songs every week over the last 10 years and go from there, but my web scraping skills are bad. Does anyone know a good way I can do this?

@@ -1,0 +1,6 @@
+We need to work on a dataset with the following objectives
+1. Build ER diagrams
+2. Should be able to run complex queries
+3. Do data analysis on the data which can be considered as good research 
+We are recently introduced to SQL.
+We have to use MySQL to perform all these activities.

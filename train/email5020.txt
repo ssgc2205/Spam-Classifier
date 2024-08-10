@@ -1,0 +1,1 @@
+I'm learning tensorflow and want to make simple neural network to recognize between 4 food categories.

@@ -1,0 +1,7 @@
+Hello everyone,
+
+I have been able to find very scarce fruit and vegetable budget data at the state level. Mostly from colleges and the like and I was wondering if anyone here knew about a larger dataset. 
+
+Ideally the dataset would provided information regarding production costs for fruits and vegetables (e.g. blueberries, apples, grapes, green beans, squash, sweet corn) for each county in the United States for a given year. Furthermore it would split these costs in labor, maintenance, depreciation, etc.
+
+I know it’s a tall order but even a small lead would help!

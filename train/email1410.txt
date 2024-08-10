@@ -1,0 +1,9 @@
+I'm looking for additional datasets for my research in the signal (time series) classification in biomedical domain.
+
+So far I've focused on two papers, concerning classification of activity signal for depression or schizophrenia detection:
+
+\- Depresjon: [link](https://datasets.simula.no/depresjon/) \- time series classification for depression detection
+
+\- Psykose: [link](https://datasets.simula.no/psykose/) \- time series classification for schizophrenia detection
+
+I'm looking for additional datasets to provide additional baselines for my paper. They just need to be time series data (not necessarily typical signal data like activity measurements) from biomedical domain.

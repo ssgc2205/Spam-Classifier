@@ -1,0 +1,7 @@
+Hi all, I'm currently working on a university project which involves ingesting comments from social media and determining sentiment, valence/arousal, and affect values. To do this, we need to filter by words which have some kind of meaning to them. I'm currently doing this by filtering out any words which don't match a pre-defined list of words which we know have semantic value. To do this, I'm using a couple of semantic wordlists, for example 
+
+https://www.mpqa.cs.pitt.edu/ - Sentiment example, words have positive/negative/neutral rating 
+
+http://sentiment.nrc.ca/lexicons-for-research/ - Sentiment, Valence/Arousal/Dominance, and Affect features examples here
+
+I was wondering if anyone else had sentiment or VAD wordlists they knew of?

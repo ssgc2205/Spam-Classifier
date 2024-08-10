@@ -1,0 +1,3 @@
+I am working with signal processing and machine learnign and I am trying to find audio recording of office ambience, as I plan to to use it along with my signal to train my model.
+
+All I have been able to find are tiny recordings of 10second each of individual office objects. But I am trying to find audio of at least 3 to 4 minutes capturing the ambiance of office/household and not individual sound of objects

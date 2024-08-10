@@ -1,0 +1,3 @@
+I am writing a book (free one) to teach new comers machine learning. So, searching for datasets which should be simple to teach how models work. And audience also can play with it.
+
+The data should be from a real-world. So, I will be glade to hear from all of you and thanks for the help.

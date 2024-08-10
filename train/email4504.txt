@@ -1,0 +1,7 @@
+I made this dataset for a school stats project and felt like some people might want to take a look at it too. It's a dataset of the current Intel CPUs with their specs. If you have any questions feel free to ask. 
+
+&amp;#x200B;
+
+[https://www.kaggle.com/bwolfram/intel-cpus](https://www.kaggle.com/bwolfram/intel-cpus)
+
+&amp;#x200B;

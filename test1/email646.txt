@@ -1,0 +1,9 @@
+I’m posting this in a few subreddits. Maybe someone can point me in the right direction. It’s something I need for a research project.
+
+I’m looking to find data on data use (ideally the volume of internet and phone data generated and circulated, but also the number of smartphones, number of internet connections, anything that might help).
+
+Even better would be the amount of data collected and recorded (by google, or by facebook, or by data analytics companies etc). That’s what I’m mainly interested in. Also, anything that might help me tell whether the two are interchangeable – as in, if I can’t find the amount of data collected can I use the amount of data generated as proxy?
+
+It would have to be as local as possible. So US states would be fine, but cities would be even better. Data from anywhere in the world would be good, but US or UK would be best. And it would have to be free and publicly available, since I can’t afford to pay a data analytics company to give me their data.
+
+Thanks!

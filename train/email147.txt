@@ -1,0 +1,4 @@
+Outside of visiting sites like Kaggle where the data is more or less in a form that's ingestible... What are some other techniques or search keywords you use to find data sources and not just a website with a table of results from some transformation on a data set?  
+
+
+E.G. I want to find data on dental health... but most sites give tables with statistics and not the actual source... Is there a certain term I'm not searching for that I should be? How can I filter out findings and get to the meat of the data?

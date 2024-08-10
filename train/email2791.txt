@@ -1,0 +1,1 @@
+Hi all, i'm doing my end of degree proyect and i'm looking for a dataset of roadworks mostly, I thought that a good idea will be to detect the traffic cones but I'm having some trouble finding a dataset for it, do you know any dataset that maybe could work with that idea?

@@ -1,0 +1,3 @@
+In 2014, the UN conducted the My World Survey, in which a million people from all over the world ranked the issues that are most important to them. Unfortunately, the link to the [dataset](http://data.myworld2015.org) that is given on the project's [website](http://www.worldwewant2030.org) does not work, and I cannot find the dataset anywhere else on the internets. The closest I have come to the data is the [report](https://www.nelsonmandela.org/uploads/files/wethepeoples-7million.pdf) which the UN released in December 2014.
+
+I would really love to find the original data, which should be possible because every article mentioning the survey seems to tout that the survey is open data... Anyone happens to have a link or copy of this dataset?

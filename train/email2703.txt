@@ -1,0 +1,17 @@
+I just started researching data sets this morning so please easy with me here. What I'm looking for are new businesses opening up in Washington (specifically King and Pierce County). I want something that continues to update often, or when new businesses apply for their license. I have included a link to the site I frequent that is laid out in the exact format I'm looking for. Only problem with that link is it's limited to businesses from Seattle. There's a similar set I found for the city of Tacoma, but it doesn't provide contact information. There are sites like the Washington state Corporations and Charities Filing System that work great, but the information isn't as digestible. You're unable to export the information to Excel and still include all contact information. While I'm unsure if my request is reasonable, this would be extremely helpful and I'd be forever grateful! I'll include some of the parameters I'm looking for, and thanks in advance!
+
+https://data.seattle.gov/City-Business/Active-Business-License-Tax-Certificate/wnbq-64tb
+
+
+
+-Business Legal Name
+-Trade Name
+-Ownership Type
+-NAICS Description
+-License Start Date
+-Street Address
+-City
+-State
+-Zip
+-Business Phone
+-UBI

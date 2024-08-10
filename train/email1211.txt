@@ -1,0 +1,2 @@
+Does anyone know about such a dataset that is accessible for everyone? My plan is to use it to train a StyleGAN-model.
+Thanks in advance!

@@ -1,0 +1,1 @@
+Does anyone know where I might find an open-source comprehensive dataset of U.S. political preferences (mainly republicans vs democrats)? I am particularly looking for annualised data from 1980 onwards (can be at a more fine-grained level too).

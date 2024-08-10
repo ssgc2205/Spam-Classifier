@@ -1,0 +1,11 @@
+Are you trying to change HTML Parser but thinking of which Python package to switch to?    
+
+Today I will show you a brief comparison between different methods to extract data from HTML. 
+
+Not only that but also a trick to detect whether a link carries downloadable sources.  
+
+Link: [https://towardsdatascience.com/https-towardsdatascience-com-how-to-download-files-in-a-lightning-speed-a8e8dcc694f7?source=friends\_link&amp;sk=0d260bb32bad456bbd884e1024cb97fe](https://towardsdatascience.com/https-towardsdatascience-com-how-to-download-files-in-a-lightning-speed-a8e8dcc694f7?source=friends_link&amp;sk=0d260bb32bad456bbd884e1024cb97fe)
+
+Do you have other methods which you want to share? Comment below👇🏻 
+
+\#scraping #python #comparison #htmlparser

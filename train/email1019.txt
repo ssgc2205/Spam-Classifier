@@ -1,0 +1,27 @@
+Hey everyone,
+
+I (along with 2 other people) made a project called **Newsemble**.  It is an API that allows for fast retrieval of current news (at the moment, only Indian websites are supported, but we can add others if anyone wants that). It's a REST API built using *Flask, MongoDB and BeautifulSoup*.  Due to some of the drawbacks of current news APIs (full content not available, character limit, limited requests), we wanted to build our own as were looking to do news analysis.
+
+We have made all the code open source. Please refer to the [medium blog](https://medium.com/@rg089/newsemble-3311d2dc9817) for further details and implementation of this API.
+
+*This will be useful for news analysis, trend detection, keyword detection amongst other NLP tasks.*
+
+*We are planning to release some NLP projects using this API very soon!*
+
+***Most importantly, if there are any additional features or extra news sites you want, or any other improvements in general, please do let us know. Thanks!🤝🏻***
+
+**Additionally, we are storing all the data and will release a complete dataset soon!**
+
+If you found the project useful, please 👏 the article or 🌟 the repo. It really motivates us going forward!
+
+Blog link :
+
+[https://medium.com/@rg089/newsemble-3311d2dc9817](https://medium.com/@rg089/newsemble-3311d2dc9817)
+
+Source code :
+
+[https://github.com/rg089/newsemble](https://github.com/rg089/newsemble)
+
+API link:
+
+[http://www.newsemble.ml/news/](http://www.newsemble.ml/news/)

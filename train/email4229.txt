@@ -1,0 +1,1 @@
+I'm looking for specific averages per country by year. Like annual precipitation, average max temperature, average mean temperature. Is there a database that divides this info by countries and years?

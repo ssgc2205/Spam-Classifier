@@ -1,0 +1,3 @@
+Hello everyone I'm interested in doing market basket analysis, and I'm looking for transactional data so I can do it with.
+
+Is there some datasets you would recommend?

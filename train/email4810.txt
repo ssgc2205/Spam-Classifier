@@ -1,0 +1,43 @@
+Hi Folks,
+
+&amp;#x200B;
+
+This is my first post to r/datasets so please let me know if I'm doing something wrong. I've looked for a good dataset on job search and historical hiring with dimensions on position title, position required attributes, applicant resume skills posted vs hired etc.. with all identifying information scrubbed. I'm thinking the dataset I'm looking for doesn't exist so I will probably need to create it. I think there are government labor statistics for positions by industry, but Indeed / Monster etc.. don't have any detailed public datasets. Can you point me to any public datasets that have related information and as for scraping info from Indeed or other hiring sites. Would I need an api key or do you think the company would allow web crawling / scraping without blocking my IP? Another source might be job posting on craigslist.
+
+&amp;#x200B;
+
+I appreciate any recommendations.
+
+&amp;#x200B;
+
+Some features I'm interested in.
+
+&amp;#x200B;
+
+Companies posting positions
+
+Company attribute
+
+Applicant Unique Identifier / Resource ?
+
+Applicant location / region
+
+Applicant resume attributes
+
+Applicant Considered Yes / No
+
+Applicant Hired Yes / No
+
+Posted Position Title / Description
+
+Posted Position location / region
+
+Posted Position Required Attributes
+
+Posted Position Preferred Attributes
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+&amp;#x200B;

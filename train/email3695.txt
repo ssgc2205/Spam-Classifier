@@ -1,0 +1,1 @@
+Is there a way to scrape the data that powers dashboards built with Plotly dash? I've scraped data from d3 and highCharts dashboards, and my gut tells me it should be possible for Plotly but I've never used it to build a web app. Does Plotly use GET requests to access the data? Are the requests made from client or server? Any insight would be appreciated

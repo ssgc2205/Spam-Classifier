@@ -1,0 +1,15 @@
+Hi everyone,
+
+I am currently looking for a dataset, that gives some information about the international prices of 
+
+* pea protein concentrate
+* pea protein isolate
+* soy protein concentrate
+* soy protein isolate
+* other sources of proteins
+
+The goal is to be able to track the prices. Of course, historical data is needed as well. 
+
+The closest i got was with [this](https://www.imf.org/en/Research/commodity-prices) data from the IMF. However, you can only see the soy prices, not the prices for soy protein...  
+
+Thank you in advance for your help (hope the flair is correct)

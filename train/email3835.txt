@@ -1,0 +1,3 @@
+The 20BN-JESTER dataset is a large collection of densely-labeled video clips that show **humans performing pre-definded hand gestures** in front of a laptop camera or webcam.
+
+[https://20bn.com/datasets/jester](https://20bn.com/datasets/jester)

@@ -1,0 +1,1 @@
+I am interested in all types of electric vehicles. I had been hoping to find some datasets regarding what sorts of lithium batteries were in use (e.g. lithium-polymer, lithium-ferrophosphate, lithium cobalt, etc.).

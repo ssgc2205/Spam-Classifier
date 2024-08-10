@@ -1,0 +1,11 @@
+My Morse Learning Machine Challenge was approved by Kaggle last night. For details [click here](http://ag1le.blogspot.com/2014/09/morse-learning-machine-challenge.html)
+
+The goal of this competition is to build a machine that learns how to decode audio files containing Morse code. I hope to attract people from the [Kaggle community](http://en.wikipedia.org/wiki/Kaggle) who are interested in solving new, difficult challenges using their predictive data modeling, computer science and machine learning expertise.
+During the competition, the participants build a learning system capable of decoding Morse code. To that end, they get development data consisting of 200 .WAV audio files containing short sequences of randomized Morse code. The data labels are provided for a training set so the participants can self-evaluate their systems. To evaluate their progress and compare themselves with others, they can submit their prediction results on-line to get immediate feedback. A real-time Kaggle leaderboard shows participants their current standing based on their validation set predictions.
+
+I have also provided sample Python Morse decoder to make it easier to get started. While this software is purely experimental version it has some features of the FLDIGI Morse decoder but implemented using Python instead of C++.
+Please help me to spread this message to attract participants for the Morse Learning Machine challenge!
+
+The link to the challenge is [here!](https://inclass.kaggle.com/c/morse-challenge/) 
+
+73 Mauri AG1LE

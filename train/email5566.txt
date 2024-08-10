@@ -1,0 +1,14 @@
+Does anyone know how I could retrieve demographic data for US city council districts?  Is it possible to get this all from census.gov?  
+
+The links below are examples of how I've been collecting the data so far--one city at a time, often in pdf format--slowly an inefficiently.  In each case, however, the source of the cities' demographic data is the census.  
+
+Is there single source or a systematic way I could get this same information for, say, the largest 100 US cities?
+
+Any advice is appreciated!
+
+
+http://www.bostonredevelopmentauthority.org/getattachment/02eae149-f235-4550-b274-60f25af2dbd6
+
+http://www.richmondgov.com/CityCouncil/documents/RichmondVoterDistrictsDemographics2013.pdf
+
+https://www.denvergov.org/content/denvergov/en/denver-city-council/redistricting.html

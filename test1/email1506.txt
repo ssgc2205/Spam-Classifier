@@ -1,0 +1,5 @@
+I'm interested in finding a dataset of places (possibly indexed by ISO names/numbers) with alternate names (local names, acronyms, historical names, etc).  
+
+Example: Beijing/Peking or North Korea/Democratic People's Republic of Korea/DPRK.  Any help would be much appreciated!
+
+**edit:** Since posting this, I came across [GeoNames](http://www.geonames.org) which seems in have a ton of useful geo data, including comprehensive alternate place names.  Updating with  my findings in case this helps anyone else.

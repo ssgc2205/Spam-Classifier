@@ -1,0 +1,7 @@
+I am looking for a dataset that contains names of neighborhoods to add to a map visualization in tableau.
+
+Are there any such freely available datasets?
+
+Google maps contains this information, but i don't know if this can be imported and/or brought into tableau.
+
+Thanks

@@ -1,0 +1,8 @@
+Hi,
+
+I'm working on a project that needs individual cause of death linked to the individual's education level and race/ethnicity for 1999 -2013. I've looked into the National Longitudinal Mortality Survey, but I was hoping for other options. 
+
+There's a paper by Anne Case and Angus Deaton "Rising morbidity and mortality in midlife among white
+non-Hispanic Americans in the 21st century" that mentions the use of individual death records and also has death rate by education level but I can't seem to pinpoint exactly where they found those death records from their sources aside from CDC Wonder, which doesn't have the education level.
+
+Thank you in advance!

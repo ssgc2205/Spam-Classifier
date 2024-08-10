@@ -1,0 +1,6 @@
+Hey everyone,
+
+I am wondering if anybody might know of a dataset that contains non fatal car accidents incidents for each U.S. states. I know FARs is a good source but all those accidents resulted in a fatality, and I am wanting to do some analysis on non fatal accidents. 
+
+
+Any suggestions would be greatly appreciated.

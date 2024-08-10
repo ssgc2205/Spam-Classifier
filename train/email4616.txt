@@ -1,0 +1,3 @@
+Trying to find an up to date dataset for suicide (including 2020/ covid/ lockdown times for obvious reasons, please wear a goddamn mask guys). The best I can find is 2017 ish.
+
+I'm relatively new to "data science" broadly as well. So if someone could give me some pointers for getting raw data from the CDC please lmk.

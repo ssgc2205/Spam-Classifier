@@ -1,0 +1,6 @@
+Given the current going-ons was hoping to do some analysis of Use of Force by Police in the US. I found this page on the FBI website: 
+https://www.fbi.gov/services/cjis/ucr/use-of-force
+
+Which speaks of a program for use of force data collection nationwide. It both says that a pilot program was performed and the data released, and that the program launched on January 1st, 2019 and they'll release data at least twice per year. 
+
+However, I can't find any data, either from the pilot or the actual data collection which started more than a year ago. Has anyone come across this dataset? Is it a matter of it being hard to find or has the FBI not actually released the data they said they were going to?

@@ -1,0 +1,5 @@
+I'm looking to determine some estimation for or a way to find how many times a song might have been listened to through radio plays, given something like position on Billboard's Hot 100. 
+
+&amp;#x200B;
+
+I'm having trouble even finding how many listeners a radio station would have, let alone how many times a generic radio station would play one particular songs per week.

@@ -1,0 +1,3 @@
+I'm looking for a free API, without having to enter payment details, because it's for a class project (similar to Utelly or Reelgood) for checking, given a TV show, in which services (Netflix, HBO, etc) is available to watch.
+
+Thank you.

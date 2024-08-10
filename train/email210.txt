@@ -1,0 +1,7 @@
+Yes, I got this idea from the TIL post. 
+
+The [Pizza Principle](https://en.wikipedia.org/wiki/Pizza_Principle) is a phenomenon where NYC pizza slice costs have historically matched NYC subway fares. 
+
+Does anyone know where I could find some data on this that includes both variables over time? I think it would be a really fun example for a statistics class I'm teaching. So far I've only really been able to find things that refer to a single time point.
+
+Cheers!

@@ -1,0 +1,3 @@
+I want to replicate the bars per capita analysis as [here](http://www.citylab.com/design/2012/08/geography-bars-and-restaurants/2770/) but with world cities.
+
+I've seen another site use the Google Places API. I don't really need the location data, just counts would be fine. 

@@ -1,0 +1,3 @@
+Looking to do some basic sentiment analysis and was wondering if anyone knew of any publicly available dictionaries for mapping "positive" or "negative" words or something similar. 
+
+Thanks in advance!

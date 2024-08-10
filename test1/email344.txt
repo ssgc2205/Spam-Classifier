@@ -1,0 +1,20 @@
+
+
+&gt;**TL;DR:** [here](https://www.kaggle.com/yamqwe/measuring-belief-in-conspiracy-theories)
+
+Hi Guys,
+How are you today?
+
+I've made made available a dataset containing answers to the The Generic Conspiracist Scale (GCBS) survey.
+
+The Generic Conspiracist Scale (GCBS) was created for measuring belief in conspiracy theories.
+When trying to measure belief in conspiracy theories, researchers had typically asked questions about specific conspiracy theories.
+The GCBS attempts to correct this with the approach of asking broad questions about underlying assumption that are presumed to underlie such beliefs.
+The GCBS measures an overall score and five facet scores.
+This is a dataset of 2K Answers to the 15 scale rated questions along with 30+ other variables including demographics and technical information.
+
+Credit for the original research paper: The scale was developed by Robert Brotherton, Christopher C. French and Alan D. Pickering of Goldsmiths University of London in 2013.
+
+You can find it [here](https://www.kaggle.com/yamqwe/measuring-belief-in-conspiracy-theories).
+
+Have Fun!

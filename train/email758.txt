@@ -1,0 +1,1 @@
+Hey guys, I'm looking for datasets that describe the number of satellites placed into orbit by private launch providers (like SpaceX) since the year 2000, as well as the types of customers for each launch (i.e. Government Organizations or private firms/customers). Help appreciated!

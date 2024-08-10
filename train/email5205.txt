@@ -1,0 +1,15 @@
+I'm looking for a data set with the following qualifications:
+
+* 1,000+ rows of data
+* over 40+ attributes
+* can help solve a "business problem" 
+* something where a cost benefit analysis can be done
+* Analysis will happen with a decision tree, not regression
+
+&amp;#x200B;
+
+I'll take anything close. I am starting to think these list of qualifications from my professor or too high.
+
+&amp;#x200B;
+
+Anyone have an idea?  I looked at Kaggle and wasn't able to find anything that fit those qualifications.

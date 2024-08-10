@@ -1,0 +1,1 @@
+There are lots of paid APIs for this sort of thing, but are there any free APIs that provide business listings by category (i.e. "grocery stores")? Thanks. 

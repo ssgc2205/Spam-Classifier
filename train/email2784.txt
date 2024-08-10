@@ -1,0 +1,8 @@
+&gt;Electrophysiological data from implanted electrodes in the human brain are rare, and therefore scientific access to such data has remained somewhat exclusive. Here we present a freely available curated library of implanted electrocorticographic data and analyses for 16 behavioural experiments, with 204 individual datasets from 34 patients recorded with the same amplifiers and at the same settings. For each dataset, electrode positions were carefully registered to brain anatomy. A large set of fully annotated analysis scripts with which to interpret these data is embedded in the library alongside them. All data, anatomical locations and analysis files (MATLAB code) are provided in a shared file structure at
+
+[https://searchworks.stanford.edu/view/zk881ps0522](https://searchworks.stanford.edu/view/zk881ps0522)
+
+  
+Miller, Kai Joshua. (2016). A library of human electrocorticographic data and analyses. Stanford Digital Repository. Available at: [https://purl.stanford.edu/zk881ps0522](https://purl.stanford.edu/zk881ps0522)
+
+Creative Commons license

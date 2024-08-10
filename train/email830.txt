@@ -1,0 +1,3 @@
+Should have name, age, location/address etc.
+
+This is just to create fake data for example projects. Anyone know of a good list?

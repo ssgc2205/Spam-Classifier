@@ -1,0 +1,9 @@
+Hi! I'm new-ish to actually posting on Reddit so apologies if I'm going about this wrong.
+
+&amp;#x200B;
+
+I'm looking to do some data analysis/visualization for fun using music-related data. Some ideas are looking at the Top 50 on my birthday ( I was born in 1998 ), trends in Christmas music over the years, top tracks of the Summer compared over several years, comparing popular genres over the years, etc. 
+
+Basically just want to know if anyone can guide me towards such data sets or any sources that may be related. Since data has evolved so much over my lifetime I'm assuming anything from around my birthday won't come with too much but I can probably do something fun with it using Spotify's API.
+
+Thanks for the help!

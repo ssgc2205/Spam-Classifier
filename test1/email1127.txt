@@ -1,0 +1,10 @@
+Hi,  
+ 
+
+I'm looking for some **Plant disease detection dataset.**
+
+I need Corn and Wine cultures, but can be a general dataset about plant disease.
+
+&amp;#x200B;
+
+ Thanks for your attention.

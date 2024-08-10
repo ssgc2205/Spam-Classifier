@@ -1,0 +1,7 @@
+I was wondering if anybody here knows how to dig up census block group ACS demographic information before 2010? I was interested in understanding how my neighborhood has changed over the decades and I thought that I could maybe find ACS census block group demographic information from 1990 or 1980 or 1970 etc.
+
+But when I dig around on Google or on the US Census FTP site I just find a lot of dead ends and it does not seem like the block group demographic information that you can find for 2010 - 2018 exists for earlier times.
+
+For example, when I pursued this path: [https://www2.census.gov/acs2002/Profiles/2000-2002/California/](https://www2.census.gov/acs2002/Profiles/2000-2002/California/) in the census folders, I’m able to only find specific areas like San Francisco but not the actual census blockgroups demographics. I’d like to understand, at a micro level, things like white\_pop, black\_pop, median income and that sort of thing.
+
+It seems like this block group level data doesn't exist anywhere pre-2010

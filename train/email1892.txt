@@ -1,0 +1,7 @@
+Hello!
+
+Does anyone know about any mobile application interaction datasets? I know about [Rico](https://interactionmining.org/rico), specifically **Interaction Traces** part. In short, it is a collection of  different user interaction traces for different Android applications. Each element in a trace has an associated application state (view hierarchy), screenshot and user action. Maybe there is something similar? I am more interested in interaction with Android applications or OS independent datasets. 
+
+I have searched several resources, including this subreddit. In the latter case I have found only posts that are several years old without any helpful information. Maybe I have missed something.
+
+I will be glad if anyone can help. Thank you in advance!

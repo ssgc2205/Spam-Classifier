@@ -1,0 +1,1 @@
+I am trying to hone my data cleaning skills and put this project on my portfolio.I want to demonstrate that I can work with messy data, clean it up and analyze it.Ideally I would like to consolidate disparate datasets ( in healthcare) in a single dataset for analyses.

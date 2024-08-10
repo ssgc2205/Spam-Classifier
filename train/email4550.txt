@@ -1,0 +1,5 @@
+This will be the second monthly sidebar series! I thought it'd be relevant to today's events.
+
+Post any datasets you have on Stocks, Bonds, ETFs, Mutual Funds, and anything else related to financial markets. Real time data APIs are appreciated as well!
+
+Be sure to check out the last two threads linked in the sidebar as well.

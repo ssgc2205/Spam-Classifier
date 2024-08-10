@@ -1,0 +1,8 @@
+Hi redditors,
+
+In Germany there are laws requiring individual gas stations to report prices (even intraday price changes) to a central database. I think there are even smartphone apps built on those data to inform drivers of the cheapest station near them.
+
+Does something similar exist in France? If not on the station-level, maybe a bit more aggregate (think city or district level?). It would be nice to have brand-specific time series.  
+
+
+Thanks for any suggestions!

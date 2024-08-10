@@ -1,0 +1,3 @@
+I'm working on a project where I'd like to better understand the clothing resale industry (Goodwill, Depop, Poshmark, Ebay, Facebook Marketplace), but I've been struggling to find public access datasets on the topic. 
+
+As a whole in the project, I'd like to report on industry's recent growth in popularity, interesting trends or demographic info, environmental/social implications, and ways to get involved. Ideally I would love some more data here than Statistica data points or Google Trend views and to possibly get a hold of a dataset that I could run some analysis on, but I've been coming up short on Kaggle, Github, and Google Datasets, so any help would be greatly appreciated :D

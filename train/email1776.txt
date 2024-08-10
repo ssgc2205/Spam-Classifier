@@ -1,0 +1,3 @@
+Google trends API seems to have a VERY low query limit and no way to procure an API key to go beyond that.
+
+Is there another similar API where I can pass, say, a company name (e.g. Facebook) and then get back a bunch of related keywords (e.g. ['social media', 'social', 'online', 'advertising', 'zuckerburg'] ). Google trends was a good API (returns related + their based on their trending rankings), so something like that would be great.

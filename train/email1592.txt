@@ -1,0 +1,2 @@
+I cannot find a tabular set of fortune 500 companies by revenue anywhere without paying $1,000 to fortune for the 2019 set. My set could be any year in between 2015-2019 would suffice for me. 
+ Im wanting to calculate median revenue, average revenue, and quartile ranges of revenue please.

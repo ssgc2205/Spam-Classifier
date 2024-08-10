@@ -1,0 +1,3 @@
+This is a very long shot: 
+
+Does anyone know of a dataset that consists of Dutch texts, aimed at people are learning to speak Dutch? The set should include to what language learning level it is targeted at (A1, A2, B1 or B2).  I need it for a university project where we try to train a classifier to predict the language learner level of Dutch texts aimed at Dutch language learners.

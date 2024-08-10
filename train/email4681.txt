@@ -1,0 +1,6 @@
+Hi everyone,
+
+I was looking for historical financial data like financial ratios, Assets, liabilities, etc. for US companies, but couldn't find any reliable source.
+Does anyone know where can I get this historical data?
+
+Thanks!

@@ -1,0 +1,7 @@
+Hi! I'm new in reddit, I came here looking for a specific dataset because a lot of people had asked something similar, but anyone specifically what im looking for.
+
+I you could help me i'd be very grateful.
+
+See, i'm looking for a dataset wich contains sexual content in text. I'm looking for it with the goal to train a system to detect it automatically. Just a proyect, But i've been unabke to find it in text. 
+
+I don't know if I expained myself quite good as I like but anyone, thank you very much for your time!!

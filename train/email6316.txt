@@ -1,0 +1,11 @@
+Hey all, we've just published the dataset we used to create [BoardBoss](https://boardboss.com), a computer vision / AR app that shows you all the possible words on a Boggle Board. Here's a [demo gif](https://i.imgur.com/NhFW4vi.mp4).  (You can see that app free on iOS [here](https://apple.co/2opAQRF), too)
+
+The dataset is available for download here: [https://public.roboflow.ai/object-detection/boggle-boards](https://public.roboflow.ai/object-detection/boggle-boards) 
+
+Click "fork" to get the raw images, or select the 416x416-auto-orient to download preprocessed, smaller images.
+
+&amp;#x200B;
+
+We're [Roboflow](https://roboflow.ai), a tool eliminating boilerplate code for computer vision workflows. You can add the images to your account or and one-click apply different preprocessing and augmentation steps that may improve your model's performance. Export them to any annotation format (eg COCO JSON, VOC XML, TFRecords), too. It's free up to 1GB of storage.
+
+I suspect you can pretty easily build a better model than us, and I'm hoping this dataset is a good "MNIST for object detection" parallel.

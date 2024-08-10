@@ -1,0 +1,1 @@
+I was curious if there is any dataset available that contains information regarding total water usage /day or week or month (whatever I can get) for city or state level.

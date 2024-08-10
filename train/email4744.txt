@@ -1,0 +1,9 @@
+I'm looking for a data that may have the following properties
+
+* Number of citations of marijuana-related offenses 
+* Incarceration rates for marijuana-related offenses
+* Race/ethnicity of 'offender'
+
+I realize that this really depends on the state, as some would classify it as a narcotic (and thus a CRIME) while others have decriminalized it rendering it a misdemeanor or nothing at all. 
+
+I've not used crime data before, so please comment if I could ask the question better.

@@ -1,0 +1,3 @@
+Hello! I'm looking to run some ML on a dataset for corporations and how they function with their vendors over time. I am primarily interested in correspondences such as emails, records, statements etc. The only one I have been able to find is the Enron Corpus. 
+
+Any ideas or leads would be gratefully received!

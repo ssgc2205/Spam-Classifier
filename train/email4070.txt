@@ -1,0 +1,29 @@
+   Tossing this out there for anyone who might be interested in exploring cutting edge AI unsupervised machine learning tech. Having just discovered this community and being a longtime Reddit user myself I felt some urge to get an idea from professional data scientists about their thoughts with regards to your thoughts on potential application and comparison to other tools.  Currently we are a primarily eDiscovery platform that is also utilized by law enforcement and other organizations with large data sets.  We have the following data sets available to review as a demonstration:
+
+[https://demo.agnesintel.com/](https://demo.agnesintel.com/)
+
+* **Text Documents:** 
+
+AGNES has provided the Enron email corpus for review in this demo. This silo provides an example of a standard email corpus. You can create research and review projects, search through the emails using pertinent names and terms, and toggle back and forth between the emails and their attachments. Watch how quickly the important documents become readily available.
+
+* **Audio:**
+
+AGNES shows approximately a thousand hours of the Joe Rogan podcast. AGNES platform transcribes, indexes, binds, and applies AI-powered search to audio files. Our technology shows you the entire contents of the data-set at a glance, uncovers patterns, codes and slang, and helps you find what you’re looking for faster than you thought possible.
+
+* **Audio-Based Video:**
+
+AGNES has provided 70 years of State of the Union Addresses to demonstrate our video capabilities. When you find a topic of interest, you will be brought right to the section of the video you’re interested in. You can explore how issues were discussed differently over time, find common threads, and use context-driven search to show you the complete picture on any issue.
+
+We also welcome any requests with pro-bono/non-profit data sets for review, or other reasonable requests to submit your data to explore further.
+
+Any and all feedback is appreciated and I'm sure that I, as well some other co-workers more experienced in the field, can contribute to your inquiries as well. To give a quick summary: we are an AI based platform that is an **unsupervised** technology without any need for TAR, but also has the capability to fully transcribe, index and create an organic table of contents for audio and video data, within the context of the information itself, which is what makes our tech stand out from the rest.
+
+[https://demo.agnesintel.com/](https://demo.agnesintel.com/)
+
+There's absolutely no commitment, hidden gimmicks, soft paywall or personal/payment info needed - but we would love to get some constructive feedback about what we want to be the most advanced AI-based data forensic tool out there.
+
+Key attributes of our platform:
+
+* **AI based** intuition and user input learning – more advanced and replacing TAR, training sets and “predictive coding” - Unsupervised AI machine learning
+* Context based results to maximize relevancy - data is sorted into an organic table of contents, allowing user to identify issues/concepts to find that "unknown, unknown" information they may not even be aware of
+* **Audio/Video review** – drastically reduce man-hours to review such data

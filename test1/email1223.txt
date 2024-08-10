@@ -1,0 +1,1 @@
+I am in need of a dataset that has information on which parking apps are available in European countries and how they stack up against each other. Parking might be a bit too specific, so a broader dataset with app statistics for separate countries would also work. Does somebody know where to get this information? Thanks!

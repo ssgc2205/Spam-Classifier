@@ -1,0 +1,5 @@
+Hello,
+
+I teach an undergraduate class and I was wondering if there is a single best dataset to teach machine learning. As in, is there a dataset where interesting insights can be gained through regression, classification, clustering, dimensionality reduction, association rules mining and data visualization all in one dataset? Context doesn't matter as long as a wide audience can understand the variables.
+
+Thank You

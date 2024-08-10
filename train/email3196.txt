@@ -1,0 +1,3 @@
+I don't need a specific currency, I just need a labelled dataset to start with for now. I'll eventually take images and label them myself for the required currencies. 
+
+I intend to build an app around it, I need to finish building the model and API so I can start with the app. I'll keep adding different currencies with time.

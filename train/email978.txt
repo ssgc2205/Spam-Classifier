@@ -1,0 +1,1 @@
+Hi everyone, I am looking for any available public data sets on MLB. I would also be interested in other sports (NFL/NHL/NBA/MMA/etc), but I am especially intrigued by the MLB data this season given the shift in rule enforcement mid-season and want to create some visualizations with the data. If anyone could point me in the right direction, it would be greatly appreciated.

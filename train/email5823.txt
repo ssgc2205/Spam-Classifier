@@ -1,0 +1,9 @@
+I'm trying to re-create a challenge I had at work, so I can write a data-engineering tutorial  and see how others would solve the problem. The actual data domain does not matter as long as the following characteristics are met.
+
+* Hosted on a public FTP server (user/password is fine as long as it is free)
+* Data is stored in zipped text files in the zip format (not gzip)
+* Data is updated periodically (Hourly or daily would be awesome)
+* Large files over 100MB would be ideal
+* Data format in key-value pairs, not CSV, JSON or HTML, would also be ideal
+
+I'm pretty sure this is looking for a needle in a haystack. We pull data from a vendor, but I've never seen this on a public server. Any help would be appreciated.

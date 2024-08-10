@@ -1,0 +1,7 @@
+This questionnaire is the 28-item Dissociative Experiences Scale (DES) and the 63-item Dissociation Questionnaire (DIS-Q) combined. Twenty questions overlap between the two questionnaires, so the DIS-Q versions of those questions were omitted, making the total number of questions 71, plus four demographic questions.
+
+**Edit:** Here's the final dataset: https://easyupload.io/iy6ddp
+
+This link will expire in 30 days. I don't have a better place to upload it. If the link is expired and you want access to the dataset, just message me.
+
+I'll analyze the data in the comments below for a week or two, until I start something else.

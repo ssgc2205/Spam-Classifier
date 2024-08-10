@@ -1,0 +1,3 @@
+I am currently working on several databases with different formats (.txt, .csv and .sql). My plan is to make these DBs searchable using Ripgrep. However, I find that Ripgrep searches return one long continuous string for any .sql results. It will just output the entire contents of the table rather than the row(s) you want based on your search criteria.
+
+I would like to learn how to format these databases to avoid this problem. I am assuming I will have to convert the .sql DBs to another format to do so but perhaps there is an easier option that I don't know about. Any advice would be much appreciated.

@@ -1,0 +1,1 @@
+This dataset would be used to train a machine learning-based shot boundary detector.  Very old [TRECVid](http://trecvid.nist.gov/trecvid.data.html) datasets are available, but the newer ones don't seem to be.  It seems surprising to me that no other such data is available.

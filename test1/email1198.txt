@@ -1,0 +1,7 @@
+Hello guys 
+
+I am working on a chatbot supporting Arabic language, I assume most of you here never worked on Arabic, but maybe someone crossed a chat dataset of Arabic. 
+
+What I am looking for is a reddit comment format or twitter (tweet-reply) format dataset but in Arabic. 
+
+Thank you

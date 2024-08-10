@@ -1,0 +1,15 @@
+Hi all, I am looking for any and all space related data.  If possible coordinate data for as many stars, asteroids, planets, etc. as possible.
+
+The goal I have set for myself is making a map of nearby objects in space (and their movement) using earth as a focal point.
+
+So far I have found some star catalogs on my search, but I was wondering if there is a database/dataset anyone knows of with up-to-date information on objects in space.  
+  
+  
+Edit: So far I have found a couple resources  
+- This has dataset links in the bottom left of the site http://irsa.ipac.caltech.edu/  (only image data?)  
+- There is a "Minor Planet Center" website with datasets here http://www.minorplanetcenter.net/iau/MPCORB.html  
+  
+  
+Edit 2: Thank you for the replies!  Please keep them coming!  
+/u/shaggorama --- http://data.galaxyzoo.org/  
+/u/delarhi -------- http://naif.jpl.nasa.gov/naif/, http://naif.jpl.nasa.gov/naif/toolkit.html, http://naif.jpl.nasa.gov/naif/data_generic.html, http://naif.jpl.nasa.gov/naif/data_operational.html  

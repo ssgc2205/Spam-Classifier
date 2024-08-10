@@ -1,0 +1,5 @@
+Heya, I'm looking to find monthly climate data for **each individual country** (that needs to include average temperatures, sunlight hours and precipitation) for 2019. I need to real values as opposed to differences between years.
+
+Example: [something like this](https://i.imgur.com/qP1H06S.png) for each country 
+
+Would anyone happen to know where I can find this data?

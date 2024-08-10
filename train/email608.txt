@@ -1,0 +1,1 @@
+I am trying to find a good dataset of images with labels of the objects they are of in order to test out a convolutional neural network I built. Does anyone know any datasets that would help? If possible the bounding rectangles of the items in each photo would help. 

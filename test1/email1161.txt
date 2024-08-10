@@ -1,0 +1,11 @@
+Hi I am writing my thesis on mortality and temperature.
+
+I have divided Europe in to regions (NUTS1 level) and found weekly mortality numbers for every region for every week from 2021W8 to 2020W1. That's about 1130 weeks and 100 regions.
+
+&amp;#x200B;
+
+All I need to know is what the temperature was in the specific region at the specific weeks.
+
+&amp;#x200B;
+
+So far I have only found daily data from weather stations which is very overwhelming (there are more than 100.000 weather stations in Europe and daily data is a higher frequency than I need).

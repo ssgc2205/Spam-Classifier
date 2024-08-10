@@ -1,0 +1,1 @@
+I want to create a (nonpublic) dataset of MIDI files (of popular/modern music) for my neural network.  The dataset would be created by web scraping of some webs with free midi files. It would be used in my thesis and I will (publicly) present only results of the trained network. Are there any "legal problems" with this approach? Thank you.

@@ -1,0 +1,3 @@
+I'm looking for a list of news articles based on an industry sector. Any format is applicable so long as it has the original source.
+
+I've looked at GDELT but I'm unable to drill down to the industry sector. Anyone have any experience in this field?

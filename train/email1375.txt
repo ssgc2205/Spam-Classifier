@@ -1,0 +1,8 @@
+At my old job, it seemed like I'd have a new project with a new dataset every few weeks. The hardest part of my job was understanding the data not completing the project. 
+
+Last year, I built a data catalog using the no-code platform bubble and shared it here. We ended up with quite a few people testing it out and using it on personal projects. In the last 12-months, I took the original platform I built and leveraged some open-source platforms like Amundsen to rebuild a modern data catalog focused on making data documentation transparent, collaborative, and straightforward for anyone or company. 
+
+We have a sandbox environment with dummy data that we're looking for user feedback on. If anyone is interested in giving it a spin, please let me know! We're planning to release a public version for anyone to use early next year.
+
+  
+Happy New Year, and I appreciate anyone willing to give it a try.

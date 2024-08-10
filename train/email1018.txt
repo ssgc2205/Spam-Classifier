@@ -1,0 +1,7 @@
+I have scraped the approximately 681,000 text-only comments on the FCC's website that have been submitted as of about an hour ago to the FCC proceeding relating to net neutrality.
+
+The dataset is a lot larger than anything I've dealt with in the past and I'd like someone who actually knows how to deal with something like this to help. I'm not even quite sure what interesting angles to the dataset there are.
+
+This is essentially a dataset of people's (stolen and willfully given) personal data. Out of respect for them I ask that anyone who asks for the dataset be willing to take some effort to prove who they actually are (you can do so in a PM or via the comments, doesn't matter).
+
+I'm also going to work on getting a script to run this through the haveibeenpwned.com api to see what leaks the bot's data comes from.

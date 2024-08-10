@@ -1,0 +1,1 @@
+I am doing research into the features of big data in the context of recommender systems. Specifically I am investigating the concepts that go into features in order to have knowledge about users and then generate new knowledge about users and their preferences, i.e. to recommend products/services.

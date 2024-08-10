@@ -1,0 +1,15 @@
+Hi /r/datasets
+
+I have an econometrics assignment which is troubling me at the moment.
+
+I am performing Johansen cointegration analysis on three series (log money supply, log real gdp and Long run interest rates), in constructing an unrestricted VAR real gdp shows signs of autocorrelation.
+
+There is a spike at length 4 in the correlogram for logGDP and my VAR already has seasonal dummies. 
+
+Is there anything I could add to the VAR to account for any seasonal effects there may be in logGDP.
+
+The data is annual and not seasonally adjusted. There are two structural breaks in the data which I have accounted for with shift and pulse dummies. 
+
+Any help would be appreciated.
+
+Thanks

@@ -1,0 +1,3 @@
+Hello,
+
+I want to perform sentiment analysis on venmo transcation history, however, the latest dataset I can find is from 2019. Is there anything from 2020?

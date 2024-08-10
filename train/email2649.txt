@@ -1,0 +1,4 @@
+Does anyone know where I can find data for **Historical Australian Airport OTP** preferably sorted per hour?  
+I know that [www.data.gov.au](https://www.data.gov.au) has data per airline and per route, but does anyone know of a data-set similar to the above?
+
+Thanks!

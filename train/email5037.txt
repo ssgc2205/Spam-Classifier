@@ -1,0 +1,7 @@
+I've done a bit of digging and it appears that the answer is no, but I'm wondering if there is a data source that tracks the number of suicides for the US or a source that tracks ER visits with self-inflicted injuries? I suppose, if anyone has the source handy, a dataset with the number of calls placed to the national hotline would be beneficial as well but this is not part of the official request.
+
+&amp;#x200B;
+
+For the record, a peer of mine believes that it is a widely accepted fact that Coronavirus "hype/fear/awareness/hysteria" has caused a statistically significant increase in suicides within the United States. My null hypothesis is that the opposite is true; suicide rates have not significantly increased soley due to covid-19.
+
+Edited: rephrased my null hypothesis

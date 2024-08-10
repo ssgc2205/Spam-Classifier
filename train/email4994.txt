@@ -1,0 +1,5 @@
+I noticed there were no other posts on this sub (that i could find through search anyways) that seemed to have any existing datasets for vaccine availability. I've seen many sites that scrape data for small sets of locations (i.e. for one region, state, or retailer) but nothing comprehensive and national.
+
+That's why some friends and I started [https://vacfind.org](https://vacfind.org), to help focus the efforts into one national, set of open tools and open data so there is a clear picture of vaccine availability across the US (and maybe the world).
+
+We have a [discord server](http://discord.vacfind.org) to allow volunteers to collaborate with each other and share advice, tools, and data sources so we aren't just reinventing the same wheel dozens of times.

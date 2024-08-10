@@ -1,0 +1,9 @@
+Using the list of counties from the Census bureau, I would like to fill in the blanks with longitude, and latitude values with each county for a project I'm working on. I'm new to the API stuff.
+
+Data here from the census bureau.
+
+[https://api.census.gov/data/2019/pep/population?get=NAME,POP,DENSITY&amp;for=county](https://api.census.gov/data/2019/pep/population?get=NAME,POP,DENSITY&amp;for=county)
+
+Data for the US for 3142 counties..
+
+Does this exist anywhere?

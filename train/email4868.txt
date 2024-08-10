@@ -1,0 +1,1 @@
+I'm looking for a dataset that contains data of houses that have been sold. The only thing I need in them is the address and price, but I have yet to find any reliable ones on places like Kaggle. Anyone have some good ones?

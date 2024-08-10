@@ -1,0 +1,7 @@
+Hello, I have been looking for datasets that could be applied to video game situations for a while now. Usually most of the sentiment analysis datasets are dealing with reviews.
+
+I would like something like the dataset of the prisoners' last words, which could be applied to a video-game situation where the player is sentenced to death and an NPC asks "any last words?"
+
+If anyone can think of such a dataset, please let me know, I have gone through a lot of datasets recently without finding what I am looking for.
+
+Thanks

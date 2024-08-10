@@ -1,0 +1,3 @@
+Long shot, but anyone aware of a dataset containing the full text (transcribed or other) of Martin Luther King jr's Speeches? Have an idea for a NLP project and wondering if I need to build the dataset myself.
+
+The full text behind something like this would be a great start: https://en.wikipedia.org/wiki/Sermons_and_speeches_of_Martin_Luther_King_Jr.

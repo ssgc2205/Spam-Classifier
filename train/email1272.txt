@@ -1,0 +1,1 @@
+Does anyone know where I can get daily WoW price data from 2004 to today? I could scrape it, but I would need to know where to scrape it from. Thanks, hosses.

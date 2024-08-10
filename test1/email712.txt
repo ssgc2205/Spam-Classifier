@@ -1,0 +1,3 @@
+Hi everybody! Does anybody know how to extract data from the below given link with help of Python BeautifulSoup. 
+
+https://www.wrecksite.eu/peopleView.aspx?A7ytoSAmTnoxfThFEIs4eQ==

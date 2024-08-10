@@ -1,0 +1,1 @@
+Does anything like this exist?  I'm trying to handle common misspellings and abbreviations.  For instance input "Las Vegass" would return "Las Vegas" - "St Paul" would return "Saint Paul" - S San Francisco" would return "South San Francisco" - Thank you!

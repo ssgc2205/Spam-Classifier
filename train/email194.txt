@@ -1,0 +1,7 @@
+Hi all, sharing that there's a $500 credit\* to [try Trove](http://aka.ms/trove), and jumpstart your dataset collection. It's a new marketplace built by my team at Microsoft and allows developers to find diverse, real-world image data for computer vision.
+
+Today, developers find it hard to gather the right type and quality of data for their models, and people are rarely given control or compensation for their data. You can learn more by [reading Trove's story](https://www.microsoft.com/en-us/garage/blog/2020/05/with-new-garage-project-trove-people-can-contribute-photos-to-help-developers-build-ai-models/).
+
+Reach out if you're looking for image datasets!
+
+*\*Eligibility for the $500 credit depends in part on having an acceptable Trove project and making payments via Trove. Full details on the offer and all eligibility requirements can be found in the* [***official terms***](https://trove-app.github.io/Trove%20AI%20Developer%20Trial%20Program%20Official%20Rules.pdf)*.*

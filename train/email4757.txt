@@ -1,0 +1,1 @@
+I already have a dataset of subtitles, but it's not reliably annotated for scene boundaries. I'm imagining something like a list of line indices for scene boundaries. Anyone know of anything?

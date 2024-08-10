@@ -1,0 +1,9 @@
+Does anyone know the sources for raw data?
+
+I  found a few websites that visualize the data, but can't find any raw  data sets. I even tried looking at network calls in Chrome devtools to  see if the sites are querying an api endpoint for the data. I am really  surprised there is not more interest for this in this reddit and [r/dataisbeatiful](https://www.reddit.com/r/dataisbeatiful/)
+
+[https://calculla.com/coronavirus\_2020](https://calculla.com/coronavirus_2020)  
+[https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)  
+[https://thewuhanvirus.com/](https://thewuhanvirus.com/)  
+[https://3g.dxy.cn/newh5/view/pneumonia?scene=2&amp;clicktime=1579582238&amp;enterid=1579582238&amp;from=singlemessage&amp;isappinstalled=0](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&amp;clicktime=1579582238&amp;enterid=1579582238&amp;from=singlemessage&amp;isappinstalled=0)  
+[https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)

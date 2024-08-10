@@ -1,0 +1,9 @@
+Hello everyone, 
+
+I am working on a project to identify abnormal vital signs and perhaps link them to certain diseases.
+
+I have a good dataset for people with medical conditions \[abnormal\] which I thought is the hardest part, but so far I haven't found any good dataset for healthy people dataset.
+
+I am looking for \[Blood Pressure - Respiratory Rate - Temperature - Heart Rate\] dataset for healthy people or labelled normal.
+
+Any recommendations is highly appreciated, thanks guys!

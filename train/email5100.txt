@@ -1,0 +1,9 @@
+I have collected Taxi Trip data for the cities of Chicago and NYC.
+
+These are links to the datasets in case you’re looking for them:
+
+[NYC Taxi Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+[Chicago Taxi Data](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)
+
+I was hoping to get a similar dataset for a few other cities. In particular I was interested in San Francisco, Toronto and London but any city will be greatly appreciated!

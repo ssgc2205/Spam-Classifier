@@ -1,0 +1,16 @@
+Hi,
+
+I'm looking for some publicly available individual level data from a longitudinal Randomised Control Trial (RCT).
+
+I'm looking for such a dataset because I would like to investigate the properties in terms of power to detect effects, of using percentage change from baseilne, which for whatever reason appears to remain prevalent, in comparrison to more modern techniques which use all of the raw data such as mixed effects models which allow for repeated measures on individuals.  This is stimulated by previous work on this matter which demonstrated that percentage change from baseline is a less powerful approach[1]
+
+My initial thought was that some sort of cardio-vascular drug that modifies blood pressure or related biomarkers that was tested using and RCT study design would be ideal but despite searching through this sub-reddit and various sources linked from [a Cross-Validated thread](http://stats.stackexchange.com/questions/7/locating-freely-available-data-samples/) I've been unable to find anything suitable.
+
+I'm not wholly fixed on drugs that modify blood pressure, just something where there has been a demonstrable effect of the intervention within an RCT setting.  Its my intention to analyse the data using the approaches I mentioned above and to then conduct simulations based on the real data to test the power.
+
+Thanks in advance for your suggestions,
+
+
+
+[1] Vickers AJ (2001) The use of percentage change from baseline as an outcome in a controlled trial is statistically inefficient: a simulation study BMC Med Res Methodol. 1:6   http://www.ncbi.nlm.nih.gov/pmc/articles/PMC34605/
+

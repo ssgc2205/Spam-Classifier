@@ -1,0 +1,9 @@
+[cross posted on r/nba](https://www.reddit.com/r/nba/comments/4l9d0t/nba_play_by_play_stats_with_real_time_not_game/)
+
+Have any of you guys seen NBA stats records with the real time an event happened?  I'm not interested in the game clock - I'm looking for the time the event actually happened.
+
+For example, if I look at the [play by play of tonight's GSW/OKC game via ESPN](http://espn.go.com/nba/playbyplay?gameId=400876754), I see that Stephen Curry scored a 1 pointer at the 10:27 mark of Q1.  With a game start of 6p PST I can estimate that event happened at 6:01:33 PM (1 minute 33 seconds after the start of the game), but I know it's probably not accurate due to game clock stoppages (time outs, commercials, official reviews, etc..).
+
+Use case is to do some analysis for a data science class.  I've been searching around various sport stat sites but haven't tripped on anything yet.
+
+Any pointers on where to find this or how to estimate it?

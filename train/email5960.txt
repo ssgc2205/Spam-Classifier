@@ -1,0 +1,8 @@
+[https://github.com/jihoo-kim/Coronavirus-Dataset/](https://github.com/jihoo-kim/Coronavirus-Dataset/)  
+
+
+If you want those merged in the same schema with Singapore and Hong Kong, we did that on DoltHub:
+
+[https://www.dolthub.com/repositories/Liquidata/corona-virus/data/master/case\_details](https://www.dolthub.com/repositories/Liquidata/corona-virus/data/master/case_details)
+
+That has 7658 cases currently tracked. Dolt data sync with upstreams hourly.

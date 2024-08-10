@@ -1,0 +1,1 @@
+I have three columns A,B and C. For each value in columns A and B there are multiple values in column C. I want to use this logic in pandas. “For each value in A, sum values in C until it equals  or less to value in B. Print “Yes” for those top rows in new col D and “No” for rest of rows.”

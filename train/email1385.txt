@@ -1,0 +1,1 @@
+Hi I'm looking to do some practice analysis on a data set involving the transactions of large companies. Anything from mergers/acquisitions to new product releases etc. Does anyone know of such a data set?

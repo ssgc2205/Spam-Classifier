@@ -1,0 +1,2 @@
+Is there a dataset of UI elements (like https://developer.gnome.org/hig/stable/ui-elements.html.en, and https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html)?
+I need to train a UI element CNN Classifier.

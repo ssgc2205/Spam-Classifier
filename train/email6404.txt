@@ -1,0 +1,21 @@
+The medical research side of this pandemic is advancing quickly. Sadly the same can not be said for political and strategic understanding. The more we know about the geographic distribution of medical conditions, the better decisions our governments can make. By filling in the COVID-19 Survival Calculator, you get an insight into your own personal risk as well as providing data that will be used to save lives.
+
+Your privacy is important. We do not need identifiable information. You can fill in the calculator anonymously. 
+
+Find out more visit.
+
+[https://www.covid19survivalcalculator.com/](https://www.covid19survivalcalculator.com/)
+
+Fill in the calculator. 
+
+[https://www.covid19survivalcalculator.com/calculator](https://www.covid19survivalcalculator.com/calculator)
+
+Download the dataset.
+
+https://www.covid19survivalcalculator.com/data/download.csv
+
+This project is being run by Nexoid, United Kingdom. We are a data and business systems company, usually working in the finance sector. We have pulled our resources to assist with the COVID-19 pandemic.
+
+Find out more about Nexoid 
+
+[https://www.nexoid.com/](https://www.nexoid.com/)

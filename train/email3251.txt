@@ -1,0 +1,10 @@
+Hey all,   
+
+
+I am doing an undergraduate project that's integrated with a digital marketing firm, where I will have access to the clients marketing campaigns, with anonymised IP data showing the multi touch journeys of consumers, leading to a transaction.   
+
+
+I am going to model the data on R, however the rep from the company has not given me the data yet, and I have my project supervisor from the university telling me I need to make progress and to find some data online that represents the same thing i.e publicly available anonymised consumer journey data across touch points (organic search, paid search, affiliate link, display ad, website visit).  
+
+
+Does anyone know where I could find something like this? I want to model the interaction between channels using a markov chain. If I am unable to find channel data I can model the interaction between web pages instead as I have a data set on that, but ideally looking for the former. Can anyone help?

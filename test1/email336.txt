@@ -1,0 +1,5 @@
+Hello,
+
+I'm currently working on a school project where I am responsible for developing a object recognition algorithm (I will use Tensorflow for that) that can recognise wildlife. The problem is that I don't find any datasets with many images of the different animals. The only one I found was [Cifar-100](http://www.cs.utoronto.ca/%7Ekriz/cifar.html), but it has only a small part of wildlife. Also I don't think the pictures are enough. If anyone has any sites or resources that they could be of help, please comment them! I don't care if it's only a website with images so I need to scrape them from the internet.
+
+Thank you.

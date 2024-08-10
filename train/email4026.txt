@@ -1,0 +1,3 @@
+A large dataset (8G zipped) of productions of native and non-native speakers collected from Reddit, and accurately annotated for speaker country of origin -- http://cl.haifa.ac.il/projects/L2/index.shtml. Can be used for NLP research purposes.
+
+More details in https://transacl.org/ojs/index.php/tacl/article/view/1403 ("Native Language Cognate Effects on Second Language Lexical Choice").

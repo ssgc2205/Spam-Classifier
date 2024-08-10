@@ -1,0 +1,3 @@
+Does anyone have a solid avalanche data set that includes features of what would cause an avalanche? Interested in doing some predictive analytics/ creating an app.
+
+Thanks.

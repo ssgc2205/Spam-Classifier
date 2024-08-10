@@ -1,0 +1,1 @@
+I am trying to find heart rate data. Especially data leading up to a stroke or a seizure. I’m trying to make something that will pick up on trends in the heart rate data and predict medical conditions. If anyone knows any data sets like this please let me know. Thank you all very much in advance. 

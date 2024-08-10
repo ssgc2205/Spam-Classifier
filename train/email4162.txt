@@ -1,0 +1,1 @@
+Hey guys , im currently doing my final year project on Lung Cancer detection from CT scans using deep learning . So inorder to go forward with the project , i need a large dataset of CT scans . So far getting cancerous lung CT scans has been alright . But im currently lacking in the normal lung CT scans . Any help would be much appreciated . Thanks

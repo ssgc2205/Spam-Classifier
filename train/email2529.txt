@@ -1,0 +1,1 @@
+Hi guys can I know is there any way to scrape data from subreddit for more than 1000 recent post??? It is for academy purposes. I did try Praws but it only 1000 data

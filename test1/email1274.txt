@@ -1,0 +1,1 @@
+hi, my project is to create sql injection detection using machine learning. I need some data set for SQL injection tautologies only. If i can't get the data set, can you give tips how to generate dataset my self?

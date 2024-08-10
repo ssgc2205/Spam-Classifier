@@ -1,0 +1,20 @@
+**Dataset:**   
+[https://www.kaggle.com/newshaikus/dataset](https://www.kaggle.com/newshaikus/dataset)
+
+**Search / Browse Haikus here:**   
+[https://doomhaikus.3iap.co](https://doomhaikus.3iap.co)
+
+**Context:**
+
+Dataset from an attempt to teach computers to write silly poems, given a prompt / topic. 
+
+I wrote a (surprisingly elaborate / painful) script to post each day's top news stories to Mechanical Turk, asking turkers to summarize each article as a haiku. I verified the syllable counts for each haiku against a syllable dictionary and/or manually (for unrecognized words).
+
+It's been running since March. About \~2,000 people have responded and there are now \~2,700 haikus, forever memorializing the worst year of our lives, as punchy/gloomy sets of 5, 7, 5 syllables.
+
+**Semi-plausible use cases:**
+
+* Data art
+* Language models
+* Translation (with unusual constraints)
+* Summarization

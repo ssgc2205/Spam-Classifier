@@ -1,0 +1,3 @@
+Hello,
+
+I have a question, do you know where I found the Categorical and Clustering data set?

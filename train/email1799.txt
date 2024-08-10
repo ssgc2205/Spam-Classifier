@@ -1,0 +1,17 @@
+I have been reading a few papers related to tuberculosis. There are quite a few famous sets, like Shenzhen and Montgomery.
+
+However, I found that people have used a large dataset coming from South Korea - there have been mentions of it in papers like:
+
+[https://arxiv.org/pdf/1901.07441.pdf](https://arxiv.org/pdf/1901.07441.pdf)
+
+"The Korean Institute of Tuberculosis dataset \[15\] consists of 10,848 DICOMs, of which 3,828 show tuberculosis abnormalities."
+
+[https://sci-hub.tw/https://doi.org/10.1117/12.2216198](https://sci-hub.tw/https://doi.org/10.1117/12.2216198)
+
+"10,848 DICOM data, consisting of 7,020 normal and 3,828 abnormal (TB) cases, from the Korean Institute of Tuberculosis (KIT) under Korean National Tuberculosis Association (KNTA), South Korea."
+
+&amp;#x200B;
+
+However, there is no trace of any KIT dataset related links to download.. the best I could find is the association page who published it [https://www.knta.or.kr/](https://www.knta.or.kr/) 
+
+Any help would be appreciated!

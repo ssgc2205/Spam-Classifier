@@ -1,0 +1,16 @@
+I'm doing a piece of work to look at the effect of new supermarket openings. I have 2 datasets:
+
+- Current supermarkets and their GPS co-ords
+- New budget supermarkets that are currently being built and their GPS co-ords
+
+I have built a function that finds the closest 5 current supermarkets to each new supermarket. Essentially what I am trying to show is which supermarket chains will be most affected by these new budget stores opening nearby.
+
+Structured like this (for about 50 new stores):
+
+Supermarket|1st Closest|2nd Closest|3rd Closest|4th Closest|5th Closest|
+----------------|-------------|-----------------|--------------|---------------|--------------
+New Store1 | Walmart (1km)|Target(5km)|Walmart(9km)|Safeway(20km)|Costco(22km)
+
+I'm not sure how to present my data or provide a clear answer to my question. Any ideas?
+
+Apologies if this is in the wrong sub

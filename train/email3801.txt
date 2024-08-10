@@ -1,0 +1,5 @@
+I have a large data set that includes demographic data (specifically age, ethnicity, income level, and education level).  I am looking for a data set that is a good representation of the United States population of those demographic variables so that I can see how my data compares to the United States population as a whole.  Some things I'd be looking to do: overlapping density plots/histograms of age/income level; comparison of ethnic population proportions to US as a whole; comparison of education level to US as a whole.  I know how to do all of this in R; it's just a matter of finding a data set to compare mine to.
+
+I know the Census Bereau releases census data, but what they release doesn't seem suitable for what I'm trying to accomplish; and if it does, I'm not sure how to even access it.  Would using the NHANES dataset from the CDC (~ 4000 observations) accomplish what I'm trying to do?  I have about 1500 observations, so it's not that much smaller than the NHANES dataset.
+
+If anyone has, or can point me towards an appropriate data set, I'd greatly appreciate it.

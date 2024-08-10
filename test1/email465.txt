@@ -1,0 +1,3 @@
+Looking for global data in order to analyse optimal locations for wind and solar farms. I've found datasets in GeoTiff format but don't know how to use them.
+
+Perhaps would anyone be able to suggest how to extract underlying data from GeoTiff files (e.g. PV potential values for corresponding lat/long)?

@@ -1,0 +1,1 @@
+ I am making GAN model which will be able to generate abstract artwork, I've found a few datasets from kaggle, but are there other big datasets with A LOT of samples. It would be perfect if it has  separate directories with different epochs or styles.

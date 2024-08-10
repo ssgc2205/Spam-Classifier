@@ -1,0 +1,1 @@
+Hello! I’m wanting to work with a friend on a program that could take in a rhythm and genre, then assign notes. It would analyze the dataset and *hopefully* find good notes to follow each other while not producing the exact same song every time. Any help is appreciated, thanks!

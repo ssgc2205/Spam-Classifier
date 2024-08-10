@@ -1,0 +1,3 @@
+I put together a free web app to more easily access and visualize historical Canadian weather data. Quite a bit faster and easier to use than the current government site. Still in Beta but hoping it's useful to some! 
+
+[http://www.weatherhistorycanada.com](http://www.weatherhistorycanada.com/)

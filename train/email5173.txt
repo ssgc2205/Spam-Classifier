@@ -1,0 +1,3 @@
+Hey, I am making an elderly assist chatbot. The basic functionality would be basic interactions(Can be rule-based), giving the patients reminders, asking the user how they are feeling, and so on. I have been unsuccessfully searching for the relevant dataset. Any help would be appreciated as I am on a deadline.
+
+Thanks!

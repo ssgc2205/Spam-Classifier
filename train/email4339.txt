@@ -1,0 +1,9 @@
+hey guys,
+
+i am looking for the most recent bundesliga data sets from the seasons 18-19 and 19-20 (if even possible).
+
+i tried to scrape my own datasets from [bundesliga.com](https://bundesliga.com) or [fussballdaten.de](https://fussballdaten.de), but sometimes there is simply no information for certain variables (which eventually leads to data preparation being hard). that said, i do not only want the scoreline, but as much information as possible (possession, tackles won, shots, shots on goal, successful passes, distance covered, etc., etc.). the most recent dataset i could find is [here](https://datahub.io/sports-data/german-bundesliga), but it only has data for season 18-19 (or even further in the past).
+
+i am also fine with website from which i could scrape the data (provided the website is scrapable and contains the information i need). 
+
+thanks in advance for your help!

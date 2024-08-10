@@ -1,0 +1,27 @@
+I am creating an automobile website - well, a fansite with car reviews and a basic overview of the vehicle. It covers automobiles and commercial vehicles.
+
+I am looking for data on car specifications, along with list prices for a page on the site I'm developing [the site is on localhost].
+
+
+I did look up "new car prices [year] UK" or "new car specs [year] UK", "list price cars [year] UK" on Google but couldn't find them at all, or indeed any results that were relevant.
+
+I was looking for new car prices [list price/MSRP] from the last 40 years - 1975 to now - and would really appreciate it if someone could find me the data, preferably in XLS format for Microsoft Excel (2003) because I am using Excel 2008 on OSX. 
+I was trying to categorise prices by reg-plate/year, e.g. 1979 V (January), 1979 V (February) etc., 1980 V (January), 1980 V (February) etc., 1980 W (January), 1980 W (February) etc. as specifications and prices do change per month and per year. This also applies to commercial vehicles too [Ford Transit, Volkswagen Transporter etc.].
+
+The only reason I need this data is twofold - as a primary/secondary source, and additional data for with the car pages to use.
+
+This is an example of how the data would look in excel [hypothetical data here for example purposes]:
+
+Make | Model | Engine | Fuel | Price | Introduced
+---------|----------|----------|----------|----------|----------
+**AUDI**|_|_|_|||
+**A4 Saloon**|_|_|_|||
+A4 1.8T 20V Sport | 4 Door Saloon | 4/1788 | Petrol | £18,950 | March-1995
+A2 | B2 | C2 |  | | |
+**1998 S (Book1)**|  |  |
+
+
+
+I could only find data for Irish vehicles from 2004 to 2015 [here](http://www.simi.ie/Statistics/Recommended+Price+Guides.html) and [AutoWeek.nl's car price guide](http://www.autoweek.nl/autovergelijker.php?jaar=0) but could not find any for British vehicles.
+
+I would appreciate any help - it is hard to find this data.

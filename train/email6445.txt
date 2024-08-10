@@ -1,0 +1,7 @@
+&amp;#x200B;
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+Hi everyone, I need a dataset for classification and detection of weeds using Convolutional Neural Networks.

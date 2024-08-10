@@ -1,0 +1,1 @@
+are there datasets where a crime has occurred and its details are recorded so that nlp can be applied into it?

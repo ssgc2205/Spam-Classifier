@@ -1,0 +1,9 @@
+For my grad school thesis, I'm creating a series of interactive data visualizations using D3.js. I'll be focusing on demonstrating the current state of sexual education in the US, and part of my story includes illustrating national sexual assault data.
+
+There are tons of posts in Data World from the government with results from their national surveys, etc. However, everything is in PDF form. I've reached out to a couple of the sources and asked if there's any way to get actual data but I'm not holding my breath on that...
+
+In case I can't, is there any method you could suggest I do to make their PDFs work for my purposes? Typically I'd be using a JSON or CSV for D3. [Here's an example of one of the PDFs.](https://www.bjs.gov/content/pub/pdf/App_E_Sex-Assault-Rape-Battery.pdf)
+
+If you have any workarounds, or suggestions, I'm all ears! Feel free to DM me as well.
+
+Edit: fixed link so you don't have to be logged in.

@@ -1,0 +1,11 @@
+Hi,
+I have updated the torrent for the Reddit comment data set.
+
+There are two torrents:
+[The first torrent](http://code.dewarim.com/reddit-2016-08.torrent) is simply a collection of all comments as collected by pushshift.io (files available individually). Format is JSON, compressed by bz2 per month. Download size: 236 GByte
+
+[The second torrent](http://code.dewarim.com/reddit-parquet-sentiment-2016-08.torrent) contains the same data plus the sentiment score for each comment (score, max_positive, max_negative). The format is Apache Parquet, which makes this better suited for Spark/Hadoop queries. Download size: 419 GByte
+
+With sentiment data, you can compute who is the most positive commentor of reddit (Spoiler: bots and people who compliment the ladies on /gonewild) or which [car brands](http://code.dewarim.com/index.html) are popular on reddit).  
+
+I have written some simple code for working with both formats which can be found on [Github:reddit-data-tools](https://github.com/dewarim/reddit-data-tools)

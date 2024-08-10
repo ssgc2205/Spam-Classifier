@@ -1,0 +1,12 @@
+Hey everyone,
+
+I've been scraping r/wallstreetbets since March and I've made the data public on Beneath, a data sharing service I'm building. Here's the data:
+
+* Posts: [https://beneath.dev/examples/reddit/stream:r-wallstreetbets-posts](https://beneath.dev/examples/reddit/stream:r-wallstreetbets-posts)
+* Comments: [https://beneath.dev/examples/reddit/stream:r-wallstreetbets-comments](https://beneath.dev/examples/reddit/stream:r-wallstreetbets-comments)
+
+I know it's not the first time someone has scraped Reddit, but Beneath adds some useful features for shared data, like the ability to run SQL queries, sync changes in real-time, a Python integration, and monitoring. The monitoring is really useful as it lets you check out the write activity of the scraper (no surprise, WSB is most active when markets are open): [https://beneath.dev/examples/reddit/stream:r-wallstreetbets-comments/-/monitoring](https://beneath.dev/examples/reddit/stream:r-wallstreetbets-comments/-/monitoring) 
+
+The scraper (which uses Async PRAW) is open source here: [https://github.com/beneath-hq/beneath/tree/master/examples/reddit](https://github.com/beneath-hq/beneath/tree/master/examples/reddit) 
+
+I'd love to know if you find this useful! Any other subreddits that you'd like me to make available?

@@ -1,0 +1,10 @@
+tl;dr Torrents for 2.5 years worth of ~hourly snapshots of every US server's AH: http://xen.im/~aheadley/wow-auctions/
+
+I've been collecting hourly snapshots of auction house data from World of Warcraft (US servers only) for about 2.5 years now (starting from Oct 19 2016) and have about 1.1TB of data as ~1.8M bz2 compressed JSON files: ([sample file](https://gist.github.com/aheadley/4f037e32c874c1ae7584a0c78fb5cf26)). The torrents are seperated by server (technically server group that shares an AH) because trying to make one large torrent of over 2M files did not work very well. There are some gaps due to power outages and the like but it is mostly complete. I am currently seeding it from my home connection (200mbit upload) and will for at least a few months. Some stats on the files so anyone interested can make appropriate preparations for the download:
+
+  - Total size of all files combined: 1.1TB
+  - Total number of files combined: ~2.1M
+  - Average size per server/server group: ~9GB
+  - Number of files per server/server group: ~17k
+
+EDIT: Made a zip file of all the torrents for convenience: http://xen.im/~aheadley/wow-auctions/all-torrents.zip

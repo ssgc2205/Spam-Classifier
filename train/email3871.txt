@@ -1,0 +1,1 @@
+Hello, I am looking for student's school, major, gpa, and credit score. Do anyone have an idea to look for this info with a credit score. I was thinking student loans data, but I am not finding anything. Not really interested in the loan amount.

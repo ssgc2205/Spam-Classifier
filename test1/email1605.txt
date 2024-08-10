@@ -1,0 +1,3 @@
+I'm working on a system for automatic grading/scoring. I found [The Hewlett Foundation: Short Answer Scoring](https://www.kaggle.com/c/asap-sas) and [The Hewlett Foundation: Automated Essay Scoring](https://www.kaggle.com/c/asap-aes) which are both very helpful but I also need examples with really short answers; like single words or phrases (which may be misspelled or written in different ways).
+
+The data needs to include the actual answers/responses of the students and should include both the question and the grading/scoring from the teacher. The subject doesn't matter, and I'll even take any language (although I certainly prefer English). Please help me find this data since my systems will have to deal with short phrases very differently from 50+ word answers.

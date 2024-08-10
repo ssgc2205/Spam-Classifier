@@ -1,0 +1,20 @@
+I collected news articles over the past 2 years. Currently I have about 1.2 million datapoints.
+
+I played with it, did a lot of aggregations but now I would appreaciate a new set of eyes to look over the dataset and brainstorm possible visualisation ideas.
+
+The Dataset is build like this:
+
+||**url**|**title**|**author**|**pub\_date**|**categories\_json**|**publisher**|**lang**|**title\_clean**|**body\_clean**|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|**\_id**||||||||||
+|**68579**|[https://www.bbc.co.uk/news/uk-politics-5970941](https://www.bbc.co.uk/news/uk-politics-5970941)...|Downing Street parties inquiry: Opposition MPs...||2021-12-18 11:55:36+01:00|\[\]|bbc|en|\[downing, street, parties, opposition, mps, fi...|\[uk, servant, probe, event, office\]|
+|**48214**|[https://www.bbc.co.uk/news/entertainment-arts-](https://www.bbc.co.uk/news/entertainment-arts-)...|Don't Look Up: Mixed reviews for Leonardo DiCa...||2021-12-08 17:57:14+01:00|\[\]|bbc|en|\[reviews, leonardo, dicaprio, satire\]|\[jennifer, lawrence, leonardo, dicaprio, film,...|
+|**59845**|[https://www.rt.com/russia/543139-kiev-donbass-](https://www.rt.com/russia/543139-kiev-donbass-)...|Is a genocide taking place in Europe?|RT|2021-12-14 16:14:08+01:00|\[\]|rt|en|\[genocide, place, europe\]|\[backdrop, war, scare, ukraine, statement, pre...|
+|**85963**|[https://www.bbc.co.uk/sport/football/59813892](https://www.bbc.co.uk/sport/football/59813892)?...|Hugo Maradona: Diego Maradona's younger brothe...||2021-12-28 21:05:03+01:00|\[\]|bbc|en|\[hugo, maradona, diego, brother\]|\[hugo, maradona, brother, legend, diego, heart...|
+|**63072**|[https://www.aljazeera.com/news/2021/12/15/us-s](https://www.aljazeera.com/news/2021/12/15/us-s)...|US Senate overwhelmingly passes massive defenc...||2021-12-15 22:16:09+01:00|\[News\]|aljazeera|en|\[us, senate, defence, spending, bill\]|\[legislation, president, joe, biden, approval,...|
+
+&amp;#x200B;
+
+title\_clean and body\_clean are tokenized by spacy.
+
+body is excluded for this reddit post because its too long, but its html code.

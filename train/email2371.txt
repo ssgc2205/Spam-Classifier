@@ -1,0 +1,9 @@
+I am hoping to answer a couple of the following questions.
+
+* Where have VC funds gone over the last ten years (states and countries)?  Only USA is also ok.
+* Is the trend going up or down? 
+* To what types of companies/industries?  
+* Demographics of recipients?  
+* Start-ups or existing firms? 
+
+I know that PitchBook , Statista provide information that can provide answers to the above, but they are all paid services. Are there any data sources which provide such information for free (say a government website)? Any leads will be highly appreciated.

@@ -1,0 +1,1 @@
+I would like to make a character-level text generator that can generate fantasy city and one that can generate fantasy character names. Is there any large dataset compiling these (ex combining stuff like LOTR, GoT, Elder Scrolls)?

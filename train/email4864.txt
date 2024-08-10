@@ -1,0 +1,3 @@
+Many bitcoin addresses have known labels (such as found on walletexplorer.com), have appeared as owned on some forum or otherwise or even have been identified by law enforcement agencies.
+
+Does anyone know of any, even incomplete, lists of bitcoin addresses (or other cryptocurrencies) and their known owner or annotated additional meaning?

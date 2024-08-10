@@ -1,0 +1,5 @@
+I've searched high and low on Kaggle, but I'm pretty new to this so I'm not sure what the best method of tracking down a good dataset is. I've been learning Python and Tableau to gain experience with marketing analysis tools and I'd really like to find a good dataset with ad campaign data.
+
+Ideally this would be something with clicks, conversions, impressions, etc. Kinda like this dataset here:
+
+[https://www.kaggle.com/loveall/clicks-conversion-tracking](https://www.kaggle.com/loveall/clicks-conversion-tracking)

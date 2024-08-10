@@ -1,0 +1,1 @@
+I have a list of names and addresses but need to enrich it with ages or age ranges. It could be 500 or it could be 50,000. Experian has like a $30K minimum I think. Any idea on other sources that will take a bulk import or API and spit out age or age range?

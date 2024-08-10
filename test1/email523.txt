@@ -1,0 +1,7 @@
+Basically what I want to do is to create a ton of election charts a bit similar to the one I made here:
+
+https://public.tableau.com/profile/jurijfedorov#!/vizhome/Swedishgeneralelection1911-2014/Seats
+
+For that I need election data. I can only make a few charts if I cannot get the data fast. So far the numbers only exists on Wikipedia or in books and it's often not even fully correct or complete. Is there an easy way to get all the election data for a country? For example, Denmark from 1849 to the election today? All the Wikipedia sites for the various years have similar tables in them. But Octoparse, which is amazing, does not work on such varied tables. And these Wikipedia sites all have slightly different tables.
+
+https://en.wikipedia.org/wiki/1849_Danish_Folketing_election

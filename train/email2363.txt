@@ -1,0 +1,9 @@
+Hi, 
+
+&amp;#x200B;
+
+I'm looking to work with markov chains to try generate music, like it is done with speech. I am looking for datasets to do this but cannot find anything. 
+
+&amp;#x200B;
+
+Any chance you can help?

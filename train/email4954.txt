@@ -1,0 +1,5 @@
+I'm looking for historical population data sets by region/country (as far back as possible). So far, I've found that *Atlas of World Population History* by McEvedy and Jones is one of the most cited ones [(available here btw)](http://www.arabgeographers.net/up/uploads/14299936761.pdf).
+
+I've also seen links to [HYDE](http://themasites.pbl.nl/tridion/en/themasites/hyde/basicdrivingfactors/population/index-2.html) but the links to the datasets seem to be broken there.
+
+Any reputable sources that I've missed?

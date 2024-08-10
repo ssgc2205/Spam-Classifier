@@ -1,0 +1,1 @@
+I need a database that contains audio files of music. I seem to only find APIs that allow you to access *metadata,* which I don't really need. Does this exist at all? How do developers generally access a large amount of music?

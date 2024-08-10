@@ -1,0 +1,3 @@
+I'd like to put a wireframe map of the world behind the graphic from [this post](https://www.reddit.com/r/dataisbeautiful/comments/8vnjb4/visualizing_the_human_footprint_oc/) to more easily visualize what countries are where.
+
+Are there any sites that contain decent and freely available high resolution world wireframe maps in various projections so I can overlay it behind?

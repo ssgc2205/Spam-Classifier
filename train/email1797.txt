@@ -1,0 +1,7 @@
+Hi community,
+
+I share with you a 1.2 millions rows dataset from the subreddit Wallstreetbets. I will update soon.
+
+[https://www.kaggle.com/mathieucayssol/wallstreetbets-data](https://www.kaggle.com/mathieucayssol/wallstreetbets-data)
+
+I hope it will be useful for you.

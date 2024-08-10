@@ -1,0 +1,9 @@
+What are the legal aspects of publishing a dataset made of news articles scraped from a website?
+I know the author (or copyright owner) can act against someone who reproduces his work without express permission, but in this case there are some differences:
+1. Articles won't be totally republished (images and embedded videos and other such things won't be added to the dataset),
+2. Articles won't be immediately usable from the general public as they will be serialized in json or csv format, and will not be organized in a way that makes searching for a specific article easy
+3. There won't be promotion of the content or any form of profit from it
+4. The source will be credited
+5. The dataset will be made public with the sole intent of research (and points 2 and 3 might further indicate this).
+
+Is there a chance I don't end up with a lot of debts to pay if I do it?

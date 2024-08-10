@@ -1,0 +1,14 @@
+The Reddit June, 2017 (RC_2017-06.bz2) file is now available.  For the month of June, 2017, a total of **79,901,711** publicly available comments were ingested.  This is over a 21% increase in comment activity from June 2016.
+
+The entire comment corpus now contains 3,329,219,008 comments ( ~1.9 TB uncompressed / ~306 GB compressed). 
+________________________________
+
+**The file is available here:** 
+https://files.pushshift.io/reddit/comments/RC_2017-06.bz2
+
+**SHA256SUM:**   c363e6a64acde8f41b58197a15cd7faced2ff1be7148fa95ee30ae5d41bfad08
+
+
+If you have any questions about this or other datasets available via files.pushshift.io, please let me know.
+
+*The June, 2017 submission file (RS_2017-06.bz2) should be available in a few days.*

@@ -1,0 +1,3 @@
+I want some kind of API or excel datasheet or whatever organized data format there's from bitcoin prices in an at least day to day basis since its creation till now (more accurate data is obviously welcome!).
+
+Thanks!

@@ -1,0 +1,7 @@
+Hey everyone,
+
+I am experiencing quite a difficult time finding a dataset containing information about university graduate courses in Computer Science. The most important information regards the acceptance rates (which is not a must, since this is often not publicly available) and tuition fees.
+
+Information from Times Higher Education and other such ranking does, unfortunately, not provide enough information to answer questions about this.
+
+Thank you in advance!

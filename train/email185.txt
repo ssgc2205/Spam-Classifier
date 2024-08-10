@@ -1,0 +1,7 @@
+Hello friends,
+
+I haven’t frequented this subreddit much, and I didn’t see anything in the rules against this kind of post, but if there is a better subreddit to ask or if this isn’t appropriate just let me know.
+
+I have a data analysis assignment for school, and I wanted to use data from a specific website(I’ll keep everything generic/anonymous). The ToS claims copyright on the data, and prohibits web scraping, but the data is entirely accessible by the public. A brief review of some legal resources seems to indicate that this is *okay*, but I really don’t want to take any chances. I have already incurred a nice little 429 warning as well.
+
+How can I go about this without attracting unwanted attention/legal repercussions?

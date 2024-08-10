@@ -1,0 +1,1 @@
+Does anyone have good sources for neighborhood-level data? I am also looking for data that simply contains coordinates which I could tag myself. I am looking to create a "development index" for my city, comparing multiple neighborhoods.

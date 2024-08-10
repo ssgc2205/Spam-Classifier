@@ -1,0 +1,4 @@
+ The dataset contains **csv** files for **National level** and **State level** time series for **Confirmed**, **Recovered,** and **Deceased** cases.  
+Also contains  **number of tests conducted** in each state, **ventilators**, **hospital bed occupancy** reported in state bulletins. 
+
+You can find it on Kaggle [here](https://www.kaggle.com/chandrarajsingh/india-covid19-jan-20-may-21).

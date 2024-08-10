@@ -1,0 +1,3 @@
+Accepted to IEEE BigMM, this dataset contains JSON-Formatted Publicly-Available Metadata from Thingiverse, for both Users (n=283,873) and Designs (n=1,017,687). For qualitative analysis and for machine-learning applications, images associated with designs and multi-view panoramic 3D depth-map renders of 3D files are available for each design. For validation purposes, these panoramic renders are also provided for Shapenet, along with Matlab source code for generating these renders.
+
+Please utilize the million+ images, 3D renders, and associated metadata to help with the retrieval, classification, and recommendation of printable designs! Read more and Download Here: [https://github.com/Alexander-Berman/ThingiPano](https://github.com/Alexander-Berman/ThingiPano)

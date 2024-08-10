@@ -1,0 +1,16 @@
+Hi datasets!
+
+I’m looking for a dataset that has the first names of children by family. 
+
+Something like
+
+ChildName, familyid
+Erik, 1
+Laura, 1
+Sean, 2
+Chris, 2
+Brian, 2
+
+I’ve searched everywhere with no luck and am hoping to use it to build an algorithm that will help me pick out a name. 
+
+Thanks!

@@ -1,0 +1,3 @@
+Hello, I'm doing a research on a machine learning project and I need passport photo dataset. My search did not yield any satisfying results. Anyone here know any such dataset or have worked with it?
+
+I've come across [this site](https://cyberextruder.com/face-matching-data-set-download/) but unfortunately dataset is not available for download. There were also papers that used similar dataset however they were all private. I got hold of NIST mugshot dataset, but again they are not really desirable. At this point, I'm thinking of collecting the dataset myself but don't know how to go around doing it. Anyone have idea?

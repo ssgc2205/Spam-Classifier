@@ -1,0 +1,3 @@
+I am trying to build a model for the purposes of prediction. I have been able to find most predictor data (strikes landed,reach height etc) 
+I am not able to find the time in position data.
+Not even on fight metric

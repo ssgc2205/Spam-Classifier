@@ -1,0 +1,5 @@
+I have written a small paper on classification in genomics this semester and now I want to put everything I have learned to practice. I am not a biologist and have no clue about genomics besides the basics. Therefore I struggle using sites like [https://www.ensembl.org/index.html](https://www.ensembl.org/index.html) and sadly the datasets used in the papers I studied are not available (anymore).
+
+I am looking for a DNA dataset which has labeled data in order to train a classification model.
+
+Thanks in advance.

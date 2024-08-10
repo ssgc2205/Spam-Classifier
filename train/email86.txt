@@ -1,0 +1,3 @@
+Hi Everyone,
+
+I am learning about web analytics and was wondering if there were any public datasets I could use to practice on. Some things I am interested in putting into practice are A/B tests, EDA, and ML classification. Any APIs or databases are preferred to obtain unstructured data I could clean for analysis. Any help would be greatly appreciated.

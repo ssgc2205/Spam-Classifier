@@ -1,0 +1,13 @@
+Singapore maintains a very extensive case details website with information on age, sex, nationality, symptomatic date, confirmed data and recovered date (no death date yet):
+
+[https://www.wuhanvirus.sg/cases/search](https://www.wuhanvirus.sg/cases/search)
+
+I mirrored that table to a Dolt database (SQL with git on top) here:
+
+[https://www.dolthub.com/repositories/Liquidata/corona-virus/data/master/case\_details](https://www.dolthub.com/repositories/Liquidata/corona-virus/data/master/case_details)
+
+The import script I used is open source and published here: [https://github.com/liquidata-inc/liquidata-etl-jobs/blob/master/airflow\_dags/corona-virus/import-case-details.pl](https://github.com/liquidata-inc/liquidata-etl-jobs/blob/master/airflow_dags/corona-virus/import-case-details.pl). It runs every hour.
+
+This dataset is useful in determining things like recovery rate conditional on sex and age but it's a small sample similar to the work done in this paper by the CCDC: [http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51](http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51). 
+
+I also created a branch and started sourcing details for a few cases in the United States. Here's a sample PR from that branch to master: [https://www.dolthub.com/repositories/Liquidata/corona-virus/pulls/2](https://www.dolthub.com/repositories/Liquidata/corona-virus/pulls/2) to see what new data would look like. I'm happy to do some more work there if there is interest.

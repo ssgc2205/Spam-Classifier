@@ -1,0 +1,7 @@
+Hi, 
+
+I'm trying to look for a dataset that has information about the restaurant itself, maybe even scores related to the food, service, location, I am also looking for a dataset that allows an easy merger of inspection data related to these same restaurants. Anyone have any ideas where I might be able to find this dataset? 
+
+&amp;#x200B;
+
+Thanks!

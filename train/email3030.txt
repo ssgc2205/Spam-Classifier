@@ -1,0 +1,5 @@
+I'm looking to create a rudamentary image to image GAN taking in climate data or biome maps and generating artificial satellite imagery from it. Unfortunately it seems I've been having a very difficult time finding suitable data at anything better than "hastily pasted and deformed world biome map from google pasted over satellite imagery".
+
+Because of this I've started making my own dataset, but not only is it slow work but it's also not of great quality.
+
+Hopefully somewhere out there there's a better dataset floating around.

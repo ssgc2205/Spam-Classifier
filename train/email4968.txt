@@ -1,0 +1,3 @@
+Is anyone aware of publicly available time series data on global social unrest events?  Preferably from the 1970s onward.  I've looked at the SPEED data set but it doesn't suit my analysis.
+
+Thanks

@@ -1,0 +1,7 @@
+*Note: I'm happy to explore other possible datasets that have a similar premise of task/worker assignment as well.* 
+
+Hi,
+
+I'm currently working on a project that assigns the appropriate customer care worker to a customer care request/ ticket. I was wondering if there was a dataset that had the request itself (may or may not have other variables like urgency etc.,), the person who was assigned that task, and perhaps feedback on that worker's response. The closest I've found is the Apache Hadoop issues/ JIRA instance, although it doesn't have feedback, and I don't know if it only has 1000 instances because I'm only able to access it using [this](https://github.com/nkanak/advance-project-management-practice/blob/master/data/hadoop_issues.json) link. 
+
+Thanks!

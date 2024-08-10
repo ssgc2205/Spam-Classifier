@@ -1,0 +1,17 @@
+
+
+Hello, I would like some assistance with regards to ordering data for orders. I have a screenshot of said data which I will try to upload in the comments section.
+
+The issue is:
+-orders are collected in column A using Product code numbers.
+-data in Column B and C correlate. Column B are the product codes and column C product description for all the products in the store.
+-evidently, not all products are ordered.
+- I need to link the product codes for the products ordered to the corresponding product description in column c
+
+Of note:
+- these are not the actual products ordered. Just an example
+- the data cleaning will be required for the past 5 years
+- some of the product descriptions and codes have been updated and are thus missing in the columns b and c. 
+- this is only an example. The actual excel files contain over 4000 rows for orders placed and 6000 for the product code and description references.
+ 
+Is there a simple way to clean up this data rather than doing it manually? I’m quite new to this so I would be very grateful for some guidance.

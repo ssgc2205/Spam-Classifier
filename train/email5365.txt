@@ -1,0 +1,13 @@
+Hi Guys,
+
+​
+
+I'm currently working on a project and we require a data source that requires high frequency data for major cryptocurrencies in terms of major fiat currencies (BTC-USD, ETH-USD, BTC-CAD, etc…).
+
+​
+
+We have found a website called Cryptocompare ([https://www.cryptocompare.com/](https://www.cryptocompare.com/)) that provides hourly data across all exchanges and goes back 5 years. Does anyone know of a dataset that is of a higher frequency or could go back further than that?
+
+​
+
+Thanks so much for the help!

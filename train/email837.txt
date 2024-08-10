@@ -1,0 +1,7 @@
+I've been pulling data from my University's bus tracking API for the past ~6 months, and I've collected second-by-second interval Long/Lat data for all 25 busses at my school.
+
+The dataset contains the following info: Longitude, latitude, number of students on the bus, destination, speed (not really accurate), bus ID, and timestamp.
+
+We have an extremely inefficient bus system, and the goal of collecting the data was to propose alternative routes that would reduce bus downtime.
+
+What would be the way to visualize this data? I was thinking something like a heat map with Mapbox to visualize the points in which the bus is at rest for long durations of time, but I didn't know if there would be a better way to visualize the inefficiency of the routes that the bus runs on.

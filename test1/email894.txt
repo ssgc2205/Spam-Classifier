@@ -1,0 +1,5 @@
+I know this isn't strictly a request for a dataset, but was hoping someone may be able to help.
+
+I work with a company who has a few thousand shopfronts. We are looking for the best way to collect point of sale transaction data from as many as possible, and to send on a fairly frequent basis to a central location, so we can turn it into a data warehouse. 
+
+Any ideas on the best way of collecting POS data as simply as possible?

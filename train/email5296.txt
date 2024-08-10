@@ -1,0 +1,9 @@
+I wanted to perform an analysis of the distribution of different restaurant chains (e.g. McDonald's, Wetherspoons, Nando's, Wagamama) across the UK but was unsure of the best place to find data on this.
+
+&amp;#x200B;
+
+I contemplated using the Google Maps API but I found no way to distinguish between, say, the restaurant McDonald's and a farm shop called McDonald's. I also tried the Yellow Pages website but that requires that you specify a location to search around. 
+
+&amp;#x200B;
+
+Any ideas?

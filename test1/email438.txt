@@ -1,0 +1,1 @@
+I'm looking for a dataset covering ski resorts (preferably European) with historic daily snow depth and snowfall, for both high slopes and low slopes. 

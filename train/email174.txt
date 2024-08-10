@@ -1,0 +1,10 @@
+Hello all.
+
+I just found this data set on BigQuery where it has all of the public comments on reddit. I want to use it to create a chat bot using deep learning with python, but I don't know how to download the actual data.
+
+Do I need to pay an annual fee to BigQuery, or is it free?
+Can anyone help me?
+
+-- HASHEM
+
+Thanks

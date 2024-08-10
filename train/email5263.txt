@@ -1,0 +1,3 @@
+Hello, I'm a librarian at an academic library and I had some students that were wondering how to access the files at the bottom of this page: https://www.census.gov/data/datasets/2014/demo/nychvs/microdata.html
+
+They are .txt files. How do you save them? What program would you use to parse them? R studio? Sorry if this is the wrong forum to ask these kinds of questions.

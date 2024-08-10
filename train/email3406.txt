@@ -1,0 +1,8 @@
+Hello everyone! I am currently in the final leg of my MSc in Economics programme at the University of Amsterdam. For my thesis, I want to analyze whether airline alliances are truly beneficial for consumers by looking at the effects of alliances on prices, own quality (and maybe environmental impact). At the moment, I am still looking for data. I have already found data on the US market from the USDOT, but I am more interested in the EU market. 
+
+Where could I find data on any of the following:
+
+* on air ticket fares on flights starting from European airports
+* flights between European airports per airlines with details 
+* airline quality 
+* environment impact of airlines

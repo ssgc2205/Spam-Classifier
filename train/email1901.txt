@@ -1,0 +1,3 @@
+I am a data analyst with specialty with language and image processing. But I need some data to create some projects that I hope can engage analytical minded people in real estate, whether it is for quality or safety of construction or for financial predictions for real estate investors. I have a lot of time on my hands to code up a dashboard, which can be used as a experience on my SWE resume. I just need to get some decent data. Can anyone help?
+
+Do you know or have any datasets that I can extract meaning out of?

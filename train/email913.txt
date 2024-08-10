@@ -1,0 +1,22 @@
+Hi everyone!
+
+My name's Christian, and I'd like to share what we've been building at [OrgStack](https://orgstack.io/).  I'm posting this here as a "request for feedback" from the community that we serve.
+
+Poor data quality is a costly problem for many organizations.  Invalid data is responsible for major product/service outages, and it can be very  difficult to pinpoint the root cause of data-related incidents.  This requires a large investment of engineering resources.
+
+OrgStack aims to streamline the process of managing data sources, receiving critical alerts, and tracing incidents to their source.  While building a solution to this problem, we drew inspiration from some of our favorite tools, including NPM, Loggly, and Jenkins.
+
+A few baseline questions:
+
+* Is data validation / data quality currently a problem for you?
+* How do you solve it now?
+* Which differentiating features would get you to switch?
+* What would your ideal solution look like?
+
+Thanks in advance for your feedback.  We really appreciate it!
+
+\- Christian ([christian@orgstack.io](mailto:christian@orgstack.io))
+
+&amp;#x200B;
+
+https://preview.redd.it/dqd57t0u2j551.png?width=1149&amp;format=png&amp;auto=webp&amp;s=a7723244da5607c15b18c65e0a874103e8cdb6f9

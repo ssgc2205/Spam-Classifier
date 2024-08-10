@@ -1,0 +1,3 @@
+Edit: This post is for those who already have the dataset
+
+I can find examples online of question and answers from the dataset, but not any examples that include the support documents. I'm curious as to what these look like but I'm not planning on tackling it soon, so downloading the whole dataset doesn't seem very practical to me (100 GB and up to 24 hours of running for the support documents alone). I'm going to take a look at the code to see if I can cut the dataset down to just a small portion of its original size, but if anyone could share examples of questions and answers with their corresponding support documents, that would be great.

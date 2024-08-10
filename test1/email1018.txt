@@ -1,0 +1,7 @@
+I'm after a large varied list of popular contemporary artists covering most major genres, for a MIR project. I will be querying the musicbrainz database for the meta data and tags, I just need a good selection of names.
+
+The best I've found so far is the unique_artists.txt release from the [Million Song Data](http://labrosa.ee.columbia.edu/millionsong/pages/get-all-artists-and-their-tags), which is pretty much exactly what I want in theory, but that list isn't well maintained. Lots of popular artists are missing, given the wrong MBID, or denoted as featuring another artists (e.g. 'Kanye West / mos def' links to the actual Kanye West page). 
+
+Has anybody come across such a list, or have any pointers how I could begin to assemble my own if I had to?
+
+Cheers

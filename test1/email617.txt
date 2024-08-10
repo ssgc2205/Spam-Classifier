@@ -1,0 +1,5 @@
+I am searching for data that include a set of merchants, with each merchants inventory. I imagine something like an extract of Amazon merchants and their product inventory, maybe even over time.
+
+I have found a couple of data sets with products and reviews, but not anything from the perspective of the merchants.
+
+Do you guys know of something of this sort?

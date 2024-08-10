@@ -1,0 +1,5 @@
+Is there a list of datasets which were scrapped from reddit? I am interested in datasets on personality, emotions, and mental.
+
+It would be nice to start from what is already available.
+
+I know a of few datasets but they aren't publicly available

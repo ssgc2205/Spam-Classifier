@@ -1,0 +1,7 @@
+Hello all,
+
+I am looking for any data by detailed occupation ideally grouped by how someone would study for the occupation (lawyer, engineer, builder, electrician, pharmacist, primary school teacher, economist) but absolutely not fussy. 
+
+This is all for a project where I am trying to see what the different outcomes are for different career paths. Its been quite a nightmare to find any datasets like this so any help is greatly appreciated. 
+
+Thanks in advance.

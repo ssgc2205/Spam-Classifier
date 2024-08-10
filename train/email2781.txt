@@ -1,0 +1,1 @@
+Where can I get data (either form books,databases,dataset) that I can use part of software I develop on my own and release to the public? Ideally I don't want to pay for the data, where are some sources for this?  thanks

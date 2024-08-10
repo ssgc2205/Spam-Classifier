@@ -1,0 +1,1 @@
+It would be great if I was able to search a user how many retweets and favorites a particular tweet got.

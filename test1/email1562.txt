@@ -1,0 +1,11 @@
+Are there any good A-Z datasets similar to MNIST number ones? I could find only this on kaggle,
+
+ [https://www.kaggle.com/ashishguptajiit/handwritten-az](https://www.kaggle.com/ashishguptajiit/handwritten-az) 
+
+&amp;#x200B;
+
+I am new to ML but I think the data is not very reliable. 
+
+ [https://imgur.com/a/psdBOsH](https://imgur.com/a/psdBOsH) 
+
+\[0-25,labels for each alphabet A-Z\]

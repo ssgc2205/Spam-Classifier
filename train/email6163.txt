@@ -1,0 +1,1 @@
+Hi I’m just reaching out to see if anyone could point me in the right direction of where I could obtain a dataset of clothing preferably quite large and free as it’s for a university project. I’ve found a few that require applications which is abit jarring and the likes of fmnist dataset doesn’t work for me. So any help would be great

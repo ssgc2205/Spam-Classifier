@@ -1,0 +1,26 @@
+Hello everybody,  
+
+once again I neeed to seek help from my beloved community. 
+
+I am writing my master thesis and I cannot advance further. I have a problem with the dataset I download using the Refinitiv Eikon Datastream add-on for Excel. 
+
+Mainly the prices from the dataset are wrong. I don't know why. 
+
+&amp;#x200B;
+
+I am using 2 datasets, which I merge. One dataset including stock prices, market value and ESG ratings. The other i downloaded from Kenneth French website and includes the Fama-French factors and the riskfree rate.
+
+I run the CAPM regression to start with. I regress the excess returns, calculated from prices, on the market return, given by fama and french.
+
+Firstly, I used daily data. With daily data I obtained good results. However, I want to change to monthly data for a couple of reasons. Using monthly data I obtain no significance. 
+
+Therefore, I downloaded the monthly stock prices for a couple of firms from yahoo finance. Using those I obtain significant results again. 
+
+The monthly prices differ slightly, but sometimes result in very varying returns. How can that be?  
+Has someone an idea why the prices are different? 
+
+&amp;#x200B;
+
+Thank you for reading!
+
+Best greetings!

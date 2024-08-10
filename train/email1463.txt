@@ -1,0 +1,1 @@
+Hi all, I am looking for a data set in the finance realm, preferably related to investments with both quantitative and qualitative characteristics. Does anyone happen to know of any reliable sources? Or a repository I could check out that has data sets with both qualitative and quantitative variables?

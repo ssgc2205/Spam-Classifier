@@ -1,0 +1,9 @@
+Hey all, we just released the dataset we collected at TechCrunch Disrupt to build [a computer vision powered chess board analyzer](https://devpost.com/software/chess-boss).
+
+The dataset is available for download here: [https://public.roboflow.ai/object-detection/chess-full](https://public.roboflow.ai/object-detection/chess-full)
+
+We also published a tutorial showing how to use it to [train a YOLO v3 object detection model](https://blog.roboflow.ai/training-a-yolov3-object-detection-model-with-a-custom-dataset/) like the one we used in our hackathon project.
+
+PS - this is our first trial run of releasing a public dataset through [Roboflow](https://roboflow.ai), a tool we're working on to improve the computer vision workflow. We'd love to have you try it out and get your feedback.
+
+We noticed that most of our time building computer vision powered apps was spent writing boilerplate code that wasn't specific to our project. We're trying to eliminate the need for the random python scripts everyone writes to manage storage buckets, convert annotation formats, clean data, and augment images.

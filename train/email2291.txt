@@ -1,0 +1,8 @@
+I have a project where I need to convert city and location data to metropolitan areas. So far I have found 
+
+http://www.census.gov/population/metro/files/lists/historical/cencty.txt and http://www.census.gov/population/metro/files/lists/historical/99mfips.txt
+
+which are old and hard to work with. Newer versions seem more concerned with the areas than its component cities. Does anybody know of a data source for finding metropolitan areas by cities ideally with csv or similar data?
+
+Edit: I was able to find this which i can work with. 
+ http://www.census.gov/population/metro/data/def.html

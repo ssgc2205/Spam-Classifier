@@ -1,0 +1,5 @@
+Hello
+
+I'm with a grassroots group mapping large retail **warehouses** (or distribution centers) in order to help workers organize against poor working conditions and COVID-19 exposures. We're looking for extensive datasets that list warehouse data for Amazon, Walmart, Costco, Best Buy, Staples, etc.—such as # of employees, square footage, and any other information we can find. We've already got a lot of the warehouses by location but there seem to be a lot of unofficial ones that we cannot access. 
+
+Does anyone know where the data lives?

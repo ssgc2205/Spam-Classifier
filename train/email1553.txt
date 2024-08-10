@@ -1,0 +1,5 @@
+Hi guys,
+
+Im working on a modeling exercise for my class but I'm having trouble finding a fun public dataset that I can play around with. I'd prefer something fairly simple with lots of quantitative fields. 
+
+Any recommendations or examples would be appreciated!

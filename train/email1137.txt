@@ -1,0 +1,1 @@
+I'm trying to build a corpus for a classifier. I need VK posts and my old collector doesn't work as well as it use to due to API changes. I'm hoping someone has been collecting a ton of VK data and wants to trade. I have tons of other social network datasets. Message me if interested or if you know of any places to download some.

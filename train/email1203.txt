@@ -1,0 +1,1 @@
+Hi, I need a labeled Arabic dataset for software requirements (FR, NFR) if there is any, if not maybe an unlabeled one can help, please. 

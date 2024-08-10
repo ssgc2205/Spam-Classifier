@@ -1,0 +1,1 @@
+Hi! I am looking for datasets containing user recommendation on social media. Can be of Twitter or Facebook. I would like to prove that biased user recommendation systems (producing biased results) can lead to more polarization in terms of opinion.

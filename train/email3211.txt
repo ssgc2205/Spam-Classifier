@@ -1,0 +1,3 @@
+Hi. I am looking for a dataset with pictures of galaxies alongside their names. I have looked into the galaxy zoo dataset but the entries there has ids instead of their actual names. 
+
+Is there any dataset that provides that? I am looking for something like [this](https://data.galaxyzoo.org/images/fig2b.png).

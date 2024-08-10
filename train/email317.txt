@@ -1,0 +1,15 @@
+Hello,
+
+&amp;#x200B;
+
+I'm trying to map a set of 20K zip codes to the nearest major city. 
+
+&amp;#x200B;
+
+I have Zip code to MSA but there's over 200+ MSAs and that's too granular for our analysis. Counties also proved to be too numerous.
+
+&amp;#x200B;
+
+Is there a way to set that ties zip codes to a larger footprint than MSA region but smaller than state? 
+
+Thank you!

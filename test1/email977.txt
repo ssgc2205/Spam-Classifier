@@ -1,0 +1,9 @@
+I'm working on a project on gardening, and I'm looking for a clean API or data source of vegetables and planting &amp; harvest times.
+
+Something like this(http://www.gardentowerproject.com/news/gardening-ideas-recommendations/veggie-scheduling-when-to-start-seeds-plant-harvest), but with data that's usable (or easily changeable) by excel in formulas.
+
+In an ideal world, I'd like to have it include indoor planting times &amp; germination times. It would be great to have a chart like this(http://www.ufseeds.com/Zone-6-Planting-Calendar.html) but with actual date ranges instead of a gradient.
+
+And I'm aware that this data change per zone and has a margin of error. I'm looking specifically for Zone 7, but if this was organized by Zone that would be great. If not, I can still work with the data.
+
+Does anyone know where I can find such a chart?

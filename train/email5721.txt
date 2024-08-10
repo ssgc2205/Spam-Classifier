@@ -1,0 +1,7 @@
+Anyone know how to generate a dataset like [https://data.world/aurielle/inc-5000-2018](https://data.world/aurielle/inc-5000-2018)
+
+But for the new 2019 list?
+
+[https://www.inc.com/inc5000/2019/top-private-companies-2019-inc5000.html](https://www.inc.com/inc5000/2019/top-private-companies-2019-inc5000.html)
+
+Looking to have the year of founding, website, instagram if available. How are these datasets like this usually generated?

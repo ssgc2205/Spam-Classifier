@@ -1,0 +1,6 @@
+Hi, I'm working on analyzing my cell phone Meta data with an open-source python toolbox from MIT-Lab called Bandicoot. 
+(http://bandicoot.mit.edu/)
+I have the cell phone Metadata with antennas IDs and need to associate each antenna ID with it's latitude and longitude. 
+The cell phone carrier is Sprint.
+What's a good site to find the geo coordinates for this cellular network?
+Thanks!

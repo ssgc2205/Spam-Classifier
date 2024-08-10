@@ -1,0 +1,5 @@
+CEO of the company that is building Dolt, a version controlled SQL database, here. We're working hard to get open data into Dolt for the community of data enthusiasts to use. Every month we write about some of the datasets on DoltHub. 
+
+This month we feature a couple professional sports datasets, our first foreign language repo, and cleaned IRS Statement of Income data. Enjoy.
+
+[https://www.dolthub.com/blog/2020-05-29-may-dataset-spotlight/](https://www.dolthub.com/blog/2020-05-29-may-dataset-spotlight/)

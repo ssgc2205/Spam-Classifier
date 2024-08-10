@@ -1,0 +1,1 @@
+So i've heard somewhere that flu shots can actually cause flu. Is there any suitable dataset which i can use to check if this is just a myth or does it actually hold some ground.

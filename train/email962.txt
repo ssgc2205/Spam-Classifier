@@ -1,0 +1,3 @@
+I want to create some spiffy examples for a Rails gem that I'm creating and in order to do that I need hierarchical data (and nothing terribly complex either, just hierarchy-rich).
+
+Any ideas?

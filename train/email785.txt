@@ -1,0 +1,11 @@
+Hi all, in light of worsening COVID-19 developments across Europe I am using [Our World in Data](https://ourworldindata.org/coronavirus) to monitor a number of countries to better understand the situation. I am looking to build a Google Sheet that automatically pulls some data points from Our World in Data, so I don’t have to manually navigate numerous webpages and tables each day to stay on top of changing developments.
+
+Is it possible to do something like this? I don’t have any programming experience, but I am fairly competent in Google sheets. I am looking to build a row that captures the most up to date data points from OWID for each country for several metrics, like this:
+
+United Kingdom:  
+[Hospitalisations weekly](https://ourworldindata.org/covid-hospitalizations): ‘7,016’
+[Deaths daily](https://ourworldindata.org/covid-deaths): ‘2.31’
+[Positivity](https://ourworldindata.org/coronavirus-testing): ‘5.20%’
+[Population vaccinated](https://ourworldindata.org/covid-vaccinations): ‘67%’
+
+Thanks

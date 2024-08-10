@@ -1,0 +1,2 @@
+Hi, I never thought that r/datasets would help me out at my job!
+If anyone has a question about a dynamic network (networks that add and remove edges and vertices over a discrete and continuous time series) please PM me and I will see what I can do! Thanks a bunch !

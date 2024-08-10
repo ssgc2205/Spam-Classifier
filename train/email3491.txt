@@ -1,0 +1,2 @@
+Has anyone found a good broad geotagged photo dataset replacement instead of the now offline Panoramio? I'm at a loss and have gone as far as to use archives of Panoramio from 2015 but I'm sure better free datasets *must* exist.
+I've also found some very specific datasets restrained to specific cities or counties, but what I'm looking for would be much more broad, even if it contained fewer images.

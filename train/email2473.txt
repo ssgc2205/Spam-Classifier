@@ -1,0 +1,11 @@
+Hi everybody.
+
+I just coded a Scrapy python project to crawl famous dictionaries (Oxford, Longman, Cambridge, Webster, and Collins), it is on my Github:
+
+[https://github.com/kiasar/Dictionary\_crawler](https://github.com/kiasar/Dictionary_crawler)
+
+&amp;#x200B;
+
+with this, you can create a lot of dictionary data if you want to.
+
+Hope you like it.

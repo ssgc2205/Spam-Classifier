@@ -1,0 +1,7 @@
+We need up-to-date list of Indian cities, their STD codes and the hospitals registered across the country. Any idea from where I can fetch this information?   
+
+
+Looking for a reliable (possibly official) source from which we can sync latest data on periodic basis?   
+
+
+Note: This is my first post on this sub. If this isn't the right place for this query, please suggest where can I get this info from?

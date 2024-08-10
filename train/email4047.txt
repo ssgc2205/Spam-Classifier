@@ -1,0 +1,5 @@
+So as part of a dataviz class we're supposed to do a biweekly data visualization and the theme of this week is "Encounters/Meetings".
+
+I'm trying to find a good dataset so I can do some dataviz on it. Any tips on a good dataset for this theme?
+
+Thanks

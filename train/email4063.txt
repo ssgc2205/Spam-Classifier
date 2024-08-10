@@ -1,0 +1,13 @@
+Hi guys, I really do need your help. I am sitting literally the whole day for finding an idea for my homework.
+
+Find two data sets online (from one or several sources) that would be interesting to combine
+
+* Each data set must have a different file format (either CSV, XML, or JSON).
+* &amp;#x200B;
+* Workable data-set sizes: The selected or extracted data sets  should have thousands of entries (&gt;= 1000), but not more than (&lt;=)  10000 entries. If larger, use an excerpt from the original data set.  Justify the extraction criteria using a Markup cell.
+
+It is not difficult to find a dataset but if you have to find two which fits together and makes sense,...I am out.
+
+&amp;#x200B;
+
+Thanks in advance!

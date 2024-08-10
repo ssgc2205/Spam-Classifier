@@ -1,0 +1,8 @@
+I'm looking for historical income tax rates by state in the U.S.
+
+
+So far, I've only been able to find data on state income tax rates between 2000-2020 (see the [Urban &amp; Brooking's Tax Policy Center](https://www.taxpolicycenter.org/statistics/state-individual-income-tax-rates-2000-2020).) I want data *before* 2000 - preferably between 1970-2000. 
+
+
+
+I have already checked ITEP as well as the Tax Foundation. Any other suggestions will be very much appreciated! Thanks!

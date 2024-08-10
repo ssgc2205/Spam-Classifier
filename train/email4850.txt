@@ -1,0 +1,1 @@
+A list of jokes, or quotes with coma separated author, haikus, anything at all. just has to be a list of strings of text that are in total less than 100 characters each, I'll exclude entries that are longer than 100 characters so it's not that big of a deal. Long lists of tens of thousands of strings of text would be great, also text that is English and makes sense.

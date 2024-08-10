@@ -1,0 +1,7 @@
+... such as multiple pictures of the same persons, the same flowers, the same anything? The only such dataset that comes to mind are
+
+\- scraping decor photos from property websites such as zillow
+
+\- scraping celebrity photos from google image
+
+Any other suggestions?

@@ -1,0 +1,5 @@
+Hi all,
+
+I am looking for a dataset containing phone calls recordings, preferably in English. Does anyone know of something public? 
+
+Thanks!!!

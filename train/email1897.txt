@@ -1,0 +1,1 @@
+I am a university student looking for practice data sets in my computer science class (specifically CSV files, such as Excel files). Where's a good place to look for CSV files online? I don't really care what the content of the files is, I just want the practice.

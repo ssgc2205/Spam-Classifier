@@ -1,0 +1,1 @@
+Does anyone know of a good fashion/clothing dataset? I'm thinking of one where you have images of a shoe from different angles, and the correct answer is to say they are all the same. Or even one with categories, like running shoes vs heels

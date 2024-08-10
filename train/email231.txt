@@ -1,0 +1,4 @@
+What are known ways of retrieving product metrics like basic product properties, product sales, price history, reviews etc.? 
+Is there an Amazon API or a third party API you know? It can be free or paid.
+
+Do you also known a clean dataset for historical Amazon products data?

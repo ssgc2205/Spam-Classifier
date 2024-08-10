@@ -1,0 +1,9 @@
+I'm looking for a dataset of cocktail purchases from a bar. My end goal is to learn the similarities of various cocktails based on purchase history (as opposed to drink contents, though this could work too.) Ideally it would take the following form:
+
+    purchase_id, cocktail_name
+    1            moscow_mule
+    1            dark_and_stormy
+    2            margarita
+    2            paloma
+
+If anyone has such a resource, please link!

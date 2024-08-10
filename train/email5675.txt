@@ -1,0 +1,11 @@
+Good afternoon wonderful data people.  
+
+The CDC now wants to study LA, DC and Chicago to understand case spread and new cases by neighborhood due to new hot spot designations.  The data we need is being posted daily here, for example, in LA County:
+
+http://publichealth.lacounty.gov/media/coronavirus/locations.htm
+
+But we don’t have the very important associated analytics and historical trends and graphs day over day from when the pandemic started to easily see what specific neighborhoods are being most affected and growing the most for new cases.  LA County adds to the neighborhood numbers daily, but they do not provide any sort of historical visualization or graphical trends.
+
+If anyone out there feels they can do this, can you pull historical data by archive or waybackmachine and provide a graphical representation of new coronavirus cases by neighborhood for LA and potentially DC and Chicago as well?  This will get shared a lot in research circles some of us have access to and currently there isn’t a good site anywhere I have found that is tracking new case growth or decline or stagnation by neighborhood in the top three hot spot counties of most concern to the CDC.  This will also help residents in these areas as well.
+
+Thank you for your help.

@@ -1,0 +1,13 @@
+Hi... Looking to put together some data about historical army sizes. Something like the following:
+
+| Year | Babylon | Persia | Mongols | Britain | Rome | USA | ... |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 2000 BC | 2500 | 2000 | 5000 | NA | NA | NA | NA |
+| 1950 BC | ... | ... | ... | ... | ... | ... | ... |
+| 1900 BC | ... | ... | ... | ... | ... | ... | ... |
+| ... | ... | ... | ... | ... | ... | ... | ... |
+| 2000 AD | ... | ... | ... | ... | ... | ... | ... |
+
+Any links to historical army sizes, already-worked data sets, etc., are all welcome. I'm just looking for a place to find data like this.
+
+Wanted to make something similar to [this](http://imgur.com/a/0OS9B) (simulated data), since [this map](https://i.imgur.com/cDixQse.jpg) is woefully inaccurate *even according to the author*.

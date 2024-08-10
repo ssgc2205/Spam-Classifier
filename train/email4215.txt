@@ -1,0 +1,2 @@
+I'm new to data science and I'm working on my first data cleaning project. I'm trying to find some datasets on salaries and salary distributions around the world. Additionally, I also want to mix a few related datasets in this, like GDP and population of different regions in the world. Where can I find these datasets?
+Also, as this is a data cleaning project, is there a way to get raw datasets that haven't been worked on much?

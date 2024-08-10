@@ -1,0 +1,13 @@
+Hello - I'm looking for a database with an API that provides information on US companies, their divisions (if any) and the brands (if any) sold by the company or its division.  Ideally, the database would cover more than just companies that sell consumer products but also provide services (e.g. airlines, rental companies, etc.)
+
+From my research so far:
+
+The bar code scanner databases are close; however, they only cover companies with products.  Further, they generally provide the product information and the manufacturer information.  Not infrequently, the manufacturer of a product is different from the company that actually owns the brand.
+
+The trademark databases like WIPO have too much signal to noise and aren't a practical solution.  (There is too much overlap between similar trademarks.)
+
+An example - if I were to type in "Ben and Jerry's" the database would show it is a division of Unilever.
+
+Also - if people have a recommendation for other subs to cross post to - that would also be appreciated.
+
+Thanks in advance!

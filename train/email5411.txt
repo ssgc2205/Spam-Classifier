@@ -1,0 +1,7 @@
+Just like SQUAD2.0 dataset I am looking for a dataset that has product review and selected text from the review that describes about the product. For example:
+
+|Text|selected\_text|
+|:-|:-|
+|The car is made up of plastic and the logo written is hotcart wheels, this is not a hot wheels|made up of plastic; logo written is hotcart wheels; this is not a hot wheels|
+
+Note:  I am not looking for **text summarization dataset** like a review is given and what it actually means, please don't get confused with this.

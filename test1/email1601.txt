@@ -1,0 +1,3 @@
+I built datafix.io to connect data cleaners with people who need their data cleaned. There is a reward system for cleaning data as well as QA (with its own reward system). What do you all think?
+
+http://datafix.io

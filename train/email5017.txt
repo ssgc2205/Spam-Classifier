@@ -1,0 +1,11 @@
+Hi! 
+
+I am looking for a dataset that consists of images of real life ads. I've searched the popular sources like Google and Kaggle but I can't seem to find anything.
+
+The following are similar to what I am looking for:
+
+[https://imgur.com/a/VahKSd8](https://imgur.com/a/VahKSd8)
+
+If anyone has a good source or know of another place I could ask, please let me know!
+
+Thanks to everyone in advanced

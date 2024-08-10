@@ -1,0 +1,5 @@
+[https://www.dolthub.com/repositories/Liquidata/covid-stimulus-watch](https://www.dolthub.com/repositories/Liquidata/covid-stimulus-watch)
+
+Thanks to the folks at COVID Stimulus Watch. 
+
+[https://data.covidstimuluswatch.org/prog.php?detail=opening](https://data.covidstimuluswatch.org/prog.php?detail=opening)

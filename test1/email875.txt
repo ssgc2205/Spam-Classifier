@@ -1,0 +1,3 @@
+I found a similar data set here, but the post is outdated, and this and the other sets I found didn't have the granularity (wanted by episode, not by season) I wanted. http://asoiaf.westeros.org/index.php?/topic/94295-a-game-of-screentime/
+
+Intent: I wanted to make a heatmap of characters (Y) by episode (X) based on screen time (color).

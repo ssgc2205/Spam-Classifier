@@ -1,0 +1,1 @@
+Anybody know of any datasets of domains of conspiracy websites? Also, possibly hate websites? I have a database of &gt;1m comments posted on a police forum and want to check the links that were shared in it.

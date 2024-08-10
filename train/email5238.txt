@@ -1,0 +1,1 @@
+Can someone direct me to dataset of commonly occurring diseases like Common Cold, Allergy, Diabetes, Dengue, Malaria, Typhoid, Tuberculosis, Hepatitis.

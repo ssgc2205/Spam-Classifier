@@ -1,0 +1,5 @@
+I am currently teaching a course in data analytics for cybersecurity, which I've sort of been pitch-forked into, as it's not my area of expertise at all (I do mathematics, mainly).  However, I'm enjoying reading as much as I can, and learning as fast I can.
+
+But I'm having great difficulty finding datasets for the students.  What I'm after is a dataset that's not too big, say, less than 2Mb (all of us are learning remotely, and some of my students have slow connections), which can be used to explore either supervised or unsupervised machine learning, AND which are cybersecurity related.  I've had a hunt on kaggle, but have yet to find any datasets which seem right for my purposes.
+
+So I'm asking in the hope that somebody here wiser than me will have had - and hopefully solved - this issue before.  Thank you!

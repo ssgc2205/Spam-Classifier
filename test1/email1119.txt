@@ -1,0 +1,5 @@
+Hi guys,
+
+IDK if this is the right place to post this, so sorry in advance.
+
+I've figured out the 500 companies in the S&amp;P 500 as of Jan. 1, 2010, and I'm supposed to get their monthly stock data up to January 2018 for each company in this set. Does anyone know of a convenient way to do this? I'm kinda lost. Thanks!

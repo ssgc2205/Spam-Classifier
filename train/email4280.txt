@@ -1,0 +1,14 @@
+I need a dataset with some basic info as follows :
+
+Age  
+Height  
+Weight  
+Any health issues?   
+Any Disease  
+Allergies  
+Excercise  
+Smokes/Drinks/Both
+
+The datasets I have gone through so far are targetted to a particular condition and only partially cover these
+
+Please suggest

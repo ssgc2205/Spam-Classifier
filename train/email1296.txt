@@ -1,0 +1,26 @@
+# **EDIT** to clarify some excellent questions in the comments:
+- I am using Ubuntu 16.04
+- I don't need to annotate the sentences/text in each row, just need to check (one at a time) that the assigned label is correct. Evaluation of the correctness of the label is done manually, not by any programmatic process.
+- `sed` and `awk` would be fine if I knew beforehand which lines need to be changed (which I don't), which is why I need a more iterative interactive approach.
+- Given the large number of rows (~4 million) in the CSV, a spreadsheet approach would probably require me to break the single CSV into multiple files. I could be completely wrong about this as I don't do a whole lot of data preprocessing in spreadsheets.
+
+--------
+I have a set of CSVs with text and a classification in them. Some of these are incorrectly classified in the raw data and I would like to fix the labels by hand.
+
+I found http://sloth.readthedocs.io/en/latest/ which is used for fixing/creating image labels by hand but haven't yet found something for text datasets.
+
+I could, of course, load the CSVs up in a spreadsheet but I have close to 4 million sentences and I would only like to go down the spreadsheet route if there is nothing else available.
+
+**Sample Data**
+
+\# | Class | Text
+---|--------|---------
+1 | 1 | This is some text
+2 | 1 | Lorem ipsum dolor sit amet
+3 | 0 | Sed vestibulum tempor enim vel porta
+4 | 0 | sed laoreet nisi accumsan non. Integer et sollicitudin velit.
+5 | 0 | Duis mollis ante odio, at lacinia arcu ullamcorper sit amet.
+... and so on. Let's say I would like to change the class of rows 2 and 4.
+I've identified these by some manual process but I'm hoping the tool can show me the rows one by one.
+
+Worst case, I'll write something myself to do it but want to be sure there isn't something out there already.

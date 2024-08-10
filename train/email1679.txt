@@ -1,0 +1,5 @@
+So I am trying to build a classification dataset for specific cases. For example, a user may say something like “Hey can you lookup the website for speed-test”. How could I create hundreds of different alterations of all the words while still maintaining the same meaning?
+
+I currently am using this data to build a classification model for a custom GPT3 model, and have been using the base GPT3 to generate more alterations on the phrase to build my dataset. The problem is this can get very expensive, and can produce not many unique phrases.
+
+How could I achieve this task automatically and on the cheaper side? I would appreciate any advice.

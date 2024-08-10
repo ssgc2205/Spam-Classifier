@@ -1,0 +1,11 @@
+https://gist.github.com/anonymous/1413e5a78a5046f06bb14325b65c1ad1
+
+Collected this data from here: https://ndb.nal.usda.gov/ndb/api/doc
+
+Column Descriptions:
+
+X-gm: grams of macronutrient X per 100g of food
+
+X-unit: not really sure
+
+X-value: grams of macronutrient per amount of food indicated by they weight/measure columns

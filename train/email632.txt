@@ -1,0 +1,1 @@
+Hi, anyone figure out how to download dataset of previous challenges held by conference, like RecSys 2018, or IJCAI challenge 2016?

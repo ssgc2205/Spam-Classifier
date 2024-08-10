@@ -1,0 +1,3 @@
+I'm looking for datasets of online news sources and some sort of bias score that could be attributed to them. Ideally, it would be something like FiveThirtyEight's polling bias, where each polling source has a bias score.
+
+At this point, I'm not particularly concerned with how the bias score is calculated, just looking for any and all that exist.

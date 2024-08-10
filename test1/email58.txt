@@ -1,0 +1,1 @@
+I am currently writing a research paper on combining discrete-event simulation with machine learning to establish and track duty, replacement, and repair cycles for commercial gym equipment.  I can't find anything on replace/repair cycles besides equipment warranties, and I'd like to have some actual preliminary data to draw from if possible.  Thanks!

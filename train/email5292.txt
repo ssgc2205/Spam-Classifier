@@ -1,0 +1,6 @@
+Hi everyone, as a business analyst who is trying to work on my data analytic skills, an old co-worker sent me this question. I spent quite a bit of time on it, but due to my lack of knowledge when it comes to data analysis, I haven't been able to come up with anything concrete.
+
+&gt;The system you will be supporting is very large, and contains critical information needed to support fundraising for the company. For example, who all of our past, current, and potential donors are, demographic information about them, and etc. An ongoing question for us is, **“How accurate is our data?”**
+
+
+&gt;From a business analysis perspective, how would you go about answering this question, and developing recommendations to ensure that our data is as accurate as possible going forward?

@@ -1,0 +1,32 @@
+iTunes maintains an XML file with information about every song in your music library. Here's an example entry from one song in my library.
+
+    &lt;key&gt;2424&lt;/key&gt;
+    		&lt;dict&gt;
+    			&lt;key&gt;Track ID&lt;/key&gt;&lt;integer&gt;2424&lt;/integer&gt;
+    			&lt;key&gt;Name&lt;/key&gt;&lt;string&gt;D'yer Mak'er&lt;/string&gt;
+    			&lt;key&gt;Artist&lt;/key&gt;&lt;string&gt;Led Zeppelin&lt;/string&gt;
+    			&lt;key&gt;Album&lt;/key&gt;&lt;string&gt;House Of The Holy&lt;/string&gt;
+    			&lt;key&gt;Genre&lt;/key&gt;&lt;string&gt;Rock&lt;/string&gt;
+    			&lt;key&gt;Kind&lt;/key&gt;&lt;string&gt;MPEG audio file&lt;/string&gt;
+    			&lt;key&gt;Size&lt;/key&gt;&lt;integer&gt;8417408&lt;/integer&gt;
+    			&lt;key&gt;Total Time&lt;/key&gt;&lt;integer&gt;262974&lt;/integer&gt;
+    			&lt;key&gt;Track Number&lt;/key&gt;&lt;integer&gt;6&lt;/integer&gt;
+    			&lt;key&gt;Track Count&lt;/key&gt;&lt;integer&gt;8&lt;/integer&gt;
+    			&lt;key&gt;Year&lt;/key&gt;&lt;integer&gt;1973&lt;/integer&gt;
+    			&lt;key&gt;Date Modified&lt;/key&gt;&lt;date&gt;2012-03-22T01:37:25Z&lt;/date&gt;
+    			&lt;key&gt;Date Added&lt;/key&gt;&lt;date&gt;2012-03-21T23:25:24Z&lt;/date&gt;
+    			&lt;key&gt;Bit Rate&lt;/key&gt;&lt;integer&gt;256&lt;/integer&gt;
+    			&lt;key&gt;Sample Rate&lt;/key&gt;&lt;integer&gt;44100&lt;/integer&gt;
+    			&lt;key&gt;Play Count&lt;/key&gt;&lt;integer&gt;11&lt;/integer&gt;
+    			&lt;key&gt;Play Date&lt;/key&gt;&lt;integer&gt;3453970976&lt;/integer&gt;
+    			&lt;key&gt;Play Date UTC&lt;/key&gt;&lt;date&gt;2013-06-13T19:22:56Z&lt;/date&gt;
+    			&lt;key&gt;Skip Count&lt;/key&gt;&lt;integer&gt;1&lt;/integer&gt;
+    			&lt;key&gt;Skip Date&lt;/key&gt;&lt;date&gt;2013-03-24T04:30:02Z&lt;/date&gt;
+    			&lt;key&gt;Persistent ID&lt;/key&gt;&lt;string&gt;FA1BA2631CA7B83F&lt;/string&gt;
+    			&lt;key&gt;Track Type&lt;/key&gt;&lt;string&gt;File&lt;/string&gt;
+    			&lt;key&gt;Location&lt;/key&gt;&lt;string&gt;file://localhost/C:/Users/***/Music/iTunes/iTunes%20Media/Music/Led%20Zeppelin/House%20Of%20The%20Holy/06%20D'yer%20Mak'er.mp3&lt;/string&gt;
+    			&lt;key&gt;File Folder Count&lt;/key&gt;&lt;integer&gt;5&lt;/integer&gt;
+    			&lt;key&gt;Library Folder Count&lt;/key&gt;&lt;integer&gt;1&lt;/integer&gt;
+    		&lt;/dict&gt;    
+
+I just took a class in python and I wanted to see if I could do some predictive song recommendations based on my library like last.fm, Google music etc. Thing is I only have my library. Is there any place I could get libraries like this from other people? If not is there a scraper tool that will scrape libraries people upload to Google music or similar websites that might have lots of detail?

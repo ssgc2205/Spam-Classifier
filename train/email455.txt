@@ -1,0 +1,11 @@
+Is there a way to export [this data](https://realmpop.com/us.html) into plain text or excel tables?
+
+I'm talking about the races/classes data, which you get access to by clicking the pie charts. 
+
+I want to make graphs about the most and least common race and class combinations on all servers.
+
+The job would be way easier if there was some way to quick copy-paste the pie chart data into text.
+
+I tried inspeccing the element but no luck
+
+People over at /r/dataisbeautiful told me I might get some help with a scraper here

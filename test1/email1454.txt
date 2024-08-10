@@ -1,0 +1,7 @@
+Hi everyone,
+
+I'm doing research on Tinder's information collection. I know that when you request your data from them, one of the pieces is a JSON file. I would love to analyze this, but do not have an account myself (so I can't request data) and haven't been able to find others who can help.
+
+&amp;#x200B;
+
+I'm curious how the JSON file is structured and what types of data are really stored and saved by Tinder. If someone can point me in the direction of an "example" Tinder JSON file it would be amazing.

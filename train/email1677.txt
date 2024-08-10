@@ -1,0 +1,2 @@
+Hello everyone. A part of my thesis as a Mechanical Engineer is to construct a profile that includes the fluctuation of the price of kWh for as many countries/cities/states (including Greece) as possible. For example this is what I found for Chicago [https://imgur.com/a/kPylHIr](https://imgur.com/a/kPylHIr).  
+Does anyone know of a dataset like that?

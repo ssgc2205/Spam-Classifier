@@ -1,0 +1,10 @@
+Hey all. I'm looking for a dataset where I can find annual number of tourists per state. Something like below:
+
+|State|Number of Visitor in 2019|
+|:-|:-|
+|Nevada|3,000,000|
+|New York|6,000,000|
+
+Does anyone know where I can find such dataset? If it's by city, that's fine, too.
+
+I thought I could find such dataset through a quick Google search, but it's a lot more elusive than I thought so asking for help here...

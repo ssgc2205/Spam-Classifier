@@ -1,0 +1,3 @@
+Hi all,
+working on a research project to identify the mobility patterns in an urban environment specifically for automobiles? Looking to map routes and driving patterns and subsequently impacts to the environment. Could be GPS logged data or pickups/dropoffs for Taxis.
+Appreciate any help here. 

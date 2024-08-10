@@ -1,0 +1,17 @@
+Hi there, 
+
+I am a BI developer intern, I just finished database fundamentals course and my supervisor engineer asked me and my team to find a database where I can perform what I learned including: 
+
+
+- Entity Relationship Diagram 
+- Mapping from ERD to Schema 
+- Normalization 
+- Import it in SQL Server Management Studio and do some basic DML and DQL 
+- Use it in the Graduation Project at the end of the Course. 
+
+
+We’ve been browsing datasets on kaggle but most are a table or hardly two where we can’t find relations or even normalize properly. 
+
+Kindly suggest me databases or share your opinions. 
+
+Thanks in advance.

@@ -1,0 +1,7 @@
+I have excel spreadsheet with a bunch of data. I am going to import it into a DB to try to get rid of the crap I dont need and do some analysis.
+
+What I would really like to do is to display the locations and be able to adjust by date. I know I can put the locations on Google maps, but it will be all the locations at once.
+
+The data covers 24 months. I'd like to see how the locations change and maybe where the sudden the spike of activity has come from recently.
+
+Any suggestions on how to best visually display the data and be able to adjust the dates?

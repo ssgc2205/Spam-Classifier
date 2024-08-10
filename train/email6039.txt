@@ -1,0 +1,5 @@
+I am looking for the dataset of all metropolitan statistical areas and the cities that make up those statistical areas. I can't find a dataset only of the MSA and their counties. 
+
+There is on Wikipedia per MSA a list of all corresponding cities, but I am not looking forward to manually type all those cities of all 394 MSAs. 
+
+I hope someone can help me with this?

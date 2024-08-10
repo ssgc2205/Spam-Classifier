@@ -1,0 +1,1 @@
+Working on a tool that will help us match a collection of personal records to a list of known names.  The names are not uniform... so records for a person named Bill Clinton might be under Bill, Billy, William.  Can anyone point me to a dataset that catalogs these variations?

@@ -1,0 +1,3 @@
+I have downloaded the CK Dataset since I plan to do some emotion detection but I am unable to figure how to translate the scores and folders numbers to what emotion they represent. Any help around this situation would be delightful. 
+
+Dataset Link :  [http://www.consortium.ri.cmu.edu/data/ck/CK/](http://www.consortium.ri.cmu.edu/data/ck/CK/)

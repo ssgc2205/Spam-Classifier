@@ -1,0 +1,3 @@
+I'm looking to get number of medicare beneficiaries per city as well as the number of Internal Medicine Doctors in each city. I've tried checking the census website but didn't have what I needed. Or maybe i'm not searching correctly.
+
+Is there another data source, like a health insurance database, I could look at for this city level data? I'm only looking at places within 300 miles of los angeles. 

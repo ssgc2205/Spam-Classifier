@@ -1,0 +1,9 @@
+I'm working on a project on regional languages in India that needs sentences in the [Chattisgarhi](https://en.wikipedia.org/wiki/Chhattisgarhi_language) language, specifically in the domain of Finance and Agriculture.
+
+I searched the internet and the only good website I was able to find in this language was [http://hanka.gurturgoth.com/](http://hanka.gurturgoth.com/), which isn't much.
+
+Is there some place where I can find more texts for scraping? Like some dataset or a digital library of this language?
+
+&amp;#x200B;
+
+Thanks a lot!

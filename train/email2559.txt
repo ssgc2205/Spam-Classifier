@@ -1,0 +1,10 @@
+Open Images is a dataset of \~9 million images that have been annotated with image-level labels and bounding boxes spanning thousands of classes.
+
+* 15,851,536 boxes on 600 categories
+* 2,785,498 instance segmentations on 350 categories
+* 3,284,282 relationship annotations on 1,466 relationships
+* 507,444 localized narratives
+* 59,919,574 image-level labels on 19,957 categories
+* Extension - 478,000 crowdsourced images with 6,000+ categories
+
+[Link to the dataset](https://storage.googleapis.com/openimages/web/index.html)

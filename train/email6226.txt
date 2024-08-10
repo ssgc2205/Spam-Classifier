@@ -1,0 +1,7 @@
+I vaguely remember having a resource where I could input tax ID numbers and get information back about the companies, specifically health companies--I think it was a database I could pull using tax ID numbers. Unfortunately, I never learned where it was coming from.   
+
+
+Does anyone know of resources like this? I'm tempted to say it was SAP, but I'm very unfamiliar with them. Am I looking in the right place? Or is this a fool's errand?  
+
+
+Thanks so much!

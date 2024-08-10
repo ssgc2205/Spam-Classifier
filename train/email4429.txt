@@ -1,0 +1,6 @@
+* https://figshare.com/articles/All_English_WIkipedia_Article_URLs/5422522
+* https://archive.org/details/wikiArticleTitleList.txt.7z
+
+The list **includes** redirects and disambiguation pages, so a decent number of them aren't actually articles. It was compiled by scraping this list: https://en.wikipedia.org/w/index.php?title=Special:AllPages
+
+The urls are new-line delimited. Note that each url doesn't include the `https://en.wikipedia.org/wiki/` part. So `https://en.wikipedia.org/wiki/People` is simply listed as `People`.

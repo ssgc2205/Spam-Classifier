@@ -1,0 +1,7 @@
+Following, and attempting to improve upon, [this model](https://towardsdatascience.com/automatic-speaker-recognition-using-transfer-learning-6fab63e34e74), I am creating a data set to train a convolutional neural network (CNN) to identify speakers by scraping LibriVox. In the original work, the authors used 45-minute audio clips from 57 unique speakers. These clips were trimmed into pieces with an individual duration of 5 secs, and the spectrograph for each piece was found. This served as the training set for an image-classifier CNN. The authors cited resource constraints for their choices. 
+
+I have acquired 981 unique readers with varying runtimes (tens of minutes to hours) and have access to multiple large supercomputing clusters. I am trying to determine the optimum way to pre-process this data in terms of runtime limitations and duration of the pieces.  Are there any obvious pitfalls of using 20 ms pieces as I've seen in other models? Should I stick to a set total runtime for each reader  (e.g. 45-minute clips)?
+
+How would you optimally prep this data?
+
+This is my first, independent machine-learning project, so I appreciate any and all feedback.

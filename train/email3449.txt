@@ -1,0 +1,7 @@
+I wanted to play around with generating game maps based on real-world data.
+
+So I'm looking for a dataset with some basic information about the world. What I need is height information, country borders, and terrain information.
+
+With terrain information I mean where forests, water, deserts and such are. Maybe also some information about where cities are. Though exact buildings and roads are too detailed I think.
+
+I was looking at the OSM maps, however there is too much data. The whole dataset is 50GB, which seems excessive. So is there a more modest dataset I could use?

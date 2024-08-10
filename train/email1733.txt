@@ -1,0 +1,2 @@
+For a uni project I'm looking for data sets that contain all sorts of data on energy generation, usage and transportation. So far I found the MaStR in Germany (contains static technical data) and ENTSO-E (energy usage measured in different Timeintervalls on European level).
+Do you know any similar data sets, that would help me out immensely!

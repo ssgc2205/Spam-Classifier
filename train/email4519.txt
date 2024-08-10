@@ -1,0 +1,5 @@
+Hello everybody,
+
+I am learning Data Analysis and wanted to make a small test with a reduced Database so I have put together a Pokemon Dataset with all Pokemon with Pokedex National Number until 8th Generation with around 50 features. I hope you find it useful.
+
+[https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420](https://www.kaggle.com/mariotormo/complete-pokemon-dataset-updated-090420)

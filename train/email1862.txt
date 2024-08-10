@@ -1,0 +1,7 @@
+Hey everybody!
+
+So I saw quite a few posts since the election on social media showing how vote counts sometimes decrease and how that means that there was fraud. I hate all the disinformation spreading around but could not find a completely waterproof answer to disprove it - the most satisfying answer I could come up with is that nobody would be so stupid and alter voting totals after they’ve been reported. Consequently, it must be an error and I wanted to investigate where this error comes from - my instinct is typos on a county level probably but I wanted to look further into it.
+
+I saw that the feed comes from the Associated Press, but it seems that the recordings of this data are not publicly accessible. Has any organization made a recording of it by any chance? Or states that published it themselves?
+
+Thanks!

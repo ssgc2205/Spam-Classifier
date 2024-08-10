@@ -1,0 +1,5 @@
+I'm working on a project which needs to look up locations within a given timezone. I was wondering if there is already a dataset as I haven't found anything yet!
+
+**UPDATE**: I couldn't find anything that worked for me, so I ended up crawling the data from online. I put the data I used up on Github for future reference.
+
+[Link to Github Repository](https://github.com/ajn0592/locations-by-utc-offset)

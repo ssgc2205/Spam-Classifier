@@ -1,0 +1,5 @@
+Hi there, does someone know where I could find a database for 3D objects? The data format is not important. 
+
+Otherwise, does somebody know if it's possible to use one of the big 3D printing sites for this? 
+
+Any hint and help is very much appreciated!

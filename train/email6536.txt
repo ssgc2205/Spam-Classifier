@@ -1,0 +1,3 @@
+Hi, I'm looking for a potato leaves image dataset. I have searched for it everywhere and also scraped data from Google image search, but none seem to be good. I want the dataset for leaves disease  detection training. Any help is appreciated.
+
+r/datascience

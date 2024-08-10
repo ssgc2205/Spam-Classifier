@@ -1,0 +1,3 @@
+I've got an idea for a small project, the only rub is that I need a fair amount of shots of individual people (or perhaps groups) and the name of the photog to give credit.  
+
+I know a little python, but not enough to write a script to clean this data out.  Anyone know of a good data set that would contain this information?

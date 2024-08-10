@@ -1,0 +1,7 @@
+Looking for a heart disease diagnosis dataset by United States County by year.
+
+The closest thing I've been able to find is deaths, e.g. on CDC Wonder. What I'm really looking for is diagnosis.
+
+So stated otherwise, I'm looking for a dataset with - number of new Heart Disease cases by year by county.
+
+Thank you!

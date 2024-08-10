@@ -1,0 +1,3 @@
+I am looking for a data set that not only has true or false for admission data but also factors like gpa, where a student did their undergrad and other factors as such 
+
+Thank you in advance

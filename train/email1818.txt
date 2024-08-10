@@ -1,0 +1,19 @@
+ 
+
+# Looking for a video-based dataset for car theft
+
+&amp;#x200B;
+
+I'm looking for a video dataset with (ideally) people performing some of the following actions:
+
+\- walking
+
+\- running
+
+\- Punching/smashing
+
+\- Looking in a car
+
+\- Crouching
+
+I want to train the dataset to detect abnormal behavior around the car

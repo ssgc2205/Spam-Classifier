@@ -1,0 +1,1 @@
+Craigslist is infamous for deterring people from using their data in any fashion (PadMapper being the most notable case). I am curious, what kind of analysis would you do with craigslist data that might be interesting / valuable?

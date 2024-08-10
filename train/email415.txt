@@ -1,0 +1,11 @@
+[Total data by countries](https://docs.google.com/spreadsheets/d/1d9t7xg-lUPEUArTsc_wMOGl1XfzpXmeWcALx7v58KcU/edit?usp=sharing)
+
+[Detailed data by countries](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit?usp=sharing)
+
+[Detailed data for the US](https://docs.google.com/spreadsheets/d/1pxuTu10uO7MsBaKA554XSuCpnF--FTqwdnl_sUHfWro/edit?usp=sharing)
+
+All data scraped from  [Google's COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
+
+[GitHub](https://github.com/ActiveConclusion/COVID19_mobility) with Python script and reports in different formats
+
+UPDATE: Data updated 10.04.2020

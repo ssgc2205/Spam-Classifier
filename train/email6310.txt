@@ -1,0 +1,10 @@
+An example of an ideal dataset would look like:
+
+ * There are some devices, say computers
+ * Each computer has **parameters** (number of cpus, amount of ram, hdd space, etc.)
+ * Also we know some **time-series** data (energy consumption log, load log, etc.) about each of the devices
+ * And we need to predict whether it will fail soon or not.
+
+This is just an example, the domain of the dataset does not matter, it could be hospital records about patients, some other devices, unicorns, whatever. The **main requirement** is that each instance has some number of useful "static" features and some number of useful "dynamic" features.
+
+Has anyone seen a dataset(s) like this?

@@ -1,0 +1,3 @@
+[I put this together](https://www.kaggle.com/stephangarland/ghtorrent-pull-requests) for a Master's Report. It's five days' worth of GitHub PR comments, with information the repo name, language, and usernames, along with numerical IDs that can be used in the [GHTorrent database](https://ghtorrent.org/) to get more information if desired.
+
+Each day has about 4.5 million rows, and is about 17 GB.

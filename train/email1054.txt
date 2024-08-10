@@ -1,0 +1,1 @@
+I know that in Computer Science, there are different types of data types - lists, trees, networks, relational, etc. But what about more semantic data types? Like, a date (a number, or a string, etc.), an address (a string, or a tuple of strings), a geolocation (tuple of two numbers). Does anyone know of any kind of meta analyses of this sort of thing?

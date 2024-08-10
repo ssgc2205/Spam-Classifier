@@ -1,0 +1,7 @@
+Hello,  
+
+
+My company is looking for smart electrical meter data from homes in the USA to explore the home battery space. We're hoping to get individual smart meter data, often times marketed as "Greenbutton" so that we can calculate how homeowners could realistically save money with a backup battery for their home. This is typically found in the online account of your electrical utility.  
+
+
+We've been asking friends and family for this information, but would like to get a larger dataset. For anyone willing to share their meter data, we will provide you with a PDF summary that visualizes your usage and potential cost savings with a battery. The most useful form of this data for us is in a CSV format, going one year back and showing 15 minute increments. You may not be able to select all of these options, but if you can, please do.

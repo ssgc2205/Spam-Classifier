@@ -1,0 +1,1 @@
+I'm looking for vehicle telematics dataset to classify drivers based on their driving behaviour. I have looked into AXA vehicle telematics challenge on kaggle, but unfortunately kaggle has removed the dataset. I'll be using this dataset for Usage Based Insurance. 

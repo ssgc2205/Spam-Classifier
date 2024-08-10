@@ -1,0 +1,32 @@
+This dataset is meant for anyone who would like to try to create a deep learning agent either using supervised or (offline) reinforcement learning to play League of Legends. The dataset contains 72 games from patch 11.21 (last patch) where the game ended in an early surrender. These games were chosen as the game lengths were guaranteed to be low which kept the dataset from being too large.
+To download the dataset, go to [this](https://github.com/MiscellaneousStuff/tlol) GitHub link and click on the `Google Drive Link`. The dataset is stored as an SQLite database file and the schema should be relatively self-explanatory. Happy to answer any questions.
+
+This is just a preliminary dataset which demonstrates that this is possible. Within the next few days the dataset will contain 1000s of replays which means 10,000s of champions worth of data (for each time a player plays a champion).
+
+Edit: Database now contains all 191 early surrender games (games ending at or before 3.5 minutes) in the dataset.
+This table shows the top 10 champion occurrences within the dataset.
+
+| Champion     | No. |
+| ------------ | --- |
+| Nami         | 116 |
+| Miss Fortune | 103 |
+| Lucian       | 61  |
+| Khazix       | 36  |
+| Viego        | 35  |
+| Lux          | 34  |
+| Jhin         | 32  |
+| Yone         | 30  |
+| Camille      | 29  |
+| Graves       | 29  |
+
+Edit 2: Larger dataset containing 987 games targeting Miss Fortune in the early game (up to first 5 minutes) with the same schema and format as the first dataset. Also contains all game objects recorded 4 times a second. The games were chosen by getting the games where the MF player lived the longest. This gave a dataset where the players overall had a 64.4% win rate in roughly EUW Diamond II.
+
+Edit 3: A further 728 games also targeting Miss Fortune in the early game (up to first 5 minutes) with the same schema and format as the first and second dataset. This brings the total number of games for the MF-Longevity datasets to 1,715 or
+`1,715 games * (5 minutes * 60 seconds * 4 frames/second) := 2,058,000 frames in total.`
+This should now be enough to at least create a deep learning agent which can play Miss Fortune for the first five minutes of a game at least to a basic level.
+
+Edit 4: Another day another dataset. A further 773 games from the `MFLongevity` dataset have been uploaded. I have now also included a Jupyter Notebook to analyse the data from the `191-EarlyFF` dataset which works completely standalone from Google Colab. Feel free to also run it locally if you wish to.
+
+[GitHub Link](https://github.com/MiscellaneousStuff/tlol)
+
+[![Open Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MiscellaneousStuff/tlol/blob/main/League_of_Legends_Patch_11_21_(Reinforcement_Learning).ipynb)

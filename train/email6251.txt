@@ -1,0 +1,1 @@
+I'm looking to trend total restaurant location for the past 10 years.  Ideally it would have operator types, so I could also trend the percentage of single operators vs chain operators.  Anyone have a lead on where I could find a dataset that could achieve this?

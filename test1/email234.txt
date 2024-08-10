@@ -1,0 +1,1 @@
+If you know of any data sets of classified melanoma images where the skin lesion is clearly visible it would be greatly appreciated if you posted them below.

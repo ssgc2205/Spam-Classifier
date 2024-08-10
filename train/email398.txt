@@ -1,0 +1,11 @@
+I'm looking for the number of days per year in each US state where the minimum temperature was above, say, 72 degrees. I've found this data in pieces but I need a lot of it and don't have the time to gather it all.
+
+Does anyone know where I can find this? An API would be helpful too, in case I want to change the criteria.
+
+EDIT
+
+Thanks to everyone for the help. It's here:  
+
+[https://www.ncdc.noaa.gov/cdo-web/search](https://www.ncdc.noaa.gov/cdo-web/search)
+
+The trick is to narrow down to a few stations in a city, then you can up the date range. Still have to do it for each state, but that's acceptable.

@@ -1,0 +1,22 @@
+Hello r/datasets,
+
+I am currently working on a software solution for a new piece of hardware and have stumbled upon an issue with the data we have. 
+
+I am looking for "clean" images of human iris'. When you search google for any manner of [human iris pictures](https://www.google.com/search?q=human+iris+macro&amp;safe=off&amp;hl=en&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjqqemRqaHiAhW7HzQIHSHkCjgQ_AUIDigB&amp;biw=1396&amp;bih=656), you get 99% with one or both of the aberrations that come with photographing something like this.
+
+1) Light reflection
+
+2) Eyelash reflection or background reflection.
+
+&amp;#x200B;
+
+Does anyone know if there is a dataset of clean iris', ideally just the iris (the full iris, not portions of it) and not the entire eye with not aberrations? I am looking[for something like this](https://www.eyesight-foto.de/en/eyesight-iris-foto-galerie-2017/), but they only have several on their site. 
+
+One of my colleagues suggested talking to an iridologist that [takes pictures like this](https://www.google.com/search?q=iridology+iris+pictures&amp;safe=off&amp;rlz=1C1CHBF_enUS721US721&amp;tbm=isch&amp;source=lnt&amp;tbs=isz:lt,islt:10mp&amp;sa=X&amp;ved=0ahUKEwjXzfzVqKHiAhURpJ4KHT1ZAnwQpwUIIQ&amp;biw=1396&amp;bih=656&amp;dpr=2.75). This is getting closer, but there are still aberrations in some of them. I did contact a few of them and they said they can't release without patient permission, or won't release at all even with permission because it is really 'weird'. I don't blame them one bit, it is pretty random.
+
+I asked an optometrist too just as a long shot and she was pretty confused as to where to even start, but ended by saying she really couldn't help.
+
+Additionally, there are different types of photography that can be used to image an iris, so this dataset  can be in regular images, infrared, or scattered-light photography.   
+Any/all suggestions welcome.
+
+Thank you!

@@ -1,0 +1,13 @@
+Hi all,
+
+For a machine learning project I am looking for keywords dataset. Ideally I am looking for a single word in a row e.g
+
+Keywords
+Invoice
+Cloud computing
+SaaS business
+... 
+
+Search engine queries are welcome as well. I you have any other datasets with words, please share this as well.
+
+Thanks!

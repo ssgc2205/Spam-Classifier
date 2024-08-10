@@ -1,0 +1,5 @@
+I'm looking for a dataset that would allow me to answer questions like - "How many men and women make over $100,000 and are over 25, but younger than 45?“
+
+I tried using the census bureau, but I had a hard time navigating it. I also tried the bureau of labor statistics and had the same issue. Any help appreciated
+
+EDIT: For 2019 or later

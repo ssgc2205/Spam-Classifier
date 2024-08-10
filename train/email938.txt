@@ -1,0 +1,1 @@
+Looking to make a color palette of all the MLB teams defining colors. I also want to find the most common colors used by teams (I suspect red or blue). I’m not sure where to find this data other than just going through and writing them down one by one. If anyone has some insight let me know!!

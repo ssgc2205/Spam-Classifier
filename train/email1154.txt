@@ -1,0 +1,7 @@
+Does anyone know a bit about Excel and working with data? I want to search for football records in football data sets from different leagues.
+
+For example, what can be done with the [La Liga data set from all rounds ever?](https://drive.google.com/file/d/1Bwc1F5HuNG1GJX16cTJhIW8j-lNvcfuQ/view?usp=sharing) I can look up stats in Excel Pivot like biggest point difference between 2 teams ever or other small stuff. If I learn to look up more kind of records I can do the same for other leagues. 
+
+For example, what is the biggest point disadvantage that was ever caught up? How would I go about finding that out?
+
+[Here is a visual interactive representation of the data](https://public.tableau.com/views/LaLiga-roundforround1928-2017/Selectcategory-crest?:embed=y&amp;:display_count=yes) that you can play around with. I still need to add much more to it and add comparison options to it so that 2 teams can be compared in that a number of the biggest and smallest difference will appear on screen when 2 teams and stats are selected.

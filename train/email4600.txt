@@ -1,0 +1,3 @@
+Looking for an SAT score dataset that either contains how many people got each score, or has a complete dataset containing each score as individual entries. 
+
+In other words I don’t just want the statistics(mean, median...), but rather the actual data.

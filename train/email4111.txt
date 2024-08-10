@@ -1,0 +1,5 @@
+I'm trying to see if it is possible to predict DNFs or marathon runners at e.g. the halfway point based on the split times (and maybe sex and age and qualification time if that's in the data). 
+So far I only found data without DNFs and often only splits for the top runners.
+
+Thanks!
+Gebo

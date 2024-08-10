@@ -1,0 +1,3 @@
+I'm looking to do analysis of sensor data collected from a running car over the course of it's journey - any good resources for that exist? The more cars, the better :) I've found envirocar, but more sources are always better.
+
+Thanks in advance!

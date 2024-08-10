@@ -1,0 +1,3 @@
+Hi I’m Seeking free historical stock option min data and level 2 data. I have td api but only get 7 days worth of data and not able to get historical level 2 data.
+
+Could really use the help and can’t afford paid data

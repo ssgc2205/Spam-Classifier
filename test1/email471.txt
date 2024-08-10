@@ -1,0 +1,5 @@
+Hey,
+
+I am looking for recent data about the LoRa (LoRaWAN) technology. The number of devices used worldwide, their location, technical metrics, info about LoRa satellites, any data connected to protocols similar to LoRa (Sigfox). If not, then generally IoT devices' data (needs to be quite up-to-date). Any data is useful!
+
+If you help me to find something, I will be really grateful!

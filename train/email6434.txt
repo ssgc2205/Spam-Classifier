@@ -1,0 +1,1 @@
+Looking for any dataset that contains books, some form of ranking (NYTimes Bestseller's Lists would be ideal), and a variable that includes the author's race.

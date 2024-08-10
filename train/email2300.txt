@@ -1,0 +1,7 @@
+Hello, for my degree project I am investigating a new technique to improve the accuracy of minority classes in unbalanced image datasets with neural networks and without the need to use data augmentation, class weight or any common technique. So farm I have created my own unbalanced datasets (Unbalanced MNIST for example), but I would like to know if there is any image dataset unbalanced naturally. I already tried [this dataset](https://www.kaggle.com/c/whale-categorization-playground/data) and I would like to try another one. Any suggestions?
+
+&amp;#x200B;
+
+Any help is welcome.
+
+Thanks in advance!

@@ -1,0 +1,7 @@
+Hi all,  
+I'm looking for a dummy data set of P60 forms (UK tax forms) to train an OCR.   
+
+
+I was planning to create a bunch of different ones myself, but checking here in case anyone knows a fast way to mass-produce a populated PDF template or access to a data-set somewhere. 
+
+Thank you!

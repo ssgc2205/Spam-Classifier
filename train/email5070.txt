@@ -1,0 +1,1 @@
+I've been looking for a while for a data set that I can use as a demo. To be realistic to interested companies, the data set would need at least a few million individual entries/rows. A set this large specified to healthcare might not be available for free and/or publicly, but I want to thank anyone reading this in advance anyway. Thanks!

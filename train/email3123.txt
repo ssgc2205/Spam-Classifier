@@ -1,0 +1,5 @@
+I was wondering if someone knew of a way to obtain some type of data on shadowbanned users, and banned subreddits. Recently, I have been reading more and more about censorship on Reddit, and I would like to spend some free time to visualize this trend (if there is one).
+
+Looking for any type of data such as "x amount of users were shadowbanned y month", or "y subreddit was banned on z Date Time."
+
+Any help or a nudge in the right direction would be greatly appreciated.

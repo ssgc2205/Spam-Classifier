@@ -1,0 +1,5 @@
+Hey all was wondering if a genome data set existed somewhere. 
+
+i.e. a string of ACTG (*n* length) with a class label of the features produced by that string. The features could be a face image, or a description. 
+
+Thank you.

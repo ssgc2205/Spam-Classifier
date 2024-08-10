@@ -1,0 +1,3 @@
+Hi, looking for a dining hall data set for a school project. Want to forecast demand. Have searched kaggle, google data search tool, and data is plural excel sheet. 
+
+Best I've found is grocery store demand.

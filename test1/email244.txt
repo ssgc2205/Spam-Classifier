@@ -1,0 +1,1 @@
+I'm talking: comments,posts, PMs, gildings, saved posts, upvoted posts, etc. Does anyone know if there is a tool that can already do this? Does the API support this? Thanks!

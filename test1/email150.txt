@@ -1,0 +1,7 @@
+I'm currently working on a project where I need to collect property tax rates. Though municipality would be preferable, at this point I'll pretty much take whatever I can get.
+
+data.gov didn't have what I was looking for, and I'm trying to avoid the excruciating task of going through each and every municipality's/county's/city's website to get the data. Webscraping isn't really an option either since the websites' formats aren't consistent at all.
+
+I'd really appreciate any help/suggestions you have. I'm totally willing to pay for the data if that's what it takes.
+
+Thanks in advance!

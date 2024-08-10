@@ -1,0 +1,5 @@
+ consider this conversation for example
+
+ [https://pbs.twimg.com/media/EoQWIRcXUAA\_cRA.jpg:large](https://pbs.twimg.com/media/EoQWIRcXUAA_cRA.jpg:large) 
+
+ Is there a public dataset for training a model with the self-reporting capability like \*hand you a sode\*, \*looks at you and smiles\*, and any other expression between \* \* in the conversation in the link.

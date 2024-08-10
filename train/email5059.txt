@@ -1,0 +1,19 @@
+Hello there! 
+
+I am looking to find a CSV file or dataset with all or as many US Cities' elevations as possible.
+
+e.g. ---State---   ---City---   ---Elevation--- 
+
+I am new to this sub and the dataset world in general, so please forgive any n00bishness or ignorance on my part.
+
+This is for a class and I am looking to compare city elevations with another CSV file I have using SQL joins.
+
+I've tried Google-fu-ing for 2 hours and have only come up with either datasets that have only major cities, or datasets for single states, or elevation maps.
+
+A CSV file is what I need to work with for the class, but I know other types can be converted or copied/pasted.
+
+I have heard scraping might be a last resort, but have no idea where to begin with doing that.
+
+&amp;#x200B;
+
+Any help in my search for a US city elevation dataset would be much appreciated!

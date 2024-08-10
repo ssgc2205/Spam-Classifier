@@ -1,0 +1,3 @@
+This data should be available for purchase / to the public, as  [https://www.everydoordirectmail.com/](https://www.everydoordirectmail.com/)  has it.  [https://eddm.usps.com/eddm/customer/routeSearch.action](https://eddm.usps.com/eddm/customer/routeSearch.action)  is where this data is used by USPS, but we're looking to overlay it with more advanced demographic settings. 
+
+Any idea as to where to start?

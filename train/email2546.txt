@@ -1,0 +1,15 @@
+Hello everyone, the datasets should have the following information:
+
+* Name of the movie
+* Description
+* Category
+* Image (this will be awesome)
+
+\[OPTIONAL INFO\]
+
+* Duration
+* Ranking/Classification (like IMDb)
+* Film Director
+* Actors
+
+Beforehand, have a nice week and thank very much. It will help a lot if you can provide me with those datasets :).

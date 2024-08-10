@@ -1,0 +1,29 @@
+Hey all,
+
+&amp;#x200B;
+
+I've never used a .db file before, but I wanted to gain access to this data: [https://www.reddit.com/r/datasets/comments/bb0zbp/spotify\_acoustic\_data\_for\_340000\_songs\_from/](https://www.reddit.com/r/datasets/comments/bb0zbp/spotify_acoustic_data_for_340000_songs_from/) 
+
+&amp;#x200B;
+
+(or actually it should be [https://components.one/datasets/billboard-200/](https://components.one/datasets/billboard-200/) )
+
+&amp;#x200B;
+
+I've successfully downloaded the file, but can't open it with access (which is what I found when I searched for how to open this on google)
+
+&amp;#x200B;
+
+Specifically, when I try to open this file in Access 2019, an error message says "Unrecognized database format '\~\~\~\\billboard-200.db'
+
+&amp;#x200B;
+
+I also tried opening it with excel and then it asked for some weird data connection access rights..
+
+&amp;#x200B;
+
+So at this point I'm not sure if there's something wrong with the dataset or if I'm just doing something wrong
+
+&amp;#x200B;
+
+I'm just trying to save this as a CSV file or get this into R but I'm not sure what I need to do..

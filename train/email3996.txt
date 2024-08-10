@@ -1,0 +1,1 @@
+Hi guys, I am trying to develop a system which can analyze resumes and predict if the candidate is qualified for the vacancy. I intend to use a ML algorithm to do so and for that I need a dataset of resumes related to IT profession. ( I wish to keep it within IT industry only). Can you guys suggest me a way to collect that kind of resumes?

@@ -1,0 +1,11 @@
+I'm working on a project involving parallelizing some machine learning algorithms, including those for classification, clustering, and association. I will be comparing the parallel and non-parallel algorithm runtimes, and aim to use small/medium/large datasets for each type of algorithm (classification/clustering/association) for comparison.
+
+I'm looking to identify some routine, clean, structured datasets of various sizes commonly used, or sell-suited to, benchmarking for the 3 different types of mining activities (classification/clustering/association). I'm having a difficult time identifying any such common datasets in the literature, or elsewhere for that matter.  I'm aware of UCI and other repos, and datasets like iris and its ilk, but the small end of what I'm looking for would be bigger than that.
+
+Sizes of datasets I'm looking for (all sizes are -ish):
+
+Small: 1-10 MB
+Medium: 100 MB
+Large: 1 GB
+
+If anyone could point me in the direction of either some datasets that may be appropriate, or some papers that may give me some further ideas, it would be much appreciated.

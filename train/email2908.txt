@@ -1,0 +1,5 @@
+I’ve got an exciting idea for my capstone. Some friends and I are planning to renovate a garage and add an ADU. For the capstone, I would like to design a model which can predict building costs (materials, labor, permits, etc.).  
+I’m looking for data but coming up short. I’ve looked through Kaggle with limited success. Also, I’ve found some papers on Google Scholar describing different techniques of estimating building costs, yet I’m having trouble getting ahold of any actual datasets 📷  
+Do you have any ideas as to where I might search?  
+Another exciting idea I’m considering is building a web scraper to collect the data. Any thoughts on this? Would it be too wide of a scope for the project?  
+Not sure how to move forward exactly and any help would be great. Thanks!

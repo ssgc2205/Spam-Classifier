@@ -1,0 +1,5 @@
+I'm currently working on my final year project for Uni, which my idea for was analyzing data from smart speakers/assistants (Amazon Alexa, Google Home, etc) to create "fake" advertisements insights to conscientize the end-user of the sheer amount of data collected by those devices. My original idea was to collect data on myself and my own amazon echo, which I wrote a script to extract from the amazon website. However, I would like to have a proper data set, especially as it would make evaluating easier
+
+When looking for a data-set on this, I did not find anything on that format, as such, I was wondering if anyone has a good reference to where I can find that data. Ideally, it should be anonymized, and contain the metadata + the message of the voice command, or the audio file
+
+Thanks a lot for the help in advance :D

@@ -1,0 +1,3 @@
+Hello,
+
+so I'm currently writing my thesis about measuring radon activity in enclosed spaces and I'm wondering if there are some datasets or sites that provide radon (and its byproducts) measurement over long periods, like years, in a same location to compare those to results I got from literature and samples I can take myself? I'm looking for resources like, maybe samples taken by some Uni, or maybe some privately to finally get some fancy graphs.

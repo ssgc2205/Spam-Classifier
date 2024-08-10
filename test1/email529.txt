@@ -1,0 +1,11 @@
+Hello everyone,
+
+I was hoping someone could assist me in finding an open database of mobile application usage data. Usage data of interest:
+
+- name of app used
+- time of day
+- duration used
+- network throughput (how much data was used in the session)
+- possibly model of phone
+
+Doesn’t have to have all these, but if anyone has any sources it would be much appreciated. Thank you in advance.

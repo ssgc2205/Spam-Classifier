@@ -1,0 +1,7 @@
+Hi there, 
+
+I am a total newbie and this is the first time, I am trying to create a Business Intelligence and Data Visualization portfolio. The portfolio will consist of 2-3 projects and it will be hosted on  a website. The project pages will then be linked to LinkedIn. The goal is to then apply to freelancing websites like Upwork.com.
+
+I am looking for datasets which I can use to create porftolio projects where I can show off my skills. I am looking for a website where I can find such datasets where I can choose one from. If someone here has a dataset I can use that would be great as well.
+
+If I had to narrow down my interest, I would say that my primary interest is providing small businesses business intelligence services as a freelancer. So a dataset of a small business where I can create a dashboard along with a business intelligence report is the best fit.

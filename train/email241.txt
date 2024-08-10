@@ -1,0 +1,7 @@
+ Hello,
+
+I  am working on small project with in my computer science course, where I  need a huge amount of pictures of diamonds.  I could just crawl the internet for all pictures I  can find but it would help me a lot if I could find a dataset, where the  pictures are taken in the same environment or are even labeled with  their properties (cut, clarity, colour, carat).
+
+If one of you has such a picture collection or knows where I could find something like this could help me out a lot.
+
+Thanks in advance!

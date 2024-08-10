@@ -1,0 +1,5 @@
+Does anyone have or know where to find massive data sets pertaining to either chemical bulk shipping and or mining of metals? 
+
+Or possibly any massive data sets in excel using formulas? 
+
+I want to develop a program that takes data sets from excel workbooks including formula and relations (links to other sheets) and converts and parses it into a useable relational database. Looking for data sets I can use for testing and development. Prefer data in either chemical shipping or metal mining.

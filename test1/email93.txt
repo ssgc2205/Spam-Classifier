@@ -1,0 +1,5 @@
+I have seen a few visualizations on /r/dataisbeautiful of text message frequency or content between the OP and another person. I was interested in seeing what my own text messages look like visualized, and I was curious how or where they got the data to construct their visualizations.
+
+The posts themselves are too old for me to comment with this question there.
+
+Edit: Thank you for the help!

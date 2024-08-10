@@ -1,0 +1,5 @@
+Hi guys, I'm sharing the dataset of the 2022 Winter Olympics in Beijing, It contains details about the Athletes, the countries they represent, details about events, coaches, genders participating in each event, etc. 
+
+Will keep on updating Medals every few days as the event progresses.
+
+[https://www.kaggle.com/arjunprasadsarkhel/2022-winter-olympics-beijing](https://www.kaggle.com/arjunprasadsarkhel/2022-winter-olympics-beijing)

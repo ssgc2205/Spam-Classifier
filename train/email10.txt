@@ -1,0 +1,3 @@
+The following article shares a dataset of collected moral dilemmas shared on r/AmItheAsshole as well as the judgments handed down by the community: https://blog.dvc.org/a-public-reddit-dataset
+
+The article also explains how to get such a dataset for a subreddit, and some things you can do to research its content.

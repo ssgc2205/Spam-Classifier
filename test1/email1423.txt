@@ -1,0 +1,2 @@
+Hi all! ... I am looking for a dataset of American strings (terms) and their British equivalents. It's for the purpose of being able to automatically translate (or rather revise) my American English dataset to British English. (of course, this method will not generate a fully correct translation of sentences, but I need at least something :) ). Do you know such a database or where should I look for it?   
+Thank you!

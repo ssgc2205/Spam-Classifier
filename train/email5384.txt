@@ -1,0 +1,5 @@
+Specially looking for a multi-class / -label (with 10+ unique labels) datasets for NLP. The features can be just a simple text field.
+
+Context: I'm exploring transformer arquitectures and rationale extraction.
+
+I'm organizing some code, and also because sometimes I need to ask ML related questions (models and methods), I'd like to be able to make a notebook publicly available for help, but not dependent on downloading external files.

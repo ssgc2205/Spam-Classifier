@@ -1,0 +1,1 @@
+Does anyone know of any datasets where passages of text are matched with manually constructed knowledge graphs?

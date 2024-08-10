@@ -1,0 +1,5 @@
+ Hi all, here is the dataset of the Indian Time Use Sůrvey conducted in 1998:[https://www.kaggle.com/arjunprasadsarkhel/indian-time-use-survey](https://www.kaggle.com/arjunprasadsarkhel/indian-time-use-survey/code)
+
+It contains tons of information about how people spent their lives doing various activities within a 24hour period. Although a bit old, but we can create a lot of visualizations from it, like say x% of people wake up at 5.am to do "A" task, y% of people wakes up at 6 am. to do "B" task, etc. There can be endless things you can do
+
+Ps: The micro-data for the 2019 Time Use Sůrvey for India I couldn't find it anywhere

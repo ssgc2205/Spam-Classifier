@@ -1,0 +1,3 @@
+Hello, 
+
+I am looking for a dataset that contains the location of parking garages in Seattle and Portland. I am specifically looking for off-street parking. Where can I find such datasets? I am new to this and was wondering where I could get started. Thanks!

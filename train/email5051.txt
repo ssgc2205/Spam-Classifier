@@ -1,0 +1,5 @@
+I found some "distractor" images [here](http://megaface.cs.washington.edu/), but it does not seem that they are accessible any more.  Does anyone have or know of a good dataset of non-face distractor images?
+
+&amp;#x200B;
+
+Edit: I found [this](https://osf.io/jum2f/).

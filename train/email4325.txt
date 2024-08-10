@@ -1,0 +1,1 @@
+Need dataset of Covid19 testing sites in PA. The PA DOH is not allowing data on their dashboard to be downloaded. This is for research purposes. I would really appreciate any help provided. Thank you!

@@ -1,0 +1,11 @@
+Hi, I'm looking for a free dataset out there that contains a list of companies and their respective industry or category. For example, on Crunchbase, it shows this for [Airbnb](https://www.crunchbase.com/organization/airbnb):
+
+&amp;#x200B;
+
+Categories 
+
+Hospitality, Marketplace, Peer to Peer, Sharing Economy, Travel, Travel Accommodations
+
+&amp;#x200B;
+
+But Crunchbase requires a paid enterprise license for this. Is there a source out there that's free to use? Thanks!

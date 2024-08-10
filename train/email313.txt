@@ -1,0 +1,3 @@
+\[self-promotion\] DoltHub recently added the FBI NIBRS crime data from 1991 to 2018!
+
+[https://www.dolthub.com/blog/2020-08-19-fbi-crime-data-and-the-future-of-data-distribution/](https://www.dolthub.com/blog/2020-08-19-fbi-crime-data-and-the-future-of-data-distribution/)

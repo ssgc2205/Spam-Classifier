@@ -1,0 +1,7 @@
+I apologize if this the wrong place. 
+
+I am wondering if someone could point me in the right direction. I’m looking for a few things for US data.
+
+-Total deaths for the past few years. Preferably broken up weekly and by state. I found some data at data.cdc.gov, but I can’t find CSV format.
+
+-I would also like to find percentages of people who received the COVID vaccine. Preferably broken up by week and by state.

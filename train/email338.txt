@@ -1,0 +1,3 @@
+Does someone know of a clothing data set (preferably from online stores)  which includes the clothe's composition such as "100% cotton" or "20% acrylic 80% cotton"? 
+
+Thanks in advance!

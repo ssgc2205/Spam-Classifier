@@ -1,0 +1,15 @@
+Hi,
+
+I would like to find statistical data on the US real estate market. I am mainly interested in annual data of:
+
+* Total sales and purchases.
+* Mortgages approvals.
+* Evolution of the average price.
+
+I have explored the [census.gov](https://census.gov) site (which I understand is the equivalent of Eurostat and the National Statistical Institutes of the different European countries), but I am having a hard time finding public and transparent statistical data.
+
+I would appreciate some guidance.
+
+Thank you very much,
+
+Ps. I'm intending to do charts like [these](https://www.reddit.com/r/dataisbeautiful/comments/l27ehd/oc_home_sales_and_purchasingage_population/?utm_source=share&amp;utm_medium=web2x&amp;context=3).

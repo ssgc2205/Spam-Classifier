@@ -1,0 +1,17 @@
+I have found many websites and articles talking about how the BMI of the patient can affect their chances of surviving this virus.
+
+\[ICNARC Covid-19\]([https://www.icnarc.org/About/Latest-News/2020/03/27/Report-On-775-Patients-Critically-Ill-With-Covid-19](https://www.icnarc.org/About/Latest-News/2020/03/27/Report-On-775-Patients-Critically-Ill-With-Covid-19))
+
+[https://nos.nl/artikel/2328804-veel-patienten-op-ic-met-overgewicht-maar-ga-nu-niet-te-streng-dieten.html](https://nos.nl/artikel/2328804-veel-patienten-op-ic-met-overgewicht-maar-ga-nu-niet-te-streng-dieten.html)
+
+\[Italy report\]([https://www.epicentro.iss.it/coronavirus/bollettino/Report-COVID-2019\_20\_marzo\_eng.pdf](https://www.epicentro.iss.it/coronavirus/bollettino/Report-COVID-2019_20_marzo_eng.pdf))
+
+\[Becker Hospital Review\]([https://www.beckershospitalreview.com/public-health/obesity-increases-risk-for-covid-19-complications-data-shows.html](https://www.beckershospitalreview.com/public-health/obesity-increases-risk-for-covid-19-complications-data-shows.html))
+
+[https://bringmethenews.com/minnesota-news/u-of-ms-osterholm-says-obesity-could-be-deadly-factor-in-u-s-covid-19-outbreak](https://bringmethenews.com/minnesota-news/u-of-ms-osterholm-says-obesity-could-be-deadly-factor-in-u-s-covid-19-outbreak)
+
+\[World Obesity Report\]([https://www.worldobesity.org/news/coronavirus-disease-covid-19-outbreak-for-people-living-with-obesity](https://www.worldobesity.org/news/coronavirus-disease-covid-19-outbreak-for-people-living-with-obesity))
+
+\[New York Post\]([https://nypost.com/2020/03/26/obesity-increases-risk-for-coronavirus-complications-report/](https://nypost.com/2020/03/26/obesity-increases-risk-for-coronavirus-complications-report/))
+
+But I can't find any dataset about it. Does anyone know where would be possible to obtain any related dataset?

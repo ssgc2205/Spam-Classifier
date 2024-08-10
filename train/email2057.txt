@@ -1,0 +1,3 @@
+I'm looking for financials on Women's Soccer, especially UEFA &amp; in particular champions league.  Revenue, revenue by team, budget, marketing expense, profit, etc.  Finding it difficult to find anything broken down to that level not mixed with men's or other categories.
+
+Any good data sources or at least reports to extract from?  I've got some students interested in analyzing for a university project.

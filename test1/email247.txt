@@ -1,0 +1,13 @@
+I have seen various movies and series character screen time. Like - GOT, Avengers, etc.
+
+How exactly do they create such dataset. 
+
+Does someone sit with a stopwatch for each character ?
+
+Or maybe create a character recognition deep learning model and  run over each episode or movie?
+
+Like HOW ?
+
+&amp;#x200B;
+
+If you know then let me know . If you know someone who did this, then how did they do it?

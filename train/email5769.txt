@@ -1,0 +1,5 @@
+Hi all,
+
+I am doing some research on the identification of the complex concepts in video lectures. I have tested my approach on some of the video lectures from Youtube. To proceed further, I need some MOOcs forum dataset. Is there any dataset available ?
+
+Thanks  

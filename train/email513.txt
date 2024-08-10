@@ -1,0 +1,1 @@
+I want to make a food recommender system based on the tourist's country so I want to know the country's favourite dishes and their ingredients to predict what is the dish that he/she might like in other culture's famous dishes.

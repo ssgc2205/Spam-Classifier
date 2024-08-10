@@ -1,0 +1,5 @@
+I have been looking for a dataset of labeled flag images. I found one that links to 200 Nation flags on Wikipedia but even with image augmentation 1 flag per country isn't enough. 
+
+Does anyone know where I might find more? 
+
+Thanks

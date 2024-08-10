@@ -1,0 +1,13 @@
+I scraped their info from here:
+
+[https://www.heritage.org/voterfraud-print/search](https://www.heritage.org/voterfraud-print/search)
+
+then did a tiny bit of tidying-up
+
+then uploaded it to github:
+
+[https://github.com/slowerthanlightspeed/reddit\_conversations/blob/master/voter\_fraud/heritage\_voter\_fraud.csv](https://github.com/slowerthanlightspeed/reddit_conversations/blob/master/voter_fraud/heritage_voter_fraud.csv)
+
+&amp;#x200B;
+
+(would love to be informed of any better, scrape-able resources)

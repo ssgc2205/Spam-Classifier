@@ -1,0 +1,7 @@
+I am looking for a list of countries and their states/regions/provinces. For example, the below Wikipedia page contains a list of countries and a link that goes to another page which lists its states/regions/provinces (first-level administrative division). 
+
+[https://en.wikipedia.org/wiki/List\_of\_administrative\_divisions\_by\_country](https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country)
+
+Is there a definitive list of these administrative divisions by country in tabular form?
+
+I want to basically look up the country given a state/region/province name.

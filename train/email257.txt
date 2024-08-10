@@ -1,0 +1,1 @@
+I have a project for my stats class and need a dataset with two categorical explanatory variables and one numerical explanatory variable. I am wanting to do the project on mental health or  LGBT issues. Does anyone know of good datasets for this? Thanks!

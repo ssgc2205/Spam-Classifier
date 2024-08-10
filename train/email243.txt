@@ -1,0 +1,5 @@
+Link to thread: [http://www.reddit.com/r/AskReddit/comments/2osvph/with_around_1_million_english_words_every_person/](http://www.reddit.com/r/AskReddit/comments/2osvph/with_around_1_million_english_words_every_person/)
+
+Link to dataset: [http://pastebin.com/gbL3FwTj](http://pastebin.com/gbL3FwTj)
+
+I just ran a simple python script over the thread, so there might be some '"' and stuff that I didnt strip. Don't know if anyone wants to do something with this data.

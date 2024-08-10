@@ -1,0 +1,17 @@
+[https://www.kaggle.com/aavigan/real-gdp](https://www.kaggle.com/aavigan/real-gdp)
+
+&amp;#x200B;
+
+Dataset includes:
+
+[GDPC1](https://fred.stlouisfed.org/series/GDPC1) \- time series representing real GDP measured quarterly spanning from 1947 to 2018 in billions of dollars, adjusted for inflation and chained to 2012 dollars
+
+[DGS2](https://fred.stlouisfed.org/series/DGS2) \- time series representing 2Y treasury constant maturity rate measured daily in % spanning from 1976 to 2019
+
+[T10Y2Y](https://fred.stlouisfed.org/series/T10Y2Y) \- time series representing 10Y treasury yields minus 2Y treasury yields measured daily , spanning from 1976 to 2018
+
+[USREC](https://fred.stlouisfed.org/series/USREC) \- time series represents when the US experienced recession spanning from 1854 to 2018 measured daily. A '1' indicating that the US is in a period of recession and '0' indicating that the US is not in a period of recession.
+
+&amp;#x200B;
+
+ All data was downloaded from the website of the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/).

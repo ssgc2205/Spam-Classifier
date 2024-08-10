@@ -1,0 +1,3 @@
+I’m doing a project on infrastructure fragility in the UK, and was wondering if anyone was aware of a database of runway closures due to severe weather (or for any reason at all would be good as well). Also just infrastructure failures in general would be good data to have if you are aware of anything else that springs to mind. 
+
+Thanks for any help anyone can provide!

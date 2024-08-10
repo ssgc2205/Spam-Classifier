@@ -1,0 +1,3 @@
+Are there any publicly available datasets of deepfake images and videos, possibly of a large and varied distribution of faces. The few datasets i found on kaggle were too narrow, in the sense that they would be unable to encompass the whole length and breadth of human faces on the planet.
+My team is looking for a mid sized dataset. At least containing some 30k images.
+Any clues?

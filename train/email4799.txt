@@ -1,0 +1,5 @@
+Introducing the Big Bad Database. Helping NLP and ML developers gain access to nearly 200 datasets for natural language processing.
+
+Read about it here:  [https://medium.com/towards-artificial-intelligence/nlp-dataset-library-14443ddd3084](https://medium.com/towards-artificial-intelligence/nlp-dataset-library-14443ddd3084) 
+
+[https://quantumstat.com/dataset/dataset.html](https://quantumstat.com/dataset/dataset.html)

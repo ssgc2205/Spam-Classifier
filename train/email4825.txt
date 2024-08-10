@@ -1,0 +1,5 @@
+Edit: Only residential addresses.
+
+I'd like a .txt or even excel file of addresses in the U.S. The purpose would be in order to do a random sample of addresses to send surveys.
+
+I'm not sure how to use the Census' TIGER data to do this. I am familiar with [openaddresses.io](https://openaddresses.io) but they're still lacking a decent chunk of coverage, specifically in the central U.S.

@@ -1,0 +1,5 @@
+Myvidster has a REST API that only allows you to retrieve basic info about a certain video but not which people bookmarked that video, Im interested in fetching ALL the users that bookmarked a certain video. 
+
+Webscraping the whole thing would be costly... Is there any raw dump of their database?
+
+http://blog.myvidster.com/2010/07/myvidster-api-beta.html

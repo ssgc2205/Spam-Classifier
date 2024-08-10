@@ -1,0 +1,7 @@
+Hi all,
+
+I am supervising a student project in financial data science. The student needs intraday stock price data for Google ('GOOG' on the NASDAQ), either minute or hourly.
+
+Does anyone know if it is possible to obtain this? I have looked everywhere and only found expensive services such as Quandl ($800 a year subscription...).
+
+Thanks.

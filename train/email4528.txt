@@ -1,0 +1,8 @@
+https://github.com/stanleycyang/lyrics-scraper
+
+There is currently a list of pop songs by top pop artists in data/pop_song.txt (1.21 MB). You can reconfigure which artists you want to scrape for by modifying the configurations. 
+
+Hopefully someone finds this useful, and let me know if you need help with anything!
+
+Enjoy!
+

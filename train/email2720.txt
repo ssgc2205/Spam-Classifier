@@ -1,0 +1,31 @@
+Hey guys ..I got an assignemnt from the my uni where I have to apply multiple operationes on two data set. I am unablw to find any suitable dataset which can meet these requirement. I would realy appriate the help.
+
+Following are the condition for two data set required.
+
+1. At least two data sets should be merged.
+
+2. Your data set should include multiple data types (numerics, characters, factors, etc)
+
+3. Your data set should include variables suitable for data type conversions so that you
+
+should be able to apply the required data type conversions 
+
+4. Your data set should include at least one factor variable that needs to be labelled
+
+and/or ordered.
+
+5. At least one of the data sets that you use should be Untidy. You need to explain
+
+why the data set or data sets you used is/are Untidy. Then you need to apply the
+
+required steps to reshape your data into a tidy format.
+
+6. At least one variable needs to be created/mutated from the existing ones (e.g.
+
+the data may contain income and expense variables and you may create a savings
+
+variable out of the income and expense variables).
+
+&amp;#x200B;
+
+Thnaks for the help in advance.

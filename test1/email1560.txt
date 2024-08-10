@@ -1,0 +1,13 @@
+Hi. Some time ago I posted here about a web scraping extension that I was developing. Based on your review I made some modifications and now the extension is available on chrome web store (for free) and also on github. The biggest change was made in selector system. Now it would be really easy to implement a new selector type. Also I added some requested features - regex, visual sitemap graph, import/export, Image selector.
+
+Here is the extension:
+https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
+
+Here is the source code:
+https://github.com/martinsbalodis/web-scraper-chrome-extension
+
+If you have any issues then post them on githubs issue tracker. If possible submit an exported sitemap with the issue.
+
+For those who are trying this for the first time. The easiest way to start scraping is by watching the video which can be found on chrome web store. Currently the video is without sound but I will try to resolve this issue.
+
+In addition, I'd like to say that this tool could be used to share data sets by just sharing exported sitemaps.

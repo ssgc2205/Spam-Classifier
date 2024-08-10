@@ -1,0 +1,5 @@
+Apple AppStore Apps dataset with 1.2 million application data (21 attributes) now available to download for free from Kaggle or Github (Json).
+
+Kaggle: [https://www.kaggle.com/gauthamp10/apple-appstore-apps](https://www.kaggle.com/gauthamp10/apple-appstore-apps)
+
+Json format: [https://github.com/gauthamp10/apple-appstore-apps](https://github.com/gauthamp10/apple-appstore-apps)

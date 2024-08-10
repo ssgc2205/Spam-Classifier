@@ -1,0 +1,11 @@
+I was tasked with curating, creating, managing, organizing, "hoarding", internal, public, generated etc. ,datasets for machine learning, analytics, purposes. Would like to be able to make the datasets available, searchable, and somewhat organized.
+
+1) Are there any currated lists of locations, sources access, source locations, of datasets and where to get them? So for example, anything that has a full list of just about every time of dataset that you could think of from twitter, to geography data, videos, audio recordings, census data, statistics data, etc etc. Almost like a curated /r/datasets with links, sources to everything.
+
+2) What I am also looking for is a way of managing these datasets for internal datasets (along with public datasets). What I am looking for is tools, applications, software, or techniques for managing, organizing and making these datasets searchable at a high level so further analysis can be done. So for example, if someone is looking for tweets (maybe between in a certain set of dates, but at a minimum the dataset) and weather forecast data, they could search for twitter, find their information, grab or use it in place, and then search for weather forecasts and find that information.
+
+We plan on having anything from images (machine learning datasets for validation and training), text (twitter, csv), video (cctv, not rips of movies), weather and geography, land plots, weather forecasts, weather information, traffic data, for the most part almost anything. What we feel we aren't interested in is having all versions of Ubuntu linux ISOs ever released. 
+
+So what are you using to organize and manage your datasets? We have hardware and network infrastructure. But just about anything other than that is free game.
+
+Thanks!

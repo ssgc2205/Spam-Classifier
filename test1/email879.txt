@@ -1,0 +1,5 @@
+Our DaaS platform Quandl is a free and open index of currently over 4 million datasets that is growing daily. We also released a Python package to go with our R, MATLAB, and excel ones this week. They allow easy API access to every single 
+
+http://www.quandl.com/
+
+Any suggestions on which type of datasets to try and obtain next are very appreciated. You can message me or list them here.

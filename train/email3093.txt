@@ -1,0 +1,11 @@
+Hi, I located a dataset called "World Flora Online" that describes all the characteristics of all known plants in the world. This is EXACTLY what I need but I was disappointed to find that it doesn't seem to include pictures of each plant. Perhaps I'm wrong? Even so, I would presume that there would only be a single image and what I really need is a ImageNet like dataset where there are several hundred or preferably several thousand images for each plant for use in AI training.
+
+Now in regards to trees and shrubs, I've yet to locate a equally comprehensive dataset that provides a flora describing all of the characteristics of each individual tree and shrubs that's currently known to exist. The closest thing I've been able to locate so far is a list of 60,000+ trees from the Botanic Gardens Conservation International (BGCI) but they do not advertise it as being a compilation of all known tree species so I'm presuming it's not and once again, I do not believe they provide any accompanying images since I was only able to locate a CSV document. As far as shrubs, I haven't been able to locate any sort of flora list or images at all.
+
+What I need:
+
+1. Extensive Image Dataset for All Known Plant Species with Hundreds of Images of Each Plant
+2. A Complete Flora List of All Known Tree Species with Hundreds of Images of Each Tree as Well
+3. A Complete Flora List and Image Dataset of All Known Shrubs
+
+Any help would be greatly appreciated. Thank you :)

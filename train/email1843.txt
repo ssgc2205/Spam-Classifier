@@ -1,0 +1,16 @@
+Hi guys,
+
+I'm trying to analyze the way that startup investments have trended over the years. Does Boston recieve more venture funding then DC? How many times larger is the third funding round on average than the second? I think there's a bunch of cool questions we could answer here.
+
+My dream dataset would include
+
+1. Company Name
+2. Company Industry
+3. Size of funding round
+4. What number funding round is this
+5. Company Location
+6. Number of employees
+
+I'm mostly interested in this data for the last ten years, but anything really would be interesting. Thanks so much!! 
+
+I'd really appreciate it if someone could point me in the right direction.

@@ -1,0 +1,5 @@
+Hi folks:
+
+I am checking if someone has periodically scraped app store data. I am aware of the ones on Kaggle, and I am looking for longitudinal/panel data for this.
+
+Thank you.

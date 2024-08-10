@@ -1,0 +1,5 @@
+Hi, I am working on a project through which I want to see if it is possible to flag school students for depression so that they can get additional help from the admin. For this, I am searching for the right openly available dataset.
+
+Edit: Thanks a lot everyone for the feedback and raising the concerns. I will try my best to address them in the work. 
+
+Removed the word "pet".

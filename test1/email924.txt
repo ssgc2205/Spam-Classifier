@@ -1,0 +1,1 @@
+Hello, I'm working on human pose detection and correction for smart workout analysis. I've found a good model BlazePose for that. I'm interested in doing this project for Pull-ups or squats exercises. But I couldn't find any good dataset resource. I've downloaded the LSP and COCO but they don't seem to fit in. I would be thankful if you can share some good resources.

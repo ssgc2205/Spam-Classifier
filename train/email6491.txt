@@ -1,0 +1,1 @@
+I am looking for a dataset which contains data that is gathered by GPS-trackers which athlethes wear. Think of hearth rate, traveled distance, top speed, etc.. A description of such device is explained on the following page: [https://www.sportperformanceanalysis.com/article/gps-in-professional-sports](https://www.sportperformanceanalysis.com/article/gps-in-professional-sports)

@@ -1,0 +1,1 @@
+I'm looking for a database of gun owners as a percentage of population per country. The only data I'm able to find is for the number of civilian guns per capita, but this doesnt make a distinction between one collector owning 12 guns and 11 people not being gun owners, or each of the dozen having their own gun. Even if its household data, that is fine.

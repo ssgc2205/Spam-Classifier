@@ -1,0 +1,3 @@
+Hi guys,
+
+I have a huge data set from the past couple of months with the price of cryptocurrencies off of CoinMarketCap. The CoinMarketCap data is every five minutes. I collected data between August and November. The data is in csv format. Let me know if you are interested in the data in another format. https://github.com/iamrobinhood12345/coinmarketcap_data

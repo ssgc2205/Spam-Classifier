@@ -1,0 +1,13 @@
+While looking for information on a company registered in Illinois, USA* I found it was quite difficult to look for such info. Illinois does not allow company data to be republished in any form from the *Secretary of State* and even has laws (possibly the only US state) to prosecute anyone who does. The SOS's website also isn't accessible outside the United States.
+
+This makes it harder to track companies and hold them accountable. Even Delaware (infamous for its corporate favorable laws) freely publishes and makes accessible basic company data to everyone. Illinois is the only US state that is not in the OpenCorporates database, a website which collates information from various company registers around the world.
+
+Though its great that the data is there on the SOS's website such basic corporate data should be openly accessible.
+
+**Sources:**
+
+https://blog.opencorporates.com/2016/05/12/montana-us-companies-added-to-opencorporates/
+
+https://www.ilsos.gov/corporatellc/
+
+{{*}} Each state maintains different corporate laws and its own registry in the United States. A reason why OpenCorporates is very useful as it allows all states to be searched for a company along with other countries and even their subdivisions (such as Canada).

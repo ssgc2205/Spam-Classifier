@@ -1,0 +1,16 @@
+
+
+&gt;**TL;DR:** [here](https://www.kaggle.com/yamqwe/netflix-showse)
+
+
+Hi Guys,
+How is it going?
+
+I've made made available a dataset containing the ratings of netflix shows. 
+
+The dataset was originally collected by [Chase Willden](https://data.world/chasewillden) and you can see the original version on the author's profile on data.world.
+All credit for making the dataset go there!  
+
+Check it out [here](https://www.kaggle.com/yamqwe/netflix-showse).
+
+Have Fun!

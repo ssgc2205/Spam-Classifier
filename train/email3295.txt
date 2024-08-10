@@ -1,0 +1,9 @@
+Hello there,
+
+I am currently trying to write a program that uses all/most raw goods to simulate trading. For something like fruits I'll need information regarding ideal growth conditions and other basic info.
+
+Do you guys know a good source I can get this information from?
+
+Or if you an advice you can share as an experienced person, please share.
+
+Thanks in advance

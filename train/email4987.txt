@@ -1,0 +1,1 @@
+I'm wanting to do some exploratory data analysis on the Swedish language.  Ideally a spreadsheet file with every Swedish word, including indefinite singular/definite singular/indefinite plural/definite plural, and if it's an 'en' word or 'ett' word.  Or maybe point me to some site that deals with world languages that has something like this.

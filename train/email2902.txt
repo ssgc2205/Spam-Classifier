@@ -1,0 +1,5 @@
+I have a an 80GB JSON file that I would like to open. I tried vaex, em editor, T3 studio. They are all extremely slow, or crash my device. I have 32gigs of ram, an HDD, and SSD.
+
+Any suggestions?
+
+EDIT: I installed JB Datagrip. No crashing whatsoever. The search is perfect, but it looks ugly.

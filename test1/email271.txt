@@ -1,0 +1,5 @@
+The study introduces an Event Recognition in Aerial video (ERA) dataset comprising 2,866 aerial videos collected from YouTube and annotated with labels from 25 different classes corresponding to an event that can be seen unfolding over a period of five seconds. 
+
+Read more: [What’s Happening Down There? New Aerial Video Event Recognition Dataset and DL Benchmark](https://medium.com/syncedreview/whats-happening-down-there-new-aerial-video-event-recognition-dataset-and-dl-benchmark-5dc815ce5a28)
+
+Here is the paper [ERA: A Dataset and Deep Learning Benchmark for Event Recognition in Aerial Videos.](https://arxiv.org/pdf/2001.11394.pdf)

@@ -1,0 +1,11 @@
+Hi everyone,
+
+I am new to machine learning and I'm looking for a dataset that will allow me to predict the human core body temperature (preferably from the skin temperature) but I can't find any related dataset.
+
+Could anyone please link me to a dataset or suggest me an alternative method to solve this problem?
+
+Any help is appreciated, Thank you.
+
+&amp;#x200B;
+
+P.S: I already tried searching on Kaggle and Google dataset but I had no luck.

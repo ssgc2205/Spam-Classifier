@@ -1,0 +1,5 @@
+I'm taking an intro to data science course and I wanted to look into which of a few JS/TS web framework is most commonly used in GitHub projects. 
+
+I figured that the easiest way to do this is to look at dependencies, but the only source for GitHub data I've found is [from Kaggle](https://www.kaggle.com/github/github-repos) and it doesn't include dependency data. 
+
+Any advice would be very helpful. TIA.

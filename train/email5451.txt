@@ -1,0 +1,1 @@
+I'm trying to get the total geographic area of each census block from the 2010 decennial census, for use in a crosswalk. Using data.census.gov hasn't been much help here.

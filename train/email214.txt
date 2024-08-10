@@ -1,0 +1,5 @@
+A large dataset aimed at teaching AI to code, it consists of some 14M code samples and about 500M lines of code in more than 55 different programming languages, from modern ones like C++, Java, Python, and Go to legacy languages like COBOL, Pascal, and FORTRAN.
+
+GitHub repo: [https://github.com/IBM/Project\_CodeNet](https://github.com/IBM/Project_CodeNet)
+
+Download page: [https://developer.ibm.com/exchanges/data/all/project-codenet/](https://developer.ibm.com/exchanges/data/all/project-codenet/)

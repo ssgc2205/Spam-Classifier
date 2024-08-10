@@ -1,0 +1,5 @@
+I found the post and it led me here. And if there is a better subreddit for this topic, please let me know! This is my first introduction to datasets. 
+
+[This one] (https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/)
+
+Edit : original credit for the dataset goes to u/Stuck_in_the_Matrix 

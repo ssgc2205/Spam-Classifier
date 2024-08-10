@@ -1,0 +1,1 @@
+phonemes are just sounds that make up words, for an open source speech to text library I’m making! Thanks.

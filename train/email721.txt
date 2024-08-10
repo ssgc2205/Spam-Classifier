@@ -1,0 +1,5 @@
+Hi, 
+
+I am looking for a dataset that can show state comparisons of the economic impacts of COVID. Consumer spending, GDP, etc by month starting from Jan 2020 till now. Anything out there? I tried the BEA and the bureau of labor statistics but just not a very functional website. 
+
+Thanks in advance.

@@ -1,0 +1,211 @@
+Hi /u/Stuck_In_the_Matrix and others who can answer this,
+
+I compared the 'retrieved_on' date with the 'created_utc' date of the comments and submissions in the pushshift data in 01/2017 to 04/2017 and found that there is a huge difference between the two values. In the small random sample of comments and submissions, the difference is at least 11 days for comments and 13 days for submissions. From the dates, it seems like January comments are crawled in early Feb, Feb comments in early March, and so on. This is not what I was expecting since you said that the data is crawled in 'real-time' (with 1-2 second delays. See https://www.reddit.com/r/pushshift/comments/715xp6/data_update_rate/dn9vdom/). Could you please explain what is going on? 
+
+Below are the two values for a small random sample of comments between 01/2017 and 04/2017. Larger samples show similar things. The first value in each line is 'retrieved_on' time and second is 'created_utc' time of a comment/submission, all represented as 'number of seconds since epoch'. (You can use https://www.epochconverter.com/ to convert to human readable time)
+
+**Comments**
+
+01/2017
+
+1485722700 1483391561
+
+1485950103 1484105155
+
+1485959271 1484143942
+
+1485979423 1484192940
+
+1485985567 1484220213
+
+1486279637 1485142764
+
+1486310477 1485237948
+
+1486436289 1485378568
+
+Minimum difference = 1057721 seconds = 12 days
+
+Maximum difference = 2331139 seconds 
+
+
+02/2017
+
+1488559866 1486214982
+
+1488620496 1486404543
+
+1488761903 1486831585
+
+1488775447 1486869359
+
+1488903306 1487280800
+
+1489076984 1487857616
+
+1489100903 1487918061
+
+1489177545 1488190203
+
+Min difference = 987342 seconds = 11 days
+
+Max difference = 2344884 seconds
+
+
+03/2017
+
+1491265184 1488832219
+
+1491635390 1490010309
+
+1491639941 1490024290
+
+1491677044 1490131452
+
+1491688053 1490164930
+
+1491740187 1490322048
+
+1491927230 1490915406
+
+Min difference = 1011824 seconds = 11 days 
+
+Max difference = 2432965 seconds
+
+
+04/2017
+
+1493719473 1491099817
+
+1493798417 1491340891
+
+1493842173 1491477168
+
+1494185234 1492560416
+
+1494202830 1492618417
+
+1494237418 1492715606
+
+1494446171 1493354332
+
+Min difference = 1091839 seconds = 12 days
+
+Max difference = 2619656 seconds 
+
+
+**Submissions**
+
+01/2017
+
+1489390679 1483306171
+
+1489395021 1483420423
+
+1489401269 1483573832
+
+1489418385 1484006930
+
+1489432716 1484353410
+
+1489448751 1484761580
+
+1489449136 1484768796
+
+1489450175 1484790005
+
+1489468791 1485253641
+
+1489471013 1485303438
+
+1489475618 1485421691
+
+Min difference = 4053927 seconds = 46 days
+
+Max difference = 6084508 seconds
+
+
+
+02/2017
+
+1489509326 1486254021
+
+1489513546 1486367501
+
+1489513893 1486380092
+
+1489576598 1487775442
+
+1489582041 1487894589
+
+Min difference = 1687452 seconds = 19 days
+
+Max difference = 3255305 seconds
+
+
+
+03/2017
+
+1492378526 1488735018
+
+1492387431 1488943489
+
+1492387528 1488945867
+
+1492398437 1489214891
+
+1492404949 1489389311
+
+1492416919 1489679210
+
+1492418738 1489716859
+
+1492424818 1489872722
+
+1492429294 1490002129
+
+1492435670 1490152487
+
+1492439682 1490243397
+
+1492447754 1490429267
+
+1492463918 1490779330
+
+Min difference = 1684588 seconds = 19 days
+
+Max difference = 3643508 seconds
+
+
+
+04/2017
+
+1494553426 1491153905
+
+1494554095 1491166561
+
+1494556861 1491234799
+
+1494564855 1491416705
+
+1494591218 1492074042
+
+1494594877 1492165227
+
+1494598020 1492243880
+
+1494605996 1492459397
+
+1494610516 1492564801
+
+1494616333 1492706606
+
+1494621922 1492836049
+
+1494647977 1493485137
+
+Min difference = 1162840 seconds = 13 days
+
+Max difference = 3399521 seconds
+
+

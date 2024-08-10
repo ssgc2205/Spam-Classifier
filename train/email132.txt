@@ -1,0 +1,3 @@
+Google  Playstore dataset is now available with double the data (2.3 Million)  android application data and a new attribute stating the scraped date  time in Kaggle.
+
+Get it here: [https://www.kaggle.com/gauthamp10/google-playstore-apps/](https://www.kaggle.com/gauthamp10/google-playstore-apps/)

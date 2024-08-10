@@ -1,0 +1,1 @@
+Hello, for my thesis i am working with tobins q as a variable. Besides extracting the components from datastream to compute tobins q myself, does anyone know if tobins q is readily in datastream?

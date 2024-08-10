@@ -1,0 +1,3 @@
+Hey, does anyone know where to find datasets of companies' or stores' point of sale data (if any of them have released it)?
+
+I'm looking to write a few algorithms to find analyse who is buying what products, from where, and when.

@@ -1,0 +1,18 @@
+   
+
+
+I  am doing a data science project, where I would like to look at a relationship between coronavirus and mental health or negativity(for example Sentiment of tweets in  and Spread of Coronavirus   or Signs of Depressions in tweets  and Lockdown Measures in Place or Spread of Coronavirus). 
+
+I have found datasets on COVID such as:
+
+Coronavirus data from EU countries (maybe too much variance in lockdown  measures, other unknown factors to find correlation?) -
+
+Coronavirus cases Us state level 
+
+However for Twitter data there is only:
+
+Tweets related to coronavirus with location information
+
+Coronavirus (COVID-19) Tweets Dataset with sentiment labels  US 
+
+Doing this type of analysis on coronavirus related tweets does not seem very interesting - they are almost guaranteed to be rather negative. Rather it would be more interesting how it affected the overall tonality. Is this too broad of a task and what kind of twitter dataset could help to investigate such questions?

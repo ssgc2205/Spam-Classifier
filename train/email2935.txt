@@ -1,0 +1,1 @@
+Because of the fact that Qualcomm acquired 20 billion neurons (20bn), jester dataset can't be downloaded from their[ website](https://20bn.com/products/datasets). Does anyone know an alternative source to download?

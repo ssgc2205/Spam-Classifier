@@ -1,0 +1,3 @@
+I'm trying to analyse the UK stock market, looking for high/low p/e companies and earnings per share data, but it looks like Google's API won't allow me to download the revenue since 2018. I've tried using R and the quantmod package, but the data isn't there.
+
+Does anyone have a good method for scraping the data, or a site this could be got from?

@@ -1,0 +1,1 @@
+I am looking for data that will give me basic iinformation on a per person basis such as age, education, race, gender, religion etc. it is for econometric analysis

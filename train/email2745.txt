@@ -1,0 +1,1 @@
+I have some data that consist of movie titles (around 30) and their average IMDB score, I want to show them in a way that would help the viewer to realize it's pretty low (average of all movies I picked is 5.9)

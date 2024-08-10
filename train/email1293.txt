@@ -1,0 +1,9 @@
+Hi,
+
+Surprisingly, I cannot find a full list of US Zipcodes with their associated MSA. 
+
+I'm fine to purchase this if need be. 
+
+Best help I've found so far: [https://opendata.stackexchange.com/questions/4825/how-can-i-get-a-full-list-of-us-zipcodes-with-their-associated-names-csas-msas-l](https://opendata.stackexchange.com/questions/4825/how-can-i-get-a-full-list-of-us-zipcodes-with-their-associated-names-csas-msas-l)
+
+Thank you for any help!

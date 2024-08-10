@@ -1,0 +1,5 @@
+I do QA for web stores.  I do a lot of testing with our shipping systems on calculating rates and address correction.  
+
+I'm hoping to find a list of a few thousand genuine physical mailing addresses throughout the US.  My own searches have just turned up lists meant to be sold for marketing purposes.  I'm not looking for any names or other details about actual people.  Just a bunch of genuine address/city/state/ZIP combinations from across the country that I can easily paste into a spreadsheet.  It could be a list of residences, courthouses, or Burger King locations for my purposes.  They just need to be real.  
+
+Thanks.  

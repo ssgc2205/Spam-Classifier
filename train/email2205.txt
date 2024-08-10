@@ -1,0 +1,35 @@
+Hi all,
+
+I am looking for data corresponding to UN Sustainable Development Goals, specifically [SDG11](https://sdgs.un.org/goals/goal11) concerning sustainable cities. Each goal has several targets and indicators that help in measuring the progress (in this case, making the cities sustainable), ~~for ex -~~
+
+1. ~~percentage of population in slums.~~
+2. ~~proportion of population that has convenient access to public transport~~
+3. ~~Deaths and injuries from natural disasters~~
+
+# These are the indicators for SDG11 / the data I am looking for city-wise
+
+1. Proportion of urban population living in slums, informal settlements or inadequate housing
+2. Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities
+3. Ratio of land consumption rate to population growth rate
+4. Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically
+5. Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)
+6. Number of deaths, missing persons and persons affected by disaster per 100,000 people
+7. Direct disaster economic loss in relation to global GDP, including disaster damage to critical infrastructure and disruption of basic services
+8. Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities
+9. Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)
+10. Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities
+11. Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months
+12. Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city
+13. Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030a
+14. Number of countries with national and local disaster risk reduction strategies
+15. Proportion of financial support to the least developed countries that is allocated to the construction and retrofitting of sustainable, resilient and resource-efficient buildings utilizing local materials
+
+I found several datasets on country level for example on the [SDG Tracker](https://sdg-tracker.org/) by [OurWorldInData](https://ourworldindata.org/) and [Eurostat (EU database)](https://ec.europa.eu/eurostat) but none of them contain at the city level. I haven't listed all but there are several others databases providing similar data.
+
+Appreciate any sources/leads.
+
+&amp;#x200B;
+
+EDIT1 : Added exact indicators/data I am looking for.
+
+&amp;#x200B;

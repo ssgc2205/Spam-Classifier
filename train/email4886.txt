@@ -1,0 +1,6 @@
+Hello,
+
+Do you know where can I find a dataset of stocktwits twits annotated?
+I'm trying to do some sentiment analysis on the twits of stocktwits and cannot find a annotated dataset.
+
+Cheers.

@@ -1,0 +1,1 @@
+I am looking for a dataset with corrupt/inaccurate/inconsistent data and a version of that same dataset that is cleaned. Does anyone where one could find something like this? Any help would be appreciated!

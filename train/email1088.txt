@@ -1,0 +1,7 @@
+**Site:** https://files.pushshift.io/hackernews/
+
+The format of the files is ndjson.  Each json blob has a "type" parameter to specify if it is a comment, story, poll, etc.  This is a complete historical dump of Hackernews.  
+
+Monthly updates are planned including a possible search API at some later point.
+
+Please let me know if you have any questions!

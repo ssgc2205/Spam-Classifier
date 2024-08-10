@@ -1,0 +1,13 @@
+Hey everyone,
+
+Happy Friday! Hope you're all hanging in. We are looking for advice on how best to promote a data science competition we're running right now over at: [https://www.proptechchallenge.com/nyserda-tenant-energy-data](https://www.proptechchallenge.com/nyserda-tenant-energy-data)
+
+As background, large NYC office buildings saw their occupancy rates drop by 90% on average last year due to COVID-19, but their energy consumption only dropped by 30%. While lease obligations and healthcare protocols contributed, there is still surprising room for previously unknown vampiric loads within these buildings. We now refer to this circumstance as **the Great Energy Disconnect**. 
+
+Rather than leave it to the usual suspects (NYC building owners, managers, and their consultants), **the PropTech Challenge aims to democratize access** to the Great Energy Disconnect. Our website has **over 2.5 years of real-world data** from a Midtown Manhattan office building and the headquarters of a publicly traded tenant available for download. 
+
+We are challenging data scientists and modeling enthusiasts to use our test set to **predict actual electricity consumption** in this headquarters on 8/31/2020 (the day after the test set ends). **Submissions are due by March 26, 2021** via upload on our website. The most accurate, eligible predictions will **win $5k cash**. 
+
+Our test set has been downloaded **over 75 times by teams in 35 cities and towns on 5 continents** so far. We'd greatly appreciate your advice and assistance doubling these figures before our deadline! Solving the Great Energy Disconnect is crucial if New York is to achieve its climate leadership goals. Please join the fight!
+
+Thank you in advance!

@@ -1,0 +1,15 @@
+Hi there,
+
+&amp;#x200B;
+
+I would like to determine the floral composition of honey using machine learning for a little side project.
+
+I am looking for a reasonably sized dataset of pollen grains. 
+
+I have found the \[[POLEN23E](https://figshare.com/articles/POLEN23E/1525086)\]( [https://figshare.com/articles/POLEN23E/1525086](https://figshare.com/articles/POLEN23E/1525086)) dataset, but it is quite small.
+
+Does anyone have an idea if there is a bigger pollen grain dataset out there?
+
+&amp;#x200B;
+
+cheers

@@ -1,0 +1,1 @@
+I am looking for data on global Tesla car sales. I want to run a regression analysis on car sales vs stock price. So far the only data I can find requires a paid subscription to access. Any help would be gratefully received!

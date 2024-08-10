@@ -1,0 +1,5 @@
+I'm working on [this banking public dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#) but when I imported the csv files into R and did a str() operation, it's saying that it has only one variable: 'age' while there are supposed to be other 19 attributes as mentioned in the website [link's *Attribute Information*.](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing#)
+
+I need to make a presentation of Descriptive Statistics on this dataset and now I'm unable to figure out where the other 19 variables have gone.. Plz see if you too face the same problem. (If so then this is an error in the dataset itself, right??)
+
+

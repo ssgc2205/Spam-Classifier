@@ -1,0 +1,15 @@
+I'm looking for ideas of personal data points I can collect about myself. Here's what I currently collect-
+
+- MyFitnessPal food intake
+- Fitbit step/heartrate info
+- Moment phone usage
+- Habit tracking using DO iOS app
+- Spotify tracking using LastFM
+- Browsing habits using Chrome/Safari History
+- Mint financial habits
+
+I'm interested in any other cool ideas you all have for personal data. A summer project I might work on is using a few API's and building a program that will bring all my data together and visualize it somehow.
+
+TLDR: What personal data points do you collect about yourself and how do you collect them? 
+
+If you have any questions about gathering data points I detailed above I'll answer your questions!

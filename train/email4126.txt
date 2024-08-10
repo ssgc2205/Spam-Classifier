@@ -1,0 +1,15 @@
+Location:  http://files.pushshift.io/reddit/comments/monthly/RC_2015-08.bz2
+
+**sha256sum:** 
+
+ffd8ae06d62821b6a08df354326556e67b2f9352e885d1e47358a0a1f65a9ca9  RC_2015-08.bz2
+
+**Number of comments**
+
+58,075,327
+
+**Size compressed  / uncompressed**
+
+5,811,661,458 (6 GB) / 30,500,913,370 (31 GB)
+
+**Edit**  I removed the unnecessary fields.  It shaved ~ 5 gigs off the uncompressed version.

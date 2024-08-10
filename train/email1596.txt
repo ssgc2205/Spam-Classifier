@@ -1,0 +1,17 @@
+# Description
+
+Every day, Public Health England release a dataset of confirmed COVID-19 cases by English Upper Tier Local Authority. This dataset archives each day's release for download, and aggregates the cases by day into one file.
+
+# Get The Data
+
+[https://www.getthedata.com/covid-19/utla-by-day](https://www.getthedata.com/covid-19/utla-by-day)
+
+# Usecases
+
+The obvious usecase is to build confirmed case trackers for areas within the UK.
+
+# Caveats
+
+Public Health England is only testing a small proportion of the population. The true number of cases is likely to be many many times higher than they are reporting in their data.
+
+**You should not use the data in a way which makes people think they are at less risk than they really are!**

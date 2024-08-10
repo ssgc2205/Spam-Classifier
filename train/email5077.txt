@@ -1,0 +1,38 @@
+Something that is like:
+
+Category
+
+- subcategory
+
+- - sub-subcategory
+
+- - - -sub-sub-subcategory, etc
+
+And once you reach the bottom, there is some numeric data for individual units.
+
+If it were about people, for example:
+
+Americans
+
+- by race
+
+- - by state
+
+- - - by county
+
+and for each person, there are stats:
+
+income
+
+car ownership
+
+favorite color
+
+etc
+
+It doesn't have to be important data - I'm just working on a newb project of building a drillable, interactive data display.
+
+Obviously, 300 million people is too large, but something structured like that would be nice.
+
+
+Thanks!

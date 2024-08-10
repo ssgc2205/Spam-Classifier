@@ -1,0 +1,6 @@
+Hi All --
+
+Does anyone know of truly giant graph datasets?  The largest I can find online is the Web Data Commons Hyperlink graph at 128B edges:
+  http://webdatacommons.org/hyperlinkgraph/
+
+Anyone know of anything larger?  Or even anything of comparable size?  

@@ -1,0 +1,31 @@
+The Reddit May, 2017 (RC_2017-05.bz2) file is now available.  For the month of May, 2017, a total of **79,810,360** publicly available comments were ingested.  This barely edges out the number of comments for the month of March (79,723,106 comments) to become the current top month for Reddit comment activity.
+
+The entire comment corpus now contains 3,249,317,297 comments ( ~1.8 TB uncompressed / ~298 GB compressed). 
+________________________________
+
+**The file is available here:** 
+https://files.pushshift.io/reddit/comments/RC_2017-05.bz2
+
+**Filesize (Compressed):**  7,379,020,961 bytes (~7.4GB -- ~17% of uncompressed size)
+
+**Filesize (Uncompressed):** 43,683,863,514 bytes (~44.7 GB)
+
+**SHA256SUM:**   663ca5c895fd97a820f942dfc59877aaeae446b2dadfd53787cdd97e7dcd6d29
+
+________________________________
+
+**Some minor changes:**
+
+1.  The "can_gild" key/value field has been removed from the dump because of its uselessness.  
+
+2.  I have increased my plan with Verizon FIOS to 300Mbps to help with download speeds.  Top download speeds are now ~30 megs per second.  Again, if you'd like to help out with this project, donations are kindly accepted (but never required).  The link for donations is https://pushshift.io/donations
+
+3.  Fields are now ordered (canonical) within each JSON object alphabetically to help increase the compression ratio.  
+
+4.  The "subreddit_type" field has been removed because all data in my dumps are always publicly available (there are no private subreddits in the dump).
+
+________________________________
+
+If you have any questions about this or other datasets available via files.pushshift.io, please let me know.
+
+*The May, 2017 submission file (RS_2017-05.bz2) should be available in a few days.*

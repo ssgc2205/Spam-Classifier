@@ -1,0 +1,3 @@
+I am looking for a global data set that gives me more granularity than countries. I understand things will be set up and named differently across the world, but still hoping for something as standard as it can be so I can for any individual country drill down to its regions, districts, provinces, departments, etc.
+If there are multiple levels to drill down to that would be fabulous. 
+Anyone that can point me to such dataset, please? 

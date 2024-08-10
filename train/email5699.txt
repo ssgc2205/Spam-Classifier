@@ -1,0 +1,14 @@
+Hi all.
+
+I want to do some analysis on the EV market - essentially looking to prove that teslas claim on market domination is overblown.
+
+Does anyone know of any datasets i could leverage?
+
+Looking for at a minimum:
+Sales of electric vehicles (unit volumes or $)
+Brand
+Year
+
+Ideally global but happy to settle on whats available.
+
+Cheers!

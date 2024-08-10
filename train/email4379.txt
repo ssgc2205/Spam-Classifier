@@ -1,0 +1,14 @@
+[We provide an advanced dataset on the Shopify App store](https://www.marketplaceapps.co). The dataset is real time and includes data points such as:
+
+* Revenue estimates
+* Install +  Installs over time
+* Rank + Rank change + rank over time
+* Reviews over time
+* Many more
+
+The dataset is used for many purposes, acquisition hunting, areas to develop new apps and competitor monitoring.  
+
+
+A recent report I created on Installs on the Shopify App Store using this data is [https://newsletter.marketplaceapps.co/p/shopifyinstalls](https://newsletter.marketplaceapps.co/p/shopifyinstalls)
+
+If you are interested, check it out

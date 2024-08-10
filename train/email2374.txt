@@ -1,0 +1,13 @@
+ Hello everyone,
+
+I scrape the [sofifa.com](https://sofifa.com/) and extract
+
+* 19.002 player &amp; 56 player feature
+* 16.630 player image (not in the dataset and repository right now but I will add it)
+* 681 team &amp; 17 team feature
+
+You can find the dataset [here](https://www.kaggle.com/batuhandemirci/fifa-2021-team-and-player-dataset) 
+
+And also if you want to check out the project itself, you can find the repository [here](https://github.com/batuhan-demirci/fifa21_dataset)
+
+Hope you find it useful.

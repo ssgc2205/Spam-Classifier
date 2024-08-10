@@ -1,0 +1,9 @@
+ 
+
+Just released: Dataset of 40+ million tweets of COVID19 chatter
+
+Details: [http://www.panacealab.org/covid19/](http://www.panacealab.org/covid19/)
+
+Direct link to dataset: [https://doi.org/10.5281/zenodo.3723940](https://doi.org/10.5281/zenodo.3723940)
+
+This dataset will be constantly updated (read details on website)

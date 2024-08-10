@@ -1,0 +1,3 @@
+Hi! I'm a professor and am looking for a sample business dataset that consists of at least 3 relational tables (ideally 4-6) and is data science friendly, e.g. has a good amount of numerical data to run analyses on (such as predictive models, correlation analyses, k-clustering, etc).  Any help would be greatly, greatly appreciated.  
+
+Thanks!

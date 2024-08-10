@@ -1,0 +1,1 @@
+Where can I find a dataset with each sample contains only one image and structured data?

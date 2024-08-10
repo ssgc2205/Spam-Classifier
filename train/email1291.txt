@@ -1,0 +1,16 @@
+I'm studying the 2001 paper "Inhomogeneous scaling behaviors in Malaysian foreign currency exchange rates" by Muniandy et al, where the authors analyze daily foreign currency exchange rates, in particular 
+
+&gt; In this paper, we first examine the empirical scaling behaviors of the foreign currency exchange rates, namely the US dollar (USD), Japanese yen (YEN) and Singapore dollar (SGD) with respect to Malaysia’s currency Ringgit Malaysia (RM) as shown in Fig. 1. These time series are the daily trading excluding weekends and holidays for the duration between 2nd April 1985 and 30th April 2001.
+
+(note: today the abbreviation MYR is used instead of RM)  
+I have to study the article and repeat the experiments, however I cannot find the data they used.
+
+I tried using the python package yfinance with the command
+
+    yf.download(tickers='MYRUSD=X', actions=True, threads=False, start='1985-04-02')
+
+but it download data starting from 2003, so I guess older data are not available on yahoo finance.
+
+I tried dozen of sites without success. The best I found is investing dot com which has daily rates MYR/JPY from 1989, MYR/SGD from 1990, but MYR/USD only from 2004.
+
+Somebody knows a source with older data?

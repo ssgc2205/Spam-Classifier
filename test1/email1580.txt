@@ -1,0 +1,17 @@
+I am looking for a Dataset of Movie Reviews like the "IMDB Dataset of 50k Movie Reviews" but i need the corresponding MovieID to those Reviews.
+
+I imagine it like so:
+
+&amp;#x200B;
+
+|Review|Sentiment|MovieID|
+|:-|:-|:-|
+|I love Batman, great Movie..|1|56719|
+
+&amp;#x200B;
+
+Do you guys know if there is a Dataset just like that? 
+
+&amp;#x200B;
+
+Thank you for your help!

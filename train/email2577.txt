@@ -1,0 +1,33 @@
+I'm interested in something that I can use or build where I can enter a stock symbol, and output the competitors listed in their API. 
+
+S&amp;P Capital IQ has this function, but it is far too expensive for what I need (as they have a multitude of other features).
+
+**Example**
+
+If you pull up the 10-K for Google "GOOG" like *most* companies there is a competition section. These vary in format between 10-K's but generally, it is headed under "competition" or "competitors" and then the entities are listed.
+
+ From, [https://www.sec.gov/Archives/edgar/data/1652044/000165204419000004/goog10-kq42018.htm](https://www.sec.gov/Archives/edgar/data/1652044/000165204419000004/goog10-kq42018.htm)
+
+&gt;General purpose search engines and information services, such as Baidu, Microsoft's Bing, Naver, Seznam, Verizon's Yahoo, and Yandex.  
+&gt;  
+&gt;Vertical search engines and e-commerce websites, such as Amazon and eBay (e-commerce), Booking's Kayak (travel queries), Microsoft's LinkedIn (job queries), and WebMD (health queries). Some users will navigate directly to such content, websites, and apps rather than go through Google.  
+&gt;  
+&gt;Social networks, such as Facebook, Snapchat, and Twitter. Some users increasingly rely on social networks for product or service referrals, rather than seeking information through traditional search engines.  
+&gt;  
+&gt;Other forms of advertising, such as billboards, magazines, newspapers, radio, and television. Our advertisers typically advertise in multiple media, both online and offline.  
+&gt;  
+&gt;Other online advertising platforms and networks, including Amazon, AppNexus, Criteo, and Facebook, that compete for advertisers that use Google Ads, our primary auction-based advertising platform.  
+&gt;  
+&gt;Providers of digital video services, such as Amazon, Facebook, Hulu, and Netflix.  
+&gt;  
+&gt;We compete with companies that have longer operating histories and more established relationships with customers and users in businesses that are further afield from our advertising business. We face competition from:  
+&gt;  
+&gt;Other digital content and application platform providers, such as Apple.  
+&gt;  
+&gt;Companies that design, manufacture, and market consumer electronics products, including businesses that have developed proprietary platforms.  
+&gt;  
+&gt;Providers of enterprise cloud services, including Alibaba, Amazon, and Microsoft.  
+&gt;  
+&gt;Digital assistant providers, such as Amazon and Apple.
+
+Thanks!

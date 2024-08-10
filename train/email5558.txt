@@ -1,0 +1,1 @@
+I am looking for images of bacteria that could be used as training for a neural network. Around 500-1000 images would be ideal. Thanks in advance!

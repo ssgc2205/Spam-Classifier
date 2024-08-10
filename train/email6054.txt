@@ -1,0 +1,7 @@
+&amp;#x200B;
+
+Collection of the dataset that has the global list of websites built with [various e-commerce frameworks](https://www.wiredwith.com/technology/ecommerce) providing valuable insights into the market share and is an essential tool for market research and competitor analysis.
+
+[https://www.kaggle.com/wiredwith/websites-list/download](https://www.kaggle.com/wiredwith/websites-list/download)
+
+[https://wiredwith.com/technology/dataset/download/ecommerce/](https://wiredwith.com/technology/dataset/download/ecommerce/)

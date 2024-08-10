@@ -1,0 +1,3 @@
+I'd like to find a dataset of all the Fry "Instant Words" used to test elementary school kids.  Here's an [example](http://www.k12reader.com/subject/vocabulary/fry-words/).
+
+There's only 1,000 words but I'd prefer not to type them all by hand.  Also, I'm more than happy to take any other English words datasets.  Thanks!

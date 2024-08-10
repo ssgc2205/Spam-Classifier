@@ -1,0 +1,10 @@
+Hi all,   
+I'mLooking for shopping and stores at NYC (Manhattan to be exact) with name, address, category   
+I found this [https://data.cityofnewyork.us/browse?q=Lower%20Manhattan%20Retailers&amp;sortBy=relevance](https://data.cityofnewyork.us/browse?q=Lower%20Manhattan%20Retailers&amp;sortBy=relevance)  
+but it's only for lower Manhattan,  
+
+
+Anyone know of such dataset?   
+
+
+Thanks for the help 

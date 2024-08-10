@@ -1,0 +1,1 @@
+Merry Christmas /r/datasets! I want to do a computer vision/image analysis project. Is there a tool that can turn a YouTube video into a series of image files?

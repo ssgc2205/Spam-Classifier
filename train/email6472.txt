@@ -1,0 +1,3 @@
+Hello!
+
+I'm doing a research project that uses machine learning to find future outputs of rice fields in the Philippines by using soil moisture and precipitation data. I've already found a rice production dataset, but I'm having a hard time trying to find places where I can find soil moisture and precipitation data. If you have any sources that have these types of data, please let me know! Thanks.

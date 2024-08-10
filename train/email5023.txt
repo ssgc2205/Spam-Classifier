@@ -1,0 +1,5 @@
+hello friends,
+
+does  anyone know of a meme database, indexed or searchable? I have a Discord  bot that responds to a text search command, which scrapes KnowYourMeme,  but the results are often quite terrible for even simple queries!
+
+any ideas?

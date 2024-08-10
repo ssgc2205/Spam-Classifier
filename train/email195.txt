@@ -1,0 +1,7 @@
+Hi Friends,
+
+We've updated the database with 28 new datasets! Thanks again for contributing: Tomaso Pasini, Nikita Moghe, Léo Bouscarrat, and Laxman Tomar. 
+
+Will continue to update!
+
+[https://datasets.quantumstat.com/](https://datasets.quantumstat.com/)

@@ -1,0 +1,1 @@
+Title. I want some data with like RAM, CPU, GPU, model/maker with a price point attached. I understand I can get this with some webscraping but this is not a reliable way to look for "well priced" pieces of hardware -- it is my intention that this data be used to identify deals.

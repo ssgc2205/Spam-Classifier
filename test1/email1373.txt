@@ -1,0 +1,1 @@
+I have 2 tables. Table One with 190 customer latitude and longitude. Table two with 7 Warehouse Latitude and Longitude. How do I find the nearest warehouse for each customers and visualize it?

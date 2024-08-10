@@ -1,0 +1,11 @@
+ I want to achieve the following process 
+
+&amp;#x200B;
+
+[process](https://preview.redd.it/6g4pcieubmx51.png?width=720&amp;format=png&amp;auto=webp&amp;s=6788fa2d657d30273729caa5a9d0e96bd269d4cd)
+
+ 
+
+so in this image as u can see a website screen shot in fed in and it is normalized, color coded i suppose and than according to those colors custom hand drawn images are imposed unto them and somewhat converted into hand drawn mockup which I want to achieve.
+
+what i wanna ask is what should be correct approach to do this, what frameworks or libraries i should use. if someone can suggest python packages that would be huge help but others languages are also fine.I have to create a huge dataset with thousand of websites screenshots which will go under this process.

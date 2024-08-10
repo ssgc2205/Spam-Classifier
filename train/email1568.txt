@@ -1,0 +1,60 @@
+Moving forward, I'm going to be creating .xz compressed files for all monthly dumps along with yearly roll-ups for anything big data related.  
+
+You will notice that there are xz folders under the Reddit comment and submission folders:
+
+http://files.pushshift.io/reddit/comments/xz/
+
+These files will be complete year roll-ups for comments and submissions.  I am also including PAR2 parity files (10% redundancy) along with the .xz files.  You only need to download the .xz file and the .PAR2 file to verify the parity.  
+
+If for whatever reason there is a problem with the parity check, you can rebuild the data from the additional parity files.  If you want to archive this data yourself, I would recommend downloading all the parity files as well.  The xz compression is so efficient, that even with the 10% parity files, the total file size is still smaller than the bz2 compression format.
+
+If you have any questions or suggestions, please let me know.  Much love and appreciation to /u/bwbaugh and /u/skeeto for their assistance and suggestions.  This makes the most sense in the long-run -- the xz compression format is superior and together with the parity files, it makes a great long-term solution for data archival.  If you want to verify the file, you can do so by using either of these commands (linux):
+
+    par2verify RS_2017-06
+    par2 verify RS_2017-06
+
+**Example Output:**
+
+    root@pluto:/data/bigdata/reddit/submissions/xz# par2 verify RS_2017-06
+    Loading "RS_2017-06.par2".
+    Loaded 4 new packets
+    Loading "RS_2017-06.vol031+32.par2".
+    Loaded 32 new packets including 32 recovery blocks
+    Loading "RS_2017-06.vol063+64.par2".
+    Loaded 64 new packets including 64 recovery blocks
+    Loading "RS_2017-06.vol001+02.par2".
+    Loaded 2 new packets including 2 recovery blocks
+    Loading "RS_2017-06.vol127+73.par2".
+    Loaded 73 new packets including 73 recovery blocks
+    Loading "RS_2017-06.vol003+04.par2".
+    Loaded 4 new packets including 4 recovery blocks
+    Loading "RS_2017-06.vol015+16.par2".
+    Loaded 16 new packets including 16 recovery blocks
+    Loading "RS_2017-06.vol007+08.par2".
+    Loaded 8 new packets including 8 recovery blocks
+    Loading "RS_2017-06.vol000+01.par2".
+    Loaded 1 new packets including 1 recovery blocks
+    Loading "RS_2017-06.par2".
+    No new packets found
+
+    There are 1 recoverable files and 0 other files.
+    The block size used was 872152 bytes.
+    There are a total of 2000 data blocks.
+    The total size of the data files is 1744297984 bytes.
+
+    Verifying source files:
+
+    Target: "RS_2017-06.xz" - found.
+
+    All files are correct, repair is not required.
+
+Windows probably has a tool for PAR2 file management but I'm not familiar with it.  Maybe someone can recommend a good tool for Windows?  This program looks legitimate:  http://www.quickpar.org.uk/
+
+_________________________
+
+
+It will take about a month or two to create xz files and parity files from all the existing data.  
+
+Reddit June submissions are also now available in xz format here:  http://files.pushshift.io/reddit/submissions/xz/
+
+Thanks again!

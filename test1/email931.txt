@@ -1,0 +1,13 @@
+I need to give a database workshop, and I need a multi-table dataset that is small enough to fit in a virtual machine. However, I would like to have the data more interesting instead of Pet or Video stores, book library or &lt;gasp&gt; another address book.
+
+Looking around, and while much of the scientific data sets are definitely interesting enough to play with, I haven't found anything less than a Gig.
+
+Suggestions? My requirements:
+
+* 2 - 5 tables with foreign key (gotta use join, right)
+* 10 to 50 Megs (roughly)
+* Variety of data formats
+
+Thanks!
+
+X-Posted from /r/database

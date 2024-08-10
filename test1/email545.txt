@@ -1,0 +1,1 @@
+I am trying to get years of past articles from several different news sites. Getting the articles isn't the hard part, but getting all the urls is. The search engines on all the sites requires me to search a phrase which limits the articles I see. Google was my best option but my IP got blocked from searching after a couple hundred searches. Any suggestions are appreciated.

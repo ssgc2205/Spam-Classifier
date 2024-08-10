@@ -1,0 +1,1 @@
+just want to ask if anyone here knows where can i get the data files (zipped files) contained in this site (http://cdo.ncdc.noaa.gov/qclcd_ascii/)? this site is currently down right now. I just need some zip files for testing purposes.

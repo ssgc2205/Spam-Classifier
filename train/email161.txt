@@ -1,0 +1,61 @@
+# Reddit, Twitch, Deezer, and GitHub datasets for graph classification benchmarking
+
+These datasets are useful for performing binary graph classification. The related [Machine Learning Project](https://github.com/benedekrozemberczki/karateclub) and the respective [Paper.](https://arxiv.org/abs/2003.04819)
+
+## GitHub StarGazer Graphs
+### Description
+The social networks of developers who starred popular machine learning and web development repositories (with at least 10 stars) until 2019 August. Nodes are users and links are follower relationships. The task is to decide whether a social network belongs to web or machine learning developers. We only included the largest component (at least with 10 users) of graphs.
+### Link
+* [GitHub StarGazer Graphs + Target](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/git_stargazers.zip)
+## Properties
+* **Number of graphs:** 12,725
+* **Directed:** No.
+* **Node features:** No.
+* **Edge features:** No.
+* **Graph labels:** Yes. Binary-labeled.
+* **Temporal:** No.
+## Possible Tasks
+* **Graph classification**
+## Twitch Ego Nets
+### Description
+The ego-nets of Twitch users who participated in the partnership program in April 2018. Nodes are users and links are friendships. The binary classification task is to predict using the ego-net whether the ego user plays a single or multple games. Players who play a single game usually have a more dense ego-net.
+### Link
+* [Twitch Ego Nets Part I](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/twitch_egos_1.zip)
+* [Twitch Ego Nets Part II + Target](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/twitch_egos_2.zip)
+### Properties
+* **Number of graphs:** 127,094
+* **Directed:** No.
+* **Node features:** No.
+* **Edge features:** No.
+* **Graph labels:** Yes. Binary-labeled.
+* **Temporal:** No.
+### Possible Tasks
+* **Graph classification**
+## Reddit Thread Graphs
+### Description
+Discussion and non-discussion based threads from Reddit which we collected in May 2018. Nodes are Reddit users who participate in a discussion and links are replies between them. The task is to predict whether a thread is discussion based or not (binary classification).
+### Link
+* [Reddit Thread Graphs + Target](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/reddit_threads.zip)
+### Properties
+* **Number of graphs:** 203,088
+* **Directed:** No.
+* **Node features:** No.
+* **Edge features:** No.
+* **Graph labels:** Yes. Binary-labeled.
+* **Temporal:** No.
+### Possible Tasks
+* **Graph classification**
+## Deezer Ego Nets
+### Description
+The ego-nets of Eastern European users collected from the music streaming service Deezer in February 2020. Nodes are users and edges are mutual follower relationships. The related task is the prediction of gender for the ego node in the graph.  
+### Link
+* [Deezer Ego Nets + Target](https://github.com/benedekrozemberczki/datasets/blob/master/graph_classification/deezer_egos.zip)
+### Properties
+* **Number of graphs:** 9,629
+* **Directed:** No.
+* **Node features:** No.
+* **Edge features:** No.
+* **Graph labels:** Yes. Binary-labeled.
+* **Temporal:** No.
+### Possible Tasks
+* **Graph classification**

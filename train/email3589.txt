@@ -1,0 +1,1 @@
+I’ve been asked to put together a short course about how to analyze usage data for mobile apps, and am looking for snapshot example data sets that can be used to explain usage trends, metrics like daily/weekly/monthly active users and subscriber churn. I’ve been searching the usual spots like Kaggle and not seeing anything that really fits this. Any advice?

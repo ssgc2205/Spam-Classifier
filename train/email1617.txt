@@ -1,0 +1,11 @@
+Hi,
+
+I just joined this thread and saw a lot of questions like 'is there any dataset XXX with specific condition YYY (i.,e past 20 years, specific region KKK, etc) here.
+
+just wondering if there is any dataset trading market? if not, why yet? (may be too rough question).
+
+I know there are a lot of publicly available datasets provided by big tech companies, governments and research labs, but these datasets mostly for general cases and I guess there are/will be a lot of dataset demands for edge cases as AI industry is getting specific. For example, if I need tennis swing coach machine learning trading data from swing/serve data today, I am not sure that is something easily accessible.
+
+What if there is such platform enabling person or companies to trade the data set with fancy dataset filters? would there be a lot of needs? the platform can provide well-organized filters/download/upload toolsets as a middle man.
+
+Is selling public data illegal? like If I sell a dataset from Google lab or U.S national lab to someone else and get money, would that behavior be illegal? or is there any license thing on dataset like open source ?

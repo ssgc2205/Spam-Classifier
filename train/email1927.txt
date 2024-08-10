@@ -1,0 +1,8 @@
+I would like an average and median of the user counts of every 5-star album on AllMusic. There are 2566 of those in total. For example, *Master of Puppets* by Metallica has had 4336 people rate it. It's the number next to the red stars.
+
+http://www.allmusic.com/album/master-of-puppets-mw0000667490
+
+As I said, I want the average and median, but to do it myself, I would have click on EVERY SINGLE ALBUM and put it into Excel. This is an unreasonably herculean task, especially when I just know that there is someone out there, either here or elsewhere on Reddit/the internet, who can produce those numbers in about 2 minutes, tops. Can someone either help me out or point me to an appropriate subreddit?
+
+
+EDIT: I want the 5-star MAIN albums, the number of which can be found by using their Advanced Search feature, selecting 5-star main albums only from any time. There are 40 albums listed per page, with 64 full pages, and 6 on the 65th page.

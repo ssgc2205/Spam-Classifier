@@ -1,0 +1,5 @@
+Api or web scraping?
+
+Clearification: 
+
+I want to collect the CURRENT/future data points myself by monitoring and api (or other). View it as a project to build a dataset from scratch.

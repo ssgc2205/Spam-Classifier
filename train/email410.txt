@@ -1,0 +1,9 @@
+Does anyone have details or links to state level legal fillings in the US? 
+I am looking for open / free fillings sources to perform text analysis and trends on litigation decisions. 
+
+Federal fillings are distributed by the controversial and premium PACER system. However I did find RECAP, an initiative to open source these data. 
+
+- [RECAP open source legal Fillings from U.S. Federal District and Bankruptcy Courts](https://free.law/recap/)
+- [PACER US Federal Court Fillings](https://www.uscourts.gov/court-records/find-case-pacer)
+
+Any pointers at state level would be appreciated

@@ -1,0 +1,1 @@
+Hi. I need a valid dataset that includes measured values of vital signs of healthy and sick people such as blood pressure, temperature, weight, blood glucose level, oxygen saturation, and heart rate. Please help me.

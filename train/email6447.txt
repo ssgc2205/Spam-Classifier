@@ -1,0 +1,15 @@
+Hello mates,  
+
+
+Here's a steam reviews dataset, containing a little more than 6.4 million observations.
+
+You can find it [here](https://www.kaggle.com/andrewmvd/steam-reviews).
+
+  
+It was taken on 2017 and all credits are due to the following authors:
+
+&gt; Antoni Sobkowicz. (2017). Steam Review Dataset (2017) \[Data set\]. Zenodo. [https://doi.org/10.5281/zenodo.1000885](https://doi.org/10.5281/zenodo.1000885) 
+
+&amp;#x200B;
+
+Cheers

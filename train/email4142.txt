@@ -1,0 +1,1 @@
+Hello, everyone, I'm looking for a fairly big dataset with both discrete(categorical) and continuous(numerical) attributes (like at least 5 of each type of attribute). I've been searching lots of different websites and have been unable to find one so any help would be much appreciated. Thank you!

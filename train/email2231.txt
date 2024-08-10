@@ -1,0 +1,5 @@
+Does anyone have an exhaustive data set of technical skills used across industries?
+
+I have downloaded the following link  [https://www.onetcenter.org/dictionary/23.3/excel/technology\_skills.html](https://www.onetcenter.org/dictionary/23.3/excel/technology_skills.html) but the issues I'm having is that people don't usually refer to them in such verbose fashion, i.e. "structured query language sql" is the official US gov description of SQL (as provided by O\*NET) but that's not usually what people type out in resumes.
+
+Bottom line, it's making my search process either pull too many or too few matches depending on how "exact" I want the match.

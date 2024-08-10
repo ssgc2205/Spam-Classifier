@@ -1,0 +1,10 @@
+Hi! As the title says, I'm looking for data on the percentage of ethnic groups per country, especially Latin American countries. 
+
+Example for Peru, 2007:
+
+|Ethnicity|Composition|
+|:-|:-|
+|Quechua|22.3%|
+|Mestizo|60.2%|
+|White|5.9%|
+|etc|etc|

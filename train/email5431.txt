@@ -1,0 +1,3 @@
+Hello everyone,
+I´m writing my diploma thesis on the topic of Big Data. As a part of this thesis, I have to analyze a data set. I need to pick a variable that I´m going to try to predict with this analysis. I was wondering if anyone could suggest a good data set to do this with.
+Thanks!

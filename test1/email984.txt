@@ -1,0 +1,11 @@
+Hi everyone. I'm involved in a problem on Kaggle.
+
+This is my dataset https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset
+
+As you can see, nothing is displayed in the data source tab.
+
+But when I click download, the downloading process still started.
+
+In short, I cannot download my dataset separately by version. Do you guys have any solution?
+
+Thank you!

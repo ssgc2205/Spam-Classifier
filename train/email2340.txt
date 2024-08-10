@@ -1,0 +1,11 @@
+Hi everyone,
+
+I'm new here, so here it goes.
+
+I'm interested in trying to investigate the relationship between C-sections and obesity (see this study https://www.ncbi.nlm.nih.gov/pubmed/29026883?otool=nynyumlib&amp;myncbishare=nynyumlib)
+
+I'm looking for dataset(s) that include a population's C-section birth rate data according to U.S. geography. 
+
+I'd like to see if there are any correlations with a population's obesity rates and see if and how the relationships vary with U.S. geography. 
+
+I tried poking around the CDC website for C-section and obesity data but was not really able to make heads or tails of how to find and extract what I want. Thank you in advance for your help!

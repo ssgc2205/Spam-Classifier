@@ -1,0 +1,11 @@
+Hi All,
+
+I'm looking for some mixed categorical and real feature/attributes datasets that have more than 100 classes. Preferably not dependent data such as images.
+
+Two hundred or more would be better. The purpose of the data is to look at metric learning.
+
+I have searched Kaggle. Not really coming up with anything there. Some where maybe if you change the target to one of the categorical variables might get you 40 classes or so. 
+
+Anyone suggestions on specific domains I could look into for this type would be most appreciated. 
+
+Thanks,

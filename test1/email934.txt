@@ -1,0 +1,14 @@
+I'm releasing [239,621 Hackernews datasets](https://github.com/massanishi/hackernews-post-datasets) from the past 5 years. Based on the official item API, this focuses only on the main posts with at least 2 engagements.
+
+Motivation:
+
+Hackernews offers an excellent [API via Firebase](https://github.com/HackerNews/API). Unfortunately, their fetch method doesn't offer any way to filter by item types. So collecting all posts take excessively long thanks to all the comments (the posts in datasets are about 1.5% of the items returned).
+
+With posts as a starting point, you can easily trace the hierarchy from "kids" fields.
+
+Potential Usage:
+
+- Generate popular titles.
+- Collect comments in a hierarchical order for further training.
+- Analyze popular topics in the engineering community.
+- Identify the best time to post for maximum engagement.

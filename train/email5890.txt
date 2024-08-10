@@ -1,0 +1,3 @@
+The FCC has a [variety of maps](https://www.fcc.gov/reports-research/maps/) that list the number of providers for Census Blocks. These can be downloaded to CSV.
+
+I want to find a way to connect these census blocks to zip codes. I realize it's not a 1:1 relationship, and that's ok. I just don't want to have to geocode every single address in my DB to find out the census block. It doesn't need to be perfect, I am trying to get a rough idea of what kind of internet options a given address (or zip code) might have. Any suggestions?

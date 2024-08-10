@@ -1,0 +1,7 @@
+Anyone have any ideas on how to clean Header Records/ACH Company IDs from ACH NACHA formatted records (but stored in a db2 format)?
+
+If you are familiar with ACH data, you know that the Company Name is likely meaningful to a human, but it is very inconsistent to a machine and cleaning the data. For example, Walmart might be WALMRT #134 in the ACH dataset, but to us, it means WALMART. 
+
+Anyone at FI's ever looked at this data? How to clean it up? Make it useful? 
+
+[NACHA Format Outline](https://secureinstantpayments.com/sip/help/interface_specs/external/NACHA_format.pdf)

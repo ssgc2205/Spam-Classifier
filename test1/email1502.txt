@@ -1,0 +1,4 @@
+Hi everyone!
+I'm going to work on a project that should be able to detect tendencies of chronic stress via text messages with NLP. To do that, I need a dataset which consists of results from any stress scale that helps to measure chronic stress (for example: Perceived Stress Scale) and any text-based input (preferably in english) from the observations/persons. Unfortunately, I do have problems to find any dataset that includes this specific information. Does anybody know of a dataset that would fit this description? Or does have anybody a hint where I could find such a dataset?
+
+I would appreciate any input :)

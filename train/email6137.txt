@@ -1,0 +1,3 @@
+Anybody have a good resource for US Zip codes in a convenient tabular format that lists all ZIP codes? I know census.gov has some good data. Unfortunately, I do not know how to pull all of what I want in one table. 
+
+I would want to know, by ZIP code, population or metropolitan type (e.g. rural, suburban, urban, etc.), home prices, income, and other quality of life factors, if possible. 

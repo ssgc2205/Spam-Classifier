@@ -1,0 +1,1 @@
+I've developed a Linkedin crawler that can scrape Linkedin profiles pretty well. I think I can make a little side-business using the data in some way. I'd like to gauge people's feelings towards this. Would I be a bad person for doing so?

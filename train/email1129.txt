@@ -1,0 +1,3 @@
+Hi. Looking for a small dataset which is good for explaining linear logistic regression to people. It is best if the number of variables is quite small, but there are some redundant ones, so that L1 regularization may give them a zero coefficient.
+
+Great thanks!

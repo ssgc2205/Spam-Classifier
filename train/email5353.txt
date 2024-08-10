@@ -1,0 +1,9 @@
+Dear all, 
+
+I'm working in clinical research, all the data we collect in clinical trials are in CDISC format (SDTM and ADAM). Now, in my free time I'm working on a personal project publicly available on github. I would use some sample data to test it but I'm not sure where to find them.
+
+Do you have any idea where can I find some clinical trials data? I'm aware of how sensible are these data but there are some clinical trials which are totally publicly funded and the data should be open (like EPIC study). 
+
+Possibly they should already be in CDISC format, but in the case they are not I'll do the porting by myself.
+
+Thank you all and thanks for your answer.

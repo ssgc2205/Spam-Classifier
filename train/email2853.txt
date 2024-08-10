@@ -1,0 +1,3 @@
+Hi all, I've been collecting covid-19 related tweets since mid January and have amassed over 200 000 000 unique tweets. Various statistic such as n-gram counts (uni, bi and tri) and hashtag counts have been processed and published in my GitHub repo for anyone to analyze: https://github.com/delvinso/covid19_one_hundred_million_unique_tweets.
+
+If you have any questions and/or comments and criticisms on how the dataset can be maintained going forward, please let me know.

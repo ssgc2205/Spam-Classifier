@@ -1,0 +1,1 @@
+I found [this](https://physics.nist.gov/PhysRefData/ASD/lines_form.html), but it only lets me look things up one at a time and I don't know what is in their database. I'm looking for a single database/spreadsheet/chart of emission spectra for as many elements as possible. Any additional spectra would be interesting but not necessary. 

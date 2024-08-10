@@ -1,0 +1,6 @@
+Does anyone know of a mirror for the BookCorpus data set? The original link gives a forbidden error.
+
+[http://www.cs.toronto.edu/~mbweb/](http://www.cs.toronto.edu/~mbweb/)
+
+[Here's the tweet announcing it's release]
+(https://twitter.com/rsalakhu/status/620000728191528960)

@@ -1,0 +1,3 @@
+Can anyone suggest a data source for grocery/food prices? I'm teaching myself to use scrapy by building a little recipe database and thought it would be interesting to try to estimate cost/recipe and maybe how it changes over time. 
+
+Thanks!

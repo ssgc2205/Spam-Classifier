@@ -1,0 +1,7 @@
+Hello everybody, 
+I have a real image dataset ( all images has taken by smartphones ) and i have to clean this data in order to apply deep learning models on it. 
+But i am wondering what can i do, what are the steps that i have to do. 
+I mean, what are the statistics that i need to extract from the dataset? And what are the techniques that i have to apply in order to clean the data?
+My boss tell me that he want to delete unnecessary images ( like blurry images, duplicate images ..etc ) 
+So please, any advices or articles or videos to clean the data. 
+Thank you in advance.

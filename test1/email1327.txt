@@ -1,0 +1,5 @@
+Hi all. I am currently doing a project on tattoo generation based on users' input (sentence/keywords). As I wasn't able to find anything decent online, I though I would give a try and ask if someone already has (or knows about) sth similar or related to such dataset?
+
+Ideally, every picture is annotated with keywords/tags/sentences.
+
+Thanks in advance :)

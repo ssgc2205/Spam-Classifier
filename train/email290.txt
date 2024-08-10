@@ -1,0 +1,3 @@
+I know the [The Guardian has a Content API](http://explorer.content.guardianapis.com/?api-key=test) which is a great start, but I'm looking for something similar for other news sources. 
+
+A raw dump of news articles would be fine as well.

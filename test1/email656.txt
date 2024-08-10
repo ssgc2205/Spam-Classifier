@@ -1,0 +1,7 @@
+Hi,
+
+Im looking for dataset for the top 1000 cities populations , income levels and education level or a dataset similiar to that.
+
+Any idea where I can find that? API or raw data
+
+Thanks

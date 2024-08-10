@@ -1,0 +1,40 @@
+We recently set-out to build a massive list of AI companies from around the world.  This was a dataset that included companies with just seed funding all the way to the likes of Amazon and Google.  
+ 
+The information we put together included:
+Company Information: address &amp; phone number
+Products/Services offered: description of each product or service
+Pricing: pricing information of the products or services
+Classification: IOT, PaaS, Saas, etc
+Customer List: Any customers listed on their site
+Social media links: LinkedIn, Twitter, Facebook
+ 
+After we finished pulling this information we started slicing and dicing these companies and here are some fun facts:
+ 
+Our list was composed of 9983 companies in total.  
+ 
+Social Media Presence:
+ 
+                             Count
+ 
+Facebook link      6213
+Twitter handle     7212
+LinkedIn link        8010
+Instagram link     1299
+Google+ link         2921
+ 
+We expected LinkedIn to be the highest but what was surprising is the low presence on Google+.  
+ 
+Customer names: If you ignore a few large companies like Amazon and Google most companies did not list any customer names publicly.  This was either because they did not have customers yet or did not want to disclose them.  In total we found 12,477 customers listed or only 1.25 listed per company.
+ 
+Phone Numbers: Only 6211 phone numbers publicly listed on the website.  This was expected and mostly only b2b companies list their phone number publicly.  
+ 
+An AI for everything: It’s a competitive market! For literally any AI you can think of there is a company out there.  There’s an AI that helps you find your next trip, one that helps you find a book (they claim better than Amazon does) and even one that claims to teach you math better than a tutor.  Still, the most popular of all are personal assistants.  If you are thinking of doing something in the AI world make sure to research in depth to understand your competition.
+ 
+So many PaaS: Of the companies we reviewed almost 50+% were classified as Product As A Service.  
+ 
+The big players: Companies such as Amazon, Google, IBM, Microsoft are all focusing on making it easier to get an AI up fast.  Their goal is to give you a plug and play style system..i.e servers you can spin up, image recognition and NLP apis you can hit.  The future here will be very similar to the world of cloud services - a few big players with slightly differentiated offerings
+ 
+Most AI’s are still not that accurate: Now the coolest part of our job was actually testing many of these so called AI’s.  We say “so called” because we quickly realized that the AI was terrible.  Either the algorithm was totally off or their training dataset was not accurate enough...either way...most AI’s are still needed a lot of work.
+ 
+Last question...why did we do this?
+We wanted to build deep expertise on the AI market + we wanted to understand which companies most needed our help.  After seeing so many bad AI’s we now have a list of companies to contact.  Many of these companies have Data Scientists that can improve their algorithms, however, a crucial piece still missing is a super accurate dataset.  The first customer we picked up via this strategy we helped them create an emotion recognition AI that is 84%+ accurate.

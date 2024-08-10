@@ -1,0 +1,1 @@
+I'm looking into building an app that will need specifications for cameras based on a search. For example, a user can search for "canon t2i" and get information about the camera such as sensor size. Does anyone know of a dataset or API that offers this? Thanks

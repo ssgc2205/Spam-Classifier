@@ -1,0 +1,1 @@
+I have to analize and compare these datasets with another dataset that I managed to find (esports audience) with python. I searched everywhere but I couldn't find them.

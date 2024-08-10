@@ -1,0 +1,3 @@
+I'm working on a project for a student org, and we want to use historical stock data. As far as I know, IEXFinance and AlphaVantage only provide data for stocks that are currently listed. We don't want our data to have a survivorship bias, so we want a dataset that includes companies that were trading but have since been delisted. 
+
+Is there any place I can find such a dataset? Preferably JSON, but I'll make anything work

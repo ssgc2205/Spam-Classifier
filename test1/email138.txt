@@ -1,0 +1,3 @@
+I saw [this post](http://www.reddit.com/r/datasets/comments/1r76wp/i_downloaded_600000_reddit_comments_over_a_week/) which has 600k comments and [this post](http://www.reddit.com/r/datasets/comments/1mbsa2/155m_reddit_comments_over_15_days/) with 15.5m comments. Since they were new, there were very few with score greater than one. Also, they were from all the subreddits those new comments were submitted to.
+
+Anyone know of a good/easy way to get comments (not the newest ones, possibly from a specific sub). I know you can display the page in json format but getting the comments is what I see the tricky bit.

@@ -1,0 +1,7 @@
+Hey r/datasets!
+
+I'm looking for data on American automobile prices in the early 20th century, specifically around 1900 to 1930. Ideally it would be a yearly catalog where I can compare how prices changed for specific car models over time.
+
+I'm also hoping to find information about injuries and deaths per passenger mile over this period as well.
+
+Thanks!

@@ -1,0 +1,1 @@
+I'm looking for a simple table that shows the most popular correlations (r) for relationships in science.  Examples would be the correlation between aspirin and heart disease, smoking and lung cancer, and intelligence and performance.  Does anyone have a link or simple graphic of this?  Thank you very much!

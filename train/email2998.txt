@@ -1,0 +1,4 @@
+I want to analyze whether there is an effect between low crime rates and demand for crime fiction, because I have the sensation crime fiction or true crime podcasts are especially popular in safe countries of e.g. Scandinavia or Western Europe. If you know of data on state or regional levels I would be happy as well.
+
+Data on the individual level would be even better obviously, supposing people with fewer contact to crime are more interested in crime fiction. I've been looking for datasets but couldn't find anything so far.
+Thanks! Looking forward to your answers :)

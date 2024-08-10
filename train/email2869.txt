@@ -1,0 +1,1 @@
+Does someone here know, where I can retrieve financial (fundamental) company data, of non stock companies. I‘ve already found a pretty good dataset on google datasets (kaggle), but I need a bit more up todate and more precise data, preferably for Germany. A good API with a subscription, would also be an option, but it shouldn‘t be too pricey. Thanks a lot in advance.

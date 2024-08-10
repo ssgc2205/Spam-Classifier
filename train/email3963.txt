@@ -1,0 +1,9 @@
+First time poster in this sub, and I'm only an amateur with data compared to many.
+
+But, want I want to do is figure out the partisan lean for each of the new state house districts in Texas. This type of analysis is easily available for the federal districts at sites like 538 ( https://projects.fivethirtyeight.com/redistricting-2022-maps ), but I want to do it at the state house level.
+
+Then, as a second step, it'd be great to have the correct data to draw my own state congressional districts and derive partisan leans (as well as determine the racial makeup). But, this would be a much larger project for the future.
+
+Anyway, I'm struggling to figure out where to even start. I could get precinct data from the MIT data lab, but state districts break up even precincts, so they wouldn't be totally accurate.
+
+Thanks in advance for any thoughts or help!

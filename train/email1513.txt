@@ -1,0 +1,3 @@
+Hello everybody, 
+
+I'm looking for some datasets about sensor geographically distributed, in particular temporal series of some sensors, because I'm going to start a thesis about anomaly detection. Specifically, it would be the best if I get a dataset about electricity grids in order to perform anomaly detection and prediction of failures, but something similar about temporal series of sensor values it's OK. Do you know where I could find something similar?

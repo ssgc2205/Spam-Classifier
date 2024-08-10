@@ -1,0 +1,1 @@
+Anybody have an idea where I should start a search for a rock dataset with labels for each rock. I am trying to classify with this data.

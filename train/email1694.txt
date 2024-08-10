@@ -1,0 +1,3 @@
+Hello, I am doing a machine learning project for University on predicting the life cycle stage of a plant \[germinated, pre-flower, flowered, produced fruit\]. Google images and sources like Kaggle have proved poor for finding these datasets. 
+
+Does anyone have recommendations as to where I can look to find pictures of a tomato plant / bell pepper plant in it's germination stage, pre-flower stage, flowered stage, and harvestable (produced fruit) stage?

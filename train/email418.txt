@@ -1,0 +1,3 @@
+Hello everyone, 
+Guys where can I get the actual dataset for currencies? I'm interested in doing some forecasting 
+So if there is something like quandle that would be great)

@@ -1,0 +1,9 @@
+Im looking for a list of all the land border crossings in the world,  with the coordinates of the crossing point and the names of the 2 countries.
+
+&amp;#x200B;
+
+The closest I have come is [https://en.wikipedia.org/wiki/Category:International\_border\_crossings](https://en.wikipedia.org/wiki/Category:International_border_crossings)  which I have scraped,  BUT many of the border crossings point to the middle of the border town not the actual border crossing,  or worse,  points to the road that crosses that border,  but nowhere near the actual crossing.  
+
+&amp;#x200B;
+
+thanks for any help or pointers

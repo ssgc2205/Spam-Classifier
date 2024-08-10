@@ -1,0 +1,3 @@
+Hey, I'm starting my thesis about attack graphs, and to do so i'll need some dataset about common networks structure (preferably with some vulnerability scan logs).
+
+If some one could point me in the direction of one, that would be awesome!

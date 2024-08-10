@@ -1,0 +1,1 @@
+Working on a IoT research project where I need to propose smart farming techniques and show how their implementation can improve crop production in various categories. I've searched Kaggle to no results. Is there anywhere on the web that specializes in these sorts of datasets?

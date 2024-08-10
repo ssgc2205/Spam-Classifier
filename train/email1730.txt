@@ -1,0 +1,1 @@
+I am looking for a dataset having event tickets (like concerts), tracking their (original) face value, as well the resale price over time (e.g. from Stubhub). Thanks in advance for any help

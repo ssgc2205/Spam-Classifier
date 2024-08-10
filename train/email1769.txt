@@ -1,0 +1,1 @@
+Or some other metric that ranks hip hop albums by popularity.  I've tried Billboard's archived data which wasn't very helpful and then checked out Neilson's Ratings but could really get much info before 2015. Any help would be much appreciated. Thanks!

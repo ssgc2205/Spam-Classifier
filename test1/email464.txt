@@ -1,0 +1,1 @@
+I found data for the entire country, but not by state. Is there more granular, state-level data?

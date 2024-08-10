@@ -1,0 +1,5 @@
+I wrote a 'speedometer' type gauge, and I'd like to hook it up to something interesting, but absolutely nothing is coming to mind. 
+
+Anyone have anything interesting?
+
+Cheers

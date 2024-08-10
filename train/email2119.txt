@@ -1,0 +1,7 @@
+I'm interested in analyzing some job listings data and last I heard Indeed.com had the highest traffic in that sector so it seems natural to start there. However, I haven't found any open source datasets for indeed data - which is surprising to me since I imagine many others are interested in this.
+
+Have any of you here experienced hunting for Indeed.com data? Were you successful? or did you end up using an API or scraping your own?
+
+[Their API](https://opensource.indeedeng.io/api-documentation/docs/job-search/) seems pretty limiting to me, so I was considering scraping the site for data. I wanted to ask some others their opinions before starting off on my own though.
+
+Thanks for you time

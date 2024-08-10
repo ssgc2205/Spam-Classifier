@@ -1,0 +1,3 @@
+Hey all, its my last semester of undergrad and I am in a 4000 level Econometrics class and we have to do a research paper where we find data and come up with our own contribution to add on to previous works. I am having a hard time figuring out something that has 7-10 papers already written about it that I can also get data for and find one or two questions of my own to answer and add to these previous works. Hopefully someone here has done something similar or has an idea of something that will be easy to find and do. I will be using STATA for my linear regression models if that helps. 
+
+Thanks in advance! 

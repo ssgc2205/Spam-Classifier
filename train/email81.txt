@@ -1,0 +1,1 @@
+Hi ! I'm working on Machine Learning project to improve/automate hydroponics systems. Is there any datasets containing Hydroponic/Vertical farming systems historical sensor data ?  Any hints or tips on how find such data will be highly appreciated.

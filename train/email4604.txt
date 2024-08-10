@@ -1,0 +1,9 @@
+Wanted to share my new favorite dataset on Kaggle!
+
+It’s has results and stats from all UFC mixed martial arts (MMA) fights since 1993 and is kept quite recent. Everything is scraped directly from the UFC website, so it’s pretty much the most detailed data you can get!
+
+So much to dig into. You can get fighter details (like height and weight) as well as records for each fighter from every fight. Every single punch is tracked! Super cool stuff!
+
+Note that I’m not the creator of this data, but I have been loving working with it recently and wanted to share so others know it exists.
+
+https://www.kaggle.com/rajeevw/ufcdata

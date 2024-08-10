@@ -1,0 +1,1 @@
+Hi guys! Because I need to conduct some research task about freights and containers transportation, but I found that most of related datasets are with monthly or yearly frequency. Is there any possible source for this kind topic with daily frequency? Thanks!

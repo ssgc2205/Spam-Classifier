@@ -1,0 +1,8 @@
+I teach AP Statistics and we are conducting a pumpkin lab. The students are bringing in pumpkins and collecting metrics (height, circumference, weight, number of seeds, anything the students can think of) and then making scatter plots trying to find correlations.   I literally have a trunk full of 20 pumpkins I am bringing in. 
+
+I am looking forward to doing some multi-variable regression of my own, even though that is not part of this introduction course.  
+
+**I was wondering if there are any metrics that are not obvious (height, circumference, weight, number of seeds, number of/length of the rivets) that we should collect?**  The students will brainstorm a list of metrics but I wanted to see what you all would be interested in .
+
+  
+We should have data on 45 pumpkins by the end of the week. I will make the data set available here once it's collected.  

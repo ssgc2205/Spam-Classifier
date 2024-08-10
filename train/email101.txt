@@ -1,0 +1,1 @@
+Using this for a personal project, but I need to be able to determine if two census blocks are adjacent for applying local moran's I statistic.

@@ -1,0 +1,3 @@
+I am looking for a dataset to do with Urban areas (urban conglomerations) of the world (not just cities / towns, their outgrowths too).
+
+The features I am looking for are population count and population density but would of course welcome many more.

@@ -1,0 +1,11 @@
+Hi All,
+
+Hours of googling has left me pretty dry.
+
+I am after a data table which has historic university rankings, with subject if possible.
+
+For example, I want to query "Cambridge","Maths","2015" or "Bristol","History","2012" to return a number rank.
+
+Would any of you data peeps know if this exists?
+
+Thanks!

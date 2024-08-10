@@ -1,0 +1,11 @@
+Hello,
+
+&amp;#x200B;
+
+Considering all the extra time I now have on weekends due to the stay at home orders, I wanted to do some sort of in-game win probability model using video game data just for fun. Some of the games I would be particularly interested in would be Civilization 5, Starcraft 2, Age of Mythology, Call of Duty Warzone, but anything that is available would be awesome. Ideally the data would have some sort of timestamp/turn and current state of the game.
+
+If anyone happens to know anything about acquiring a dataset like this, I would be very grateful!
+
+&amp;#x200B;
+
+Thanks

@@ -1,0 +1,7 @@
+Hello, I was wondering if something like this project existed for parks (not just national parks) latitude and longitude boundaries cross the country : [https://data.cityofnewyork.us/Recreation/Open-Space-Parks-/g84h-jbjm](https://data.cityofnewyork.us/Recreation/Open-Space-Parks-/g84h-jbjm)
+
+&amp;#x200B;
+
+I did a bit of searching, but I couldn't find something definitive, I thought i'd try here
+
+If a dataset of the boundaries does not exist, would one of the latitude/longitude exist?

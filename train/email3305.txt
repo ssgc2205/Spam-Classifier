@@ -1,0 +1,1 @@
+Hi everyone. I'm working on a project that requires looking at the performance of the S&amp;P 500 through time. I'm looking for a dataset or even just a list of every company in the S&amp;P 500 per year from 1980 to now. It sounds like something that would pop up in a pretty basic google search but it's been incredibly hard to find. Any help is greatly appreciated, thank you!

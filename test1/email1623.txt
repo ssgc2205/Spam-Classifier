@@ -1,0 +1,3 @@
+For example, the user is presented with a colour and they are asked which colour does that represent. Ideally the dataset would include data on culture, as I recall that being significant in interpretation of colour.
+
+There are a wide variety of colours that we would interpret as "red" and it is that sort of data I am looking for.

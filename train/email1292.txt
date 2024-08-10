@@ -1,0 +1,2 @@
+So I know this is a long shot, but I was hoping it might be possible to get the full corpus of the New York Times. This is for a project to potentially evaluate a measurement that was initially based off the NYT, so we need the full text to check a few different techniques to generate it. 
+

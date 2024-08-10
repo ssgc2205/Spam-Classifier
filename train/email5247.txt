@@ -1,0 +1,5 @@
+Hi, 
+
+I'm looking for datasets that contain the carbon footprint for everyday objects we encounter like cars, multi-storey buildings even humans, animals and trees. Could you please let me know if such a dataset exists? Preferably for both developing and developed countries. 
+
+Thanks!

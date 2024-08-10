@@ -1,0 +1,16 @@
+The Reddit July, 2017 (RC_2017-07.bz2) file is now available.  For the month of July, 2017, a total of **81,798,725** publicly available comments were ingested.  This is over a 22% increase in comment activity from July 2016.  There were more comments posted in the month of July, 2017 than all of the comments posted for the entire year of 2010.
+
+The entire comment corpus now contains 3,411,017,733 comments ( ~2 TB uncompressed / ~315 GB compressed). 
+________________________________
+
+**The file is available here:** 
+https://files.pushshift.io/reddit/comments/RC_2017-07.bz2
+
+**SHA256SUM:**   9c74ce27654efc7ec5fbe7b59a2856a7730e66724655b25866b94491f6b2e486 
+
+
+If you have any questions about this or other datasets available via files.pushshift.io, please let me know.
+
+*The July, 2017 submission file (RS_2017-07.bz2) should be available in a few days.*
+
+*Also, a higher compression format (xz) will also be available for July's comments in approximately one day (it takes a long time to compress these huge files!)*

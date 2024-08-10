@@ -1,0 +1,8 @@
+I'm taking a class on scientific visualization, and I'm looking for a data set for my final project. I'd like to find something related to nuclear power, if at all possible. This could be anything from the radiation levels around a nuclear site, to the composition of fuel rods over time. It only has to meet two criteria:
+
+* **It has to be big enough..** A few dozen data points won't cut it - I need something relatively bulky.
+* **It has to correspond to real-world geometry.** In other words, it has to represent data that has real spatial (and possibly temporal) coordinates. Something like a word cloud or a bulk of assembled papers could be great for machine learning or information visualization, but not for this project.
+
+Just to be clear, I'm not asking anyone to do my homework for me; the teacher doesn't care where or how we get the data set, just what we do with it. If anyone comes up with something good, I'll show off the results on /r/dataisbeautiful when I'm done. Also, gold.
+
+Thank you!

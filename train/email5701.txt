@@ -1,0 +1,58 @@
+As I mentioned in a previous post, starting in 2018, I will be making daily submission and comment dumps available.  As an example of what is to come, I am creating daily files for October and November so that you can begin using them in scripts, etc.
+
+The location for the daily files is https://files.pushshift.io/reddit/daily
+
+The entire month of October is available now in that folder (one file per day).  The file name is RCS_YYYY-MM-DD.tar.xz
+
+The files are highly compressed using xz with the -9e (extreme) setting.  They take longer to create, but it is well worth the increased compression time due to the high compression ratio (close to 90% compression).  Each day is between 250-350 megabytes.
+
+There are two files inside each tar file.  There is a comment dump (RC) and a submission dump (RS) within each file.  
+
+If you are interested in testing out scripts or just want to play around with some data analysis, just one of these files will provide you with over 2 million comments and hundreds of thousands of submissions.
+
+Let me know if you have any questions and/or suggestions.  If you have already downloaded the October monthly submission and comment dumps, then you already have the data that is contained in these files.  
+
+For those of you who could not handle the large monthly dumps, these daily files will give you a chance to play around with the data.
+
+________________________________
+
+
+To get started immediately, here is a link to the October 31 (Halloween) file: https://files.pushshift.io/reddit/daily/RCS_2017-10-31.tar.xz (~ 344 megabytes compressed).  The uncompressed file sizes are:
+
+RS_2017-10-31 796,500,058 bytes
+
+RC_2017-10-31 1,918,526,219 bytes  (~2.8 gigabytes of data compressed down to ~344 megabytes)
+
+**Hint: (Examples below assume you are using Ubuntu or some other Debian flavored OS)**
+
+You do *NOT* have to uncompress the files to use the data.  You can stream straight from the tarball if you are low on space.  
+
+Here's how to stream the comments to standard output:
+
+    tar -xOf RCS_2017-10-31.tar.xz 'RC_2017-10-31'
+
+This will stream the submissions to standard output:
+
+    tar -xOf RCS_2017-10-31.tar.xz 'RS_2017-10-31'
+
+If you install jq (apt install jq), you can easily view just the comment bodies directly to standard output.
+
+Here is how to view the first 10 comments without having to uncompress first:
+
+    tar -xOf RCS_2017-10-31.tar.xz 'RC_2017-10-31' | head -n10 | jq '.body'
+
+You can also extract only comments matching a certain subreddit directly to STDOUT:
+
+    tar -xOf RCS_2017-10-31.tar.xz 'RC_2017-10-31' | jq 'select(.subreddit | match("askreddit";"i"))'
+
+This would extract all comments from /r/politics and send it straight to a compressed file without the need to uncompress the file:
+
+    tar -xOf RCS_2017-10-31.tar.xz 'RC_2017-10-31' | jq -cM 'select(.subreddit | match("politics";"i"))' | gzip -9 &gt; politics.gz
+
+Output only comments with a score greater than 100 and have been gilded:
+
+    tar -xOf RCS_2017-11-11.tar.xz 'RC_2017-11-11' | jq -cM 'select(.score &gt; 100 and .gilded &gt; 0)'
+
+All publicly available comments and submissions made on that day (UTC) are contained in the tarball.  
+
+Good luck!

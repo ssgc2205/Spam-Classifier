@@ -1,0 +1,5 @@
+These are the time series of chickenpox cases reported in Hungary on a weekly basis for every county between 2005 and 2015.
+
+Dataset: [https://github.com/benedekrozemberczki/spatiotemporal\_datasets](https://github.com/benedekrozemberczki/spatiotemporal_datasets)
+
+Paper: [https://arxiv.org/abs/2102.08100](https://arxiv.org/abs/2102.08100)

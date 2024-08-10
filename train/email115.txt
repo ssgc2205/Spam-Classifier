@@ -1,0 +1,9 @@
+Hi - New to Data Analytics.. 
+
+I have a all direct equity portfolio and want to run statistical analysis to find some meaningful insights. Can someone guide me what insights would be interesting and what I could do? 
+
+I googled Correlation Analysis as a starter - see how well my assets are correlated and maybe I could correlate the portfolio with my index? Can you corr equity portfolio with an Index? Maybe do it for the past 10 years weekly and see how it did during 2008 crisis and if Corr dropped after?
+
+I would appreciate if you can guide me with some questions that I can use to find the answers to in my equity portfolio? Essentially, what would someone be interested in when applying data science/statistical analysis when looking at a equity portfolio? Like Corr will help with how independent your assets are - implying diversification? 
+
+Again many thanks

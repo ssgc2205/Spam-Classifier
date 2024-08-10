@@ -1,0 +1,13 @@
+I'm making a model that checks for correlation between a user inputted dataset, and many many other datasets, it keeps the most correlated datasets for use in another model (CausalImpact).
+
+The idea is for this to be automated, so it will cycle through a load of stock price datasets, keeping the ones that are most to correlated to the dataset the user is interested in. But I'm also looking for a ton more, this is my first data science/software dev project so not sure where to look, they ideally need to be have one data point per day but this is not strict, some ideas are as follows:  
+
+
+Weather   
+Temperature   
+Rainfall  
+Bitcoin fear/greed index   
+Country spending  
+
+
+Its fine for them to be totally unrelated as their correlation will fluctuate each time the tool is used. 1) Can anyone help me think of ideas? 2) does anyone know of any APIs that can pull the data in?

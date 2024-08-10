@@ -1,0 +1,5 @@
+I am looking for an Android app to log my location and allow me to export them in csv (or similar flat file formats).
+
+I travel a lot and thought it'd be cool to tinker with the data.
+
+Ideas?

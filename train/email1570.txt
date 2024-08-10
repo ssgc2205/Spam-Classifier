@@ -1,0 +1,1 @@
+I am looking for a dataset that has mapping from job titles to skill keywords required for the job. I have already explored ONET so, looking for something else.

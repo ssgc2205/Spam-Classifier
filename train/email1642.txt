@@ -1,0 +1,3 @@
+I would like to create a model that detects if too many people have gathered. I am looking forward to create a classification model.  Is there any dataset for this purpose, and suggest if there are any better ways to do this other than classification
+
+I need to run this model on CPU.

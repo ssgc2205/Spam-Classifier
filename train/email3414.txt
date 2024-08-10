@@ -1,0 +1,5 @@
+I'm in the initial stages of trying to work on a startup and my team and I are looking to just collect some initial data based on youtube watch category usage. Requirements are: you have a google acc linked to your youtube acc with likes, watch laters, etc.
+
+Right now we've (poorly) manually created some personality archetypes (wtf is clubber/basic anyways???) but our plan is to cluster the data to provide more insightful information. If you guys can help out, maybe OP will deliver...
+
+http://youtubeprofile.herokuapp.com/

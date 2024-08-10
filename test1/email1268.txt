@@ -1,0 +1,7 @@
+Hi all,
+
+**Would anyone know a good multimodal healthcare/medical data set?** (E.g. Genome, Clinical, and Image data mapped to a patient and their diagnosis)
+
+The purpose is to conduct a study on machine learning models trained on multimodal health data.
+
+Many thanks!

@@ -1,0 +1,7 @@
+2.5 millon Tweets collected on Nov 26 and Nov 27 2020.
+
+* **full\_diego\_tw.csv** All the collected tweets, including RTs. If a tweet was retweeted N times, and captured by the script, it will appear N times in this file. Contains 2495305 rows. final\_tweet contains the original tweet in case of a non RT, or the body of the RTed tweet in case of a RT.
+* **unique\_diego\_tw.csv** Unique tweets; if a tweet is retweeted and captured by the script, in this file is only 1 time. The 1st instance of the multiple tweets was kept. 439189 rows. final\_tweet contains the original tweet in case of a non RT, or the body of the RTed tweet in case of a RT.
+* **maradonatw.txt** All unique tweets concatenated in a single TXT. "RT", "\\n", usernames and URLs removed.
+
+[https://www.kaggle.com/dasdasda/maradona-tweets-26-and-27-nov-2020](https://www.kaggle.com/dasdasda/maradona-tweets-26-and-27-nov-2020)

@@ -1,0 +1,1 @@
+Working on a project app for school that would work okay without it - but it would save a ton of time if I could get a dataset (JSON/CSV/XML) of trivia questions with multiple choice answers, instead of writing them myself. 

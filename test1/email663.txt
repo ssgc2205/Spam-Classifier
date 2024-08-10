@@ -1,0 +1,7 @@
+Hello all.
+
+I am looking for labeled binary data with high class imbalance.
+
+The main field I am interested is on predictive maintenance (manufacturing), but will take on anything.
+
+Missing Values are welcome. 

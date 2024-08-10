@@ -1,0 +1,3 @@
+Out of curiosity a friend of mine and I are trying to find out what the average cup size of european countries would be if we were to scale it with respect to BMI. We already found the BMI data from the WHO, but the breast size/volume seems to be harder to obtain. Any ideas?
+
+EDIT: Just to be clear I've found a few bits of data from the first hits from google, but without any clear sources or details.

@@ -1,0 +1,1 @@
+I'm looking to improve my vocabulary.  I'd also like to improve my programming skills, so I plan on creating an app presentins either the word or the definition.  If it presents the definition, the I'd like to display 4 possible answers (so synonyms, antonyms, etc. would be nice).  Thanks!

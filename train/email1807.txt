@@ -1,0 +1,7 @@
+Every so often we hear about a large set of passwords being hacked and that there exist lists of passwords that have been leaked over the years.  These lists are in fact used by many cracking programs first before resorting to brute force methods.
+
+I have found one such list in the past and used it to see whether any of my *supposedly* `hard` passwords were present.  I can not find this type of information anymore.  I want to do an analysis of the characteristics of passwords in general, but I need this type of list - __the newer and more complete the better__.
+
+Can anyone point me in the right direction?
+
+Thanks

@@ -1,0 +1,9 @@
+I am asking to get a count of people with the below conditions:
+
+By Assembly Districts with any portion in Orange County
+
+By State Senate Districts with any portion in Orange County
+
+&amp;#x200B;
+
+I have County Name and all basic address data.  Any ideas?

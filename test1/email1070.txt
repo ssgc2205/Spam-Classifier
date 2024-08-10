@@ -1,0 +1,4 @@
+Anyone got a good dataset to generate predictions using customer lifetime value models? 
+
+Specifically looking for something that is attribute heavy, contains mainly numeric/quantitative data and the more records the better! 
+

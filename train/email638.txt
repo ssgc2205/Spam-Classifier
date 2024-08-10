@@ -1,0 +1,7 @@
+Hi everyone, 
+
+Im not sure if this is the right place, but Im look for any data containing predictions that people have made about the outcomes of an event, and whether the outcome occurred. 
+
+Ideally the data would be organized so that it is possible to evaluate an individual participant's prediction accuracy. 
+
+Let me know if you can help, or if theres anything I can clarify about the data Im looking for. 

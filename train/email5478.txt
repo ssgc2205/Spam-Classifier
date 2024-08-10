@@ -1,0 +1,2 @@
+I am looking at the Wikileaks publication of 9/11 pager messages. These were allegedly captured by the NSA. The dataset encompasses a 24h period around the attacks of 9/11 2001.
+Some online sources point to 570 thousand messages but I only count 448358 lines.

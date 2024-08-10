@@ -1,0 +1,5 @@
+Hey everyone. I'm looking for stats to make some current numbers much more interesting by comparing them to other more understandable ones.
+
+For example, "this project saved US$3.6bn, that's the equivalent of the GDP of X county, or half of Y country's health budget, or the annual entertainment budget of Z company" etc. Basically, is there a cool place where we can put in a number and a bunch of different stats come up to help provide comparisons?
+
+Ta muchly for any assistance!

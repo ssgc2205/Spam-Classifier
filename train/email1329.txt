@@ -1,0 +1,8 @@
+Hello guys,
+
+For my bachelors thesis I am searching for a Dataset that scraped Comments, Dates and Votes from /r/wallstreetbets and other similar subs.   
+I am trying to do a sentiment analysis and the usage of certain emojis over time, and then overlay this with the stock chart to find correlations. 
+
+Setting up a crawler on my own would be the other option but I am quite certain that the data has already been pulled by someone so if you know where I can find it, it would be super graceful to get your help! :) 
+
+Thanks a lot

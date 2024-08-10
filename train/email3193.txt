@@ -1,0 +1,6 @@
+I'm developing a free app, currently with no ads, and I need some way to monetize it.
+I thought about selling datasets of anonymous usage statistics (assuming its user base will grow), are there companies who wish to buy such datasets usually ? how much is it worth ?
+
+(Without getting into too much details, the app allows people to listen to new music)
+
+Thanks everyone for your help

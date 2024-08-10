@@ -1,0 +1,11 @@
+Hi,
+
+I am working on a project for which I would need a richly featured product dataset. Would it be possible to download the catalog of Amazon or Walmart for example? Including the pictures, product description, category and dimensions meta-data etc.
+
+&amp;#x200B;
+
+The closest I've found is the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_products_dataset.csv) on kaggle.
+
+While there is weight and dimension information, the dataset seems to be more concerned with the product mix at an order level.
+
+Specifically, the product description and photo is missing from the product dataset which is what I am interested in. 

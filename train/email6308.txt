@@ -1,0 +1,3 @@
+I am looking for data that would be similar to the County Business Patterns data, but for NAICS 111 and 112 (Crop and Animal Production). The [QCEW data](http://www.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=1&amp;year=2015&amp;qtr=3&amp;own=5&amp;ind=111&amp;supp=0) suppresses too many counties, and doesn't have a flag for the range of suppression like the CBP data does. 
+
+Anyone have any suggestions?

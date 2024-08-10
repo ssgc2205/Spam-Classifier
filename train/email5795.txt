@@ -1,0 +1,3 @@
+Hi, are there any sea shanty lyrics datasets? To be used for sentiment analysis
+
+TIA

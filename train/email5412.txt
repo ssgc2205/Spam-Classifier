@@ -1,0 +1,5 @@
+So Baseball Reference doesn't have start times, and I can't seem to find them for past seasons, even (strangely) by googling individual teams to find something to scrape.  
+
+This website (http://mlb.mlb.com/schedule/downloadable.jsp?c_id=nyy&amp;year=2015) is exactly what I would want, but even changing the year doesn't net me the right .csv file...
+
+Any advice or ideas on how to get game start times for even recent seasons (2013-2014) would be much appreciated!  Don't even have to be actual start times that account for rain delays and reschedules, but even just a TV schedule from 2013-14 for teams (especially the NY teams) would be ideal!

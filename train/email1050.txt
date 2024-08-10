@@ -1,0 +1,7 @@
+Does anyone know of an English language dictionary dataset where words are assigned category labels?
+
+Specifically, e.g., it would be great if "running" and "walking" were labelled as "action" or "action verb", whereas, "talking" and "shouting" were labelled as "communication" or "communication verb".
+
+Thanks!
+
+Charles

@@ -1,0 +1,5 @@
+Hi all, 
+
+Looking to find some datasets that include detailed shipping vessel information (stuff like journey lengths and destinations, cargo carried, port calls etc) that is open source. Currently looking at the IMO4th GHG report but all the data is for average vessels, and there's nothing specific. 
+
+Thanks :)

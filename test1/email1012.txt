@@ -1,0 +1,3 @@
+I'm working on a competitive project, about Rice diseases detector by using images. I have checked through popular dataset  like Plantvillage, Imagenet,... and I couldn't find any image about rice and its diseases.
+
+It's there any place I can find the dataset? Thank you.

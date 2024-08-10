@@ -1,0 +1,3 @@
+Title says it all. I am doing some research into how the human pose changes when a person is concealing a firearm. So, I am preferably looking for a dataset of people concealing their firearms. I need a full-body photo or video footage of this. Because I'm using pre-trained pose detection, I don't really need any specific labelling, preferably just something to say whether they are carrying or not.
+
+Thanks in advance!

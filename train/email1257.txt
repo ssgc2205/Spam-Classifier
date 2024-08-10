@@ -1,0 +1,1 @@
+Essentially, my project aims to compare the frontal-views of parents and their children, but if anyone knows a dataset of 3D scans of faces, that would also be much appreciated.

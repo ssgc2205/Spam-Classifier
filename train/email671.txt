@@ -1,0 +1,5 @@
+I’m having trouble finding historical weather forecast data. Most sites I find provide daily and hourly forecasting but going backwards in time only observational. 
+
+I’d really like to get a hold of some historical forecasts for the last month for research purposes.
+
+I’m currently specifically interested in data for Australia.

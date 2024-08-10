@@ -1,0 +1,32 @@
+From the [FAQ](http://openflights.org/faq): 
+
+**What is OpenFlights?**
+
+In a nutshell, it's a tool that lets you map your flights around the world, search and filter them in all sorts of interesting ways, calculate statistics automatically, and share the resulting maps with friends and the world. You can also check airport route maps for nearly every airport in the world and find out what airlines fly where.
+
+**What can I do with OpenFlights?**
+
+Quite a few things:
+
+* Track exactly how far you've flown and how much time you've spent sitting on a plane. (Quite a few of our members have been to the Moon and back, but nobody has yet reached Mars.)
+* See at a glance where you've been and where you're going.
+Rapidly search your flight history: now when did I go to the Bahamas, and on what airline?
+* Share your flights and trips with friends.
+* Check where you can fly to from any airport, or any pair of airports. 
+* Check where you can fly to with any airline. 
+* Coordinate flights for conferences and other events.
+* View your flights in gorgeous 3D with Google Earth and other visualization apps. (Learn more)
+
+**Why is OpenFlights better than other similar services?**
+
+Well, as far as we know there actually isn't anything quite like OpenFlights out there, but here are some things that separate us from the putative competition:
+
+* OpenFlights has a dynamic map. You can pan, zoom, select, scroll and explore all you like!
+* OpenFlights is user-friendly and efficient. Everything's on the same page!
+* OpenFlights makes searching really easy. Point and click!
+* OpenFlights has a powerful filter. Three clicks, and your map will show only Singapore Airlines flights in business class in 2007.
+* OpenFlights works in realtime. Make any change, and you'll see it right then and there.
+* OpenFlights supports "trips" You can join up any flights together into a trip, which you can then display on its own page and even share with friends.
+* OpenFlights is free in spirit. We don't try to lock you in: it's easy to import your data and export copies for safekeeping.
+* OpenFlights is free software. All our source code is licensed under the GNU Affero General Public License and can be downloaded from GitHub, so you can set up your own copy or just use the bits you like. Airport, airline and route data is freely available as well.
+* OpenFlights can be used anywhere. No need to install any programs, synchronize data or take care of backups, just point your browser to the site.

@@ -1,0 +1,5 @@
+Hi everyone,
+
+I am interested to predict the likelihood of criminals becoming recidivist. Is there any dataset available that contains this kind of information?
+
+It would be awesome if you could help me.

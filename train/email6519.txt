@@ -1,0 +1,7 @@
+Hello!
+
+I am looking for a dataset on job interviews. It can be of any medium (e.g. phone, online, face-to-face interviews) as long as its a 1-on-1 interview between the interviewer and the interviewee. If the dataset has two languages in it (i.e. the interviewee speaks bilingually), then it is highly appreciated, although it is optional.
+
+Currently, I am taking an undergraduate thesis and I have emailed some companies and organizations that can provide me with data, but some were not responding and some said that they were not publicly available. 
+
+Thank you and any response is appreciated!

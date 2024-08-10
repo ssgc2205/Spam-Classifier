@@ -1,0 +1,1 @@
+I pulled clinical trial data from the FDA's website, [https://clinicaltrials.gov/](https://clinicaltrials.gov/), but it does not include Investigational New Drug Application (IND) status.  Is there a publicly available database that has this information?  Or is there another to find this out?

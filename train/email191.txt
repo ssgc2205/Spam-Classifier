@@ -1,0 +1,1 @@
+Hi. I want to try building a recommendation engine that would adjust depending on what user likes/dislikes. I'm looking for a dataset similar to reddit posts, but with anonymous info on likes/dislikes, i.e. post xyz was liked by userhash123, userhash999, etc. Does such a thing exist?

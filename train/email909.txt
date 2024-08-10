@@ -1,0 +1,1 @@
+Since IMDb doesn't allow scraping, does anyone know where to get a list of movie titles from the last 5-10 years? The plan is to use it in the OMDb API to search for more info.

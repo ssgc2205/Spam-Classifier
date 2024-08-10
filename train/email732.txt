@@ -1,0 +1,1 @@
+Looking for a database with characteristics of many different animals, for example: typical lifespan, adult size, # of offspring, mating age, etc.  It would be nice to have common name (e.g. Yellow-spotted river turtle) in addition to species/taxon (e.g. 	Podocnemis unifilis).

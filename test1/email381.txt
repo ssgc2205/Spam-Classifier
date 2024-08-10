@@ -1,0 +1,5 @@
+Batting and bowling statistics of IPL from 2008 to 2020.
+
+Curated IPL statistics dataset from it's website.
+
+[https://www.kaggle.com/kanishk307/ipl-indian-premier-league-all-time-statistics](https://www.kaggle.com/kanishk307/ipl-indian-premier-league-all-time-statistics)

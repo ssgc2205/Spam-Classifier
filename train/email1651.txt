@@ -1,0 +1,3 @@
+I am going to make an interactive dashboard that analyses Bitcoin and Ether mining energy usage and compares that to various other energy consumption eg. Traditional finance, Eth PoS mining, by Country energy consumption and perhaps some other small and large energy consumptions.
+
+Suggestions welcome!

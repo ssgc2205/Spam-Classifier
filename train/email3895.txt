@@ -1,0 +1,3 @@
+Looking for a standard dataset with 2016 House election results. OK if it's just for 2 largest vote getters.
+
+Not able to find something right now, other than having to write a web scraper (which I'm not good at) for here: http://library.cqpress.com/elections/search.php

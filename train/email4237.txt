@@ -1,0 +1,1 @@
+Hi guys, As the title says, do you have any tips on where to get interesting data sets to analyse with Excel/SQL. Preferably this data will be raw since part of the exercise is to clean it / standardize it, and finally produce some insightful data visualization. Let me know!

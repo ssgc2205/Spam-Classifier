@@ -1,0 +1,3 @@
+This is the first time I deal with twitter API, and I wonder if I could first filter tweets that got a specific hashtag with high engagement(for example 10k or above), or with users that have many followers, then download the information?
+
+Thank you!

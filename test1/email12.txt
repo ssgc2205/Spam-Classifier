@@ -1,0 +1,2 @@
+Hey guys !
+Require a data set for hand gesture recognition using flex sensors and accelerometer.

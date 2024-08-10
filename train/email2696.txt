@@ -1,0 +1,3 @@
+I've recently started using scrapy and selenium to build my own datasets, but I've been having trouble finding websites that actually report or contain the raw data. Most websites provide just a generalized statistic of the data, which I would rather not use. 
+
+One good website that I found was [https://www.worldometers.info/](https://www.worldometers.info/) but I haven't found any others like it. If anyone knows of good websites I'd greatly appreciate it if you shared them.

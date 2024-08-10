@@ -1,0 +1,1 @@
+Are there any good sources for daily satellite images (preferably with an easy-to-use API)? Quality doesn't matter as much as it being high-frequency.

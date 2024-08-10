@@ -1,0 +1,1 @@
+Looking to see if there is a data set of help desk tickets that someone might have attempted to create a machine learning classifer for.  Attempting to classify tickets based on description of the problem

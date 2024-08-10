@@ -1,0 +1,3 @@
+Hi! I am looking for a dataset containing the capital city per country (worldwide) over a large period of time (i.e. when the capital city was changed, it will be captured by the dataset). The same goes for the largest city per country (by population). In fact, I am trying to create a dummy variable indicating whether the capital city is the largest city, per country.
+
+Any help will be much appreciated. Have a nice weekend!

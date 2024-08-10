@@ -1,0 +1,5 @@
+Does anybody know where I can find US mayoral election results from 1940 to around 2000?
+
+The closest thing I found so far is replication data for [this study](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SJBWC3). For what I could see it has a lot of errors.
+
+Any help is very much appreciated.

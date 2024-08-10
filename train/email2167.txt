@@ -1,0 +1,1 @@
+I'm doing a project where I need to find restaurant groups in the 15 largest cities in the US. Any ideas on how to go about this? Haven't been able to find much other than a few state business registration databases which don't end up being particularly helpful.

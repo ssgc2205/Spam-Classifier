@@ -1,0 +1,5 @@
+Does anyone know where I can find historic data of the daily closing values of the major stock indexes (Nasdaq, Dow, s&amp;p500) as well as the sectors within the s&amp;p500? ETFs would be fine for the sectors. I'm hoping to get at least 20 years worth, and the more the better.
+
+Obviously it would be ideal if it is free but I might be willing to pay a little bit if there is a good API or something.
+
+Any help would be greatly appreciated!

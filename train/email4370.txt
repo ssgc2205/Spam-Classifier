@@ -1,0 +1,1 @@
+I want to use this dataset to create an image recognition model that identifies if a person is wearing a mask or not

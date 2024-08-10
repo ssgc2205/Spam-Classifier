@@ -1,0 +1,2 @@
+Hello,
+Does anyone know how I can build and maintain a database from IMDb's raw files? I tried a couple of modules such as imdbpy but unfortunately, they leave some important details out, specifically number of votes and their breakdown (distribution). Is there any other module I should try?

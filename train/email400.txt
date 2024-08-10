@@ -1,0 +1,7 @@
+Hey fellow Redditors,
+
+I am looking for a dataset which has music files availaible in mp3/wav/ogg or anyother audio format. It would be plus if that dataset has only the music sounds and not the lyrics stuff.
+
+So far I was able to find only  [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma) dataset like that. 
+
+Thank You in advance

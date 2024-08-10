@@ -1,0 +1,7 @@
+Hello. I am doing a university project in data visualisation that tries to look into what influences countries responses to Coronavirus.
+
+Worldbank.org has been a goldmine for quantitative data of any kind, but it doesn't seem to contain any categorical data such as "government type" (autocracy, theocracy, democracy, etc.), type of healthcare system (single payer VS private insurance VS None etc.), where they are on the liberal/conservative spectrum (that would only apply for democracies), etc.
+
+Since we're interested in the status at the start of the outbreak, it needs to be very recent data. Do you know what the best source for this would be? 
+
+Many thanks!

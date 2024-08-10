@@ -1,0 +1,2 @@
+Hello,
+I'm looking for a sample dataset which I could use to test a mainframe supply chain analytics platform.  This wouldn't do anything too complex but I need a dataset which has inventory levels, a product master, bill of materials, and demand.

@@ -1,0 +1,1 @@
+Hello everyone. I'm working on a project but I'm having trouble at training model due to the lack of dataset. I try looking through many sites but they either contain mixed-up data or don't have what I need. If someone has worked through this in the past, I would very much appreciate your help. I promise I will only use this for study purposes.

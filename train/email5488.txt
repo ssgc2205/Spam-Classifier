@@ -1,0 +1,3 @@
+Hi all, hope this is okay to post here. As a final project for my regression course my group and I need to find a dataset online (multivariate) and use it to formulate and answer a research question.
+
+One or more of the following features must be present in the dataset: correlated predictors, categorical predictors, interaction effects, non-linear relationships. Any suggestions of potential datasets are helpful, thank you. 

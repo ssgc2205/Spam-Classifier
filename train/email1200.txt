@@ -1,0 +1,7 @@
+Hi,  
+
+
+Is there any datasets about computer error messages? I'm doing some funny project about ML. This idea come to my mind, but I couldn't find a suitable datasets.  
+
+
+thanks.

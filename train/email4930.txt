@@ -1,0 +1,1 @@
+Should contain the following attributes- incoming, outgoing calls(local and non local), internet usage etc 

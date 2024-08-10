@@ -1,0 +1,6 @@
+Hello, 
+ I am trying to calculate the distribution of cryptopunks by attributes. To start I am looking for a dataset with ALL 10,000 cryptopunks by id, type and attributes.  Any help and tips &amp; tricks more than welcome. Cheers. Prost.    
+
+PS: If anything is found I will share the dataset at the [cryptopunks, the shell edition project](https://github.com/rubycoco/blockchain/tree/master/cryptopunks) - for all.
+
+PPS: Searching the internet  the best I found so far are some cryptopunks.json datasets  (unfortunately, the start with 1 missing the first punk 0 and stop at 8999, thus, missing about a thousand; also it looks like the "gender" is male / female binary and missing aliens and such).

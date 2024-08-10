@@ -1,0 +1,5 @@
+Merry christmas everybody!
+
+I am wondering if there is a labelled dataset with images of skin lesions and moles, benign and malignant, which is also commercially available? HAM10000 etc. are only for non-commercial use as far as I can tell. 
+
+Maybe there is a data provider that sells such a dataset? Unfortunately I haven't been very successful with my search.

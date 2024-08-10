@@ -1,0 +1,6 @@
+For example to any questions that require a yes/no answer.  
+Example: Would you like to subscribe to cat facts?  
+Then data with responses like:  
+"Yes"  
+"No"  
+"I LOVE CATS YAAAAAS"

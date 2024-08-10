@@ -1,0 +1,8 @@
+I have gathered the title, post body, and flair of 965 posts to /r/datasets. It's in a JSON array of objects with 'flair', 'title', and 'body' elements. You can find the data [here](https://raw.githubusercontent.com/tornato7/reddit-flairer/master/classify/example_data/r_datasets_flair.json).
+
+This is part of a project of mine to make a program that will automatically flair posts for subreddits. I may try to implement it into this subreddit when it reaches a workable stage (and if my fellow mods agree to it). 
+
+But you should also be able to use this data to train a classifier that predicts what we'll flair a post! And if you have something cool feel free to post your code here or make a pull request.
+
+[Here's](https://github.com/tornato7/reddit-flairer/blob/master/classify/text_classifier_2.py) an example python / sklearn program  to get started classifying the data.
+

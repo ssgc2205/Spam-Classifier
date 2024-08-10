@@ -1,0 +1,13 @@
+Hi,
+
+&amp;#x200B;
+
+I've been working on a machine learning side project amidst the quarantine, and for that, I have scraped around the 1000 top posts from the top 50 most subscribed subreddits, and saved 100 comments of each into a data set.
+
+I ended up going with different data for my project, but decided that I might as well share it.
+
+[You can find the dataset here](https://github.com/CrakenHUN/RedditCommentsDataset)
+
+&amp;#x200B;
+
+[And in case you want to toy around with the scraper scripts I used to gather the comments, here they are](https://github.com/CrakenHUN/RedditScraperScripts)  (this includes two scripts, one optimized to save comments from one subreddit in a really user friendly way, and one of them to do so for a list of subreddits. All necessary data for setting them up is included in the repository)

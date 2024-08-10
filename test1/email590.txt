@@ -1,0 +1,2 @@
+Hi!
+Im going to work some statistical magic on refined oil prices. Does anybody know where I can find the data in a manageable format? Preferred frequency would be day to day and preferred time period would be over the past 10 years.

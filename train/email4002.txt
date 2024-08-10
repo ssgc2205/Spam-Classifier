@@ -1,0 +1,15 @@
+Just created an API that allows you to find how many pornstars are in each country and how many pornstars per million inhabitants the country has.
+
+Endpoints:
+
+- https://api.pornstars-per-capita.com - brief documentation of endpoints
+- https://api.pornstars-per-capita.com/countries - list of all countries with population, pornstar count and pornstars per million, can be filtered and sorted
+- https://api.pornstars-per-capita.com/countries/{countryName} - data for only one country, the data are the same is in `/countries` endpoint
+- https://api.pornstars-per-capita.com/countries/links - list of all countries with links to the detail endpoint
+- https://api.pornstars-per-capita.com/regions - list of regions (Europe, Asia etc.) with population, pornstar count and pornstars per million
+- https://api.pornstars-per-capita.com/sources - describes sources used for the data
+
+Notes:
+
+- there are no official pornstar registries so the data will never be exact, if you know better sources I would welcome your comments
+- pretty much the same is true for population data, it's always an approximation, again if you know better sources, let me know

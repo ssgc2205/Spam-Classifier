@@ -1,0 +1,7 @@
+Hello,  
+
+
+I am looking for railway track datasets to identify different parts of the track and see if they need maintenance. [Example ProRail dataset with fasteners](https://www.kaggle.com/oscarvanhees/finding-railway-fasteners-in-image-data-prorail) \- in the example dataset you can use object detection to find fasteners and then identify rust or other maintenance challenges from these images. I was wondering if you knew any such datasets outside of kaggle?   
+
+
+I have found there are a lot of train accident / maintenance incident datasets but not many image datasets around this domain.

@@ -1,0 +1,5 @@
+Are there any large datasets (&gt;1000 records preferred, at least 300-500) that contain data regarding microbiome, diet, and health covariates with some mild granularity and broad focus? I know there are some smaller disease-specific datasets, but I want a dataset with individual-level data that samples a fairly general population, collects some relevant measures of diet, gets microbiome data (rRNA seq, WGS, whatever), and collects major medical history (e.g. current or lifetime presence/absence of CVD, diabetes, cancer, etc).
+
+Does anything like this exist? Public definitely preferred but if you're aware of any projects like this in general I'd be interested. I've done a bit of digging but it seems most public lists of datasets were derived from studies with more narrow focus.
+
+EDIT: Honestly, any dataset with all three sorts of data (health/demo, diet, microbiome data) is cool. The above are just my preferences.

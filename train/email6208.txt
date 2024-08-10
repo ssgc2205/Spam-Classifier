@@ -1,0 +1,2 @@
+I have scraped content from a popular blogging website and was thinking of open sourcing it on Kaggle. Is it ethical to do so? I have used only public data and nothing which required authentication. Just want to know if I could be sued by the company.
+Thanks

@@ -1,0 +1,9 @@
+Hi Reddit,
+
+I am looking for **demographic data on different countries in Europe**. I am now mainly focusing in **income by postal code**. I  am not really finding anything on most *National Statistical Insitutes*, either these do not provide the data, (not so granular or not available at all). I also saw some visualizations on [OCDE](https://data.oecd.org) for all countries, but no data provided (or not found). I have nevertheless found some companies that provide this data like INFAS360 in Germany (obviously not for free).
+
+**So my questions are:**
+
+\- Where can I get data for income by postal code in European countries, if available through free sources?
+
+\- Which are the best companies to address as an alternative to free sources? (One company for all Europe better than separate companies for each data set...)

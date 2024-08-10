@@ -1,0 +1,29 @@
+**Update**
+-----
+
+I built [Melanjj](http://melanjj-prod.appspot.com/), a tool to query the million song dataset and download the results as CSVs. I would love to get your feedback!
+
+The project is still in development. You may experience issues downloading large files (&gt; 10 GB). If you have any issues, [let me know](https://discordapp.com/invite/XQ9Rfpq) and I'll fix them and/or give you the data you want on DropBox.
+
+Cheers.
+
+-----
+
+For a friend, and as personal project, I'm going to be hosting the Million Song Dataset and making it freely, publically accessible via a query API.
+
+Anyone would be able to grab the entire dataset as a csv with a single API call. You'd also be able to ask for only certain columns, limit the number of rows, and do some basic filtering.
+
+An example query:
+
+	{
+		dataset: "million-song-dataset",
+		columns: [
+			"song id",
+			"artist id",
+			"duration"
+		],
+		where: "duration &lt; 180",
+		limit: 100
+	}
+
+Is this interesting to anyone? If so, I can build it out a bit more and host a few more datasets as well. Let me know.

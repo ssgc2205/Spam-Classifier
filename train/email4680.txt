@@ -1,0 +1,7 @@
+Greetings,
+
+I am trying to use the dataset below for a course project, but they do not mention the type of wave frequency in the dataset:
+
+[https://physionet.org/content/auditory-eeg/1.0.0/](https://physionet.org/content/auditory-eeg/1.0.0/)
+
+They do mention that they are using " 1st order 1-40 Hz Butterworth filter and a 50 Hz notch filter with a quality factor of 30 ," but I am not sure if that means anything in terms of brainwave type. Can someone help me out?

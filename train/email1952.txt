@@ -1,0 +1,29 @@
+Hello everyone, I am a university researcher with background in cognitive science working on semantic distance between words.
+
+I come to you after having spent multiple days trying to figure out how to use the Common Crawl database implemented through word2vec using Gensim. I have basic familiarity with computers and java programming but I have never used GitHub or tools like word2vec, which takes a database of text (such as googleNews, or Wikipedia, or CommonCrawl which is GB of text data from the internet) and can give you the cosine semantic distance between 2 words.
+
+For example "man" and "woman" might have a coefficient of 0.8 but "water" and "jealousy" might have a coefficient of 0.15 because they are rarely used in the same context.
+
+Has anyone successfully used word2vec on their Mac? I cannot for the life of me figure out how to make it work. From what I understand these are the steps I need to take, some of which I already have:
+
+1. Install Python
+
+This I did
+
+2) Install Pip
+
+This I did by running the following in my terminal:
+
+$ Sudo easy\_install pip
+
+$ python -m pip install --upgrade pip setup tools wheel
+
+3) Install Gensim
+
+This I did by running the following in my terminal:
+
+$ pip install --upgrade gensim
+
+4) Install Word2vec and train it on Common Crawl as its corpus
+
+Cant figure it out!!

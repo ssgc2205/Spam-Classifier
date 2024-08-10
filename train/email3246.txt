@@ -1,0 +1,1 @@
+Hello! I was looking for point clouds datasets of rooms. I looked at NYU Depth V2 and V1 and they were basically the dataset I needed, but they are in depth map format, and I was wondering if anyone knows of a similar dataset but in point cloud format.

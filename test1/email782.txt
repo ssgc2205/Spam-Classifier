@@ -1,0 +1,4 @@
+Hi,  
+I was looking for face recognition datasets. The VGGFace2 dataset was supposed to be one of the largest publicly available ones, with many sota methods being trained on it. It's home website however:  
+[http://zeus.robots.ox.ac.uk/vgg\_face2/](http://zeus.robots.ox.ac.uk/vgg_face2/)  
+has not been reachable for a few months now. Does anyone know what happened and whether or not it is possible to obtain this dataset from anywhere else?

@@ -1,0 +1,1 @@
+I wanted it to implement simple search algorithms on it.

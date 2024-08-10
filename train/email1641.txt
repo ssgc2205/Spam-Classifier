@@ -1,0 +1,10 @@
+I have created a torrent for the Reddit comment dataset (based on the downloads /u/Stuck_In_the_Matrix has made available at http://files.pushshift.io/comments/ ). This includes the files from 2007-10 to 2016-04.
+
+http://images.schedim.de/reddit-2016.torrent
+
+magnet:?xt=urn:btih:UGFLA4QNEXGEFKYYY5ZU37JIHWEEYY5R&amp;dn=reddit_data&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&amp;tr=udp%3a%2f%2fopen.demonii.com%3a1337&amp;tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&amp;tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969
+
+Hope this works as intended.
+
+Note: I found that one of the files was corrupted, either during original download or re-upload. You can download it directly here:
+http://images.schedim.de/RC_2015-10.bz2 

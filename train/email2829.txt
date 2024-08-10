@@ -1,0 +1,1 @@
+Does anybody here know any benchmark or good dataset for moire effect detection in images?

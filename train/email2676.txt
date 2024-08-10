@@ -1,0 +1,21 @@
+So I am currently gathering information in a spreadsheet, which has a bunch of columns of data, and I was considering making a project out of it and creating a database app that has a frontend that makes it easier and simpler (and prettier) to actually enter the data. Are there any easy (no complex coding skills required) solutions for this? 
+
+In case it helps answer the question, the data is from a game. Smash Bros. Three players in every match (the same three players). The data gathered is (for each player)- 
+
+ \- Character selected
+
+ \- Rank
+
+ \- Kills (including WHO they killed)
+
+ \- Damage Given
+
+ \- and then total kills and stats like deaths, averages, K/D ratio etc is calculated and displayed as running totals automatically via equations. 
+
+&amp;#x200B;
+
+At the moment, the kills are displayed in a slightly odd way. Basically, the players initials are N, D and J. So the 'kills' are shown as something like "J2D1" if the N player killed J twice and D once. In the final app I would hope for the 'enter kills' screen to automatically show two icons (J and D for N, N and J for D, etc) that can be tapped the required number of times to quickly enter the data. If this is possible. 
+
+So yeh, this is a slightly odd one maybe. It's totally unnecessary, as I can continue to do it using the spreadsheet, but as I say I figure it'd make a cool design project for my design portfolio. My programming skills are rudimentary though, so I'd rather use something that doesn't require too much advanced programming skills... 
+
+Any thoughts?

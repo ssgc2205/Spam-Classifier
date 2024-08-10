@@ -1,0 +1,5 @@
+I don't suppose anyone knows about where I could find such information?
+
+Otherwise, is there some place that contains stats on open source projects in general.
+
+Does github or stack overflow have information about that?

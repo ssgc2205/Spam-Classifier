@@ -1,0 +1,1 @@
+I'm looking for a dataset of homicide convictions with the person's name and face and year of conviction. Does anyone know if there's a state or project that makes this available somehow?

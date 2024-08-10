@@ -1,0 +1,1 @@
+Like title says, looking for a dataset of guitar music in midi format for generative model

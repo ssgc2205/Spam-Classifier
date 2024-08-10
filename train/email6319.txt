@@ -1,0 +1,3 @@
+[https://github.com/placemarkt/wiki\_coordinates](https://github.com/placemarkt/wiki_coordinates)
+
+I shared this a couple months ago, but recently discovered a bug that was leaving a bunch of locations out. This current version has 1,175,381 coordinates. I've also added short descriptions for articles (where possible).

@@ -1,0 +1,1 @@
+Can I get and build connections with real time (15 min delay) market/stock price data in python or R with existing libraries?

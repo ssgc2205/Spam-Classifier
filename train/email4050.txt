@@ -1,0 +1,9 @@
+I'm looking for data on total dogs in service per year, ideally broken down by breed.
+
+No real purpose, I'm just curious, so don't strain yourself looking.
+
+EG:
+
+||Yellow Lab|Chocolate Lab|German Shepherd|
+|:-|:-|:-|:-|
+|2020|2000|1500|1000|

@@ -1,0 +1,15 @@
+Does anyone know of book checkout data of libraries or purchase data of book stores that is (freely) available?
+
+The data should have a connection between patron/customer and book.
+
+So the only things I'd need would be: Patron/Customer identifier, ISBN(, date of purchase/checkout)
+
+I want to try to build a book recommendation service. Once it's running, the plan is that it will generate its own data. But I would need some data to start with.
+
+How would you go about this, if there is no publicly available data? I already searched Kaggle and Google Dataset Search but to no avail. I only found either patrons with only numbers of checkouts or books with numbers of checkouts, but no relation between the two.
+
+&amp;#x200B;
+
+Data in German or English would be fine.
+
+All help would be much appreciated.

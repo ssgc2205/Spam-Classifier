@@ -1,0 +1,7 @@
+I have been working on this project for a few months now where I have merged coronavirus data of the world from various datasets. The problem is that my [source](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv) of \`total\_recovered\` feature has [stopped reporting](https://github.com/CSSEGISandData/COVID-19/issues/3464) recoveries for US since December.
+
+This makes my graph look like this.
+
+[New recoveries for World](https://preview.redd.it/ks97i9kba3y61.png?width=1231&amp;format=png&amp;auto=webp&amp;s=0f76981201cb387e05b65be869465195429adeeb)
+
+I have been unable to find the data from any other source. Is my best bet now to just discard this feature now?

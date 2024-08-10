@@ -1,0 +1,3 @@
+Hello guys, I am doing a project for university about health issues and I need not aggregate data-sets about mental health, alcohol consumprion and healthy lifestyle.
+
+I searched kaggle, jupiter etc but most of what I found was average consumption by country in cases of alcohol, and I would like to ask your help on where to find them or if you can share a link

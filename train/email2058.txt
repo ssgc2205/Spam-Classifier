@@ -1,0 +1,1 @@
+I do not want to download another program. My computer is gonna explode. Do you is there any way to convert "tar" file format in to csv by using Phyton or R?

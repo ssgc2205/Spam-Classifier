@@ -1,0 +1,1 @@
+I'm looking for something that's relatively standard across all states.  I know I can pull the data from each state individually, but I'd prefer not to have to do that.

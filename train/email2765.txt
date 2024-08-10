@@ -1,0 +1,5 @@
+This page gives information regarding all the schools in India. I am not an expert in Web-Scraping, so I any suggestion/advice will be helpful.
+
+&amp;#x200B;
+
+Here is the link to the page: [https://schoolgis.nic.in/](https://schoolgis.nic.in/)

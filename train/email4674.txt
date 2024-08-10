@@ -1,0 +1,6 @@
+Hi
+I am working on a side project to benchmark apps (Nike app vs Adidas app), website (nike.com vs adidas.com). Things I'm looking to compare - monthly average visitors, app ratings, monthly trends.
+
+Also would love to generate and compare app reviews of such apps. This is more in a qualitative capacity.
+
+Would love to know if there are any free online resources out there to do any of these exercise?

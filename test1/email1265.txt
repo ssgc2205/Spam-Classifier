@@ -1,0 +1,1 @@
+Trying to find a dataset of invoices and a dataset of receipts (images) but I have no luck. Even searching with image search doesn't return enough examples. It seems receipts and invoices are a kind of information that is almost non-existent on the internet except for a few hundred samples. Can you help me find such data?

@@ -1,0 +1,1 @@
+I'm looking for some statistics for the visualization &amp; wonder if there are open datasets that show how many people get a certain disease in a specific country, such as cancer in the US, Germany, China, etc.

@@ -1,0 +1,5 @@
+Dear fellow Redditors!
+
+After hours of battling with dataferrett (I even installed firefox for it) and endless hours of looking for the datasets on census websites, I have decided to turn to you for your help. I am looking for the 2010 census data for the city wards of Chicago. The more characteristics the better. Rent prices are the most important though. I am really sorry for bothering all of you like this but I am truly desperate. I can only navigate in EUROSTAT and Czech statistical office websites. Factfinder is just a mess to me. I need the dataset in a csv or txt file if possible please.
+
+Thank you very much in advance! :)

@@ -1,0 +1,1 @@
+Looking for unemployment data in the US given the current pandemic. I’ve found weekly data by state but was wondering if there was anything more granular, or even just more options/datasets to look at.

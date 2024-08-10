@@ -1,0 +1,7 @@
+As a disclaimer, I am a beginner at working with data. The issue is that most datasets that I have found don't have primary keys and other constraints defined, so they don't seem adequate for practicing SQL joins, etc., without a lot of initial data wrangling/cleaning involved. I would like to find a dataset which is as ready to use as possible so that I can just import it and start practicing.
+
+Any help, or any dataset suggestions, is/are much appreciated!
+
+Note: I am using PostgreSQL.
+
+*(Sidenotes: I'm not sure what to call what it is that I am looking for, which is why I'm having trouble knowing how to proceed. Should I maybe look for datasets with a data dictionary, DDLs, or metadata? Or should I look for "databases" instead of for "datasets"?)*

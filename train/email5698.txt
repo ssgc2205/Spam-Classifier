@@ -1,0 +1,1 @@
+I can only find shape files for individual states. I basically want to show tracts in Tableau for a COVID19 study. Tableau is limited to county level hence why I need a shape file with tracts. TIA!

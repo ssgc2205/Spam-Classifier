@@ -1,0 +1,5 @@
+Hey,
+I have been scouring kaggle, the subreddit, and google to find a dataset about the general population's workout habits and routines over the course of the year. I want to do an analysis to see how many people go for runs on the summer but either go to a local gym in the winter or workout at home (and if they do then what).
+tl;dr: Is there a dataset about NA workout habits throughout the year or even a dataset about population fitness preferences.
+
+Thanks,

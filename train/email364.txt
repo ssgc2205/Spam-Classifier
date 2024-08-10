@@ -1,0 +1,1 @@
+A dataset on data center records (temperature, energy consumption, network traffic, etc.) could be really useful for researchers in the Big Data and Cloud spaces, and for developers writing monitoring tools in these domains.

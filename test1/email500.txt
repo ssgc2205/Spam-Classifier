@@ -1,0 +1,7 @@
+Friends,
+
+Today, we've updated the database with 25 new datasets! Thanks again for contributing: Ayman Alhelbawy!
+
+Will continue to update you as more datasets come in.
+
+Database: [https://quantumstat.com/dataset/dataset.html](https://quantumstat.com/dataset/dataset.html)

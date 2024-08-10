@@ -1,0 +1,3 @@
+Need a dataset of Financials, in particular revenue of public companies across various sectors for the past 20 or so years. This is for a class project. Yahoo Finance and the likes only have recent data. And if there was already compiled data, I would really appreciate it! 
+
+Thanks!

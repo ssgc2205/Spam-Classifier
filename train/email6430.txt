@@ -1,0 +1,5 @@
+I've been trying to find a list of colleges in the US and the associated programs they offer as well as the required courses that a student would need to complete to be eligible for the program. E.g., the kind of data you'd find on pages like this http://catalog.uh.edu/preview_program.php?catoid=14&amp;poid=4321&amp;returnto=3517
+
+Trying to aggregate this data from the school catalogs myself would be a nightmare, and likely take a very long time. What I'm hoping is that there might be a listing somewhere of colleges across the country, the programs they offer, and the required courses for each. 
+
+I think even a directory of catalogs would be a huge step forward so I'd know where to aggregate the data from. Any leads or suggestions for this kind of aggregated data would be incredibly helpful. Thanks in advance!

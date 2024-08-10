@@ -1,0 +1,5 @@
+[https://www.youtube.com/watch?v=lWllJI3XTKE](https://www.youtube.com/watch?v=lWllJI3XTKE)
+
+&amp;#x200B;
+
+I'm currently doing a research project in school lab. I have made the time-lapse video of Toronto traffic in 25 different streets, using the dataset from Open Data in Toronto. Do you have any cool project idea to further use this dataset? Personally, I am very interested in exploring machine learning with this dataset here, but I haven't set any clear idea yet!

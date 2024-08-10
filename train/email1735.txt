@@ -1,0 +1,9 @@
+My group is doing a data mining assignment in which we want to categorize english learning videos based on the words appearing,  assigning them levels of difficulty.
+
+We have found a list of english words organized by level for chinese speakers that are learning Chinese in high school in Taiwan. This list consists of around ~6700 words from level 1 to level 6. 
+
+This quantity is however too small for the words of the videos we are analyzing, getting around only 30% of the words appearing on the videos.
+
+Does anyone know of a bigger dataset for english words organized by level? (containing more words per level or even more levels).
+
+I know there are lists of more common words in English, but we would like something with labels, maybe from some standardized test.

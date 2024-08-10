@@ -1,0 +1,17 @@
+Over the past two years I've built a tool for patients of chronic autoimmune and "invisible" illnesses to track their symptoms, treatments, and disease triggers. It recently launched to the public at www.flaredown.com after a lengthy private beta.
+
+The goal is to use the data the Flaredown gathers to identify patterns and correlations that might help patients of these hard-to-treat illnesses. For example:
+
+- Does X treatment affect Y symptom positively/negatively/not at all?
+
+- Are there subsets within our current diagnoses that could more accurately represent symptoms and predict effective treatments?
+
+- Can we reliably predict what triggers a flare for a given user or all users with a certain condition?
+
+- Could we recommend treatments effectively, based on similarity of users rather than specific symptoms? (like Netflix recommendations for treatments) 
+
+- Can we quantify a patients level of disease activity based on their self-reported symptoms? How different is it from our existing measures?
+
+We're starting to accrue a real body of data by now and I want to share it with data scientists, researchers, or anyone interested in questions like the ones above. To start, I could use advice on how to format the data for this kind of use. But after that I really want to dig in and start analyzing what we've got.
+
+Let me know your thoughts, and if you're interested in helping out!

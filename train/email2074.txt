@@ -1,0 +1,1 @@
+Is there any dataset where we have blocks of text sentences followed whether or not they are grammatically correct? If not, then how can I synthetically form such a dataset with the constraint being that I have a limited amount of grammatical knowledge in this language?

@@ -1,0 +1,5 @@
+[https://deepmind.com/blog/article/Causal\_Bayesian\_Networks](https://deepmind.com/blog/article/Causal_Bayesian_Networks)
+
+&amp;#x200B;
+
+Hi! I was wondering if anyone knows how to animate a DAG diagram used in Bayesian network? This can be seen in the link above!

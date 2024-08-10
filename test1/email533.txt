@@ -1,0 +1,3 @@
+I'm looking for an undergrad research topic (class project) and I've done the Titanic learning problem, so I was considering doing something similar on new data, but I'm having trouble finding data.
+
+Alternative ideas very very welcome as well. 

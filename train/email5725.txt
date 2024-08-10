@@ -1,0 +1,3 @@
+The Spanish Flu pandemic (which started in the US) has three distinct peaks in the data for mortality (March 1918, Sept-Nov 1918 and 1919)
+
+Does anyone know where I can find datasets which underlie those graphs on a country-by-country basis and on a useful timescale (weekly or monthly)?

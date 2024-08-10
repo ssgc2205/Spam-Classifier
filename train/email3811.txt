@@ -1,0 +1,16 @@
+Lately, I got interested in micro expression and decided to research and experiment with various datasets related to micro expression.. Researchers often cite used datasets for comparative analysis. However, I found it difficult to go after cited databases, as I could not find the suitable link by which a database can be downloaded from for training..
+
+After reading this article :  [A Survey of Automatic Facial Micro-Expression Analysis: Databases, Methods, and Challenges](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01128/full) which compiled an interesting table containing various databases used for micro expressions.  
+
+
+I hope someone can help me find the appropriate link with downloadable content for those databases.  
+
+
+**Please Help:**
+
+* SMIC [https://www.oulu.fi/cmvs/node/41319](https://www.oulu.fi/cmvs/node/41319) , however the file is labelled as application/octet-stream and I am not sure how can this file be used..
+* CASME II [http://fu.psych.ac.cn/CASME/casme2-en.php](http://fu.psych.ac.cn/CASME/casme2-en.php) ,  however from my side the website is unreachable or server is not found..
+
+&amp;#x200B;
+
+https://preview.redd.it/9gacs5ckpie51.png?width=1016&amp;format=png&amp;auto=webp&amp;s=63ec0ee17d6b620f47f5c2d3a6db1c1f8674626d

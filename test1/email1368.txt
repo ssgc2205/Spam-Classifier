@@ -1,0 +1,7 @@
+Hello Reddit,
+
+I am looking for a data set consisting of a detailed description of each accident in a given country and time period with respect to the main relevant variables (fatalities, seatbelt/no seatbelt, speed, type of crash, etc). This would be used in a 15-page project for undergraduate econometrics.
+
+Any country/state will do, and any time period will do. The most important thing is that the data set is occurrence by occurrence and details the main variables.
+
+Thank you in advance!

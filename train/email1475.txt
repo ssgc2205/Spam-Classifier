@@ -1,0 +1,1 @@
+Found this [Steam Store Games dataset](https://www.kaggle.com/nikdavis/steam-store-games) when I was looking for data to create [THIS GAME DOES NOT EXIST](https://thisgamedoesnotexist.jsonchin.com/). Thought it was great to work with and contains pretty much any data related to video games you'd need.

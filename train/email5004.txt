@@ -1,0 +1,19 @@
+I've placed all publicly available Reddit submissions into Elasticsearch and the API is fully open to anyone who would like to learn how to use Elasticsearch.
+
+The endpoint for the search API is: 
+
+https://elastic.pushshift.io/reddit/submission/_search/
+
+Front-end examples are available here:
+
+https://elasticsearch.pushshift.io/
+
+**To learn more about the Elasticsearch Search API**
+
+Please visit:  https://www.elastic.co/guide/en/elasticsearch/reference/current/search-search.html
+
+For any examples they use that end in _search, just use the URL above (https://elastic.pushshift.io/reddit/submission/_search/).  
+
+Thanks!
+
+**Edit**  The index ends around late December, but will have everything in the next day or so -- I'm just tweaking the ingest logic now.  Thanks!

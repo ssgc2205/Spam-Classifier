@@ -1,0 +1,5 @@
+I'm searching for datasets for vehicle instance segmentation all datasets that I found is about self-driving and lanes, but I want a dataset to train my model so I can extract the car from the image.
+
+&amp;#x200B;
+
+I don't mind if it's free or paid

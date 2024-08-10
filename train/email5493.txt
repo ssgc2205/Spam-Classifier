@@ -1,0 +1,3 @@
+Forbes’ Global 2000 list has measured the world’s largest public companies in terms of four equally weighted metrics: assets, market value, sales, and profits. This dataset contains the list of global 2000 companies for each year ranging from 2017-2021, which means it includes both pre-pandemic and also during pandemic data.
+
+Here is the dataset - [https://www.kaggle.com/arjunprasadsarkhel/forbes-top-200020172021](https://www.kaggle.com/arjunprasadsarkhel/forbes-top-200020172021)

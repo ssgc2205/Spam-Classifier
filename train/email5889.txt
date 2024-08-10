@@ -1,0 +1,1 @@
+I’m working on some research and need approximately 2TB dataset to manipulate. We have talked about a couple options however we are looking for a cheap solution since the project is so temporary. Are there any publicly available datasets of this size for free and how would you recommend storing the data?

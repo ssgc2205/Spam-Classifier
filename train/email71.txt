@@ -1,0 +1,5 @@
+Hello everyone!  
+I'm looking into building a chatbot in Python that can hold basic conversations e.g: "greetings", "goodbye" etc.  
+I've researched but couldn't find what I was looking for, so any help would be appreciated!!
+
+P/s: data in JSON format would be great!

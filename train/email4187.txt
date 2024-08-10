@@ -1,0 +1,5 @@
+Hi all!
+
+I'm trying to find data from weather stations around the US that provide weather data at the hourly level, not just the daily summary. Hopefully this data includes precipitation, wind speed, and temp, any other data would be great.
+
+I have looked into NOAA's datasets (https://www.ncei.noaa.gov/data/global-hourly/access/2018/) which includes global-hourly access to each station but the data is confusing and the documentation for Integrated Surface Data will take some time to  translate and process. If there are any parser packages for these csv files that someone could point me to, that would greatly appreciated.

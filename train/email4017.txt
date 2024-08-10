@@ -1,0 +1,13 @@
+Hey r/datasets,
+
+It's me again, the CEO of DoltHub. We finished our second hospital price transparency bounty last week. We paid to have an open database built of 100M hospital prices, this time with a little bit more manageable schema. 
+
+Check out the blog post here:
+
+[https://www.dolthub.com/blog/2021-06-02-hospital-price-v2-retrospective/](https://www.dolthub.com/blog/2021-06-02-hospital-price-v2-retrospective/)
+
+And the database here:
+
+[https://www.dolthub.com/repositories/dolthub/hospital-price-transparency-v2](https://www.dolthub.com/repositories/dolthub/hospital-price-transparency-v2)
+
+We're looking for people to use it to tell us how it can be improved.

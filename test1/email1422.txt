@@ -1,0 +1,26 @@
+Some people say I'm crazy. Sometimes they are right.
+
+# My goal is to catalog, parse, and analyze the properties of misinformation campaigns on the internet.
+
+It is very difficult to address a problem if you don't understand the full scope of the issue. I think most people are aware that there is a lot of misinformation out there, but they think that its relegated to the crypts of the internet and they are not effected by it.
+
+It's not. It's EVERYWHERE. And you've touched it.
+
+I don't think blind censorship is the solution. It is a quick fix that just creates a temporary inconvenience, as Parler has showed us, and does nothing to stop the actual campaigns.
+
+I won't lie to you and say *I* have the answer right now. I don't. But I do know where to start, and that's with some good questions:
+
+* How many platforms are actually hosting and distributing this content?
+* What channels are utilized to reach users? How is the content found by users?
+* How much of the content is organic vs manufactured?
+* How many people does this content reach per day?
+
+The answers will shock you! You may literally be electrocuted.
+
+Please check out my post on /r/ParlerWatch/ if you want to contribute or get a list to mine yourself!
+
+[https://www.reddit.com/r/ParlerWatch/comments/l1rh1i/know\_thine\_enemy\_the\_disinformation\_archive\_v2/](https://www.reddit.com/r/ParlerWatch/comments/l1rh1i/know_thine_enemy_the_disinformation_archive_v2/)
+
+I am doing this manually at the moment to get a rough picture of the situation, and could use your help! I need to itemize things like subreddits, facebook groups, twitter tags, news sites, etc, which serve to aggregate and disseminate misinformation content.
+
+Once I analyze enough content, I can make tools to find and scrape more content like it, and catalog the results.

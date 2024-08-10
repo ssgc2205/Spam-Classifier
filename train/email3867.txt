@@ -1,0 +1,1 @@
+Does anyone know of a dataset showing characteristics of candidates to the US House of Representatives (ethnicity, gender, etc.) for recent election years (2014, 2016, 2018, 2020)?

@@ -1,0 +1,6 @@
+
+Hi there,
+
+Is it just me or you realise the fact that WordNet has been pretty static for the last years.  Does anyone know if the project is suspended or not maintained anymore? If so, is there something better out there that I am not aware?
+
+Cheers

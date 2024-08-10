@@ -1,0 +1,3 @@
+I'm looking for daily walking/running data (steps taken per day) for a period of at least 3 months for more than 100 individuals.
+
+Ideally the data would be grouped by either social media site (strava, myfitnesspal, etc) or by nationality or by any means really (demographic). Thanks!

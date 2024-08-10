@@ -1,0 +1,1 @@
+I'm looking about data about the most searched words/terms. Google Trends offers very limited information and would restrict use of bots. Any ideas where this kind of data is available? How would one go about colleting it?

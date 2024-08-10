@@ -1,0 +1,8 @@
+Hi, 
+
+I'm a statistician who would like to access the musicbrainz database (especially all songs from 1964 to 1976) for a personal project, but I'm having really hard time to access the postgresql data in order to SQL querying it.
+I can't access through pgAdmin the virtual server I mounted on my mac with virtualbox, as [advised on their website](https://musicbrainz.org/doc/MusicBrainz_Database/Download). PgAdmin keeps asking postgres user password when I'm trying to connect to the virtual server, which doesn't make sense to me.
+  
+Is there a way to import the [dumps files](http://ftp.musicbrainz.org/pub/musicbrainz/data/fullexport/20161026-001834/) directly in pgAdmin without mounting a virtual server ?
+
+I hope I'm on the wright sub for this question (and that my english is not too bad). 

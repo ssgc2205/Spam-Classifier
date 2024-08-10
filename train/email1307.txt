@@ -1,0 +1,3 @@
+Hi r/datasets
+
+I'm looking for a coronavirus stay at home order schedule (close and open date) per county in the U.S. I've encountered few articles which technically can be scraped but it seems incomplete. I wonder if there's any that's already in a tabular form.

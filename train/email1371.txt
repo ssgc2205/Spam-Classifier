@@ -1,0 +1,10 @@
+They are very big, and the PC hard disk can not really store them all. So you need to add extra disk space to store them and process them.
+
+So here is my question:
+&gt; _Where do you handle these data?_
+
+I am thinking, 
+
+1) On your PC with lots of hard disks, expensive but local
+
+2) On a remote server. It could be an dedicated server or a VPS. But you have to rent their servers. After visualizing data, are you going to shutdown the server, or keep it there?  If you keep it there, they would charge you by month...

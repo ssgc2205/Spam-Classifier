@@ -1,0 +1,9 @@
+Hello fellow Reddit users.
+
+I am currently having an interesting idea for my bachelor's degree final project. I want to conduct sentiment analysis to text in order to detect hate speech (in any form of it) and then continue the analysis with community detection from the background graph structure for the data set.
+
+For example, the data set would need to have tweets for all users individually, and moreover, to have graph information for links between users, for example which users a given user follows (in a given edge list perhaps).
+
+Can anyone suggest a multimodal dataset that can satisfy these requirements?
+
+Thank you in advance.

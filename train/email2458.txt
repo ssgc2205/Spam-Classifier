@@ -1,0 +1,4 @@
+Does anyone know where can I access US Federal Reserve's monthly total assets from before 2002 (preferably from the early 1990's)? I've gone through FRED and FRB, but only found either quarterly (1996-current) and annual (before 1996) data.
+
+
+Also, how about those of Bank of England's? I could only found numbers from 2006.

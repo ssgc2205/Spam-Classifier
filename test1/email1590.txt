@@ -1,0 +1,1 @@
+Hey /r/datasets I just tried posting this in /r/math but they sent me here. So I'm a 3rd year maths student in the UK and I'm writing a project on voting systems. I'm trying to find a free online data set which has preferential rankings, i.e. Voters choices on a set {A,B,C} with 1st, 2nd and 3rd choices marked, which I can perform some analysis on. Any one got any suggestions??

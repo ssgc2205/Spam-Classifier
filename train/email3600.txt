@@ -1,0 +1,3 @@
+I'm trying to do a some research on how Christian churches spend their money, even if in only broad categories. Ideally, the dataset would contain info on pastor salaries, weekly attendance, and congregation size.
+
+I know the SBC releases some very basic info, but it's a relatively small sample size for anywhere that isn't the south.

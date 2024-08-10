@@ -1,0 +1,8 @@
+Here are the data-sets I'm talking about. 
+
+1. [http://rpg.ifi.uzh.ch/uzh-fpv.html](http://rpg.ifi.uzh.ch/uzh-fpv.html)
+2. [http://blackbird-dataset.mit.edu/BlackbirdDatasetData/](http://blackbird-dataset.mit.edu/BlackbirdDatasetData/)
+
+I can't use my laptop cause it's not powerful enough. So I want to use colab. 
+
+I was wondering if I can use kaggle as well for working on my project?

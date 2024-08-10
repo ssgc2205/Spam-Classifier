@@ -1,0 +1,3 @@
+Data contain &gt;1 million of records including personal information and information about the military service. More than half also have photos direct URL.
+
+url - [https://github.com/VladimirGl/eastern-front-dataset](https://github.com/VladimirGl/eastern-front-dataset)

@@ -1,0 +1,9 @@
+Hey! Just for quick background, I am new to this type of data work, but I have a head for it and enough programming experience that I believe I can find a way forward even if I have to learn some new skills.
+
+Anyway, I'm trying to conduct some economic analysis for a region of \~10 counties and am trying to use Bureau of Labor Statistics data, specifically the [Quarterly Census of Employment and Wages](https://data.bls.gov/cew/apps/data_views/data_views.htm) to do it. Theoretically I could pull the data for each county separately and then add it together, but I don't want to have to do that.
+
+So, for one, I can't seem to find their raw data. The ["About" tab](https://data.bls.gov/cew/apps/data_views/data_views.htm#tab=About) from that page links [here](https://www.bls.gov/cew/datatoc.htm) for the Data Files, and that has an error page. So, if anyone knows where I can actually access that raw data, let me know!
+
+Second, I am definitely new to much of this, and while I believe I could piece it together on my own, I welcome any guidance you want to throw my way as I start to dig into this stuff.
+
+Thank you for any help you can offer!

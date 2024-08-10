@@ -1,0 +1,35 @@
+Hi,
+
+The variables below are for the Chinese banks. I want to examine similar variables (especially the NPLs) for the US banks. Does anyone know where I can find this?
+
+    Variable
+    (level)
+    
+    bank_number
+    year
+    npl_by_yuan (million yuan)
+    npl (npl_by_yuan/total loan)
+    npl_sub_by_yuan (million yuan)
+    npl_sub (npl_sub_by_yuan/total loan)
+    npl_doubt_by_yuan (million yuan)
+    npl_doubt (npl_doubt_by_yuan/total loan)
+    npl_loss_by_yuan (millon yuan)
+    npl_loss (npl_loss_by_yuan/total loan)
+    default_expected
+    total asset (million yuan)
+    margin_rate
+    total loan (million yuan)
+    total deposit (million yuan)
+    reserve_by_bank (million yuan)
+    credit_ratio
+    business expenditure (million yuan)
+    business income (million yuan)
+    inefficiency (business expenditure/business income) 
+    total asset of all sample (by year, million yuan)
+    bank_size (bank asset/total asset of all sample)
+    reserve_ratio (by central bank)
+    reserve_ratio_bank (researve_by_bank/total deposit)
+    cpi (increase rate by year)
+    gdp (100 million yuan by province)
+    unemployment (yearly rate by provincial urban sector)
+    housing_price (index by 70 cities, 2005=100)

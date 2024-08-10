@@ -1,0 +1,18 @@
+## A dataset of the entire archive of The Times of India.
+
+The dataset contains images in three formats: 
+
+1. Only Text (CODE : T) 
+2. Only Images (CODE : P) 
+3. Combined (CODE : C)
+
+Files are separated according to their dates and named in the following mannner, 
+**TOIDEL-2018-{MM}-{DD}-{PAGE}-{CODE}.png**
+
+Kaggle
+[TOIDEL JAN 18](https://www.kaggle.com/anudit/toidel-jan-18)
+[TOIDEL FEB 18](https://www.kaggle.com/anudit/toi-del-feb-18)
+
+Archive.org
+[TOIDEL JAN 18](https://archive.org/details/TOIDELJAN18)
+[TOIDEL FEB 18](https://archive.org/details/TOIDELFEB18)

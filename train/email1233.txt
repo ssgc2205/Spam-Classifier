@@ -1,0 +1,3 @@
+Hi, I'm looking for a dataset containing the number of beds within any given PBSA property in the UK. Or ideas on how I might find this.
+
+This may be for a given city (council records?), or some other registry. Alternatively if there is a website or rental listings service that provides such data that would be great. Thanks in advance.

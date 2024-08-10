@@ -1,0 +1,133 @@
+I am trying to drop cases where the comment body text is just "TRUE", but it doesn't get dropped with my current code. I am able to drop cases that say "\[deleted\]" or "\[removed\]", but not "TRUE". Does anyone know what these "TRUE" comment's are? Or why I cannot just drop them? Thanks for any help!! Below is my code!
+
+\---------------------------------------
+
+\#declare where the output directory is
+
+outdir = "C:/Users/jms21/TrackPaper-Reddit/BigQuery"
+
+\#declare where the input directory is
+
+indir = "C:\\\\Users\\\\jms21\\\\TrackPaper-Reddit\\\\BigQuery\\\\Comments"
+
+&amp;#x200B;
+
+\##JOIN ALL CSV FILES INTO ONE SINGLE CSV FILE
+
+&amp;#x200B;
+
+\#Create a function to join all the csv files in a folder into one csv file
+
+&amp;#x200B;
+
+\#Create the function, name the directory where the csv files are, and what the output file is
+
+def join\_csv(indir = "C:\\\\Users\\\\jms21\\\\TrackPaper-Reddit\\\\BigQuery\\\\Comments", outfile = "C:\\\\Users\\\\jms21\\\\TrackPaper-Reddit\\\\BigQuery\\\\Single\_File.csv"):
+
+	
+
+	\#delete 'Single\_File.csv' if it already exists to avoid making more copies
+
+	os.chdir(outdir)
+
+	try:
+
+		os.remove('Single\_File.csv')
+
+	except OSError:
+
+		pass
+
+	\#make sure 'Single\_File.csv' no longer exists
+
+	if os.path.isfile(outfile):
+
+		print ("ERROR: 'Single\_File.csv' still exists.")
+
+	else:
+
+		print ("PROCEED: 'Single\_File.csv' does not exist.")
+
+		
+
+	\#change to the directory where the csv files are
+
+	os.chdir(indir)
+
+	\#put all the csv files into a list of files to put into the joining function
+
+	fileList = glob.glob('\*.csv')
+
+	\#define the total list
+
+	dfList = \[\]
+
+	\#add all the csv files to the total list
+
+	for filename in fileList:
+
+\#		print(filename)
+
+		df = pd.read\_csv(filename)
+
+		print(filename, df\['subreddit'\].unique())
+
+		dfList.append(df)
+
+	\#join the csv files into one file, 'axis = 0' means it will join them by vertical columns
+
+	concatDf = pd.concat(dfList, axis = 0)
+
+	\#return the created panda/list to a single csv file output (location and name already defined above)
+
+	concatDf.to\_csv(outfile)
+
+	
+
+\#call the function	
+
+join\_csv()
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+\#read Single\_File.csv into a dataframe
+
+data = pd.read\_csv('Single\_File.csv')
+
+&amp;#x200B;
+
+\#remove all cases that say \[deleted\], \[removed\], and TRUE in the body
+
+data = data.set\_index("body")
+
+data = data.drop("\[deleted\]", axis = 0)
+
+data = data.drop("\[removed\]", axis = 0) 
+
+data = data.drop("TRUE", axis = 0) 
+
+data = data.reset\_index()
+
+data = data.drop(\['Unnamed: 0'\], axis = 1)
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+\#Clean the dataframe
+
+data\['body'\] = data\['body'\].str.lower()
+
+data\['body'\] = data\['body'\].str.replace('/',' ')
+
+data\['body'\] = data\['body'\].str.replace('\[\^\\w\\s\]','')
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+pd.DataFrame(data).to\_csv("Data.csv")

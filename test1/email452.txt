@@ -1,0 +1,3 @@
+I  am working on a project for my internship and wanted to know if there  are any public COVID datasets that have data organized by type of  symptoms in relation to a patient's health conditions.
+
+The  goal is to use it to make predictions about the type of symptoms a person might have based on their specific health stats. Any help or  advice would be appreciated!

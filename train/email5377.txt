@@ -1,0 +1,1 @@
+Ok so if you check government websites precinct level state legislature data is trash. I don’t want to scrape tables. What is the most systematic collection of this historical data? Doesn’t need to be complete. I want to build a 538 type forecast model but at the state leg level not us Congress.

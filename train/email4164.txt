@@ -1,0 +1,1 @@
+I have course project and we where asked to use any datasets that we want for prediction analysis (min 1000 sample &amp; 5 features ) . It preferable if it was related to our work or future work. I looked at few online but I didn't find them easy to understand and this project worth 60%

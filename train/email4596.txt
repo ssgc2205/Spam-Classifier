@@ -1,0 +1,1 @@
+I need this dataset for training a SVM model. It would be nice if the comment are about gaming but it isn't necessary.

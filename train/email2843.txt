@@ -1,0 +1,3 @@
+I need a dataset that contains malicious and non-malicious web queries e.g for xss, sql etc.
+
+Any help would be awesome.

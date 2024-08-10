@@ -1,0 +1,3 @@
+Hi everyone!
+
+I'm looking for a dataset that could provide the average restaurant price per zip code in NYC. It could be any meal, like lunch prices, or overall restaurant prices.

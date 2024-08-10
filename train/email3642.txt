@@ -1,0 +1,9 @@
+Hello, does anybody know of a dataset of subscription prices for U.S. newspapers? I've found the U.S. newspaper panel from Gentzkow, Shapiro &amp; Sinkinson, but this ends in 2004. Was hoping to find more current data. 
+
+I'm also looking for a dataset of newspapers with paywalls on their websites if possible. I've tried to construct this myself programmatically but it is proving difficult.
+
+Any leads would be super helpful!
+
+Thanks!
+
+P.S. Gentzkow et. al. data can be found here for those interested: [https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30261/version/6](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/30261/version/6)

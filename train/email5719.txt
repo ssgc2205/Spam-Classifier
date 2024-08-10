@@ -1,0 +1,3 @@
+Looking for something that shows the breakdown of U.S. political offices by party over time. For example, something like:
+
+Year/Month | Republicans in House | Democrats in House | Republicans in Senate | Democrats in Senate | Republican Governors | Democratic Senators

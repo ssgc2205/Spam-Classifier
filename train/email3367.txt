@@ -1,0 +1,28 @@
+The DARPA XDATA program is pioneering a new model of agile software development to support analysts working with big data. XDATA is developing a number of cutting edge software applications and components to address timely challenges in data science and intelligence analysis. DARPA has made these applications free and open to the public available as a downloadable [open catalog](http://opencatalog.darpa.mil/XDATA.html) of reconfigurable, open-source software components. XDATA is inviting analysts from the defense and intelligence communities, law enforcement, the private sector, and the public at large to download and use these open-source applications and underlying code. Building a community around the XDATA software catalog can help shape future versions of these applications through use and feedback. The applications developed by XDATA in 2015 address the following challenge problems:
+
+1. Mapping, predicting, and characterizing population movements within and between cities and regions
+
+2. Cross-dataset dealiasing to identify the same entities across different datasets
+
+3. Financial event detection, such as identifying evidence of market manipulation 
+
+**Operation XDATA: A Public Event**
+Through this site you can also learn how to volunteer to participate in Operation XDATA, which is a large-scale research program managed by Draper. This research is designed to evaluate and improve XDATA applications. As part of this research you will be able to use XDATA application with large data sets to complete challenging tasks. After using these applications, you can download them and their underlying code for your own purposes. More information about testing can be found below in our formal call for research participants. You can also find this information on our study portal (click “Register”) at [http://xdataonline.com/](http://xdataonline.com/). Please feel free to forward this announcement to others that might be interested!
+
+**Call for Research Participants**
+
+The purpose of this study is to determine whether certain kinds of interfaces and analytic tools affect your analytic workflow. This study is funded by the Defense Advanced Research Projects Agency. Your participation will include providing information about your basic demographics, personality, analytic abilities via online questionnaire. This will be followed by a testing session to be completed at your convenience through our online testing portal. During the testing session, you will be asked to participate in a variety of tasks, questionnaires and cognitive tests, as well as interactive tasks on a computer. 
+
+**Eligibility Information**
+
+Participation in this research is open to any persons between the ages of 18 and 60 years, that are not incarcerated (i.e., prisoners) or a member of another legally protected population (i.e., intellectually handicapped, children, etc.), with the exception of pregnant women (the procedures and materials used in this study do not limit the participation of pregnant women). You may be excluded from participation if you do not have sufficient formal training or experience in interpretation of data, hypothesis testing, or construction of reasoned argument to effectively answer questions about analytic process or participate in laboratory tasks. Ideally, potential participants have at least 3 years applied or working experience within an analytic vocation (e.g., intelligence, military, legal, business, marketing, credit, banking, finance, and capital markets, etc.), OR post-graduate training within a relevant area of study and associated analytic skills (e.g., economics, behavioral sciences, statistics, political science, etc.), OR have had relevant internships, post-doctoral, or research experience. However, should you feel that you meet the requirements given your applied experience, we will consider eligibility on a case-by-case basis. 
+ 
+**Additional Study Details**
+
+Study Duration:  Your participation in this study can involve up to 3 hours of your time: approximately 30-60 minutes to fill out online questionnaires, and 90-120 minutes as you engage in online analytic tasks. Additional follow-up tasks with similar content may be solicited, with your permission. Each of these are estimated to take between 90-120 minutes.
+
+*Participant Involvement*:  Participation involves both completion of the online questionnaires and online tasks, which involve using next generation analytic tools to solve difficult analytic problems using complex data sources. However, participation in the online questionnaires neither obligates you to participate in online analytic tasks nor guarantees that you will be invited for follow up tasks.
+ 
+*Compensation*:  Participation is strictly voluntary—there is no monetary compensation for participation in this study. However, participants being recruited from university research sites may be eligible for course/research credit commensurate with their participation as per their institution’s guidelines. 
+
+To register as a participant or just to learn more about this unique research opportunity, please navigate to [http://xdataonline.com](http://xdataonline.com/), and click "register". You will be able to view more study information at this site as well as view our Online Consent Form. If you acknowledge the terms in the consent form, you can register a unique, but anonymous username that will be used to keep track of your data. If, after visiting our website, you have additional questions and concerns, please contact us at software-evaluation@draper.com.

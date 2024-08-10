@@ -1,0 +1,7 @@
+I am looking at these CDC data sets for deaths in the US that are linked below. However, I was wondering if anyone else has ever worked with this dataset and could explain something to me? Basically the numbers feel a bit high to me. For example, the number of deaths that are coded to be associated with covid is 336k rather than closer to 200k. In addition, the numbers for 'All Causes' seem to be higher than expected as well. I was trying to compare 2020 to other years, so was adding up deaths by All Causes for January- August of each year. However that number seemed to be above 3 million for most years even for that 8 month period, when my understanding was that in general more like 2.5 million people die each year. 
+
+Any ideas of what I might be misunderstanding or how I should filter the data more appropriately? My fear is that I'm double-counting deaths somehow. My father was wanting to understand whether deaths are being over-reported because of coronavirus and so I wanted to show that there really are more deaths this year than previous years, regardless of reported cause (sigh...). Not sure this is actually the right data set to use though. Thanks for any help you can give!
+
+[Weekly Count of Deaths by State and Select Causes, 2019-2020](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/muzy-jte6)
+
+[Weekly Count of Deaths by State and Select Causes, 2014-2018](https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/3yf8-kanr)

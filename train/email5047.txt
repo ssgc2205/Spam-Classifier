@@ -1,0 +1,4 @@
+I am trying to build a model which can predict floods or rain, which data set would be suitable ?  
+I got a few but the accuracy i got at most was 63.%, probably because the number of entries were too less.
+
+Can anyone help me here

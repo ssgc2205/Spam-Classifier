@@ -1,0 +1,1 @@
+I have been looking for a crossword puzzle dataset for a while but can't seem to find any. Someone posted about a 30,000 puzzle dataset a while ago but they removed the link and I can't seem to find it anywhere. Has anyone heard of any datasets that have crossword puzzles with their answer descriptions and corresponding answers? 

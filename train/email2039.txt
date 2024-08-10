@@ -1,0 +1,5 @@
+I'm currently searching for an Image Dataset labeled for Students Engagement. 
+
+The only one I found so far is the DAiSEE dataset [https://iith.ac.in/\~daisee-dataset/](https://iith.ac.in/~daisee-dataset/), which is great, but I could use some more images of people of other ethnicity (I dont know how well my model will be able to geralize in that regard).
+
+Do any of you have any suggestions for freely available datasets?

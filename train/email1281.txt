@@ -1,0 +1,7 @@
+I am the creator of [chwil.io](http://chwil.io); a service for achieving Twitter trends since 3rd August.
+
+I have uploaded some sample data collected over the timespan of a week and I would love to see what people can do with it.
+
+[GitHub](https://github.com/spacejunkjim/chwil.io-Twitter-Data)
+
+Have fun!

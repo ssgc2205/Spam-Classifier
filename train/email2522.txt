@@ -1,0 +1,15 @@
+Hi, everyone.
+
+I'm looking for a dataset with information about scientific journals.
+
+I'm looking for its impact factor and enough information to find out its decile/quartile, like rank and number of journals on that category.
+
+&amp;#x200B;
+
+I'm sure that something like that has to exist, but I can't find it.
+
+I have found some websites, but they're awfully slow and I can't execute mildly complicated queries like ("Journals ranked within the first decile that are related to at least one of the following categories...").
+
+&amp;#x200B;
+
+I hope that someone here can help me.

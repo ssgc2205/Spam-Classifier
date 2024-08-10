@@ -1,0 +1,3 @@
+This isn't obtainable from any of the public datasets that I know of. I doubt reddit would release this kind of thing voluntarily but maybe someone has joined reddit voted/comments with pages analytics or something?
+
+Even if there's no dataset where this could be computed I'm curious what the answer is.

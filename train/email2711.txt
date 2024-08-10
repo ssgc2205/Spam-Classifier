@@ -1,0 +1,1 @@
+I am a master's degree student working on a project in econometrics, looking to study the effect of covid 19 on tourism. in order to so, I need flight data, data on the number of flights that were done every day, for the last 2-3 years. where can I find such data?

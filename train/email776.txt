@@ -1,0 +1,3 @@
+Hey All,
+
+I am looking for a data set which lists diseases in the United States by location and am having no luck.  Any one know of a good dataset for this?

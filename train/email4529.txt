@@ -1,0 +1,7 @@
+Hello, 
+
+I am hoping someone can help me out as I have scoured the internet with no success!
+
+I am trying to find a data set that includes number of US deaths per day by suicide from years 2009-latest reported.
+
+I have found deaths by year and month by using the CDC Wonder query tool but not by day/date/ even week of death.  The goal is to chart suicide death rates by daily change, instead of monthly change. Thank you in advance!

@@ -1,0 +1,5 @@
+Been searching the Internet for several hours, and I can't seem to find any raw data on what % of each age/gender in the US uses the Internet (social media use would also be close enough for this project).
+
+All I've found so far are pre-bucketed charts and graphs, but I need to do my own bucketing on it!
+
+Any help would be much appreciated. If you message me or comment with a suitable dataset, I will send you $10 via PayPal or Venmo!

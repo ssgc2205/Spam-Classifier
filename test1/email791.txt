@@ -1,0 +1,3 @@
+I am working on a news story clustering project, which should group together the articles about the same event from different sources. Unfortunately I can not find a dataset that includes any information like this. The [NewSHead](https://github.com/google-research-datasets/NewSHead) dataset from google is going in the right direction, but they mention the clusters come from their own clustering algorithm and is not human annotated. Is there any other dataset you know of similar to this one but possibly annotated by humans?
+
+Edit: I am looking for news in English.

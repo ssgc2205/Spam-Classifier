@@ -1,0 +1,21 @@
+This dataset is a list of cooking-related Youtube video ids, along with time stamps marking the (estimated) start and end of various events.
+
+Sample: 6tP77eT1XYs,613099,621099,cook,tender
+
+The thing is... the numbers (e.g "613099,621099") are not seconds nor frames. So... what are they?
+
+(all suggestions are welcome)
+
+\_\_\_\_\_\_\_
+
+More samples:
+
+3grlByXMJKc,234849,242849,fry,skin
+
+oWNjomennP4,324529,332529,cool,
+
+qChasB9Remw,493720,501720,boil,
+
+LrWSyZg1a10,260080,268080,add,mushrooms
+
+CxgIGFZ6Ze0,300220,308220,put,junior member ginger root

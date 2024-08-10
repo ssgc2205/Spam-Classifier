@@ -1,0 +1,9 @@
+Hi everyone!
+
+I am working on a system that is able to notify users through multiple channels (push notifications via a mobile application, e-mail, sms, instant messaging, etc). 
+
+I would like to get some insights as to what medium is most favored by customers when sending them a notification. However, insights on channel usage per customer would also be appreciated.
+
+Does anyone know if there are any public datasets related to these topics?
+
+Any help will be much appreciated, thank you!

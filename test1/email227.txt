@@ -1,0 +1,1 @@
+Anyone have any mortgage data (ideally from the US) that catalogues the volume of mortgages opened in a unit time (preferably on the day-level)?

@@ -1,0 +1,2 @@
+The Pascal Visual Object Classes dataset is a well known dataset of natural images for classification and object detection, however the website to download the dataset seems to have gone down recently: http://pascallin.ecs.soton.ac.uk/challenges/VOC/voc2012/index.html
+Does anyone know of a mirror somewhere? Google has failed me so far.

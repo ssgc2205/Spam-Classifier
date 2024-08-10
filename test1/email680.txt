@@ -1,0 +1,1 @@
+I'm fairly new to programming, but had an idea of a network analysis of politicians by using who sponsors, co-sponsors etc. Of introduced bills are. Does anyone know if there is a good way to create a dataset or if one already exists that compiles the sponsors and co-sponsors of legislative bills?

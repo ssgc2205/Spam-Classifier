@@ -1,0 +1,5 @@
+Hi Reddit, 
+
+I'm working on a project where I'm looking for data about quarterbacks (or really any other position) by season. The goal is to classify each quarterback as elite or not elite based on some number of factors (completion percentage, yards, touchdowns, team wins, etc). Any help would be much appreciated.
+
+Thank you Reddit!

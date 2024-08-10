@@ -1,0 +1,3 @@
+I'm looking for some **Multivariate Time Series Anomaly Detection Datasets with label** (normal or anormal) for supervised anomaly detection task.
+
+Also, I'm looking for a **standard dataset** \- one that's used in a paper from reliable source(or cited enough times), or was used in a competitions at - say, Kaggle.

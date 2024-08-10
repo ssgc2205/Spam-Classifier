@@ -1,0 +1,17 @@
+Hey!
+
+Just released an other dataset about video game reviews, but this time from a Spanish Website (Vandal)!
+
+This include game titles, website reviews, user reviews, links to the website, release dates and more.
+
+As usual, you can find it here:
+
+ [https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) 
+
+or here:
+
+[https://github.com/FlorianValery/Vandal-Game-Reviews](https://github.com/FlorianValery/Vandal-Game-Reviews)
+
+&amp;#x200B;
+
+I actually have no idea how important (or not?) is this website, I just picked the first Spanish website I saw as I want to use data from different countries for a personal project. Anyway, hopefully it can be useful to someone!

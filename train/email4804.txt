@@ -1,0 +1,19 @@
+Hi guys,
+
+I was looking for some website that shared good statistical data, like sales numbers of phones (by brand/model), revenue of different businesses, funding sources of political parties etc. I noticed that while lots of data globally, there isn't a good one stop website for Indian data. All I get on googling is news figures on newspapers with often very poorly presented data (wall of paragraphs where a graphic would have been so much better), and only data limited to a particular event, not organized searchable stuff.
+
+I saw this awesome site called Statista, but it's behind a huge paywall.
+
+I have some examples that I found good below:
+
+1. https://www.statista.com/statistics/269487/top-5-india-smartphone-vendors/
+
+2. http://gs.statcounter.com/
+
+3. http://www.idc.com/promo/smartphone-market-share/vendor
+
+Would you be kind enough to suggest a few? Generic stat sites would be good, otherwise if you have any favorite ones for tech items, finances, etc... those would also add value.
+
+Thanks in advance.
+
+//BTW, [I posted](https://www.reddit.com/r/statistics/comments/6jzf66/stats_4_india_any_good_statistics_websites_for/) in r/statistics, was recommended posting in this sub instead.

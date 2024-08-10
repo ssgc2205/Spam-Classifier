@@ -1,0 +1,5 @@
+Looking for retail location interiors. Something like a mall, casino, convention center, store or restaurant at high res and at least 10 hours.
+
+I would need this data to do Video Analytics and an algorithm I'm working on.
+
+I appreciate any help or sources. 

@@ -1,0 +1,1 @@
+I'm planning on building a Damage classifier in cars (external damage). I'm using my custom dataset that I took personally, but seems the quantity isn't enough. Does anyone has a better dataset for this?

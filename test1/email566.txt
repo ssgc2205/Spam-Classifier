@@ -1,0 +1,25 @@
+&amp;#x200B;
+
+Link to data on Kaggle: [https://www.kaggle.com/skylord/hospital-capacity-hhs-gov-cdc](https://www.kaggle.com/skylord/hospital-capacity-hhs-gov-cdc)
+
+Link on CW Dataverse: (*coming soon*)
+
+**What is the data &amp; where does it come from**
+
+The following dataset provides facility-level data for hospital utilization aggregated on a weekly basis (Friday to Thursday). These are derived from reports with facility-level granularity across two main sources:(1) HHS TeleTracking, and(2) reporting provided directly to HHS Protect by state/territorial health departments on behalf of their healthcare facilities.
+
+## Which hospitals are covered (and the exceptions)
+
+The hospital population includes all hospitals registered with Centers for Medicare &amp; Medicaid Services (CMS) as of June 1, 2020. It includes non-CMS hospitals that have reported since July 15, 2020. It does not include psychiatric, rehabilitation, Indian Health Service (IHS) facilities, U.S. Department of Veterans Affairs (VA) facilities, Defense Health Agency (DHA) facilities, and religious non-medical facilities.
+
+## Collection week
+
+Collection week implies from Friday to Thursday, starting from the week of July 31, 2020.
+
+## Acknowledgements
+
+Link to the original dataset on [HealthData.gov](https://healthdata.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-facility)
+
+Community created FAQ set on [github](https://github.com/CareSet/COVID_Hospital_PUF)
+
+[Data dictionary](https://healthdata.gov/covid-19-reported-patient-impact-and-hospital-capacity-facility-data-dictionary)

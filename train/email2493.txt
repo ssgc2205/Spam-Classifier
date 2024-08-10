@@ -1,0 +1,20 @@
+Hi, I am currently writing my thesis in Economics on Mortality and Temperature. I handle data in R.
+
+&amp;#x200B;
+
+I need weekly temperature data from 2021-2000 on NUTS1 level (regional level).
+
+&amp;#x200B;
+
+DETAILS:
+
+I have divided Europe in to regions (NUTS1 level) and found weekly mortality numbers for every region for every week from 2021W8 to 2020W1. That's about 1130 weeks and 100 regions. 
+
+But, I have had trouble finding temperature data which was divided into these groups. I could boil down daily data but the only thing I have found is taken from 100.000 weather stations across Europe which is overwhelming.  
+
+
+Daily data would work fine
+
+&amp;#x200B;
+
+thanks

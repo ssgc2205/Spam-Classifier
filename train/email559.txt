@@ -1,0 +1,1 @@
+I'd like number of crimes and crime type for each county in the US for the past several years at least. And then ideally, each crime would have metadata. To what extent does this dataset already exist and where can I find it?

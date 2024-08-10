@@ -1,0 +1,1 @@
+I'm looking for a dataset of those who died in a given year along with information about any comorbidities they may have had like diabetes, obesity, etc.

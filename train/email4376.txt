@@ -1,0 +1,1 @@
+So it's pretty easy to get a bit of data for the most recent Cricket World Cup in 2019 but does anyone know where I can get data from any other World Cup? If possible, it would need data, for each batsman and bowler, runs scored/conceded, balled faced/bowled and wickets received/taken. I tried Cricbuzz but for me the website is a bit of a buggy mess. Thanks!

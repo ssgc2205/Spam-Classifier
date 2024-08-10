@@ -1,0 +1,1 @@
+Hello, I am looking for a data set with two variables with a very high correlation of determination (.65), finding it difficult myself, also need over three hundred different data points (x,y), thank you in advance for any answers.

@@ -1,0 +1,5 @@
+As the title says, I'm looking for a dataset which provides recent match statistics and result, very much like [this website](https://www.football-data.co.uk/data.php), but with national teams instead of club football. Specifically, European national teams.
+
+I would like to analyse the data and perform predictive analytics practice during EURO 2020. So, I appreciate any kind of dataset that can help me with this. Thank you.
+
+Side note, I searched through this subreddit for related dataset, but what I found is either unrelated or not very recent.

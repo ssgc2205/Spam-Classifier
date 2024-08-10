@@ -1,0 +1,3 @@
+Hey y'all I need help with finding a data set that has 3-5 variables and 100-500 members. I've been looking around and can't find anything satisfying the requirements. I tried [data.gov](https://data.gov) and some other sites but came up short. Any help or advice on where to look would be great.
+
+Thanks!

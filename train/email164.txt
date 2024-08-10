@@ -1,0 +1,7 @@
+I'm working in citizen science and we're looking for a portal/app/stack to build a data collection capability for community groups. End users must be able to select a type of input data (effectively a template of a schema). Then upload their data in CSV and/or Excel format, which would then be verified against that schema. If it fails then a message back to the user, if it succeeds then a nice clean file is available for us to make use of.
+
+The schemas could be any format xml, sql, in code if necessary - that's a problem I can solve. In an ideal world we'd be able to bolt in some script to verify and audit the data post upload.
+
+Once the data is uploaded I'll be able to load it to our database and then publish the resulting dataset (on coastal sand movement seeing as you ask).
+
+Any language would be of interest, but i"d prefer a .Net MS stack, or Python/R would be possible. Seems like a common problem, how do others solve it?

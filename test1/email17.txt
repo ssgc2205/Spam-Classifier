@@ -1,0 +1,10 @@
+Hello!I didn't know where else to turn to, so here I am.I have a large dataset (I guess around 2,5-3m rows in excel and around 70 columns, 1,1GB) that I need to work with.The dataset is from 2000 - 2017, and row nr 1m is 2006, if that helps to visualize (Classified dataset, can't upload or show).I need to extract 3 rows and run them through a formula. The formula is like X/(Y-Z).
+
+So, how can I solve this?I need to be able to see the whole dataset (need to sort it later on, but if I get help with the formula mentioned, the rest should be easy).If clarification is needed I'll answer questions ASAP.
+
+Please don't bash me, I'm new to working with datasets of this size.  
+
+
+EDIT:  
+I used RStudio (with dplyr) and some help from some truly amazing guys.  
+This community is great, thank you so much for all the inputs!

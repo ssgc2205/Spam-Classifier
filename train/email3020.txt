@@ -1,0 +1,2 @@
+Where can I find data about quantified cities (like: car accidents, traffic, pollution .. ). 
+Census is a good place to find data about demographic info. 

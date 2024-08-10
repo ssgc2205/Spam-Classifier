@@ -1,0 +1,1 @@
+So it's pretty easy to find sales volume by metro, but without having access to each state's MLS, does anyone know of a data source to find real estate listings data.

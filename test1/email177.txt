@@ -1,0 +1,25 @@
+As a hobby project I'm trying to build an app that needs average monthly weather data - like temperature, precipitation, sunny/rainy/cloudy days (optional), temperature avgMin avgMax (optional) and I can't find anything that suits my needs. I have several requirements:
+
+\- Because it is just a hobby project I need to gather this data for free.
+
+\- I want to save them in a json file and serve it myself from something like s3.
+
+\- I need to find this data for specific locations (using coordinates). I use centers of first-level administrative divisions for every country and want to connect them to this weather data.
+
+&amp;#x200B;
+
+Options I have already tried:
+
+\- OpenWeather - monthly average costs 470$!
+
+\- World Bank - can only lookup by country
+
+\- Meteostat Developers - lack of most data when using at specific location
+
+\- World Weather Online - free trial gives only avgMinTemp, absMaxTemp and avgDailyRainfall
+
+\- National Centers for Environmental Information - I've been tinkering there for a few hours but still can't find a way to get what i need
+
+\- Climate Change Service - same as above and is too complicated for a person who knows nothing about climate science
+
+\- Troposphere - seems great, but it doesn't have average temperature

@@ -1,0 +1,1 @@
+I am currently looking for a dataset to use for a two-way ANOVA project. I cannot for the life of me find any data that has two factors with multiple levels. Can anyone point me in a good direction to find suitable datasets? The majority of what I've seen is time series data or one-way ANOVA data that I cannot use. Any help would be very appreciated!

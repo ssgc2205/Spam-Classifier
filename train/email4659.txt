@@ -1,0 +1,10 @@
+Hello,
+
+I am currently trying to find a decent dataset on used cars. I would like to not only have information about the car itself (make, model, mileage) but I would like to have consumer report data as well (how often was maintenance, things broke, etc etc) on that same type of vehicle. 
+
+My goal is to determine the cars with the most “reliability.” I am still not quite sure what key metrics I will deduce that from.
+
+I am currently looking for a new car and wanted to have a cool exploratory analysis project to show for myself, so any clever ideas, hints, or thoughts would be greatly appreciated. 
+
+
+ 

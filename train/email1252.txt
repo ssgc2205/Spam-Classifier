@@ -1,0 +1,3 @@
+Hello everyone,
+
+I am working on a project where we want to understand the impact of natural calamities gobally. Are there any specific repositories which we can reference? I am considering all of volcanic disruptions, earthquakes, typhoon, floods, landslides, etc. and more if available.

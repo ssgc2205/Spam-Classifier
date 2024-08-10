@@ -1,0 +1,5 @@
+I've got a good custom scrapper in python for the rental market in my area but I've been procrastinating on finishing the project. I need to validate every post manually and compare it to similar posts to flag reposts (but it's not all similar posts are reposts since management companies will often have near identical posts for distinct units)
+
+Is my only option to write a flask app if I want a nice visual data browser to go in and validate all my data? I already relate all similar posts during the scrapping so it just needs to display 1 post at a time from the list that have a false in the manually checked col. I need to be able to edit all the fields and view the saved pictures and it needs to display the list of similar posts somewhere on the screen with just the relation confirmed col editable.
+
+Right now the stapler saves to sqllite and the pictures col is a relative path/name but that can be changed if needed.

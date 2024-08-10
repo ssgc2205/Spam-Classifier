@@ -1,0 +1,1 @@
+I'm making an A.I. that classifies if it's being asked a personal question or not and need a data set to train off of.

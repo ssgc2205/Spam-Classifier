@@ -1,0 +1,5 @@
+I have released a James Bond tabular data package in Python details are in my GitHub: https://github.com/andrew-block/jamesbond
+
+If you just want to access the flat file you can find the dataset in my kaggle store: https://www.kaggle.com/dreb87/jamesbond
+
+Would love any feedback otherwise enjoy!

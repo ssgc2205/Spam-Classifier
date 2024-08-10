@@ -1,0 +1,23 @@
+I wonder if someone could help me to find a dataset containing a time series of the anaerobic digestion process, the data would come from sensors installed in the plant. This data set could contain data like:
+
+ - pH
+
+ - Temperature
+
+ - Pressure
+
+ - Components of the substrate
+
+ - Any physical/chemical information
+
+ - Etc...
+
+ - Gas output
+
+
+
+While the gas output is relevant, i'm just looking for a dataset which contains some of those features. If there is no gas output info, I would still like to take a look at it :)
+
+This data could come from biogas power plants or even wastewater treatment plants.
+
+Can someone give me a little help? :)

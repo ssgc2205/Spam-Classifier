@@ -1,0 +1,17 @@
+CMATERdb is the pattern recognition database repository created at the 'Center for Microprocessor Applications for Training Education and Research' (CMATER) research laboratory, Jadavpur University, Kolkata 700032, INDIA. This database is free for all non-commercial uses. More information on CMATER is [here](https://code.google.com/archive/p/cmaterdb/).
+
+**Dataset Description:**
+
+* **CMATERdb 3.1.1: Handwritten Bangla numeral database** is a balanced dataset of total 6000 Bangla numerals (32x32 RGB coloured, 6000 images), each having 600 images per class (per digit).
+* **CMATERdb 3.2.1: Handwritten Devanagari numeral database** is a balanced dataset of total 3000 Devanagari numerals (32x32 RGB coloured, 3000 images), each having 300 images per class (per digit).
+* **CMATERdb 3.4.1: Handwritten Telugu numeral database** is a balanced dataset of total 3000 Telugu numerals (32x32 RGB coloured, 3000 images), each having 300 images per class (per digit).
+
+**Links:**
+
+[GitHub Repository](https://github.com/prabhuomkar/CMATERdb)
+
+[Download Link](https://github.com/prabhuomkar/CMATERdb#get-the-data)
+
+[Original Source](https://code.google.com/archive/p/cmaterdb/)
+
+Please acknowledge CMATER explicitly, whenever you use this database for academic and research purposes.

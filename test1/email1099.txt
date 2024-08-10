@@ -1,0 +1,1 @@
+I've been playing around with the CitiBike (NYC) trip dataset and when I downloaded it from online, its like 70gb of data (80+ million rows of data). But I discovered that it also exists as one of Big Query's public datasets and their table is only 7gb of data. Why is that? How could they optimize it any more than the csvs?

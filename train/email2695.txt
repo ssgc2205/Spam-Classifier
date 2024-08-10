@@ -1,0 +1,17 @@
+I've found some data by searching this subreddit, but I wouldn't mind more comprehensive data or the things I'm still missing.
+
+I need data on:
+
+\-US Presidential Election popular vote results, by county, including 3rd parties, independent candidates, and write-ins, from 1980 to present.
+
+\-US Electoral College vote results by state/DC, including faithless electors and accounting for possible split votes in the cases of Maine and Nebraska from 1980-present.
+
+\-Classification of US counties as rural/urban (other terms, or more categories being included like suburban is fine) 1980-present. Data on urban/rural status of metropolitan statistical areas, or population estimates of municipalities would also be useful.
+
+\-US voting eligible population estimates, 1980-present, by county, preferably yearly, but if not possible estimates in years of presidential elections, or in census years would still be useful.
+
+\-US population estimates by county, 1980-present, total population is fine but population over 18 (voting age population) is preferred.
+
+Any set including more than one of these points, going back further than 1980, or that is only part of the information on one of these points (only part of the time frame, only specific states, et cetera) would be useful, although obviously more complete data is preferred.
+
+Thank you in advance to anyone who replies.

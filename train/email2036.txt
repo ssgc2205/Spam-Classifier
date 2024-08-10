@@ -1,0 +1,1 @@
+Hey guys! I'm trying to find a dataset that consists of tuberculosis x-rays. I've already found two from the national library of medicine and one from Kaggle, I just wanted to know if there are any others out there.

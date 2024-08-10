@@ -1,0 +1,4 @@
+Hello folks,
+
+I am looking for a dataset to predict mood based on different variables such as exercise, sleep gotten, and alcohol drunk, etc. If you can point me in the right direction then it would be great.  
+Thanks and stay safe.

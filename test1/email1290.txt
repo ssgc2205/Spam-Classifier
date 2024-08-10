@@ -1,0 +1,9 @@
+Data is found here
+
+https://www.cccco.edu/College-Professionals/Data
+
+I’m trying to answer this question:
+
+Out of all the community colleges, which one had the highest transfer percentage to a four year? Which are top 3? Is there a data set to see transfer percentage by major?
+
+I know there’s enough data in there to answer that question but I can’t seem to figure it out?

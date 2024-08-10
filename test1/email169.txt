@@ -1,0 +1,1 @@
+Hi guys! Hope you are doing well. I'm currently a college student working on a final project with R. I wanted to ask where I could find a dataset where I'm able to see the number of masks given to US states on a daily basis. I'm trying to connect this data to correlate the number of cases to the number of masks given. Thanks for the help!

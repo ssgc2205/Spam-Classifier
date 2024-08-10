@@ -1,0 +1,1 @@
+If I wanted to track how an application is performing what would be the best site to use? I've seen sites such as sensortower and mobile action, but im not sure how reliable the data is. It seems that each platforms download statistics are on the opposite side of the spectrum so I am not sure which one is more accurate. Moreover, neither site states how they scrape their data.

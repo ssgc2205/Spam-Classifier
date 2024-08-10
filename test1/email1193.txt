@@ -1,0 +1,11 @@
+I'm building out a concept right now where data from disparate sources is aggregated and accessible in a unified API, or for download in standardized formats (JSON, CSV, SQL).
+
+A few questions for the community:
+
+1. How do you current collect data? Do you download from individual sites or mine it yourself?  Or is there a similar service available?
+
+2. Do you think there is a need for a single API to access large amounts of data, or are data analysis needs usually so specific that people would rarely find use in having data like Education, Weather, Stocks and Sports accessible under a single API key?
+
+3. Would you pay for a service like this for $20-30/month?
+
+Thanks.

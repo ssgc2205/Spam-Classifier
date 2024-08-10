@@ -1,0 +1,3 @@
+I'm looking for datasets that I can use to train a classifier to take a guess about whether someone is asking a question or requesting help/support about.. well, really anything.  Ideally, I'd like to find a dataset that can be used to train it. 
+
+Anyone have suggestions where I might be able to turn over a rock and find something like that?  

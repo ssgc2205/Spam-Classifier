@@ -1,0 +1,1 @@
+*  I am starting work on a project, i want label set of spam tweets.Can anybody help regarding this. i need a datasets of 6 million spam tweets in json or any format.  does anyone have a lead on where i can get such a dateset?

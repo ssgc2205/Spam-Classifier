@@ -1,0 +1,3 @@
+Here is a sample dataset of pubmed articles information: [Link to csv](https://drive.google.com/file/d/1AEQZtu4edmSp26Va3PsAREkr6VaMu5uj/view?usp=sharing)  
+Right now it includes title, url, authors list, abstracts and doi.  
+I'm planning to get some more using the related articles suggestion widget of pubmed.

@@ -1,0 +1,3 @@
+Hi, I would like to make a app similar to this one in functionality: https://youtu.be/d7Zi45e4tpY
+
+I would like to create a similar app that provides a brief summary of what the Individual ingredients are, a healthy/unhealthy status indicator and what makes them harmful. So while I want the brief summary to be exactly as seen in the I would like to have more independent nutritional information. Is there a FDA API I can utilize to query the different ingredients or a dataset I can use? The author used GPT-3 but it's invite only and since the info used to build GPT-3 originated from general conversations on Reddit instead of a authoritative source I would prefer to use a more reputable source. Any assistance would be greatly appreciated. Thank you :D

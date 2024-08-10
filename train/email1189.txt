@@ -1,0 +1,4 @@
+I wanted to know if there is an actual database of the MSDS or SDS chemical hazard sheets.  It seems weird that they only exist in html or pdf format.  Even if it were in a spreadsheet, it would be awesome.  Thanks!
+
+https://www.osha.gov/chemicaldata/
+https://www.atsdr.cdc.gov/toxfaqs/index.asp

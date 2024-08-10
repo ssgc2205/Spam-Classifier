@@ -1,0 +1,5 @@
+[daily SPX prices 1896-2018](https://www.kaggle.com/pdquant/stocks-significance-testing-p-hacking/data)
+
+Surprisingly hard to find daily prices going back this far!
+
+Also I’ve done an analysis to go with it.

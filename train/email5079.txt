@@ -1,0 +1,7 @@
+Hi r/datasets.
+
+Friendly fokks at DoltHub here. We launched a $10,000 data bounty to collect US school information, both K through 12 and Universities.
+
+[https://www.dolthub.com/blog/2021-08-18-schools-bounty/](https://www.dolthub.com/blog/2021-08-18-schools-bounty/)
+
+Lots of data already in but potentially more fruit left. At the very least, if you need a database of US schools in SQL format, we're here for you.

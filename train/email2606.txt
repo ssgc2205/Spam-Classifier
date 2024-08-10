@@ -1,0 +1,3 @@
+Maybe a dataset from somewhere like Coursera, edx, udemy.
+
+If I do not find this I plan to using [this](https://www.kaggle.com/imuhammad/course-reviews-on-coursera?select=Coursera_reviews.csv) data set of coursera reviews to first determine sentiment of each review, group courses by topic and then rank topics by frequency. Any suggestions are welcome. Thanks

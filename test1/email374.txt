@@ -1,0 +1,3 @@
+Hi All,
+
+I'm trying to track down any open data sources for the vitamin/supplement industry.  I am primarily interested in sources focused on consumer expenditures in the US.  I'm looking for a little bit more granularity around the category than the BLS Consumer Expenditure Survey offers.  I am also looking into paid sources if there are recommendations for best sources there as well.

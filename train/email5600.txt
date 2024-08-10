@@ -1,0 +1,5 @@
+Hey!
+
+I am looking for a Suicide detection dataset.. Anybidy has any idea, on where can I get that ?
+
+I need it to perform experimentations for my college disseration, as I have always worked on NLP. If anyone has any idea, where I can find one it'd be helpful. Also, I can't use API and then have it annotated, as I tried before but they won't accept it.

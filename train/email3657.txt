@@ -1,0 +1,2 @@
+Need help!  
+I have to create console app using dataset conenction , where i have to join two tables(Products and categories) from Northwind database. This project shoud be done in visaul studio.i am begginer

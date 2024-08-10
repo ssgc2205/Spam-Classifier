@@ -1,0 +1,8 @@
+June 3, 2020, data set collected from 162,101 unique tweets that have the language "en" and text *"BlackLivesMatter"* or the hashtag *"#BlackLivesMatter."*  
+Data set: [https://docs.google.com/spreadsheets/d/1Xh8CXYNNRPiDGGEYyNr\_Z6M6zlzE81-jraoRPGqXyVs/edit#gid=138196485](https://docs.google.com/spreadsheets/d/1Xh8CXYNNRPiDGGEYyNr_Z6M6zlzE81-jraoRPGqXyVs/edit#gid=138196485)  
+My analysis: [https://emojigraph.org/blog/black-lives-matter-emoji-usage-analysis/](https://emojigraph.org/blog/black-lives-matter-emoji-usage-analysis/)
+
+How I collected the data and scripts: [https://medium.com/@olehmertviachenko/how-to-count-emojis-in-tweets-using-python-and-tweepy-twitter-api-library-22949f1bea4c](https://medium.com/@olehmertviachenko/how-to-count-emojis-in-tweets-using-python-and-tweepy-twitter-api-library-22949f1bea4c)  
+
+
+I'm new here. Please let me know,  if I need to fix something.

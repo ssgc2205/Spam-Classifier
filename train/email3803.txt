@@ -1,0 +1,3 @@
+Would like to wrangle and create a dataset based on speech topics.  These speeches are all available in text form.
+
+Any ideas on unbiased approaches to finding a primary topic and maybe a couple secondary topics on these speeches? Is this basically a human task and just have to trust the person coding the topics? 

@@ -1,0 +1,3 @@
+Hello all
+
+I was wondering if there's any public datasets that have what tax percentage property owners are charged. Residential and/or commercial data would be awesome. Historical would be amazing. Data from the US, Canada, Europe would be great.

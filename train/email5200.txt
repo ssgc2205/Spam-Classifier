@@ -1,0 +1,7 @@
+Hello /r/datasets,
+
+I'm just starting to think about learning Python to compliment my other data analysis skills. I currently use SAS, and STATA. Over the past 10 years I've learned to program in C, C++, Java, and Visual Basic .Net. However, I'm not proficient in any of them currently as I haven't used any of them in past ~4 years.
+
+Where would you recommend I start if I'm interested in learning Python? I know some great tutorial sites have to exist, but what do you suggest?
+
+Thanks!

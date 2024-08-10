@@ -1,0 +1,3 @@
+Looking for a proof of concept dataset for an upcoming project. Basically I will have a short list of keywords, and in the text there will be a variation of my keyword. I want an NLP algorithm to categorize each keyword automatically. 
+
+I was thinking of using GPT2 for this, but would that be overkill? I wanted something a little "smarter" because of the variation and I want high accuracy. Do you guys recommend something else?

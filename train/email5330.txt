@@ -1,0 +1,11 @@
+Download it [here](https://drive.google.com/open?id=1TQQuT60bddyeGBVfwNOk6nxYavxQdZJD) from my Google Drive. The size is 681MB compressed.
+
+You can visit my GitHub repo [here](https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data/tree/master/picture-scraper) (Python), where I give examples and give a lot more information. Leave a star if you enjoy the dataset! 
+
+It's basically every single picture from the site [thecarconnection.com](https://thecarconnection.com). For more details, visit the repo. Picture size is approximately 320x210 but you can also scrape the large version of these pictures if you tweak the scraper. I did a quick classification example using a CNN: [Audi vs BMW with CNN](https://github.com/nicolas-gervais/predicting-car-price-from-scraped-data/blob/master/picture-scraper/Example%20—%20Audi%20vs%20BMW%20ConvNet.ipynb).
+
+Complete list of variables included for *all* pics:
+
+    'Make', 'Model', 'Year', 'MSRP', 'Front Wheel Size (in)', 'SAE Net Horsepower @ RPM', 
+    'Displacement', 'Engine Type', 'Width, Max w/o mirrors (in)', 'Height, Overall (in)', 'Length,
+     Overall (in)', 'Gas Mileage', 'Drivetrain', 'Passenger Capacity', 'Passenger Doors', 'Body Style'

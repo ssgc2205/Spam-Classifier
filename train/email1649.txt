@@ -1,0 +1,9 @@
+Hi guys!
+
+I'm looking for Complete Blood Count test results dataset for an ML project. 
+
+Couldn't find anything useful on the web. 
+
+The dataset doesn't necessarily be a free one.
+
+Thanks!

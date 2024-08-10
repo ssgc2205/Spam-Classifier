@@ -1,0 +1,7 @@
+I just found out about the TPC standard's site and am really interested in getting some data populated. I'm a bit confused as to how to exactly create or get the data...
+
+Am I supposed to download the [supporting file](http://c970058.r58.cf2.rackcdn.com/supporting_files/tpch/dell~tpch~100~dell_poweredge_r720xd_using_exasolution_5.0~sup-1~2014-09-23~v02.zip) from a [result's page](http://www.tpc.org/tpch/results/tpch_result_detail.asp?id=114092301)? 
+
+I downloaded that file from the first link, but have no idea what to do with it. I can't find any documentation on what to do after downloading it, and neither can I find a readme file. There are 3 more zip files within that zip file.
+
+The data's output format can be anything accepted by Hadoop. This should be feasible right?

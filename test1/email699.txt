@@ -1,0 +1,5 @@
+I'm doing work with a non profit and doing some analysis on demographics of business owners by location and business size. Does the data set exist somewhere or will I have to pull from multiple sources? Were wanting to create programs that help folks at different levels of business growth.
+
+We are looking for business owners by sex , race, orientation, veteran status, revenue, employee count, and location.
+
+Specifically for Atlanta but the entire Isa would be preferred.

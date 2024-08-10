@@ -1,0 +1,5 @@
+Hi all,
+
+I'm working on my dissertation, and am looking for a dataset of two-person conversations over time.  The longer the better, since I'm interested in how conversation changes as people become better friends.  Ideally, it would be "People getting to know one another over IRC/Discord/Text/chat/etc."
+
+Any leads?

@@ -1,0 +1,1 @@
+Is there a database or API out there that records every congressperson's vote on issues with a short description? Bonus points if it's already indexed with public comments on relevant topics. Datesets for other countries would be welcome too

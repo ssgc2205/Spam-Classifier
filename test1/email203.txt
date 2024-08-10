@@ -1,0 +1,33 @@
+Hi! I've started a (basic) course in data analysis, and the final assessment is a project requiring "real world data". I'm honestly not sure where to start looking for what I want (once I come up with an idea of what I want to analyse heh, but that's not your problem!).
+
+Is there a FAQ/list of popular data sources? I don't necessarily need it to be free, but I'm not a millionaire either, so go easy on me :)
+
+Thanks!
+
+EDIT: Editing in the list so far. So many wonderful resources I never knew about! Thank you all, such a cool community :)
+
+https://www.google.com/ - might seem obvious, but actually it's great if you use the right terms. A search for "data ireland population yearly" got me a relevant hit immediately.
+
+https://www.kaggle.com/
+
+https://github.com/awesomedata/awesome-public-datasets
+
+https://components.one/datasets/
+
+https://www.kdnuggets.com/datasets/index.html
+
+https://opendatainception.io/
+
+https://data.opendatasoft.com/explore/dataset/open-data-sources%40public/table/?sort=code_en
+
+https://databar.ai/
+
+https://us.gov/
+
+https://datasetsearch.research.google.com/ - a search engine for data sets, very cool!
+
+https://www.reddit.com/r/statistics/ - the sidebar has a "data" section which lists more resources for sets
+
+https://osf.io/
+
+Will keep adding if people keep suggesting :)

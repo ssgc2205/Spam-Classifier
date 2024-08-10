@@ -1,0 +1,9 @@
+Hello everyone, I hope you are having a great day. 
+
+I'm looking for a dataset that provides a near infrared image and its visible light image counterpart. The images can be anything but it must be the same image both in NIR and VIS . 
+
+I already found about the Casia NIR-VIS Face which is a dataset for faces, so I'd appreciate it if you could help me find something else. 
+
+&amp;#x200B;
+
+Thank you all in advance and have a wonderful day

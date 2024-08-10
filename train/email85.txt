@@ -1,0 +1,3 @@
+Hello, i would like to apply yolo v5 with a dataset weapon like gun, rifle, katana,.... all sort of weapon. Anyone have an idea of it ? Please show me how to find it !
+
+Best regard

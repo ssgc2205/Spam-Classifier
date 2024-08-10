@@ -1,0 +1,3 @@
+[\[39000\] Apple mobile phones reviews](https://crawlfeeds.com/datasets/1)
+
+[\[500K\] Amazon mobile phones reviews](https://crawlfeeds.com/datasets/2)

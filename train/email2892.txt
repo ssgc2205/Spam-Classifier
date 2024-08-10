@@ -1,0 +1,5 @@
+I am looking for sentiment data set with numeric sentiment strength. Most of the data sets I find are with positive, negative and neutral. 
+
+Sentiment analyzer like Textblob and Vader does it. But I am getting very less accuracies with these, and am planning to train mine own. But finding data sets has become an issue.
+
+Any pointers on other sentiment analyzers which work in this fashion also welcome. Stay safe!

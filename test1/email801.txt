@@ -1,0 +1,7 @@
+[Kaggle link](https://www.kaggle.com/colinmorris/favicons)
+
+I scraped these about a year ago, with the intention of training some generative neural networks on them. I never ended up finishing that project, but I thought other people might have some use for the data.
+
+I made a little [notebook](https://www.kaggle.com/colinmorris/unusual-favicons-a-brief-survey) that shows some examples from the dataset, with an emphasis on exploring examples that are unusual in various ways.
+
+Because they're naturally tiny images, (16x16 is the most common size), my hope is that they might be useful as an MNIST-like dataset that can be used to play with deep learning models without prohibitive hardware/time requirements.

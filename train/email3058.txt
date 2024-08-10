@@ -1,0 +1,1 @@
+I'm looking to make a simple neural network that can classify between handdrawn shapes like squares, circles, triangles, stars, and such. I've taken a look at Google's quickdraw dataset, but this isn't exactly what I want, it's more of a last resort. I've scoured kaggle and other places for a shape dataset, to no avail. Could someone point me towards one?

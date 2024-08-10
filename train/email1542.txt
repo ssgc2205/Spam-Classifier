@@ -1,0 +1,8 @@
+In order of decreasing importance:
+
+* name
+* platform
+* release date
+* publisher
+
+I didn't think this would be so hard to find, but my efforts so far have been fruitless. Thanks for reading.

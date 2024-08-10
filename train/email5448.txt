@@ -1,0 +1,3 @@
+I have some data showing some correlations between hollywood actor salaries and movie gross numbers, but it's a little dated at this point.  Anyone have some suggestions for a dataset that would grab a student's attention?  Nothing big, I'm looking for maybe 100-500 entries.
+
+Thanks in advance!

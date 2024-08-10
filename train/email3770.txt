@@ -1,0 +1,19 @@
+Hi Guys,
+
+I have been working on a new SQL / BI Analytics tool for the past few months and I was hoping to get some alpha / beta users to help provide feedback.
+
+Our mission is to provide a centralized source of data to help eliminate time from scraping / transforming / visualizing, and help get you to the analysis you want faster.
+
+We currently have two data sources on our application. There is some NFL play by play data, as well as a database tracking live COVID-19 cases.
+
+You can create an account here: [https://alpha.ivypro.io/register](https://alpha.ivypro.io/register)
+
+Here’s our main site: [https://ivypro.io](https://ivypro.io)
+
+Please bare with us through the early phases of our development, we plan on introducing a lot more features soon.  There may be some bugs here or there, and we are a small team but we are actively working on it!
+
+If there are any issues, or if you would like to provide feedback, you can email me at: [kyle@ivypro.io](mailto:kyle@ivypro.io).
+
+Also, we are planning to do user testing interviews soon, so if you would like to participate in shaping our product going forward, let me know.
+
+Thank you!

@@ -1,0 +1,1 @@
+Most of these companies simply allow access to their API, but don't permit you to save their data. Does anyone have a source for data that can be stored on a private server?

@@ -1,0 +1,1 @@
+Hi, I building a chinese accounting documents (invoices, contract, receipts etc) dataset in order to  boost Tesseract OCR. Any tips where could I find those documents ?  Thx

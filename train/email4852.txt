@@ -1,0 +1,7 @@
+I have done it 3 different ways now: textblob, Naive Bayes, and now a Linear SVM. I did all of these in Python 2.7. 
+
+I am not a huge fan of the textblob because it does not allow me to train the data or choose how it classifies. 
+
+The only problem with SVM and Naive Bayes is I need a huge amount of already classified data to give them enough accuracy when determining the sentiment of a tweet. 
+
+Now to my question. Does anyone happen to have a huge dataset of already classified tweets or a way to classify the tweet more accurately using any of these 3 ways? I have my hackathon Friday so I would really like to get the accuracy up a little higher before then.

@@ -1,0 +1,5 @@
+Hey, I am looking for hourly temperature data by state for a given year (can be any year, but 2019 preferred).
+
+I have done the specific filtration on [climate.gov](https://climate.gov) to get the data I want per state and it seems to give the data I want but I will have to do this 50 times (once per state). I was wondering if there was one single data set that had this normal hourly temperature data for all 50 states? 
+
+Any suggestions would be greatly appreciated!

@@ -1,0 +1,6 @@
+Hello :-)
+I would like to work on a project that could enable me to detect via a Convoluted Neural Network to detect if a particular sound file is a baby crying or just talking in order to have an automatic alert system.
+
+I have only found some limited data point dataset for now that are not performing well for training. Any suggestion?
+
+Already found resources: ESC-50 and ESC-10

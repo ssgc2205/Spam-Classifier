@@ -1,0 +1,23 @@
+Hi guys,
+
+&amp;#x200B;
+
+I'm doing research (master thesis) on real-time network traffic prediction (using machine learning).
+
+Therefore I need datasets of traffic from central routers/gateways from 2017 through now.
+
+&amp;#x200B;
+
+requirements:
+
+\- at least 1K hosts routed through the host (backbones etc. preferred)
+
+\- frequency 1h our smaller
+
+\- machine-readable (no matter if it's plain text, CSV, MRTG, a database-dump or whatever)
+
+\- data can be completely anonymous (optional background information on the source would be nice)
+
+&amp;#x200B;
+
+Thanks!

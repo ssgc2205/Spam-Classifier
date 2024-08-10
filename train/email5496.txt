@@ -1,0 +1,9 @@
+Hey,  I know this question is really  basic, but I've spend days trying to  find a guide about this and I  couldn't. So I've collected the responses  and I have them in excel, and  now I want to use a software (MaxStats)  to do statistically analyze it.  I've added a picture for the sake of  clarity.
+
+Could  I just replace all  the answers with numerical values? In the image I  added I tried to  show what my questions are like. Can I just replace 0 -  1 times/hours  with 1, then 2 -3 times/hours with 2 and so on? If I do  this for each  question and have values ranging from 1 - 4 on each  question, will the  software be able to do correlations/statistical tests  between them?  Will it know that 1 from this Q1 is different from the 1  from Q2?
+
+Or is there a better to turn questionnaire-type answers into something a statistical analysis software can recognize?
+
+I'd   really appreciate some help, tutorials online always talk only about   the statistics part, but they rarely say anything about how to get your   survey data ready in the first place
+
+[https://ibb.co/XtgCVrJ](https://ibb.co/XtgCVrJ)

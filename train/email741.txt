@@ -1,0 +1,1 @@
+I have a list of commercial addresses that I want to know the square footage of.  Is anyone aware of a dataset/service where I can give an address, and the service will return the square footage of the building? Ideally I could just upload a csv with my list of (about 500) addresses, but open to using APIs as well.  Any suggestions?

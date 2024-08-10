@@ -1,0 +1,15 @@
+I'm looking for a more extensive/similar version [to this dataset](https://www.kaggle.com/yersever/500-person-gender-height-weight-bodymassindex). Sadly it only has 500 rows which isn't enough from the prediction test I just did.
+
+Anything along the lines of
+
+* Height
+* Weight
+* Health
+* Age
+* Gender
+* Ethnicity
+* BMI
+
+etc
+
+is welcome

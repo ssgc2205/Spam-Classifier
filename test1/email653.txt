@@ -1,0 +1,3 @@
+Or a way to correlate political party with income, education, age, other demographic information. 
+
+Like one dataset that with zip code mapped to political party, and another dataset that with zip code mapped to income. 

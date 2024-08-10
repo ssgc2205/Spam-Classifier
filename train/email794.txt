@@ -1,0 +1,7 @@
+Hi guys! So I just landed my first job after college. I worked on many types of datasets, but nothing like pricing strategy before. And I guess the job will all be about pricing analytics from here on, and I'd like to ask some help.
+
+The work is about checking if a quoting calculator/pricing model works. Firstly, they input a unit quantity from where we quote how much we would charge for our services. We need to compare it on historical data. Do you know where I can start?
+
+If you also have some tips on books to read or tools to use that could be useful in the future (for pricing analytics) or how I could potentially use ML in this sphere, I would appreciate that.
+
+Thank you!

@@ -1,0 +1,3 @@
+I'm using this to rule out regions below a minimum annual level, so county-level data would work fine, but obviously something more granular would be even more useful.
+
+Anyone know a good source for this?

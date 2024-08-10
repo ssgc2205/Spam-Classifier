@@ -1,0 +1,5 @@
+I am looking for location data relating to officers killed or injured while on duty. I looked in Law Enforcement Officers Killed or Assaulted (LEOKA) dataset but they do not include xy coordinates. If anyone is aware of where I can begin searching?
+
+The area of interest is Philadelphia and I did find a law enforcement memorial page which records location data, but I would preferably need data from an official source for validity issues.
+
+Thanks!

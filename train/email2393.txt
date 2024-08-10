@@ -1,0 +1,5 @@
+Hi,
+
+I'm looking for some data that contains words in many languages.
+
+I would like to do something with foreign language recognition, for example: in what language has the word been written (or spoken - but probably this one is harder). Really just anything related with foreign languages would be cool.

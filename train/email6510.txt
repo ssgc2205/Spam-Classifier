@@ -1,0 +1,117 @@
+I try to predict the weather with a dataset of average temperatures in Berlin from 1980 until now. Link to the website: [https://oikolab.com](https://oikolab.com) . In the image I provided down below, you can see that the predicition is a linear graph, but it shouldn´t, what do I do wrong (LSTM-Model)
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+    def train_weather_model():
+        weather_data = pd.read_csv("Berlin-Wetter.csv", low_memory=False, names=["datum",
+                                                                                 "temperatur"])
+        x = weather_data["datum"]
+        y = weather_data["temperatur"]
+        dates = []
+        temps = []
+        a = 0
+    
+        for date, temp in zip(x, y):
+            a += 1
+            if a &gt; 1:
+                dates.append(float(date.replace("-", "").replace(":", "").replace(" ", "")))
+                temps.append(float(temp))
+    
+        inputDim = 1  # takes variable 'x'
+        outputDim = 1  # takes variable 'y'
+        learningRate = 0.01
+        epochs = 2000
+    
+        model = WeatherModel(inputDim, outputDim)
+        dates = np.asarray(dates, dtype=np.float32)
+        temps = np.asarray(temps, dtype=np.float32)
+    
+        #
+        norm = np.linalg.norm(dates)
+        dates = dates / norm
+    
+        dates = dates.reshape(-1, 1)
+        temps = temps.reshape(-1, 1)
+    
+    
+        criterion = nn.MSELoss()
+        optimizer = optim.SGD(model.parameters(), lr=learningRate)
+    
+        print("HELLO")
+        for epoch in range(epochs):
+            print("Step 1")
+            optimizer.zero_grad()
+            # Converting inputs and labels to Variable
+            inputs = Variable(torch.from_numpy(dates))
+            labels = Variable(torch.from_numpy(temps))
+            print("Step 2")
+            print(inputs.size())
+    
+            # Clear gradient buffers because we don't want any gradient from previous epoch to carry forward, dont want to cummulate gradients
+    
+            # get output from the model, given the inputs
+            outputs = model(inputs)
+            print("Step 3")
+            print(outputs.size())
+            print(labels.size())
+    
+            # get loss for the predicted output
+            loss = criterion(outputs, labels)
+            # get gradients w.r.t to parameters
+            loss.backward(retain_graph=True)
+            print("Step 4")
+    
+            # update parameters
+            optimizer.step()
+            print("Step 5")
+    
+            print('epoch {}, loss {}'.format(epoch, loss.item()))
+    
+    
+        data = {
+            "model_state": model.state_dict(),
+            "input_size": inputDim,
+            "output_size": outputDim,
+        }
+    
+        FILE = "Terra-Weather.pth"
+        torch.save(data, FILE)
+    
+        print(f"Training complete! Model named {FILE} saved.")
+    
+    
+        with torch.no_grad():  # we don't need gradients in the testing phase
+            predicted = model(Variable(torch.from_numpy(dates))).data.numpy()
+            print(predicted)
+    
+        plt.plot(dates, temps, 'go', label='True data')
+        plt.plot(dates, predicted, '--', label='Predictions')
+        plt.legend(loc='best')
+        plt.show()
+
+&amp;#x200B;
+
+    class LSTM(nn.Module):
+        def __init__(self, input_size=1, hidden_layer_size=1, output_size=1):
+            super().__init__()
+            self.hidden_layer_size = hidden_layer_size
+    
+            self.lstm = nn.LSTM(input_size, hidden_layer_size)
+    
+            self.linear = nn.Linear(hidden_layer_size, output_size)
+    
+            self.hidden_cell = (torch.zeros(1,1,self.hidden_layer_size),
+                                torch.zeros(1,1,self.hidden_layer_size))
+    
+        def forward(self, input_seq):
+            lstm_out, self.hidden_cell = self.lstm(input_seq.view(len(input_seq) ,1, -1), self.hidden_cell)
+            predictions = self.linear(lstm_out.view(len(input_seq), -1))
+            return predictions
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+https://preview.redd.it/cx7ozr2fkfk51.png?width=640&amp;format=png&amp;auto=webp&amp;s=db2b19f85564ee078226d11aac839c52f7fd156f

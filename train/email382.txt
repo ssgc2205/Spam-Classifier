@@ -1,0 +1,1 @@
+I found a dataset with every single reddit username, but it is too big. I would like to train an AI to generate usernames and the file size limit is 10mb. Could anyone help me ?

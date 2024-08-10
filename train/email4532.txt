@@ -1,0 +1,3 @@
+Hi, 
+
+I am trying to build an audio grader and for that purpose, I need datasets which have audio with MOS(mean opinion score). Most of the researchers who use graders to get this done doesn't release the dataset. Can you share any public datasets graded on audio quality?

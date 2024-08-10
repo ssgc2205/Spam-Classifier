@@ -1,0 +1,7 @@
+Hi guys,
+
+I'm working on a computer vision project and I'm looking for a specific type of dataset. The dataset should consist of aerial images of birds, preferably while the birds are on the ground. 
+
+I've already tried to look for videos which contain birds on the ground but had no luck finding anything useful. If you've come across such types of footages, please post a link in the comments.
+
+Thank you!

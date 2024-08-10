@@ -1,0 +1,7 @@
+I was wondering what would be the best method to approach acquiring the maximum amount of ecommerce data sets as I can.   
+
+
+So I know Amazon does not share its sales data with anyone, and everyone out there is just using own algo to predict with a high accuracy, like helium10 etc. What I am interested in are data dumps as this one: [http://snap.stanford.edu/data/web-Amazon-links.html](http://snap.stanford.edu/data/web-Amazon-links.html)  
+
+
+Its from 2013 or very old, but its still training data that I can use. I was wondering if anyone knew of other data dumps as such or api streams etc to receive such data. Is there any way to acquire other ecommerce and/or amazon sales data?

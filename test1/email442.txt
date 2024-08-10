@@ -1,0 +1,13 @@
+Hi guys, i dont know if this is the right place but i dont know where to ask elsewhere. Excuse my poor english pls. 
+
+Disclaimer: I dont know much about data and the specifics since i am just an Intern. 
+
+My Boss tasked with looking for a provider where my firm can upload huge sets of data from experiments and in that database can directly use analytics, ideally from the same provider, to help them analyse their data. 
+
+I already looked at MySQL, Azure SQl, AWS Redshift and Google Cloud. 
+
+In my limited understanding they seem pretty good but i fear that i am missing good services that are just not as big as those named. 
+
+So if you are using some of the mentioned services why would you choose them and why not? And are you maybe using other services that may be better then please tell me. 
+
+Thanks a lot.

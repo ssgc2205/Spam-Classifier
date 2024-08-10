@@ -1,0 +1,1 @@
+I have two excel files; one stipulating the level of military expenditure within a country and another the level of armed conflict the country is involved with. I would like to merge these two datasets on excel however am struggling slightly. Any help would be appreciated, thanks.

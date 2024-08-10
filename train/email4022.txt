@@ -1,0 +1,3 @@
+I'm looking at data integration and warehousing and I would like to carry out a proof of concept using a transactional, highly normalised database or dataset. I know that there are sample databases like Northwind and AdventureWorks but they are, quite frankly, extremely boring, and I would like to see if I can use something more interesting. 
+
+Most of the datasets that I have found on Kaggle or on this sub consist of one or two files and are, in effect, already denormalised. Do you know of any datasets that are normalised or any sample databases that I can download that contain real data? It really can be any subject.

@@ -1,0 +1,15 @@
+Hi Y'all, 
+
+I am looking for a large corpus of technical product descriptions to use in an ML project that I am working on.  An example of these kinds of data I am looking for might be like this NewEgg post for a coffee maker: https://www.newegg.com/Product/Product.aspx?Item=9SIA1JX4754385&amp;ignorebbr=1
+
+Specifically, I am looking for textual descriptions like the kind which can be found on the "Overview" tab.  Going with the example above: 
+
+"The Knox KN-TKCUP Travel Size Single Serve K-Cup Coffee Brewer is designed for people whose hectic morning routines don’t allow time to sit and enjoy a pot of coffee. The KN-TKCUP quickly brews coffee using a disposable K-Cup so you can quickly fill your travel mug and get out the door without worrying about waste or clean-up.
+
+Quick Set-Up with Minimal Clean-up
+The KN-TKCUP uses single-serving K-Cups to brew coffee so there are no coffee grounds to dispose of or coffee pots to clean. Just fill the tank with up to 12 ounces of water, place a K-Cup in the holder, and press the power button. When your coffee is done brewing, all you have to do is dispose of the K-cup and you’ll have a hot cup of coffee to enjoy on your morning commute.
+
+Save Money on Coffee
+Traditional coffee makers that use pots are great if you need to brew several cups of coffee at once, but, if you only need to make a single cup, you’re going to end up throwing out a lot of coffee. K-Cups are ideal in these circumstances because they allow you to make only the amount of coffee you need so you don’t needlessly waste water and coffee grounds."
+
+Anyone have an idea where I might be able to find a few million of these kinds of descriptions without scraping them?  

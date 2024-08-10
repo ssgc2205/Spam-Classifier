@@ -1,0 +1,9 @@
+I'd like to find a dataset that can be used to train ANN in order to predict the volume of traffic in a network.
+
+&amp;#x200B;
+
+If the dataset is heavily cited that'd be nice
+
+&amp;#x200B;
+
+thanks

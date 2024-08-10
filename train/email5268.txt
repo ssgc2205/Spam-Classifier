@@ -1,0 +1,8 @@
+I'm trying to find the latest 2015 Kickstarter data-set (e.g. csv / DB dump, or something similar)- to run some regression on for a school paper. Might anyone know where I could find it? Probably not much but could send a Paypal beer if you could help.
+
+The largest dataset I could find is from late 2013 with 87000 entries - however that's quite a long time ago, and I imagine the current figure is closer to 200,000 now. (github.com/neight-allen/django-kickstarter-scraper/issues/1)
+
+Alternatively if the 2015 data isn't possible, it would be super helpful if you just link me to the next best dataset out there, in csv / excel format that I could take a look at? (trying to work crawlers but struggling to get them working.)
+
+Much appreciated
+Thanks

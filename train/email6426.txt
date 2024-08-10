@@ -1,0 +1,6 @@
+I have been searching around through Google and can’t seem to find any good tools for end-users to assist them with converting existing data formats to a more open standard.  
+
+Moving spreadsheets to a CSV format is easy, but what about converting MS Word documents to a functional, and clean, XML format?  MS Word can save into an XML format, but it is not clean.  
+Can anyone recommend tools/applications that would be easily usable by end-users that would allow them to either format MS Word into usable XML or plain text to XML?  
+
+We are trying to get some traction on the Open Data movement but the largest obstacle we are facing is from day-to-day users.  An easy-to-use tool/application to help them put their data into a semantic format for Open Data would really help break that barrier.  They must exist but I am just not finding them.

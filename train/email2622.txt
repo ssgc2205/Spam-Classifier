@@ -1,0 +1,1 @@
+I am working on a fun project for beer detection, I was curious if anyone knows of a free db for beer label images

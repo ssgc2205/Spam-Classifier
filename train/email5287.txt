@@ -1,0 +1,6 @@
+Hi everyone, I wanted to share a method I used to turn two cool datasets (foot traffic data &amp; election results) into a third cool dataset (neighborhood-level political affiliation estimates). [Last spring I completed a project](https://link.medium.com/Lv3O88dqjkb) exploring how foot traffic data (from SafeGraph; 100% free for academics, significant free samples for others) could be used to estimate political affiliation at a more detailed level than currently available.
+SafeGraph’s data has been used widely to understand COVID-19 spread and  economic decline/growth in the US, but this was a new application.
+
+In my opinion, the greatest value of this approach is that the resulting political affiliation estimates are at the Census Block Group (CBG) level—the same level used by the US Census—so more powerful demographic analysis of election results is possible. Of course, this extends to understanding vote accessibility/suppression.
+
+*Note: My method did not supplement any estimates from vote-by-mail ballots, but it would certainly be feasible for a lot of counties across the US, depending how they report their election data.*

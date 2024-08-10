@@ -1,0 +1,25 @@
+I am looking for a website that provides parseable Cricket commentary data. The fields I am looking for are:
+
+* Bowler
+* Batsman
+* Run/No Run
+* Short Type(Drive, Pull, Hook etc)
+* Placement (On, Silly Mid-ob etc)
+* Delivery(Yorker, Bouncer etc).
+
+For instance, CT Final Between IND v PAK, commentary of delivery is:
+
+&gt;Fakhar Zaman to Pandya, 1 run, dollied up full and straight, Pandya leans on a punch down the ground to long-on (Ref: CricInfo). So fields here are:
+
+* Bowler: Pandya
+* Batsman:- Fakhar Zaman
+* Run/No Run:- 1
+* Short Type(Drive, Pull, Hook etc): n/A
+* Placement (On, Silly Midon etc):- Long-ON
+* Delivery(Yorker, Bouncer etc). Full Toss.
+
+(Source: [CT 2018 Final](https://www.espncricinfo.com/series/8037/commentary/1022375/india-vs-pakistan-final-icc-champions-trophy-2017))
+
+Basically I am interested to know what shot played by a batsman when a bowler delivered a certain ball and how many runs were made.
+
+Thanks

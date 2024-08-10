@@ -1,0 +1,5 @@
+Hi guys!
+I am writing my dissertation thesis (master student) on the claims used in e-commerce for food and beverage (EU and USA markets).
+Do you have any recommendation on datasets to use?
+
+Thanks in advance! :D

@@ -1,0 +1,5 @@
+I’m working on building a DFS (daily fantasy sports) model for the upcoming Major League Baseball season and I thought it would be useful to have salary data for either of these two sites. 
+
+I know I can pay for the data but before I do so, I wanted to be sure I can’t get it for free. 
+
+Thanks!

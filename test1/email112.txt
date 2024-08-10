@@ -1,0 +1,3 @@
+I'm putting together a study of historical trends in mass killings. (Are they getting more or less common, where are they a bigger problem, etc.) Does anyone know of a comprehensive data set of mass murders over the past couple decades in developed countries? I can find lots on mass killings within the US, and a semi-decent amount on mass _shootings_ in a handful of developed countries, but nothing internationally comprehensive for mass murders by all weapons. Even data from just about 10 developed countries would be useful.
+
+Anyone know a high-quality source? The columns I'm looking for are date, country, death toll, and weapon type.

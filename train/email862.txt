@@ -1,0 +1,2 @@
+With everyone now doing virtual meetings has any company released a dataset of real working level meetings with transcripts?
+possibly with some metadata about who attended and position in the company?

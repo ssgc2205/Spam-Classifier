@@ -1,0 +1,5 @@
+For a small project I need for teaching, I need a two dimensional, real world data. This can be from experiment, a survey, anything. I do not want to generate a random normal distribution from python. 
+
+For every (x, y) value on the grid, the data should have a density. So the data should have (x, y, z), where z represents the density. One peak (mean) only.
+
+Thank you in advance.

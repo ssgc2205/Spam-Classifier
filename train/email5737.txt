@@ -1,0 +1,7 @@
+Dear Reddit users, 
+
+I would like to inform you that my derived dataset on heart failure clinical records is now available on the University of California Irvine Machine Learning Repository:
+
+[https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records)
+
+Feel free to play with it!

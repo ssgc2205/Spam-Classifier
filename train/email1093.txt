@@ -1,0 +1,9 @@
+Hi Everyone!
+
+This dataset contains over 250k open socket addresses. It includes commonly used ports such as MongoDB, MySQL, Redis, etc.
+
+Free to download in CSV format.
+
+ [https://startup55.io/datasets](https://startup55.io/datasets)
+
+Regards,

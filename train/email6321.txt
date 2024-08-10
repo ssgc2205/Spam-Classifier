@@ -1,0 +1,4 @@
+I recently saw Hans Rosling's Tedtalk presentation "The best stats you've ever seen" and now I am motivated to create something similar for my college project. I am supposed to use Python's Bokeh library to create an interactive (drill up/down-able) visual.
+
+Any pointers would help a great deal.  
+Thank you.

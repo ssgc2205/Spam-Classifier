@@ -1,0 +1,7 @@
+Where can I find a dataset which just contains a large number of unlabeled sentences describing how a person is feeling?
+
+Eg. 
+
+He is almost in tears.
+
+She is filled with regret for what she did.  

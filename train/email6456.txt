@@ -1,0 +1,3 @@
+Hi friends. You guys helped me out a ton last time and now I'm looking for a miracle. I need to look up 2,000 zip codes to find their plant hardiness zones. I found this site http://climatesource.com/cgi-bin/csshop/zipdata.html that charges to look up data. They charge $.03 a zip code. The USDA lets you look up individual zones but I can't write a script because of the CAPTCHAs. I will withold my commentary on this. 
+
+Do you guys have any good sources for me so I don't have to pay $60? 

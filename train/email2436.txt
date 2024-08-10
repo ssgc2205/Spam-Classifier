@@ -1,0 +1,3 @@
+Idk if this is better suited for /r/webscrapping I have a client who’s in the medical field and wants to gain the contacts of all local podiatry doctors. 
+
+I tried to webscrape LinkedIn but they’re very restrictive about sharing emails especially to non-network. I know how to use selenium to get emails from public directories. Problem is I’m not really sure of a good source? Is there like Instagram for feet doctors lol.

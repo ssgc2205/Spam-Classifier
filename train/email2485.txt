@@ -1,0 +1,5 @@
+Hello,
+
+Related to this post : [reddit post](https://www.reddit.com/r/europe/comments/3d00g2/wind_power_generates_140_of_denmarks_electricity/) Do someone knows a dataset where I can find the consummation of energy (solar, nuclear, oil, all != types) by countries and by days ? 
+
+The best would be with a public fetch-able API, so I could make a little webpage with some data visualization.

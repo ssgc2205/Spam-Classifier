@@ -1,0 +1,9 @@
+Hello,
+
+I need to analyze a Dataset using HMMs. I am aware of movebank.org but the datasets I found there had coordinate measurements at different time lengths which makes it hard to calculate step lengths from.
+
+Does anybody know another free source of movement data that offers equal time intervalls? 
+
+&amp;#x200B;
+
+Thank you in advance :)

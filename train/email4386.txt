@@ -1,0 +1,5 @@
+I found Skyscanner provides some sort of API and I applied for it but it seems like they will not accept me. The problem is, even if they accepted me they only allow 50 requests per MINUTE... I need to receive a LOT of data (talking about millions if not billions of different prices for flights... )
+
+&amp;#x200B;
+
+Additionally, I would just update the plan but according to RapidAPI there doesn't seem to be one...? their page also does not make it clear how pricing works...

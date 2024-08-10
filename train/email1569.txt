@@ -1,0 +1,5 @@
+We are a bunch of students in a business analytics python class that are looking to do some statistical analysis on startups. Specifically Startup Location, series a funding (as a measure of overall success/going public), time between each round, category of startup (e.g. tech vs pharma) and location data. 
+
+If anyone knows where we can obtain these datasets please let us know. 
+
+Thanks

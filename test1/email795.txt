@@ -1,0 +1,7 @@
+I'm interested in using machine-learning and nlp to try and get insights into people, and key-logging allows you to capture the maximum amount of text data of a user. 
+
+I would like to try building a data-set on my own interactions with my computer and my phone, but was wondering why I couldn't find online any examples of this sort of thing being done.
+
+I would like to first test out the effectiveness of my dataset on learning about me, before offering for others to try out my work on themselves.
+
+People will obviously be sceptical of a keylogger being used to gather data (passwords, banking details, etc) but is there actually anything stopping someone honest from using a keylogger to gather data safely?

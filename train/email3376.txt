@@ -1,0 +1,1 @@
+I looked at guidebox and that seems preferable but it's not free. I'm a web dev student and am trying to build an app that shows the networks a show is on

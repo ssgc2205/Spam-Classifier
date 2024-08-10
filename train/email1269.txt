@@ -1,0 +1,3 @@
+I am trying to find datasets on brand deals and ultimately their affect on a companies revenue. For the project, I have to combine a few datasets so having a few would be great. I was thinking along the lines of the type of content, the amount paid, how many followers and how that all impacts audience engagement. For the second dataset I was thinking about looking for how much companies spend on online marketing (specifically brand deals if I can find it) and the percentage compared to revenue over the years. 
+
+If anyone has any suggestions on this  or a dataset in mind please let me know!

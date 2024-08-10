@@ -1,0 +1,5 @@
+Hi everyone! I'm working on an extra credit part for a school coding problem set, but I require access to temperature data for Hawaii, specifically: 
+
+&gt; "a dictionary with keys equal to the names of the state and values that are tuples of average yearly temperature data for each of the years 1895 to 2016"
+
+I can build the dictionary myself no problems, but to give you a better idea of what it looks like, [click this](http://i.imgur.com/qfjfkUU.png). HOWEVER, I can't find any of the necessary data for Hawaii anywhere, so I'm hoping someone can help me out!

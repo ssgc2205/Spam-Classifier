@@ -1,0 +1,11 @@
+I am looking for a freely (as in beer) available dataset about ETF and Investment funds.
+
+I don't need very granular data, just the year-over-year performance for the last 2 periods will be sufficient.
+
+I've tried looking in Morningstar but there's no download available...
+
+Also regulators have some data about it in PDF format because the laws says ETF and fund managers must report periodically...
+
+...but I can't see a CSV file or similar available.
+
+Any idea about how to find it?

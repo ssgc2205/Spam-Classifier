@@ -1,0 +1,1 @@
+I am looking for a dataset of hotel prices, I couldn't find any public dataset. Does anyone have an idea on where can I find these information (scraping booking to get prices is tricky, not as simple as getting info ) ?

@@ -1,0 +1,19 @@
+&amp;#x200B;
+
+[2x2 sample](https://preview.redd.it/d4edui2ptty61.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=3e90ecb4896f9d71b22ce6ecd8eb46a10c8fc027)
+
+A new version of my paired face2comics dataset is up. Can be used to train pix2pix and similar models. This time it's hires, crispy and much more artistic. Dark gray and red style.  10k paired 1024x1024 .jpg images.
+
+[10x10 sample](https://preview.redd.it/3nzwgs57sty61.jpg?width=2560&amp;format=pjpg&amp;auto=webp&amp;s=9dca906d2183846edf0e8254ffe5e23ccb6ec1bf)
+
+More info on github: [https://github.com/Sxela/face2comics](https://github.com/Sxela/face2comics/tree/v2.0.0)
+
+Dataset download: [https://github.com/Sxela/face2comics/tree/v2.0.0](https://github.com/Sxela/face2comics/tree/v2.0.0)
+
+Inference sample of a model trained on this dataset:
+
+[unet inference sample](https://preview.redd.it/i9mw64osrty61.jpg?width=512&amp;format=pjpg&amp;auto=webp&amp;s=9a7b2968e5b80aa658a1907680376c9cf60c05e0)
+
+Demo of a model, trained on this dataset: [comics.sxe.la](https://comics.sxe.la) (Works best on faces. \~40Mb, runs on tfjs completely in your browser)
+
+If everything went south, restart your browser and try a lower resolution setting with a more square-ish image. webgl is kinda needy.

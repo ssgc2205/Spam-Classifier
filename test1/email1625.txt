@@ -1,0 +1,1 @@
+I'm looking for a dataset of daily realized volatility of any stock, derivative, currency or commodity. As it is for a reasearch product for University and I need a fairly large dataset,  I do not have the time start collecting it myself. Can anyone help me?

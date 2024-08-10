@@ -1,0 +1,3 @@
+Anyone know a good place to get a complete list of all geotagged English wikipedia post-titles and their lat long coordinates. I'm looking to use it for a thesis.
+
+I've downloaded all of wikipedia through their website, but pruning through all (nearly)50gb of articles seems excessive.

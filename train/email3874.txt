@@ -1,0 +1,9 @@
+so Im looking for a dataset with data from **Primary , Secondary &amp; Tertiary Sales , and Marketing Data (ATL, BTL &amp; TTL)** for a company along with its competitor data (for relative measures). Something like from Canadean for primary, Dist to store level from the CRM and Nielsen (pos) for tertiary.
+
+Its almost impossible that I'll find an open dataset with all that info, but, just testing my luck. would be great if someone could point me in the right direction.
+
+&amp;#x200B;
+
+edit: 
+
+so the closest thing I found is the [AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks) dataset from Microsoft. here are the [Description document](https://www.devart.com/samples/documenter-for-sql-server/AdventureWorks2016-doc.pdf) and [schema](https://blog.sqlauthority.com/wp-content/uploads/2010/01/Adventureworks-800x496.jpg)

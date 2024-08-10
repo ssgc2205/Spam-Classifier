@@ -1,0 +1,7 @@
+Hi,
+
+I am looking for a dataset with company names and the Unternehmensgegestand, which is the business purpose of a company. It is mandatory for companies in Germany to write one. Mostly I am interested in companies in Germany. You find them normally in the http://handelsregister.de but it costs something do download them per company or they are hidden in some notification. An example would be [here](https://www.handelsregister-online.de/handelsregisterauszug/Bayern/Amberg/B-B-Office-Eisend-GmbH) from a third party site which shows the Unternehmensgegenstand in Neueintragungen. 
+
+I know that sites like https://offeneregister.de/ already scraped a lot of metadata about companies from the handelsregister but unfortunately I can' find the Unternehmensgegenstand in there. 
+
+If you know some dataset with them included would be great, thanks :-)

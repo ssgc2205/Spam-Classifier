@@ -1,0 +1,5 @@
+This dump will be massive and include all questions, comments, answers and user data for all stackexchange sites listed here:
+
+https://stackexchange.com/sites
+
+This includes all stackoverflow data.  

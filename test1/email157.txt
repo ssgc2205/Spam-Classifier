@@ -1,0 +1,7 @@
+Hello Everyone!  
+
+I'm trying to create a data visualization representing Turkey production by year in the United States.  I came across this [WASDE Report](https://webcache.googleusercontent.com/search?q=cache:kmnyxP-BiqAJ:https://www.ers.usda.gov/webdocs/DataFiles/51875/WASDE_TurkeyFull.xls%3Fv%3D43068+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=us&amp;client=ubuntu), but I don't understand the production values, or even if these values are reported in this dataset.  I was hoping that someone could help me interpret some of the data values in the report.
+
+I read earlier this afternoon that 243 Million Turkeys were produced in 2016, but I'm trying to derive that value by plugging in the values from Beginning Stocks, Total Supply, etc, and I can't arrive at the 243 Million figure.  Does the numerical value represent another unit of measurement?  It's my first time looking into agricultural datasets, but I saw a few that noted that measurements represented a certain amount of "Heads".  Does the 6,232 value in [162, H] represent a certain unit of measurement?
+
+Does this dataset contain Turkey production by value, or only by weight?  If it's only by weight, does anyone know of any datasets that contain total turkey production by year?

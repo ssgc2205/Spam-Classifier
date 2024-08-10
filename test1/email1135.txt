@@ -1,0 +1,1 @@
+Has anyone found/used something like this? Like a whole dataset of Nvidia GPUs with their specs or with Inter processors for example.

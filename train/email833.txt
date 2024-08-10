@@ -1,0 +1,1 @@
+I'd like a historical database (last 5-10 years, longer the better) that describes course descriptions or offerings for US universities, ideally by name. Course title and description, and in the dream world any syllabi, but I can't imagine a data-generating process that would yield that as well. Thank you, come again!

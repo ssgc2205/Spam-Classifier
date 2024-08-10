@@ -1,0 +1,1 @@
+many local libraries now loan out tools as well (source: [https://search.brave.com/search?q=powertool+lending+library+data&amp;source=web](https://search.brave.com/search?q=powertool+lending+library+data&amp;source=web)). are there any datasets out there that contain these tools along with borrowing data (like number of times/when that tool was checked out?)

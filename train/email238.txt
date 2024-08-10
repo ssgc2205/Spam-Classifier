@@ -1,0 +1,9 @@
+Hello friends,
+
+I need help. I am currently using Europeam Values Study data set (2017) and i did crosstab for two variables - country code and political party support.
+
+The problem is that i have been given all the countries and all the political parties.
+
+I would like to sort varibles in a way that i see only a specific country and the support for the political parties only in that country.
+
+Thank you im advance

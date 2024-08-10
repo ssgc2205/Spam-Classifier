@@ -1,0 +1,21 @@
+Hello, I am currently working on a final year project. I have decided that I want to work with summarising textbooks using seq2seq.
+
+I have found some implementations of seq2seq text summarization using TensorFlow on GitHub, so I have examples of working solutions I can learn from.
+
+I have run into the problem of not being able to find any datasets specifically where textbooks are given with summaries. 
+
+However, I have managed to find datasets for other types of texts; [TensorFlow's Scientific papers dataset](https://www.tensorflow.org/datasets/catalog/scientific_papers). Where papers are given with abstracts (which can be treated as a summary).
+
+I am not an expert in ML, but I am considering using these datasets and then fine-tuning the model using a small dataset I will manually create with Textbooks and summaries. 
+
+There are some similar characteristics between the data, so I would assume that the model would be able to transfer some things it learns from the scientific papers to the textbooks.
+
+&amp;#x200B;
+
+I do not have the slightest clue about how reasonable or successful this might turn out. I am looking any advice, resources or alternatives to what I have mentioned above.
+
+*What do you do when the dataset for the problem you're trying to solve does not exist?* 
+
+&amp;#x200B;
+
+Thank you.

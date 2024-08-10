@@ -1,0 +1,9 @@
+Hello All,
+
+I am developing a event trading algorithm as my final master's thesis.  I am looking for a data set that has the date and time of major historical economic events.  As one example, I am interested in the date and time of every FOMC meeting minutes release for the last 20 years.  
+
+The Fed website offers these dates but there don't immediately seem to be in a easily digestible form like a .csv file. [Example Data Source](http://www.federalreserve.gov/releases/h15/) 
+
+Do any of you know where I can get well-formatted data files that have these historical, as well as future events?
+
+Thanks for any help you can provide.    

@@ -1,0 +1,5 @@
+Hii Redditors,
+
+For a school project I'm looking for a large dataset that has interesting features to visualize in Tableau. Can anyone recommend me any sources (or even datasets) that I can work with? Any tips on what to pay attention to in regard to dataset features are also greatly appreciated!
+
+Thanks a lot from a beginner in data visualisation

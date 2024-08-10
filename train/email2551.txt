@@ -1,0 +1,3 @@
+I'm looking for a good dataset with up to date data on Time Zone and State by Zip code. Bonus points if you can get Canada data in this too. 
+
+I was looking at data.gov and kaggle and couldn't find anything that had all of those things at once. I may be missing something obvious here as I'm a newbie to working with data like this. If anyone could link me to a good dataset or help me learn how to search for one better I'd really appreciate it. 

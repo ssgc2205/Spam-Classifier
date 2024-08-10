@@ -1,0 +1,9 @@
+Hi all,
+
+I am trying to perform some simple stats analyses on some IRS nonprofit organization data, but they format all of their microdata in ascii.
+
+I'm having a hard time working with the files on any statistical software--my go-to is Stata. Apparently, ascii is supposed to be very compatible for importation into Stata. It looks like the delimiter is '+' but I really am not sure.
+
+This is the one of the example publicly available IRS files (in ascii as a txt file). (https://drive.google.com/open?id=12enNm1edXSStvNNz2UhHI8IvzKOdoIGp) How do I convert this into something understandable? How do I import this into Stata? What does the delimiter appear to be?
+
+Thank you for your help!

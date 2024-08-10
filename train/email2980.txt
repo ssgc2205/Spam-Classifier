@@ -1,0 +1,7 @@
+Hello, so I'm currently doing my college thesis on a classifier for homophobic tweets.
+
+I'm trying to find a dataset for only homophobic tweets but so far I have only found hate-speach that contained homophobic as one of them.
+
+Any dataset that is classified as hate-speach but has a field with Homophobic under some type of "Type" of column is also welcome.
+
+As for language it would need to be either English or Portuguese

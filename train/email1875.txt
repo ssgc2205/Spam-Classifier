@@ -1,0 +1,11 @@
+Howdy!
+
+I'm an academic researcher working on some statistical analysis for the following project: "Relational data between political parties, education, and income disparities."
+
+I'm throwing up a bat signal to this community because I can't seem to locate a complete dataset for 2018. ^(Some states offer this data publically, others only allow academic or political agencies to request this data. I do not need any personally identifiable data.)
+
+I only need the following columns: *US county name*; *US Census GEO\_ID* (if available); the *percentage of each major political party*. Optimally I'm looking for something in .CSV format but as long as I can put it in a table I'd be okay with that.
+
+Would anyone be able to help me?
+
+Cheers!

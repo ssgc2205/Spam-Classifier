@@ -1,0 +1,11 @@
+A new law took into effect stating that hospitals must publish their service prices to "empower patients and increase competition among hospitals". You can read the article [here](https://www.hhs.gov/about/news/2019/11/15/trump-administration-announces-historic-price-transparency-and-lower-healthcare-costs-for-all-americans.html).
+
+I'd like to collect this data and make some sense of it. There are 2 big challenges here: 1) getting the data and 2) making sense of it. I'm figuring out a way to do #1 - I have a list of 3300 hospitals (with the majority including a website) and am figuring out how to find the .csv/.xlsx documents (they are somewhere on the website). This is something I'm pretty confident I can do. However, I have no clue how to wrangle the data - especially since every hospital is going to have it formatted their own way. Here are 3 examples (google docs).
+
+[Example 1](https://drive.google.com/file/d/1_-FPcLjB06TxBRDbTVsiiDwb_DE87vvK/view?usp=sharing)
+
+[Example 2](https://drive.google.com/file/d/1ZDO_6iaNNGqpGiBhtNo-QacAaqjgSbT1/view?usp=sharing)
+
+[Example 3](https://drive.google.com/file/d/1NHIREbvaqC_jGbwHfPE4h35TcvF_ACtw/view?usp=sharing)
+
+I'm looking for some help here. I'm hoping you guys can give me some direction, or better yet, if someone would like to work with me on this that would be 100x better. The goal is create some meaningful insights/reports for consumers and hospitals.

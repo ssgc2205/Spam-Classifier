@@ -1,0 +1,9 @@
+Hi guys,
+
+I'm working on my research project about Coronavirus's impact on labour market. I'm currently focused on locating good data sources from economics, to science, to politics. I have done some researches but there’s not many databases that pool that type of information out there (which contain questions that specifically address Covid19). I'm interested in datasets that contain variables such as death cases, hours worked, earnings, benefit entitlement, home-working,... I found many websites offering great report or visualizations of existing data but not the datasets.
+
+Can you guys give me any suggestion on where to find those database?
+
+TIA.
+
+And feel free to reach out if you'd be interested in collaborating.

@@ -1,0 +1,8 @@
+Help in procuring any or all of these would be appreciated:   
+
+* List of post titles in a certain subreddit, in a given time period (if possible, with votes, but not necessary)  
+* Post titles + comments  in a certain subreddit, in a given time period (again, voting info optional)  
+* The above two, but across all subreddits, not just restricted to a particular subreddit
+
+
+If this (or a sample thereof) is already available, I'd be grateful for a link pointing me in the right direction. Thanks!

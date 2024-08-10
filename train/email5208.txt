@@ -1,0 +1,5 @@
+Stanford and the European Space Agency are currently hosting a public competition on pose estimation for spacecraft rendezvous applications. The link to the publicly available dataset as well as further info on the competition can be found below. Disclosure: I was personally involved in the creation of the dataset, please feel free to post questions below or on the competition website, thanks!
+
+&amp;#x200B;
+
+Link: [https://kelvins.esa.int/satellite-pose-estimation-challenge/home/](https://kelvins.esa.int/satellite-pose-estimation-challenge/home/)

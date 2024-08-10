@@ -1,0 +1,3 @@
+I've been requested to provide some dirty datasets for undergrad CS students to practice their data cleaning/wrangling skills on (order 100 Mb or more).
+
+Being In healthcare a lot of my datasets are not readily shareable buy I thought you guys might be able to help? Thanks!

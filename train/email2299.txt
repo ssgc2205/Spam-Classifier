@@ -1,0 +1,5 @@
+Hello, everyone! 
+I am pursuing my Master’s degree on track “Digital Business” and really am in search of a good dataset to use in my thesis. I want to connect my thesis to AI (artificial intelligence) and marketing, so looking for some datasets that could help enhance marketing industry and insights. Might be something like “The effect of AI on marketing....” or “Usage of AI algorithms in marketing practice” 
+Will run it through Rapidminer using one/ two of chosen algorithms ( I am not an expert in programming). Open to any dataset that can be a good idea to use in thesis! 
+
+Thanks :)

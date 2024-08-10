@@ -1,0 +1,7 @@
+Hi there, I would like a dataset that includes some kind of personality data from as representative a sample of the US as possible. As such I am wary to use data compiled from an online test or social network analysis. I will be using it in conjunction with economic/job/health data to answer some questions I've had on my mind after that guy got fired from google (he distributed a memo attacking google's efforts to hire more women and minorities). If I manage to come up with some answers, I may eventually publish my analysis online.
+
+It must have gender and age information and ideally would have location and income information. Also, It must have at least 10,000 data points, 50-100 would be awesome! Bonus points for sets that include children. A smaller set that tracks participants from a young age would be excellent too.
+
+It would really make my weekend if someone could point me in the right direction! I've been looking for quite a while today with no luck.
+
+Thank you!

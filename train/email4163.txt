@@ -1,0 +1,8 @@
+*help
+
+Hello
+I want to build a twitter dataset for academic purpose. My focus is the anti ACTA campaign on Twitter. Therefore my initial idea was to extract all tweet with #ACTA from a certain period of time (January 2012 - July 2012). But apparently it's close to impossible to access this kind of data with the twitter API.
+
+So another way I thought about was to select a population (MEPs, activisists) to extract their tweet with #ACTA. Would that be possible ?
+
+Another question: I've actually received some pretty interesting results using the new Advanced Search for Twitter - where I can select the relevant field. Is there anyway to scrappe Tweets from those fields or would I have to do that manually?

@@ -1,0 +1,7 @@
+Hello,
+
+I am new to posting here. I recently claimed to a bunch of friends that recognising doctors' handwriting specifically is a much easier task than the general problem of handwriting recognition. The intuition behind this claim is that the vocabulary is limited and there are inherent patterns that are imbibed by all medical practitioners that the algorithm can take advantage of (machine learnt or otherwise).
+
+Is there an open dataset of handwritten medical records that I can use for this purpose? I have done some googling before posting here and mostly drew a blank.
+
+Thanks in advance!

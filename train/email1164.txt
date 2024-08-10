@@ -1,0 +1,3 @@
+I've downloaded a large amount of texts (mainly novels) from Project Gutenberg (txt format, English) for a school project. I now need to identify their original publication dates, which are not inside the documents. So I require a dataset that relates the original publication date with the title and/or author of said text.
+
+Any other ideas are welcome as well!

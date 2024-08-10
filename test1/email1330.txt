@@ -1,0 +1,1 @@
+I've looked into Yelp, but their API only returns 40 addresses. Is there any other FREE API that can give me these addresses?

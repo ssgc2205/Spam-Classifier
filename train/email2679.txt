@@ -1,0 +1,5 @@
+I'm a programmer and looking to get competent with data mining. My state has the entire qualified voter file available for a meager price under the FOIA law. It contains name, address, birth date, gender and what elections they've voted in. I'm looking for some public domain or otherwise cheap data sets to correlate with it, but so far, I'm not coming up with much.
+
+Does anyone have any ideas on what I could look for to correlate with this stuff? I'm mainly looking to play with this for practice, just to see how much I can gather and maybe even spook some friends. 
+
+Thanks!

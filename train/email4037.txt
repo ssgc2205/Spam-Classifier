@@ -1,0 +1,7 @@
+If anyone here is in need of a reliable, ultra-affordable source for sports data, why not check us out at:
+
+https://www.MySportsFeeds.com
+
+We're aiming to make sports data available to everyone, whether lone wolf developer, student researcher, or large multinational corporation.
+
+Available in real-time via RESTful API, or we can push it to you post-game in XML/JSON/CSV formats.  You get boxscores, schedules, scores, play-by-play, and more.  And NO long-term commitments or contracts.

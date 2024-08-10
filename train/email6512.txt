@@ -1,0 +1,5 @@
+Im trying to make a model that recognizes full trashcans (from above or next to the can), or rather can distinguish them from full ones.
+Its pretty easy to  find data on just general trash detection (e.g. "paper" "can" etc.).
+
+
+I also found trashcan detection for Philadelphia but I think one could easily reuse the code/the model the person made to reproduce the same for other cities

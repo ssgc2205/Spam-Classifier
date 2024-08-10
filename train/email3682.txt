@@ -1,0 +1,9 @@
+I'm searching for some uncompressed audio. This likely won't be a dataset, but rather an API I can access to get uncompressed audio for certain songs. 
+
+I've checked out the [Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/), and that's halfway what I'm looking for (that provides metadata for a million songs), but I'd rather have access to the raw audio.
+
+My second-best option is using Spotify's API to get songs and route my analysis through the audio as it plays, but [the audio is still compressed using ogg vorbis](https://support.spotify.com/au/learn-more/faq/#!/article/what-bitrate-does-spotify-use-for-streaming).
+
+tl;dr I'm looking for some sort of API where I can pass in a track title and artist (or song ID) and get back a audio file/stream.
+
+UPDATE: Just stumbled upon [this list](http://musicmachinery.com/music-apis/). I'm going to look into some of these.

@@ -1,0 +1,5 @@
+Edit: ~~Haven't been able to find what I'm looking for so I've scraped all of qposts.online and am writing a parser to dump that into a machine-friendly format. Will make a post on the sub when I've got it complete.~~ Done. https://github.com/jkingsman/JSON-QAnon
+
+Interested in running some analysis for curiosity's sake (don't worry; Q people are nuts -- this isn't for self edification) but I'm having trouble finding an archive of Q's posts (or both Qs, as analysis that's been done so far would indicate) in any form, much less cleaned and labeled by source/date/etc. 
+
+Anyone got that floating around or know where I might go poking? Thanks so much!

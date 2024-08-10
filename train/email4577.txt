@@ -1,0 +1,1 @@
+I’m looking for country level yearly time series data that goes back to around the 1960s on poverty levels and income inequality. Everything I’ve been able to find so far seems to have a lot of missingness, especially before the 80s. Any ideas?

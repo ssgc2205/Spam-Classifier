@@ -1,0 +1,1 @@
+I've downloaded reddit corpus dump, and noticed that "down" votes are all set to be 0, whereas "up" votes counts are available. I'd like to compute controversy score on each reddit posting as Reddit website does, using the count of ups and downs, but I can't find the down vote counts in any version of the dump. Can anyone provide insight on why?

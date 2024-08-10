@@ -1,0 +1,5 @@
+The open street map has very few poi. The number of police station poi in osm are around 2000 in India. But actually, there are more than 16000. Google maps have more poi than osm. Could anyone please suggest how to create or scrape poi data? 
+
+&amp;#x200B;
+
+Thank you and really appreciate the help.

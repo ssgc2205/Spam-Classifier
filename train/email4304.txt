@@ -1,0 +1,5 @@
+Hi,
+
+I need to download the original MS-Celeb-1M (academic purposes). I tried on  [megapixels](https://megapixels.cc/datasets/msceleb/) but I could not find any link. There is a reference to a clean dataset ([https://github.com/PINTOFSTU/C-MS-Celeb](https://github.com/PINTOFSTU/C-MS-Celeb)), which, in fact,  its only a label list. At [academic torrents](https://academictorrents.com/details/9e67eb7cc23c9417f39778a8e06cca5e26196a97/tech) there is a torrent file, but this dataset is not the original, the images are already croped or aligned.
+
+Thanks in advance,

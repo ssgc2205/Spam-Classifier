@@ -1,0 +1,9 @@
+Hello frens,  
+I made available a dataset containing 5000 scientific paper - conference slides pairs for the purpose of automatic slide generation, it is [Available here](https://www.kaggle.com/andrewmvd/automatic-slide-generation-from-scientific-papers).
+
+All credits are due to authors that made it public:  
+Athar Sefid, Prasenjit Mitra, Jian Wu, C Lee Giles: Extractive Research Slide Generation Using Windowed Labeling Ranking. Proceedings of the Second Workshop on Scholarly Document Processing (2021).
+
+&amp;#x200B;
+
+Cheers

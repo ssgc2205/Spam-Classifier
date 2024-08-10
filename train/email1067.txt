@@ -1,0 +1,7 @@
+Hello all,
+
+I'm looking for relatively basic demographic information on international cities. Data like age, gender, language. All of the online sources I've found (UN data, Census, CIA Factbook, etc.) only list this at the granularity of countries. 
+
+Does anyone know where I can find this data at the granularity of cities?
+
+Thank you all!

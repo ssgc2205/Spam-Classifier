@@ -1,0 +1,1 @@
+I'm looking for datasets of anime or anime-style speech of diverse speakers with speaker label. Text transcription is optional. Preferably without background music and noise.

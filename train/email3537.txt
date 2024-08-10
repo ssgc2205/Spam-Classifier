@@ -1,0 +1,5 @@
+I'm starting on my senior project for my undergrad in Computer Science and I'm looking for a dataset made up of network traffic data. It doesn't need to be packet data but just something like NetFlow data that has source and destination information (IP, protocol, port number), when the connection occurred, how long it lasted and how much data was transferred. It can even have some level of sanitization and/or anonymization.
+
+I'm planning on trying to get some data from my University's IT department but if I can get some data from different environments like an office it would be superb!
+
+UPDATE: For any that might stumble upon this, I found a wealth of datasets here: https://www.quora.com/Where-can-I-get-the-latest-dataset-for-a-network-intrusion-detection-system

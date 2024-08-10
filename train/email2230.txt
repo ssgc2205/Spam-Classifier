@@ -1,0 +1,5 @@
+[https://www.kaggle.com/philipjames11/dark-net-marketplace-drug-data-agora-20142015](https://www.kaggle.com/philipjames11/dark-net-marketplace-drug-data-agora-20142015)
+
+This dataset by Philip James on Kaggle is not so popular yet and I don't understand why! We could learn so much about the happenings on the Dark Web and about vendors and their locations and the products they sell!
+
+This is essentially the Dark Market - Revealed! Hope you would like the dataset. Let's discuss ideas about what all information can we extract and use in order to curb the dark market activities!

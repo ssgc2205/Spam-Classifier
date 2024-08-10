@@ -1,0 +1,3 @@
+Are there any available datasets of argumentative sequences such as premise, claims, conclusion, or problem, solution, pros/cons?
+
+Thanks

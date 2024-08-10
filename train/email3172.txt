@@ -1,0 +1,7 @@
+Hi everyone,
+
+I am looking for textual datasets to perform document classification and topic modeling. Basically, the datasets must be composed of documents and each document must be associated with a single label. For example, 20 Newsgroups ([http://qwone.com/\~jason/20Newsgroups/](http://qwone.com/~jason/20Newsgroups/)). 
+
+It would be great if they belong to different domains (forums, news, social media posts, etc)  and are in different languages (not only in English). 
+
+Thanks :)

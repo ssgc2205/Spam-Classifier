@@ -1,0 +1,7 @@
+A friend of mine and I want to try out a combinational forecasting idea presented by our professor. We need to get historical information for a big group of stocks with some non-price variables.
+
+The professor's examples used these but I'm not picky, i just need something i can create 6 non price variables to attempt to try and run some combinations and forecasting with. even if i needed to create some of the variables from what's given, if you could give me an idea of what a reasonable variable might be (% change in price per change in volume?)
+
+my professor used the following: Net Profit Ratio Inventory Turnover Ratio Receivables Turnover Ratio Assets Turnover Ratio Self-Owned Capital Ratio Liabilities Asset Ratio
+
+We just need a few non-price variables to try and see if we can do the steps the professor demonstrated in class. If you had any suggestions to help us find a data set it'd be really helpful., thanks. here are some examples from my professor: http://imgur.com/DXR5ASW [1]

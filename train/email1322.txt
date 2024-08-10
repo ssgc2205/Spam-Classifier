@@ -1,0 +1,3 @@
+Hi guys! :)
+
+I'm new here and this is my first post. Does anyone know if there is a good dataset for beat tracking and tempo estimation? I can't seem to find anything out there.

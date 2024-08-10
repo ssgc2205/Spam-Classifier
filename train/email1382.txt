@@ -1,0 +1,3 @@
+It seems like the USGS Downloader web application is broken or something, it won't let me download any data with the error "Error occurred while processing Text file", same deal with the CSV file download option.
+
+I'm currently on Virginia's Department of Conservation and Recreation website to download trail data, but if anyone already has the data available and compiled, I figured it wouldn't hurt to request that.

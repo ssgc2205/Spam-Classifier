@@ -1,0 +1,6 @@
+new to this, was wondering if someone can tell me where to get started with pulling data from maps.
+
+here is what i'm trying to do:
+pull data points (bikes, docks) from this map all at once?  http://imgur.com/n5YjKEy
+
+this is the link to the (site)[http://www.bikesharetoronto.com/stations] 

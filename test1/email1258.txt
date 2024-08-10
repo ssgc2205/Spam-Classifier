@@ -1,0 +1,12 @@
+Where I can find dataset or mapping between UK constituency and it's county or [NUTS 2](https://en.wikipedia.org/wiki/NUTS_statistical_regions_of_the_United_Kingdom) area.
+
+For example 
+
+    E14000530, Aldershot -&gt; Hampshire
+    E14000531, Aldridge -&gt; West Midlands
+
+I'm was thinking about a little exercise where I try to see how UK parliament would look like if they used D'Hond's method instead of FTPT but for this exercise I need to combine smaller consitutencies into larger voting districts. I figured counties or NUTS 2 would be around correct size for my curiosity but I don't know how I could determine the county or region by it's ONS code.
+
+So, is there any easy way to go about it? Is there a dataset which contains the mapping between the ONS and NUTS?
+
+I was thinking of using the [Results and turnout at the 2017 UK general election](https://www.electoralcommission.org.uk/who-we-are-and-what-we-do/elections-and-referendums/past-elections-and-referendums/uk-general-elections/results-and-turnout-2017-uk-general-election) dataset from www.electoralcommission.org.uk . I hope the 2019 election results will be published in the same format.

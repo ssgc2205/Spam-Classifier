@@ -1,0 +1,5 @@
+Hi folks. I am searching for a humanoid image or 3D model dataset for a computer vision project. We are attempting to set up a CNN model that can predict primary joint locations based on a supplied image of a humanoid (just front view is fine, or front + side). 
+
+Does anyone know if such a dataset exists? Can be labeled or unlabeled, as we can label it ourselves if needed.
+
+Thanks!

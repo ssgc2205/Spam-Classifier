@@ -1,0 +1,3 @@
+Hello! I'm working on a visualization for school, and I would like to compare electric vehicles based on range, charge speed, and performance. I found the following [fantastic dataset on charge curves &amp; charge speeds](https://github.com/chargeprice/open-ev-data), but it doesn't include any info on 0 to 60, since the organization behind it focuses exclusively on building a charge planning app.
+
+I could simply use a separate dataset for the performance comparison of my visualization -- it doesn't need to be wholly comprehensive. If nothing exhaustive exists, then I might just come up with something myself using CarAndDriver testing data maybe? It would only include 15 to 20 vehicles since I would be building it manually in that case but that's fine. Thanks all!

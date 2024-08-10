@@ -1,0 +1,5 @@
+Hello everyone,
+
+I am currently taking a course on data privacy, and for my course project I elected to work on profile-matching algorithms. I would really like it if anyone could point me towards datasets that contain information on users of a social media network, as well as the public content they share on there (for example, twitter users and an example of their tweets). I am aware of SNAP and already checked out their Facebook, Twitter and Google+ datasets but they don't seem to contain anything pertaining to the content, only user information. Is anyone aware of such a dataset? Or am I better off just using some web scraping service to make one for myself, based on profiles on those datasets?
+
+Thanks in advance!

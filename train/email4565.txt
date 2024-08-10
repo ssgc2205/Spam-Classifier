@@ -1,0 +1,14 @@
+Hello everyone hope you are doing great! :D
+
+I've created (as the title says), an Othello Dataset in case anyone is interested! I guess that it is more helpful for people creating an AI for the game but still.
+
+It has around 25k games :)
+
+Hope it is helpful for someone!
+
+[Othello Database](https://www.kaggle.com/andrefpoliveira/othello-games)  
+
+Edit:
+I'm now creating another dataset that will have a better format to feed an AI with all the board configurations and respective moves of the winner of each game :)
+
+Have a great day!

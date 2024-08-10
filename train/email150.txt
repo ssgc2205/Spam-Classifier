@@ -1,0 +1,1 @@
+Does anyone know of any datasets on sports? More specifically, I am looking for the (x,y) coordinate point for each player over time. The actual sport doesn't matter too much.

@@ -1,0 +1,1 @@
+I want to train RNN to generate birthday wishes as a feature for my app that keeps track of your friends' birthdays and automates sending congrats messages.

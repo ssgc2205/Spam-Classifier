@@ -1,0 +1,6 @@
+Hi people!
+
+As part of my research, I need a dataset so that I can work on fairness in classifiers for university admissions.  Both, aggregated and individualised  datasets would be really useful. The dataset should contain some sensitive features that allow to test the fairness part. 
+
+
+Thanks a lot for your help before hand!

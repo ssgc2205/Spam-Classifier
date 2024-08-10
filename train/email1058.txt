@@ -1,0 +1,5 @@
+Hi r/datasets,
+
+This is the CEO of DoltHub. We run a monthly blog highlighting the progress we've made getting open data on DoltHub. Check out December's.
+
+[https://www.dolthub.com/blog/2021-01-04-december-dataset-spotlight/](https://www.dolthub.com/blog/2021-01-04-december-dataset-spotlight/)

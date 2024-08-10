@@ -1,0 +1,2 @@
+I am not too well known with APIs and don't need the complete IMDB database, but I would like to look at the full filmography of one single actor. 
+Any simple and free suggestions on how to get this, please?

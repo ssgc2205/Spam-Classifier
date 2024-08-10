@@ -1,0 +1,21 @@
+Greetings, experts!  I have just finished taking a course to master Tableau in preparation for a new career I am starting in a couple weeks.  I will be the Business Intelligence Analyst for a company primarily focused on **Utilization Management Services for Healthcare organizations**.  
+
+&amp;#x200B;
+
+Now that I am familiar with the BI reporting tool I'll be using there (I'm more fluent with SAP/BOBJ tools), **I'd like to practice by building a relevant dashboard**.  I'm an IT professional, but brand new to healthcare - so I'm not sure where to begin.  
+
+&amp;#x200B;
+
+I'd really appreciate any suggestions on:  
+
+ **1) where I could get some sample PHI data (or any healthcare data you feel would be applicable);** 
+
+ **2) and guidance on the types of analyses I should perform.\*** 
+
+&amp;#x200B;
+
+*\*It would help me greatly if you can simply provide some sample 'client requests' I might come across in my new role and I could determine what analyses and/or visualizations I need to provide the (pretend) client with a valuable solution as a dashboard.*
+
+&amp;#x200B;
+
+I am so grateful for your time.  :)

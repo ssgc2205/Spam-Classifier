@@ -1,0 +1,5 @@
+I am a data scientist working for a startup. I have been tasked to prepare a dataset for a keyboard typing sound. 
+
+The objective is to recognize keyboard typing sound and ignore every other sound while the input being a microphone. 
+
+I have generated a dataset with different sounds that are found in the office and then I have created a small custom dataset. But how would you guys approach this problem? Is there an easy way to do this without sacrificing the accuracy score?

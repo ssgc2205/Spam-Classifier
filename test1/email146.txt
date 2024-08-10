@@ -1,0 +1,8 @@
+I’m trying to find a dataset that has race or ethnicity by address or street ?  For a cities population.
+
+Reason is I’m trying to get an ethnicity and race breakdown from HOAs in a city compared to non HOAs. Hypothesis is that ethnicity / race is breakdown is different compared to the overall city
+Population. 
+
+There are many many HOAs in the city and willing to do it manually if I had the data by address or street. My first guess was census data but I couldn’t find an address or street breakdown on census data it just gave county or city breakdowns not as granular as I wanted. Unless I couldn’t just find it. 
+
+Anyone have any ideas willing to also purchase if free dataset wasn’t available. Looking for a city in California

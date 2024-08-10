@@ -1,0 +1,3 @@
+I would like to do localization and classification of different robots in a factory setting. 
+
+For example, in factory floor, there are a number of 6-axis, Scara robots and also a number of autonomous guided vehicles that i would like to detect and localize. Are there are any data-sets for this particular task?

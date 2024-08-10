@@ -1,0 +1,3 @@
+Hello, 
+
+Im looking for a sample dataset of a retail company that currently uses consumer data for marketing purposes, such as Starbucks, amazon, walmart and so on.

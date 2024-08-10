@@ -1,0 +1,9 @@
+Hi,
+
+I am trying to build an end to end machine learning project. I am looking for a dataset for a regression or classification use case where I could ingest new data every day or every hour (preferably using an API).
+
+I am looking for an use case that could be related to business/marketing purposes.
+
+Do you have any ideas on which publicly available datasets I could use?
+
+Thank you very much!

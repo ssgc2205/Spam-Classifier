@@ -1,0 +1,1 @@
+I am working on RNN and LSTM models for long term forecasting and I am looking forward some datasets. Can you mention some some useful time series datasets ? may be interesting datasets ?

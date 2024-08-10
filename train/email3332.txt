@@ -1,0 +1,1 @@
+I am doing a text analysis across a few different shows but am struggling to parse the data from genius.com.  Does anyone have a csv with some of the scripts from Game of Thrones?  I would ideally like the entire script from a season but I will take whatever at this point.

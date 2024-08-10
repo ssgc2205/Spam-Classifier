@@ -1,0 +1,9 @@
+[https://www.kaggle.com/maneesha96/breast-cancer-prediction-using-knn](https://www.kaggle.com/maneesha96/breast-cancer-prediction-using-knn)
+
+This dataset can be found in *kaggle*. I tried to predict breast cancer using K-Nearest Neighbors in python. 
+
+and gave an Accuracy of **0.956140350877193**  with a high precision and recall.
+
+I hope this will be helpful for your knowledge. 
+
+Feel free to comment.

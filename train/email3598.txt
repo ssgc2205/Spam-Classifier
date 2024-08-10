@@ -1,0 +1,1 @@
+I am working on a DL computer vision project and I need a dataset that has camera frames and lidar clouds simultaneously, where both of them are fitted on a road (lamp post). There are a lot of datasets of road cameras but I couldn't find any with both cameras and lidars. Thanks in advance :)

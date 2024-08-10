@@ -1,0 +1,5 @@
+The CDC offers its YRBS data set in ASCII format, presented in a .dat file. If you'd like to take a look, the dataset can be found here http://www.cdc.gov/healthyyouth/data/yrbs/data.htm
+
+I'd like to get the 2013 data into STATA ready for analysis. I don't have access to SAS or SPSS but I can try and do some things through R. I initially tried to open the ASCII data as a SAS file through R using the SAScii package but ran into some trouble (my hope was to have a SAS file that I could import into STATA).
+
+Thanks for any guidance at all, my dissertation thanks you!

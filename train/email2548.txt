@@ -1,0 +1,21 @@
+Hello guys, apoligies if this is not the correct subreddit.
+
+I am currently working on my Master's Thesis and I'm a bit of a csv novice.
+
+I am in possession of a very large comma seperated csv file that contains a bunch of data i need for my analysis. The data is scraped from a website (kickstarter). However, the way the data is presented makes it hard to use for analysis.
+
+The variables are as follows
+
+
+Title | Goal | Amount pledged | Is Funded | Amount of updates | Title of update | Text of update | likes pr update | comments pr update
+-----|----|--------------|---------|-----------------|---------------|--------------|---------------|------------------
+
+However, in the culonm 'title of update', 'text of update', 'comments pr. update'  and 'likes pr update' the data is presented in a single cell e.g. ['20 likes','35 likes'] for a project with 2 updates.
+
+I am looking for a way to present this better by seperating the observations into n-amount of rows, where n is the amount of updates, and the standard columns (title, goals and so on) are just empty.
+
+I am dealing with around 50.000 projects so this need to be automated in some way. Can you help me?
+
+Let me know if you need a screenshot or a sample uploaded
+
+Edit: a friendly guy pm'd me a script so I got it!

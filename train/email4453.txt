@@ -1,0 +1,7 @@
+I'm not sure if this is the subreddit to ask, but I've had a look around and I think this is the right spot:
+
+I've got some data that I'm drawing on to a map (worldwide Aurora Borealis / Australis visibility). I'd like to overlay some cloud cover onto it so people can see how cloudy it is in their area. I can find plenty of APIs that show cloud cover for a particular location, but nothing that covers the whole world.
+
+Ideally I'd like an image I could overlay on my map, or a bunch of points and values that I could loop through and draw to the map.
+
+Does anyone know of a such a thing?

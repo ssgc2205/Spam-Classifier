@@ -1,0 +1,30 @@
+Hey, I'm trying to find a dataset over the names of the population in Sweden. I'm able to get the dataset from the Swe Gov statistics side ( www.scb.se ) but it's a bit pricy 481.30 USD.
+
+So I'm looking for alternatives, do  you have any suggestions?
+I'm looking for something like this:
+
+
+
+name | agegroup | distrubution
+---|----|----
+David | 4 and under | 0.015228727949525336
+David | 5 and 9 years| 0.024853972304486768
+David | 10 and 14 years | 0.0277423357407906
+David | 15 and 19 years | 0.03194202202998982
+David | 20 and 24 years | 0.05380081705275726
+David | 25 and 29 years | 0.0590238677732386
+David | 30 and 34 years | 0.059322946540401975
+David | 35 and 39 years | 0.059322946540401975
+David | 40 and 44 years | 0.07174378723852556
+David | 45 and 49 years | 0.09646958292851374
+David | 50 and 54 years | 0.11895462899015556
+David | 55 and 59 years | 0.12210461318755926
+David | 60 and 64 years | 0.10335044305797797
+David | 65 and 69 years | 0.0754401315712463
+David | 70 and 74 years | 0.04944310480047759
+and so on.
+
+I'm looking for something like this for Sweden over as many names as possible. Any suggestions?
+
+
+

@@ -1,0 +1,3 @@
+I'm using the open [Reddit dataset in BigQuery](https://bigquery.cloud.google.com/dataset/fh-bigquery:reddit_posts). I'm trying to join comments to posts to measure the discussion quality of different kinds of posts. However, I can't seem to figure out how to join comments to posts. While posts have an id, comments don't seem to have anything that links them directly to a post. Do you have to rebuild the entire chain, linking parent to parent until you get to a post?
+
+For anyone that is familiar with this dataset: How would I go about joining comments to their post, without regard for maintaining the original comment thread hierarchy?

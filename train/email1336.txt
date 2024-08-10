@@ -1,0 +1,14 @@
+Hello, we are planning to release a dataset containing a decade of public posts and comments (billions in total) made on our social network. Is there any tool that can be used to scrub PII from the post and comment text?   Here are the columns we intend to include: 
+
+* PostID (Hash)
+* ParentPostID (Hash)
+* ProfileID (Hash) 
+* PostedOn (DateTime)
+* Latitude (decimal, rounded to .1)
+* Longitude (decimal, rounded to .1)
+* ImageID (integer, can be retrieved using a correctly formatted url)
+* PostText (utf-8 string)
+
+Is there anything else we should be aware of before we post the dataset?
+
+Thanks!

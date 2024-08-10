@@ -1,0 +1,7 @@
+ISM PMI historical releases
+
+Does anyone have ISM data, with more meat and potatoes than the index score? I have been managing to scrape the most recent postings, but I’m limited on how far back I can scrape since the oldest reports are only available in PDF form that I have been able to find.  Ideally I would like to be able to better evaluate the industries individually. 
+
+I tried posting this is r/algotrading to no avail. 
+
+Thanks for taking the time to read.

@@ -1,0 +1,1 @@
+Hello everyone, I'm looking for a dataset which contains jointed concrete pavement surface data labeled by some measurement of faulting (ideal from a highly accurate physical method rather than an estimating algorithm). I've looked around some online but I'm really not experienced in finding datasets like this, can anyone point me in the right direction?

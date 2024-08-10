@@ -1,0 +1,7 @@
+We just had an election here in Ohio.  I already have vote totals by precincts.  I want information about the ethnicities in these precincts.
+
+The census bureau collects ethnicity data, but I am having a hard time finding if they partition this data by anything more granular than state.
+
+The census bureau refers to stuff like voting precincts as "voting districts."  I am looking for ethnicity data by voting district, but I haven't found it yet!
+
+Any help would be very welcome!

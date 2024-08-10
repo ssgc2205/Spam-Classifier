@@ -1,0 +1,1 @@
+This database wouldn't even need to have all of the information - just post timestamp and the subreddit it was submitted to would be fine for my purposes.

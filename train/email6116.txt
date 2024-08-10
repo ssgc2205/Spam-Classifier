@@ -1,0 +1,1 @@
+As the title suggests I'm doing a project to find out how much deforestation has occurred by comparing images from a few years back to recent images. But I'm not able to procure the datasets nor am I able to figure out where to start the project from. Any help or suggestions would be greatly appreciated.

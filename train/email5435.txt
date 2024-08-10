@@ -1,0 +1,13 @@
+Im looking for a video dataset with (ideally) people performing some of the following actions:
+
+\- walking
+
+\- running
+
+\- Punching / smashing
+
+\- Looking in a car
+
+\- Crouching 
+
+I have found some on kaggle and other websites but im wondering if the people here know of any that i may not know about or have looked over. Any help is greatly appreciated.

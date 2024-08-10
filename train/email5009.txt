@@ -1,0 +1,1 @@
+I don't want any extra data. I know there are databases like MusicBrainz, but those files are massive and contain lots data I don't need. (Multi-gigabyte files can be problematic so I would prefer a more streamlined dataset.) I just want to match song titles to albums. Any suggestions? 

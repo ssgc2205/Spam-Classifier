@@ -1,0 +1,7 @@
+Hi guys,
+
+I have my project in my “Data Science using Python” class. We have to find a fairly large dataset where we can do some exploratory analysis to detect 3 interesting, nontrivial, and somewhat unexpected findings.
+
+My professor suggested we look at datasets on Kaggle or data.gov, but even though there’s tons of data on those sites I’m feeling a bit uninspired. Do you guys have any cool ideas or suggestions? 
+
+Thanks in advance!

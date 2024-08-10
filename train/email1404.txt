@@ -1,0 +1,7 @@
+Hey everyone, I don't know where else to turn so I wanted to ask reddit..
+
+I have a project I need to do and I have to research a large dataset and analyze it. 
+
+The issue I'm having is finding something large enough &gt;100k results, that will upload properly into IBM SPSS modeler ( if you know what that might be) 
+
+Mostly finding a quality dataset is my issue. If you can help, or point in the right direction, I would appreciate it! Thanks.

@@ -1,0 +1,3 @@
+For example, the average person in English speaking countries like USA and UK might know only 1 language. While countries like India, Switzerland might have an average of 2 or 3.
+
+I want to create a heat map visualization of this data set.

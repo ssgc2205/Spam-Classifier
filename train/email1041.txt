@@ -1,0 +1,7 @@
+Hello,
+
+I am looking for a dataset that contains all known diseases and medical conditions (example of some data: ulcerative colitis, broken upper arm, bleeding, Covid-19, etc.)
+
+If someone knows where I can find such a dataset, I'd be very grateful.
+
+Thank you very much

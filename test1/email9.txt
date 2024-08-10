@@ -1,0 +1,20 @@
+I just wanted to update everyone on the progress I am making to make available all 3+ billion comments and submissions available via a comprehensive search API.
+
+I've figured out the hardware requirements and I am in the process of purchasing more servers.  The main search server will be able to handle
+comment searches for any phrase or word within one second across 3+ billion comments.  API will allow developers to select comments by date range, subreddit, author and also receive faceted metadata with the search. 
+
+For instance, searching for "Denver" will go through all 3+ billion comments and rank all submissions based on the frequency of that word appearing in comments.  It would return the top subreddits for specific terms, the top authors, the top links and also give corresponding similar topics for the searched term.  
+
+I'm offering this service free of charge to developers who are interested in creating a front-end search system for Reddit that will rival anything Reddit has done with search in the past.  
+
+Please let me know if you are interested in getting access to this.  February 15 is when the new system goes live, but BETA access with begin in late December / early January.
+
+**Specs for new search server**
+
+* Dual E5-2667v4 Xeon processors (16 cores / 32 virtual)
+* 768 GB of ram
+* 10 TB of NVMe SSD backed storage
+* Ubuntu 16.04 LTS Server w/ ZFS filesystem
+* Postgres 9.6 RMDBS
+* Sphinxsearch (full-text indexing)
+

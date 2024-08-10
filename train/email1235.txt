@@ -1,0 +1,5 @@
+Working on a tool that draws insights between spotify artists. I'm trying to find a source for historical streaming data for all artists (for example, what were Khalid's streams in 2017? What about Bob Dylan's streams in 2018?) etc. Unfortunately spotify API only shares streaming data for songs that reach the Spotify Top200 charts. Wondering if anyone has this data, or has a workaround? 
+
+This is for a startup and there is a budget for dataset acquisition should it come to that.
+
+Thank you!

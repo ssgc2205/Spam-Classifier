@@ -1,0 +1,7 @@
+Hi,
+
+I found this website containing which music was played on the given radio station a given date and time internal in hours (i.e 1-2 PM, 2-3 PM and ...). I would like to download and analyze this data, however I am considering the legality of mining the site. It has data from now back to January 2010. So that's 24*(days from January 2010 till now) queries to the server from my computer alone. 
+
+I have two cases in mind. 1) Is it legal for me to datamine a website in that way and 2) could me querying the server that many time be considered spam and therefore maybe harmful? 
+
+Thanks

@@ -1,0 +1,33 @@
+# Interested in indoor localization? 
+
+**Dataset available containing high resolution ground truth location labels.**
+
+**Features:** Received Signal Strength Indicator (RSSI) (dB), accelerometer (x,y,z) (g).
+
+**Labels:** Actual participant location (x,y,z) (m)
+
+**Time:** UTC format.
+
+**Subject:** Human, four total, one per home.
+
+The data are intended to evaluate RSSI based indoor localization  methods with activity measurements provided from a user-worn wearable  device. Location labels are recorded automatically using a small camera  which registers fiducial floor tags, placed at a meter apart, as the participant carries out their  normal routines in a natural way. There are some scripted fingerprint experiments (as a standard RSSI training schemes) in each collection but the majority of the data is unscripted.
+
+Approximately **14 hours** of annotated  wearable measurements are provided.
+
+A user wears a wearable device on their wrist, which records  accelerometer data at 25Hz. This data is transmitted, at 5Hz, towards a  number of Bluetooth Low Energy access points (8-11) within the home.  The access points mark the packets with a Received Signal Strength  Indicator (RSSI) measurement and the accelerometer measurements are timestamped. 
+
+&amp;#x200B;
+
+There are some python scripts to get you started. We are working on a kaggle kernel....
+
+Data link with instructions: [https://www.kaggle.com/byrnoo/ble-accelerometer-indoor-localisation-measurement](https://www.kaggle.com/byrnoo/ble-accelerometer-indoor-localisation-measurement)
+
+Descriptor paper with all the juicy details: [https://www.nature.com/articles/sdata2018168](https://www.nature.com/articles/sdata2018168)
+
+&amp;#x200B;
+
+Have a play with it.
+
+&amp;#x200B;
+
+&amp;#x200B;

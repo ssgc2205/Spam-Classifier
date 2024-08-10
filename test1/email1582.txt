@@ -1,0 +1,7 @@
+As the title already says, I am looking for datasets that have the following two characteristics:
+(1) They are updated periodically (interval is irrelevant)
+(2) When the dataset is updated, old data is not retained (or at least no longer accessible to the public)
+
+An example of such a dataset is the Majestic Million dataset that is replaced each day with updated data: 
+[info] https://majestic.com/reports/majestic-million
+[csv] http://downloads.majestic.com/majestic_million.csv

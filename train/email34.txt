@@ -1,0 +1,1 @@
+Is there an image based dataset for rumor detection? I'm particularly interested in images with a label saying whether it is a rumor or not. If there isn't any, are there any good sources to mine data from? TIA.

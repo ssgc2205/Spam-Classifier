@@ -1,0 +1,3 @@
+While there are a plethora of data sources regularly updated by the government around unemployment, I'm having trouble finding a dataset that compiles weekly unemployment claims by state. Essentially what I need is the state data contained in page 5 of the weekly Department of Labor unemployment news release, but with historical weekly data:
+
+ [https://www.dol.gov/ui/data.pdf](https://www.dol.gov/ui/data.pdf)

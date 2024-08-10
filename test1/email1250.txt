@@ -1,0 +1,24 @@
+Hello all,
+
+I have a week off and wanted to do a quick RPA project, mostly for the COVID-19 pandemic, but can be for anything. If anyone needs a specific dataset that needs to be scraped, gathered, or organized in some fashion, comment it below!
+
+&amp;#x200B;
+
+**Update:** So I did some research today and concluded that I will attempt to do 2 of the most requested datasets this week, time permitting and prioritized as follows.
+
+1. Coronavirus daily cases count per country, updated daily. Might upload to a GitHub for it unless we have another suggestion for that.
+2. Instead a strict data set for someone yawning for example, Im going to be looking into building a solution that can easily mine data of whatever type of picture using google images. While this may lead to some junk in the data, I believe the dynamic / generic value of the bot will be greater. I can distribute a how-to-guide on using the bot, and ways to improve the data it mines. If anyone has any other suggestions, please feel free to comment.
+
+If either of these fall through, I will be working on a dataset for the environmental or social factors to compare the impacts of covid. Thanks for all of the awesome ideas! I will look to post the links here.
+
+Also thanks for the award!
+
+**Update 2:** I have mostly been working on the generic solution to data mining desired pictures, however I also created this repo with the initial upload of COVID-19 cases. If anyone has any suggestions, please let me know. I will be working on a way to collect older daily data, though I plan on updating this every night at 9PM EST, which will represent that current day's case count.
+
+That can be found here:  [https://github.com/Ryzen120/COVID-19\_Daily\_Cases](https://github.com/Ryzen120/COVID-19_Daily_Cases)
+
+**Update 3:** Discontinuing my daily case project, as I found this.
+
+[https://ourworldindata.org/coronavirus-data](https://ourworldindata.org/coronavirus-data) \-&gt; Chart -&gt; Data -&gt; Download csv.
+
+I am still continuing on the picture mining bot.

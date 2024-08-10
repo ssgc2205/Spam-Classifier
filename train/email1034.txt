@@ -1,0 +1,13 @@
+Hello all,
+
+Last year I worked on a grad school project, analyzing tweets regarding Amazon's HQ2 location. We collected tweets from late September 2018 (project start) until the official location decision announcement.
+
+The purpose of this project was to determine if sentiment regarding HQ2 cities (as determined via Twitter) could be used to predict which city Amazon would select. Additionally, we found housing price data in each of the 20 finalist cities; our goal was to explore whether sentiment regarding HQ2 was correlated with an increase in housing prices.
+
+At the attached GitHub link, you will find my .py file using twitter API to collect tweets and store them in a MySQL database, hosted on Python Anywhere. (Really good skill to have, review the code if interested.) A jupyter notebook contains code for our analysis. Additionally, a corpus of tweets regarding HQ2 (separate from training data) has been uploaded, where tweets were tagged as positive or negative sentiment.
+
+Lastly, (and likely of most interest to everyone) a .csv file with 2300+ tweets regarding HQ2 and various finalist cities has been uploaded.
+
+I hope this dataset is useful to you; it certainly was a fun and rewarding project for me.
+
+[https://github.com/jdmoore7/hq2Analysis](https://github.com/jdmoore7/hq2Analysis)

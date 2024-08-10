@@ -1,0 +1,1 @@
+I have a crude project I am working on, and I was wondering if there are any datasets of audio files where people are saying different curse words. Doesn't necessarily have to be multiple different words, a large dataset of one curse word (AKA a large dataset of people saying fuck) would be ok. Thanks!

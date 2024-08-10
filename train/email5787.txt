@@ -1,0 +1,3 @@
+I am looking to get a dataset from a particular subreddit. I would like the post text, and comment text, and number of upvotes for those comments. 
+
+To simplify things, just the top post, and top 5 most upvoted comments would be fine too.

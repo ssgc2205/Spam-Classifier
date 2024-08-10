@@ -1,0 +1,3 @@
+I am making a project for which I need a dataset that contains each second information for each round in a valorant match like the number of players alive, weapons they have , team score , abilities used, and much more.
+
+I have tried using the valorant API. is there any dataset that i can use or any method by which I can fetch it?

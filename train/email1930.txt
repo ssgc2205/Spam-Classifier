@@ -1,0 +1,24 @@
+ I observe a strange problem when working with the Fama-French datsets published on Kenneth French [website](https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html).
+
+The Datasets compute different portfolios using price data at the beginning of t (Opening price). One of them is the excess return on the market, value-weight return of all CRSP firms incorporated in the US and listed on the NYSE, AMEX, or NASDAQ. For the risk-free rate, the one-month Treasury bill rate is used. 
+
+Firstly, I  use the "Fama/French 5 Factors (2x3) \[Daily\] dataset". I merge it with a dataset composed of  the opening stock prices of different companies obtained from Refinitiv Eikon Datastream (RED). I compute the monthly excess return (ER) of each stock. Furthermore, I use the one-month Treasury bill rate to compute the excess returns, provided by the Fama-French dataset.  Then regress each company's time series of excess return on the Fama-French factors. Mainly for now, I want to focus on the CAPM, thus on the market excess return (mktrf).
+
+Hence, regress: ER on mktrf. 
+
+For this regression, I obtain significant results for the market excess return on the 1% level. I can mostly reject the existence of a constant. That aligns very well with the CAPM theorie. Moreover, plotting the ER and the mktrf I can see the positive correlation. Plotting companies ER and ß with a linear fit, I can observe the Security Market Line (SML) too. 
+
+The problem:  Secondly, I  use the "Fama/French 5 Factors (2x3) dataset". This contains monthly and yearly factors. I clear the dataset for monthly data only. Then, I merge it again with opening stock prices of different companies from RED. Similarily, I compute the ER.  Again, I regress each company's time series of excess return on the Fama-French factors. Focusing on the CAPM I run the regression:  
+
+Regress: ER on mktrf. 
+
+For this regression, I obtain no significant results for the market excess return. However, I cannot reject the existence of a constant, it rather is signifiacnt and takes a value close to 1.  That aligns not at all with the CAPM theorie and honestly leaves me clueless.  Plotting the ER and the mktrf I can see no correlation at all, aswell as no SML when including a linear fit in the ER and ß plot. 
+
+I checked the company's prices. They are correct. I controlled how I computed the returns. They are correct, too.  I downloaded the Fama-French factors multiple times, and they do not change. 
+
+Can someone explain this to me? 
+
+Thank you for reading!
+
+Have a great day. Best for you,  
+Losyres

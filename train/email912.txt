@@ -1,0 +1,7 @@
+Hello,
+
+I was not able to find aggregated historical quote data for multiple companies. It took me a few days to collect the data. I thought I'd share.
+
+https://keynes.ai/company-stock-quote-historical-data-set/
+
+feedback and questions are welcome

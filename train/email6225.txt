@@ -1,0 +1,11 @@
+I am looking for dataset for journal editorial board members includes:
+
+* name
+* country
+* institution 
+
+Any help are welcome.
+
+&amp;#x200B;
+
+if not available what is the best website can help me to collect such a data manually using web scraping tools.

@@ -1,0 +1,5 @@
+Im looking for help in organizing my data in SPSS. I have about 182 countries, each with 60 years of data on fertility rates and mortality rates.
+
+I am having trouble converting the "year" variable that I imported, so that SPSS will recognize the numbers as dates. There is no "yyyy" option only a variety of"mm/dd/yyyy" options. I would eventually like to do time lags, so this is necessary.
+
+I also need a better way of separating countries. Currently, Im using the "Split File" function and splitting by Country Name. Is there a better way to do this? 

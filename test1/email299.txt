@@ -1,0 +1,5 @@
+Hi wondering if there are any nice earthquake prediction datasets that are open source? (Other than: [https://www.kaggle.com/c/LANL-Earthquake-Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction) because I'm looking for predicting magnitude)
+
+&amp;#x200B;
+
+Thanks so much!

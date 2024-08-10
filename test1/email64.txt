@@ -1,0 +1,13 @@
+I remember seeing a post with a nice data visualization of multiple words (like sure, absolutely, maybe,...etc.) and how do people view these words in terms of certainty (?)  
+
+So basically something like:  
+
+Sure (people think that this indicates 80% certainty)  
+
+Maybe (people think it means 40%)  
+
+Doubt (people think it means 20%)  
+
+And so on.  
+
+It was a really cool chart and want to use it for something school related. Would really appreciate if someone could help out!

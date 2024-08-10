@@ -1,0 +1,7 @@
+Hello,
+
+I am having trouble finding datasets from planes/drones/satellites that contain the labels in a ground truth variable such as the one that is outputted from the image labeler application in MATLAB. This is for my university project and so far I have had to manually label objects in images using the application as I cannot find any that have ground truth variables to import.
+
+&amp;#x200B;
+
+Any help would be much appreciated, thanks.

@@ -1,0 +1,7 @@
+I'm working on an example lead scoring project, but most lead data is proprietary to the companies. Are there any example lead scoring datasets that include things like:
+
+- Visit History
+- Event History (Clicks, Form Submissions, Registrations)
+- Purchase/Conversion Data (Labels)
+
+Thanks!

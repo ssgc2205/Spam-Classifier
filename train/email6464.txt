@@ -1,0 +1,8 @@
+Hey Community. :) 
+I’m not exactly sure if I’m right here, but if not it would be great if you could refer me to the right place. 
+
+Anyways, I’m learning python and more specifically dictionaries ATM and I had the idea to compare the usage of vowels and characters in general across some different languages. 
+
+Therefore I thought it would be cool, to compare these all by analyzing the same text (context wise) to get comparable results. And finally plot them in a bar graph. 
+Do you know a good text I could use, that is accessible over a couple of languages for free? 
+Thanks in advance. :)

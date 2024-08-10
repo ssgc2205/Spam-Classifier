@@ -1,0 +1,11 @@
+Hello fellow data people,
+
+I am a statistics major in my senior year of college looking for a data set I can base my next project on.  Specifically, I am looking for a data set pertaining to ecommerce for which I can run a logistic regression on.
+
+I was thinking that the response variable (which duh...needs to be binary) would be something like whether or not the customer bought anything (1 if yes; else 0).  Predictors could be the amount of time spent on the page, number of clicks, visits per week, number of ads on page, etc., etc.
+
+Ideally the data set would have at least 1000 rows and not be a *complete* nightmare to clean up...though some cleaning is always expected.  
+
+I've seen a few sets on kaggle already, but none of them seem to be appropriate for a logistic regression. Any thoughts?
+
+Thank you in advance!

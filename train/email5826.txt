@@ -1,0 +1,9 @@
+So i have some  longitude and latitude location data. I need the know what census tract these data points fall under by looking at the  longitude and latitude coord. So i used [this census bureau api](https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-73.77855&amp;y=41.13997&amp;benchmark=9&amp;vintage=910) to do just that. For this api i set the benchmarks to 2010. So now i have the what 2010 census tracks for each data point
+
+&amp;#x200B;
+
+Now the problem: I used some NYC census track shapefiles and im always missing a few tracts. For example, i would have a tract called 44.02, but there would be no tract 44.02 in the shapfile.
+
+&amp;#x200B;
+
+Where can i get the exact 2010 census tract shapfile that i have the data for?

@@ -1,0 +1,13 @@
+I have been looking for a data set that contains US Company Stock Market info for any subset of sectors Energy/Consumer/Finance/etc - with their daily price close 
+
+Any help in pointing me towards the right compiled source will be much appreciated.
+
+I tried google fin, but it only allows me to download 1 company at a time, and I am of the belief that this info exists compiled somewhere.
+
+[Request] Stock Market historical Data
+
+Data points
+-Daily Price Close [Time span at least 10yrs] or Weekly Avg Price close
+-Company Ticker/Name
+-Sector
+-Any other company financials

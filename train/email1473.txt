@@ -1,0 +1,2 @@
+Hey, I am looking for a dataset about XG and also specifies what kind of shot was it - shot on target, off target, goal. This will help me evaluate the keeper stats and the XS.
+Any help would be appreciated.

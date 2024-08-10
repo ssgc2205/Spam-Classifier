@@ -1,0 +1,1 @@
+Hello, I wanted a dataset of satellite images showing carbon emissions in various parts of the world, didn't find anywhere on the internet.

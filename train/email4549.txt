@@ -1,0 +1,7 @@
+Hello everyone,
+
+I am trying to build a model to predict diseases in patients, looking at their health record dataset.
+Looking out of visits, diagnosis codes, physicians, medication, transcript data etc.
+
+Any lead is much appreciated. Welcome to join building the solution as well. 
+I have previously build a model on predicting single disease (diabetes) using similar dataset.

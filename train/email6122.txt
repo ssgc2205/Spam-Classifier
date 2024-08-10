@@ -1,0 +1,9 @@
+I have to make a dashboard for a project in school and cannot find any good datasets!
+
+&amp;#x200B;
+
+I have looked on Kaggle, but everything I find is either uninteresting (I am presenting for college students, so I want to keep them engaged) or not enough context to the data.
+
+&amp;#x200B;
+
+If anyone has any suggestions for a dataset, please let me know!

@@ -1,0 +1,16 @@
+Hi,
+
+Is it possible to access order book info for a given stock for free?
+
+I'm reading an article that uses the following infofor trades:
+
+Datetime
+Type (Bid, Ask, Trade)
+Price
+Size
+qBid
+Bid Price
+qAsk
+Ask Price
+
+I'd like to find similar data to recreate the paper for Apple stock. Any ideas where I could find this? The paper claims it was obtained from Bloomberg but when I search for stock I for there, I just can find open and close prices. I'm not a finance person - can anyone help please? 

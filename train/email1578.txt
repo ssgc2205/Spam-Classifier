@@ -1,0 +1,6 @@
+Hi guys,
+
+I am looking for a datasets/databases with companies that raised all kinds of funding, private equity etc. I know these are very common, but I look specifically also one that contains the rationale/purpose of the funds raised. Where are they going to spend the money on. Is it product development, perhaps entry of foreign markets and so on. 
+
+
+Thanks.

@@ -1,0 +1,9 @@
+After a quick search, I found this old post: [https://www.reddit.com/r/datasets/comments/bmxvz/magnatagatune\_annotated\_music\_audio\_clips\_dataset/](https://www.reddit.com/r/datasets/comments/bmxvz/magnatagatune_annotated_music_audio_clips_dataset/)
+
+But there doesn't seem to be a way to get to the data (if anyone can see it, please let me know).
+
+I'm trying to create procedurally generated music by stringing short clips together (maybe 5 to 20 seconds long each), so I'm looking for a set of audio files (such as WAV or MP3) of music from various categories.
+
+When I say categories, I mean upbeat, sad, angry, loud, soft, calm, etc. -- not just musical genre.
+
+Does anyone have any leads on that?

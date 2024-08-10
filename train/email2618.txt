@@ -1,0 +1,3 @@
+I know there are publicly available APIs from websites like 192.com, but they cost quite a lot per look up and i don't have that sort of money for the number of look ups i wish to perform. I also don't require current data.
+
+Preferably, i'm looking for a free dataset.

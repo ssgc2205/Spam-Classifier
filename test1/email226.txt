@@ -1,0 +1,1 @@
+I have some Olympic data already, which is helpful, but it would be ideal to have, say, all participants and their results for a given event, rather than just the medalists.

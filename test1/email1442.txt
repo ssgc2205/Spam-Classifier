@@ -1,0 +1,20 @@
+In Hubspot CRM, when you enter a new lead (a business), it will go out and try to autofill as much information as it can such as # of employees, revenue, website, description, HQ address, etc
+
+Any guesses what API they're using or one could use?
+
+My search of this forum turns up
+
+* [https://api.opencorporates.com/documentation/API-Reference](https://api.opencorporates.com/documentation/API-Reference)
+* [https://www.endole.co.uk/](https://www.endole.co.uk/)
+* [https://companycheck.co.uk/](https://companycheck.co.uk/)
+* [corporationwiki.com](https://corporationwiki.com)
+* Linkedin API (probably expensive?)
+* [https://www.openfigi.com/](https://www.openfigi.com/)
+* [https://www.nasdaq.com/market-activity/stocks/screener?exchange=NASDAQ](https://www.nasdaq.com/market-activity/stocks/screener?exchange=NASDAQ)
+* [https://unibit.ai/insight/news](https://unibit.ai/insight/news)
+* [https://finviz.com/](https://finviz.com/)
+* [https://uscompanyleads.com/](https://uscompanyleads.com/)
+* [https://www.businesslistdatabase.com/](https://www.businesslistdatabase.com/)
+* [https://www.sec.gov/edgar/searchedgar/companysearch.html](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+
+Has anyone had success with any of these or know of other options?

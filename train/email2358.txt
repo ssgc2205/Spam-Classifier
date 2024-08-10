@@ -1,0 +1,3 @@
+Hourly weather data is available from observations, but also from models that estimate local weather conditions - a bit like weather forecasts for the past. I’ve compared estimates from Oikolab and ERA5 to observations from the Royal Netherlands Meteorological Institute (KNMI), for three locations in the Netherlands. 
+
+[https://dirkmjk.nl/en/442/weather-data](https://dirkmjk.nl/en/442/weather-data)

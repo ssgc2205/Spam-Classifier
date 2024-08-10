@@ -1,0 +1,7 @@
+Basically what I'm looking for is the error in the forecast for rain, temperature, wind speed, and humidity in forecasts.
+
+I've found a lot of daily forecasts (i.e. predicted in the morning for that day), but I'm having a lot of trouble finding the forecast for the next day.
+
+I would like as much data as I can get, so manually going through web archive is not efficient. If possible, I would like data for Canada.
+
+Thanks in advance!

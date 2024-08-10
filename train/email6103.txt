@@ -1,0 +1,5 @@
+Hi,
+
+Does anyone know a dataset for scam or fraud detection based on SMS message or text?
+
+If no, do you know any similar tasks?

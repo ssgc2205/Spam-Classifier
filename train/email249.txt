@@ -1,0 +1,5 @@
+API:  http://www.quandl.com/help/api-for-stock-data
+
+Via Web:  http://www.quandl.com/stocks
+
+Feedback welcome and appreciated.

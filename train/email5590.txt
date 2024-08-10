@@ -1,0 +1,5 @@
+Yet another dataset of books. This is a large collection of books. Data was extracted from [bookdepository.com](https://bookdepository.com). Any comment, feedback or proposal is more than welcome.
+
+[kaggle dataset](https://www.kaggle.com/sp1thas/book-depository-dataset)
+
+[github repo](https://github.com/sp1thas/book-depository-dataset)

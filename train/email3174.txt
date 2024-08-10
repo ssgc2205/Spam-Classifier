@@ -1,0 +1,5 @@
+Specifically, historical information for restaurants operating within the last 20 years. I've used the [Companies House](https://beta.companieshouse.gov.uk/) website to mixed success and was wondering if there were other resources that I've overlooked. In the US I would check either the local or county government sites and/or the Better Business Bureau.
+
+Some of the information I'm seeking: incorporation date, dissolution date (if applicable), names of directors/owners.
+
+Thanks in advance.

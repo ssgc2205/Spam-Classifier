@@ -1,0 +1,7 @@
+Here is a blog and code (created by a co-worker) that uses synthetic data generation to remove bias in the Adult Census Income dataset from Kaggle ([https://www.kaggle.com/uciml/adult-census-income](https://www.kaggle.com/uciml/adult-census-income)) by boosting minority classes such as gender, race, and income level in the dataset with synthetic records.
+
+Hope you find this useful!
+
+Blog: [https://gretel.ai/blog/automatically-reducing-ai-bias-with-synthetic-data](https://gretel.ai/blog/automatically-reducing-ai-bias-with-synthetic-data)
+
+Code: [https://github.com/gretelai/gretel-blueprints/tree/master/gretel/auto\_balance\_dataset](https://github.com/gretelai/gretel-blueprints/tree/master/gretel/auto_balance_dataset)

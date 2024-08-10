@@ -1,0 +1,5 @@
+Here's the link to it:
+
+http://public.tableausoftware.com/views/PublicDataList/TableauPublicDataCatalogue
+
+It's nothing special. I made a few rankings, which are largely objective (just me), but gives a good idea of where to find clean public data. You can click on the bars to jump to the website for that dataset/data website.

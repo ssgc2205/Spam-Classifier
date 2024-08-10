@@ -1,0 +1,1 @@
+I am curious whether they have somehow scraped the data from somewhere, is it a publicly available API? Would like to build something with that data.

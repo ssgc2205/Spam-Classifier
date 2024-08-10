@@ -1,0 +1,3 @@
+Team,
+
+I am looking for a big dataset on any topic with at least 1 million rows of data and at least 50 columns for an assigment. Excel and Jason needed, but I can convert from most formats. Thanks for help.

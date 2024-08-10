@@ -1,0 +1,1 @@
+Is there a compiled dataset of notable events happening on a specific day or other interesting facts associated with it? I've only seen stuff like this on websites, but you'd have to scrape it to create a dataset.

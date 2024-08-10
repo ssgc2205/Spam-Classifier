@@ -1,0 +1,13 @@
+I'm looking for data that lists (ideally by country or lifestyle) the energy consumption of the average person broken down by end-use. Bonus points for CO2 footprint or climate impact.
+
+I'm looking specifically for a data set that includes end-uses like 
+
+* residential heating    
+* household electricity 
+* transportation
+* food production
+* production of consumer goods
+
+I'm hoping for quantitative answers to questions like "how much kWh does a vegetarian diet save?" and "does household electricity usage even matter compared to commuting by car?"
+
+Thanks!

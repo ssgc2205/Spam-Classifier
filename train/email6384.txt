@@ -1,0 +1,2 @@
+Is there an emotional classification dataset available? 
+The dataset probably contains common emotional categories: anger, fear, disgust, etc.

@@ -1,0 +1,1 @@
+I'm a student conducting research about predicting BMI from face images using machine learning. I'm looking for a dataset that includes face images with corresponding BMI or height and weight. Does anyone here know where I can find that kind of dataset? Thank you.

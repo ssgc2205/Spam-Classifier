@@ -1,0 +1,5 @@
+I m doing a project and need sensitive data that has to be protected or has privacy concerns. Wanna do some federated learning, for this i need to find sensitive dataset. but I dont wanna work with cancer images or diseases.
+
+&amp;#x200B;
+
+examples?

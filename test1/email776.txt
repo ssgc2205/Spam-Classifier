@@ -1,0 +1,16 @@
+I am currently working on my master's thesis in 3D Pose Estimation, Computer Vision.
+
+Therefore I am searching for a **Rapid Upper Limb Assessment (RULA)** or **Rapid Entire Body Assessment (REBA)** video dataset for 3D pose estimation with ground truth (either as 3D pose or depth). Perfect was RGB-D \[d=depth\] videos with GT as 3D pose.
+
+Sample: [RULA Employee Assessment Worksheet](https://ergo-plus.com/wp-content/uploads/rapid-upper-limb-assessment-rula-1.png) by ErgoPlus
+
+In particular I am looking for a single-person video dataset. Ideally the person moves only one limb at a time, recorded like in a natural doctor's office (no need for articial scenery as well as non-essentially clean "laboratory conditions").
+
+* I know about [AMASS](https://amass.is.tue.mpg.de/) (and alike datasets), but these require to model and animate the pose I want to see - and without MoCap that might result in unnaturally movement.
+* Further most RGB-D datasets like [RGB-D People Dataset](http://www2.informatik.uni-freiburg.de/~spinello/RGBD-dataset.html) dont fit due to multi-person videos.
+
+Feel free to even point my nose on something. Even by googleing I feel stuck now.
+
+Thank you in advance for your time :)
+
+I am writing my thesis in Germany where afaik RULA apps do not exist yet. I have no commercial affiliation.

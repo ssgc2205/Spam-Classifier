@@ -1,0 +1,3 @@
+I'm looking to convince my manager to consider working with machine learning based analytics in addition to the "normal" analytics we do. In our company, something to at least remind people about phishing on more suspicious looking emails would be very welcome. All I could find was phishing websites, and nothing on emails. I found one set of a few reported phishing emails, but in the name of safety all the URLs were removed, which is a lot of helpful information missing.
+
+Thanks for any help looking for a data set on this!

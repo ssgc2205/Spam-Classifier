@@ -1,0 +1,1 @@
+I'm doing a project on the Leslie matrix population model and my professor asked me to apply it on the human population. I couldn't find proper data for humans. The number of age groups doesn't need to be a lot but they need to be equally divided. I also need corresponding fertility and mortality rates. Hope you could help me.

@@ -1,0 +1,3 @@
+I can't find a real dataset with more than 200 observations, but also more variables than observations... Moreover, there should be at least one variable that represents a count, such that I can apply Poisson regression on it.
+
+Can someone help me find this? 

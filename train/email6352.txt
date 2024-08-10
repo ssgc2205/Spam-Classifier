@@ -1,0 +1,35 @@
+Hi, As said in the title, I'm trying to make a list of countries by "English speaking internet users".
+
+Two separate Wikipedia pages list the two statistics:
+
+[List of countries by English-speaking population](http://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population).
+
+[List of Internet users by country](http://en.wikipedia.org/wiki/List_of_Internet_users_by_country).
+
+This is almost what I want:
+
+[Internet users by language](http://en.wikipedia.org/wiki/Global_Internet_usage#Internet_users_by_language)
+
+But this only shows the amount of users of each language, not where they're from.
+
+I want:
+
+"List of countries by English speaking internet users"
+
+---
+
+Reason for the data? Countries have borders. But the internet is an international phenomenon. The main borders are language borders, with crossings in multi-lingual people, and tourists in internet translators.
+
+It's pretty clear based on the data I do have access to (above data separately), that English Speaking Americans are the majority of internet users. They have over twice as many English speakers as second place India, and over twice as many internet users regardless of language.
+
+This shows that the United States has the largest influence on the English speaking internet (obvious to most).
+
+And this is the goal, looking at the influence different countries have on the English Internet.
+
+---
+
+India, it has the second highest amount of English speakers, and fourth highest on the amount of Internet users (hold your jokes please). Though the majority of their English speakers have it as an additional language, so that's probably why we see more British influence on the internet than Indian.
+
+---
+
+Perhaps I ask too much, I expect I could only find such data in a census. But it can't hurt to ask, perhaps someone has an idea.

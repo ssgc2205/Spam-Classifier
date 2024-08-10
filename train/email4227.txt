@@ -1,0 +1,7 @@
+Throughout my life I’ve never been able to find my own data. To my fault, it’s because if it doesn’t show up in the first Google result I give up for most things. However, it seems like people can quickly find any piece of data they need so I feel like I’m doing something wrong.
+
+How do you get the data you need for any random topic? 
+
+For example, I’m currently trying to find income distribution changes by neighborhood over time. Data.usa showed up as a result which has been awesome but either the UI is bad and I don’t understand how to get what I want or the data just isn’t as detailed as I want. 
+
+If someone could please walk me through their process or at least tell me it’s not as simple as I think it is, then I’d appreciate it

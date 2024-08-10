@@ -1,0 +1,7 @@
+ The [Stanford Vision and Learning Lab](https://twitter.com/StanfordSVL/status/1232774085832134657) announced this week that the RoboTurk Real Roboto Dataset is available as a free download. The crowdsourcing produced 111.25 hours of video from 54 non-expert demonstrators to build “**one of the largest, richest, and most diverse robot manipulation datasets ever collected using human creativity and dexterity.**” 
+
+Read more: [Robot Lovers Rejoice! Fei-Fei Li Stanford Team Crowd-Sources World’s Largest Robot Manipulation Dataset](https://medium.com/syncedreview/robot-lovers-rejoice-4f276f91f9d)
+
+The original paper: [Scaling Robot Supervision to Hundreds of Hours with RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity](https://medium.com/syncedreview/robot-lovers-rejoice-4f276f91f9d)
+
+[Download](http://roboturk.stanford.edu/realrobotdataset.html) the dataset for free

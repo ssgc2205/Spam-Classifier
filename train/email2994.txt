@@ -1,0 +1,1 @@
+For instance all the code snippets on stack-overflow that has numpy in it. Is such thing available?

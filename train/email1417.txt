@@ -1,0 +1,3 @@
+Hey guys!
+
+I'm looking for a dataset containing the location and population by census blocks in New York City. I found this dataset ([2010 Census Blocks | NYC Open Data (cityofnewyork.us)](https://data.cityofnewyork.us/City-Government/2010-Census-Blocks/v2h8-6mxf)), which has the location info. I wasn't able to find population data on it though. Thanks for the help!

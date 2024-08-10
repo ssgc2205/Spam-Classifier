@@ -1,0 +1,35 @@
+While I was researching General Motors I stumbled across this awesome website.
+
+[https://www.goodjobsfirst.org](https://www.goodjobsfirst.org)
+
+I suggest perusing the entire website because it is packed with useful information
+
+They have a bunch of tools that track different aspects of corporations
+
+\- **subsidy tracker** : [https://www.goodjobsfirst.org/subsidy-tracker](https://www.goodjobsfirst.org/subsidy-tracker)
+
+\- Boeing : [https://subsidytracker.goodjobsfirst.org/parent/boeing](https://subsidytracker.goodjobsfirst.org/parent/boeing)
+
+\- General Motors : [https://subsidytracker.goodjobsfirst.org/parent/general-motors](https://subsidytracker.goodjobsfirst.org/parent/general-motors)
+
+\- Tesla : [https://subsidytracker.goodjobsfirst.org/parent/tesla-motors](https://subsidytracker.goodjobsfirst.org/parent/tesla-motors)
+
+\- Amazon : [https://subsidytracker.goodjobsfirst.org/parent/amazoncom](https://subsidytracker.goodjobsfirst.org/parent/amazoncom)
+
+\- **violations tracker** : [https://www.goodjobsfirst.org/violation-tracker](https://www.goodjobsfirst.org/violation-tracker)
+
+\- Bank of America : [https://violationtracker.goodjobsfirst.org/parent/bank-of-america](https://violationtracker.goodjobsfirst.org/parent/bank-of-america)
+
+\- Volkswagen  : [https://violationtracker.goodjobsfirst.org/parent/volkswagen](https://violationtracker.goodjobsfirst.org/parent/volkswagen) 
+
+\- Walmart : [https://violationtracker.goodjobsfirst.org/parent/walmart](https://violationtracker.goodjobsfirst.org/parent/walmart)
+
+\- Walt Disney : [https://violationtracker.goodjobsfirst.org/parent/walt-disney](https://violationtracker.goodjobsfirst.org/parent/walt-disney)
+
+&amp;#x200B;
+
+Downloading the individual CSV or XML provides even more detail than what is shown on the page
+
+These two trackers were created by Rich Puchalsky and his environmental database consulting business, Grassroots Connection.  [http://www.grconnect.com](http://www.grconnect.com)
+
+&amp;#x200B;

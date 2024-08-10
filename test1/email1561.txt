@@ -1,0 +1,7 @@
+I'd like to find out whether the number of vegans (global or local) is increasing or not.
+
+Do you know of any available datasets beside the vegan restaurant dataset?
+How would you approach that question?
+Which data would you look at?
+
+Happy about any feedback, Thanks!

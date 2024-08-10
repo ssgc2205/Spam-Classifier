@@ -1,0 +1,5 @@
+I'm doing a project and need county level rainfall and temperature data.
+
+I have been trying to use this R studio package [https://cran.r-project.org/web/packages/countyweather/vignettes/countyweather.html](https://cran.r-project.org/web/packages/countyweather/vignettes/countyweather.html)
+
+but there seems to be some sort of bug and it is not working. Does anyone know of an alternative way of getting such data?

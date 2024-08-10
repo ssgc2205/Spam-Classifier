@@ -1,0 +1,3 @@
+Hi, I'm looking for a comprehensive dataset encompassing the zoning and land use data on a granular level. For example, the commercial/residential zoning area in every county in the U.S.
+
+Do you guys have anything in mind that can be helpful? Thanks in advance.

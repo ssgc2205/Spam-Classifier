@@ -1,0 +1,1 @@
+Looking for a dataset that can be cited by a reputable source - ie. not through Kaggle or the UCI repository. Needs to be a relatively simple classification problem - categorical and continuous variables inclusive, no image classifications either. 1000 row, 5 variables min

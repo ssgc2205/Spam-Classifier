@@ -1,0 +1,9 @@
+Hi, I need images of popular spirit bottles. Such as Absolut Vodka, Ameretto, ~~Bacardi Rum~~, Baileys, Ballantines, Beefeater Gin, Benedictine, Bombay Sapphire, Bundaberg Rum, Campari, Chambord, Chivas Regal, Cognac, ~~Cointreau~~, Don Julio, Drambuie, Dry Vermouth, Fernet, Fireball, Frangelico, Galliano, Grenadine, Grey Goose, Hendricks Gin, Jack Daniels, Jagermeister, Jameson, Johnnie Walker, Jose Cuervo, Kahlua, Makers Mark, Malibu, Maraschino, Midori, Morgans Rum, Mount Gay Rum, Patron Tequila, Pernod, Pimms, Sierra Tequila, Smirnoff Vodka, Sweet Vermouth, and Wild Turkey
+
+I have tried using images from bing and google, with no luck. I tried going to a bottle shop, but they are all kept behind glass cabinets and it doesn't recognise them properly when I use them.
+
+I need a video focusing on the front and moving around, or images from different angles. They are easy to create. If you have any of these bottles at home, it will take around a minute to create the video or images.
+
+
+
+I am creating a cocktail suggestion app, and want to make it easy for people to add in their own bottles of alcohol. I have the algorithm working with the few bottles I have, but need all of these.

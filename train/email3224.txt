@@ -1,0 +1,3 @@
+Context: Research into Community and Role Detection.
+
+As we all know, harvesting data from Twitter is easy with APIs. But if we want a labeled benchmark dataset for what "community" they belong to (e.g. K-pop vs Anime vs DC/Marvel), how should one go about it? Google Surveys?

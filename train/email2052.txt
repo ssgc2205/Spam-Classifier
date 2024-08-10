@@ -1,0 +1,3 @@
+Hello, 
+
+I am searching for sources where I can practice R using tidyverse. I just want to practice importing, cleaning, manipulating, and creating visualizations. If you could point me in the right direction, I really appreciate it. Thank you.

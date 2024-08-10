@@ -1,0 +1,5 @@
+Is there anywhere where I can find a *free* copy of Wikipedia's XML data dumps? I've got a web app which, as of now, crawls Wikipedia to get data about page links. I know that data retrieval is forbidden under Wikimedia's [bot policy](https://meta.wikimedia.org/wiki/Bot_policy#Unacceptable_usage), and also that they regularly release data dumps. They ask you to host your own copy if you need to dynamically load pages from another website. 
+
+My entire website is running on a 20GB DigitalOcean droplet, which isn't nearly enough space for a Wikipedia data dump, so I'd like to find somewhere where one of these data dumps is *publicly hosted*. Does this exist?
+
+I'm not concerned about images, etc., just about the text of pages (including links!).

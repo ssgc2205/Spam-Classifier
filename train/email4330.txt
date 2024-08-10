@@ -1,0 +1,17 @@
+# [py_ball](https://github.com/basketballrelativity/py_ball)
+
+Introducing py_ball, a Python API wrapper for the stats.nba.com and data.wnba.com APIs with a focus on NBA and WNBA applications. You can download the module with the link above or [here](https://pypi.org/project/py-ball/).
+
+There are similar tools out there for accessing and analyzing basketball data, but py_ball adds both documentation ([here](https://github.com/basketballrelativity/py_ball/wiki) and [here](https://basketballrelativity.github.io/py_ball/_build/html/index.html)) along with a wide array of tutorials to make basketball analytics both accessible and approachable.
+
+## NBA/WNBA Tutorials using py_ball
+
+- [Franchise history exploration](https://github.com/basketballrelativity/franchise_history)
+- [Live scoreboard](https://github.com/basketballrelativity/scoreboard)
+- [Shot, assist, turnover, and fouls drawn charts](https://github.com/basketballrelativity/location_data)
+- [Shot probability model](https://github.com/basketballrelativity/shot_probability)
+- [Draft combine data](https://github.com/basketballrelativity/draft_combine)
+
+I'm excited to hear any feedback related to the API wrapper or tutorials! I hope you enjoy it.
+
+Also, you can follow me [@py_ball_](https://twitter.com/py_ball_) on Twitter or [@basketballrelativity](https://github.com/basketballrelativity) for new tutorials or development!

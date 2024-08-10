@@ -1,0 +1,9 @@
+Hi, I am trying to create an application that estimates the amount of a specific vehicle in a general location.
+
+I haven't been able to find much, but any dataset that contains vehicle information (make, model, and year) and general location. The more specific the location the better.
+
+I was able to find some datasets that I retrieved from data.gov and they are from the State of Maryland. These datasets varied from car crashes, traffic violations, stolen cars, and towed cars. I would like more data, specifically from Colorado but I haven't been able to find any. The datasets that I get will serve as a sample for the application. I realize that this may not be the best approach and it will be inaccurate, but this is just to estimate the amount of a specific vehicle in an area so I'm not looking for it to be 100% accurate.
+
+Any help would be greatly appreciated.
+
+After extensive research, I found a database that includes many csv files which can be joined and queried to get the vehicle information by location from the National Highway Traffic Safety Administration. Here is the link: ftp://ftp.nhtsa.dot.gov/FARS/2015/National/

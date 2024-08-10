@@ -1,0 +1,1 @@
+I've been searching for a nice Reddit comments dataset. My initial thought was the 1.7 billion comments one, but that'd fill half of my HDD's space. So I decided to go with the 8 GB one. But my computer can't extract that big an archive. Is there a decent but smaller one available?

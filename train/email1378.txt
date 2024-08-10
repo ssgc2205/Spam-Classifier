@@ -1,0 +1,5 @@
+I would like to know what the average salary of tenants in a geographic area is, based on how many bedrooms are in the unit they rent.
+
+I.e Joe makes $60k a year and rents a 1 bedroom apartment.
+
+Does such a thing exist? I would think MAYBE since landlords verify new tenants income. Maybe some company collects the data?

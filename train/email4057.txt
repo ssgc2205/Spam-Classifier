@@ -1,0 +1,17 @@
+Quick question to everyone.
+
+How often do you face data consolidation issues where
+
+1. Some of the data does not have all the columns needed.
+2. Some of the data has more columns than necessary.
+3. The data types of columns are not matching across datasets.
+4. The columns are not always in the same order across datasets.
+5. Some of the data contains rows that should be dropped because those rows are not relevant to the analysis.
+6. Some of the data is spread across 2 or more files and needs to be denormalised
+7. There are misspellings in the data due to human errors
+
+If this rings a bell:
+
+1. How do you solve some of these issues?
+2. How much time do you spend doing this sort of work in a month?
+3. Which industry do you work in?

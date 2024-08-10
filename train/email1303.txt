@@ -1,0 +1,16 @@
+Ideally I’m hoping to find something like the following:
+
+    Speaker, Start time, Stop time
+    Wallace, 63:47,  66:31
+    Trump, 66:31, 67:47 
+    Wallace, 67:47, 67:53
+    Biden, 67:53, 68:14
+    Trump, 68:03, 68:04
+    Trump, 68:11, 68:15
+    ….
+    
+I am most interested in getting who the speakers are, when they talk and for how long. I’d love to be able to visualize who spoke the most and how often they interrupted each other. I’m not fussed about he data format. 
+
+I have pulled out the YouTube transcript but it is lacking in accuracy and showing who is talking. 
+
+Any ideas are much appreciated. Especially if they can help me avoid having to carefully watch and listen to that debate.

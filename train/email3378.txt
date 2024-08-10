@@ -1,0 +1,23 @@
+Update: as I find out more, I will update this post at the bottom.
+
+Most of the data I can find is scrubbed and I since I don't have government access I'm not sure if this is a pipe dream.
+
+What I want to do is to link together multi-generation families from just after the civil war (1870 census) and select out families considered poor at that time and then trace those families through public records to the current times.  In the end, I would like to have samples from at least all 48 continental US states with relatively high certainty of accuracy linked to wealth.
+
+This is part of a proposed socio-economic project attempting to link wealth, education, vitality/health and social stratification across generations but it has so far been difficult to get sufficiently complete data to key together census data with birth records in order to link the available data.
+
+Note: I could do it with names and addresses using probability since I don't need a high volume result, just a high probability one.  
+
+Parts of the answer:
+
+# Updates and progression on this:
+## Similiar Project (different data and goal, but very very similar data needs)
+* WSJ Article by Andrew Van Dam *What Southern dynasties’ post-Civil War resurgence tell us about how wealth is really handed down* [Article Link](https://www.washingtonpost.com/us-policy/2019/04/04/how-souths-slave-owning-dynasties-regained-their-wealth-after-civil-war/)
+* * WSJ Article Source Material: Leah Boustan of Princeton University [Link To Paper](https://www.nber.org/papers/w25700?utm_campaign=ntwh&amp;utm_medium=email&amp;utm_source=ntwg2)
+
+## Relevant Datasets and sources
+* [USGenWeb Transcriptions](http://www.us-census.org/inventory/) - Very limited coverage, but broad partial coverage.
+* [Census Dataset API](https://www.census.gov/data/developers/data-sets.html)
+* National Archives Datasets [AAD Links](https://aad.archives.gov/aad/series-list.jsp?cat=GP22)
+* National Bureau of Economic Research (Used in and co-authorship of the working paper cited above.  [Datasets](https://data.nber.org/data/)
+* IPUMS (Integrated Public Use Microdata Series) [website](https://usa.ipums.org/usa/about.shtml) - recommended by u/EnochWalks in this thread.

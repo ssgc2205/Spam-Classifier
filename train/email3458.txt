@@ -1,0 +1,5 @@
+I have a year's worth of data on my sleep habits - every time I slept or napped, I hit a button to clock in, and when I woke up I hit another button. The software adds a 15-minute delay before it declares me asleep. I acquired it using [SleepBot for Android.](https://play.google.com/store/apps/details?id=com.lslk.sleepbot&amp;hl=en)
+
+The bottom line is, I have over 365 days worth of information about my sleep habits. I have a very weak grasp on data analytics (although as a Computer Science major I have good data manipulation skills), does anyone have any suggestions about what I could do with it? Apologies if this isn't the right subreddit to ask about this.
+
+[Google doc file](https://docs.google.com/file/d/0ByD7jEo0zJc7LUFuUGZrUzFCUjA/edit?usp=sharing)

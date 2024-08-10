@@ -1,0 +1,9 @@
+Here are a few of the datasets I've collected over the past year + jupyter notebooks so you can see what's in them!
+
+[https://github.com/schlende/practical-pandas-projects](https://github.com/schlende/practical-pandas-projects)
+
+I collected most of this data to look for product opportunities. Check out the etsy **view count** data and the Google Play **ratings per day** data.
+
+With a bit of analysis you can get a sense of which products are popular and which aren't.
+
+Enjoy!

@@ -1,0 +1,3 @@
+Hello everyone,
+
+I'm trying to learn more about GUI(Graphical user interfaces) for databases. When choosing a GUI, which features do you pay attention to the most? Which features are mostly irrelevant to you? Do they accomplish all your needs?

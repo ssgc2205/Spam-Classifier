@@ -1,0 +1,1 @@
+I'm looking for either grocery prices or something like CPI for all the cities with a population above 10000 people in British Columbia. I was going to scrape grocery store prices from the web, but I don't think that is going to work for the smaller cities. 

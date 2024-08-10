@@ -1,0 +1,1 @@
+Can anyone recommend a dataset that gives the neighboring counties (as in county not country) of each county in the USA? 

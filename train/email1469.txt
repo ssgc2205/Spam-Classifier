@@ -1,0 +1,3 @@
+New here. I'm an undergrad asked to compare sources of start-up financing for a professor, with very little instructions. I'm using the Kauffman Survey Dataset, here: http://www1.kauffman.org/kfs/Data-Files.aspx 
+
+I'm trying to get summary statistics on it about sources of financing, but I have no clue how to combine what seems to be different variables for different years. I have some, but limited experience with stata. Am I totally hooped? (Please, don't just say 'use R', I beg you). 

@@ -1,0 +1,7 @@
+Hi r/datasets,
+
+I'm the CEO of the company that built [Dolt](https://github.com/liquidata-inc/dolt) and [DoltHub](https://www.dolthub.com). We love hosting data in SQL form for this community. I wrote a blog about how to publish CSVs on DoltHub so you can do it too. 
+
+https://www.dolthub.com/blog/2020-04-29-dolt-dolthub-publish-csv/
+
+This blog uses the [Tatoeba sentence translation database](https://tatoeba.org/eng/) as am example. It's a collaborative database of sentence translations that is published weekly.

@@ -1,0 +1,5 @@
+I’m having trouble finding an up to date data set for the UFC. The API’s I have found are either closed or limited and the data sets were all scraped years ago from sites that no longer seem to have the same info. 
+
+Specifically, I’m looking for data on every fight and fighter who has ever completed in the UFC. So wins, losses, ages, locations, etc. 
+
+Any ideas? 

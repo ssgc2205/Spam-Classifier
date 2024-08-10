@@ -1,0 +1,5 @@
+Hi
+
+Does anyone know how to extract only urls with a specific file from common crawl dataset.For instance extract all urls with robots.txt at the end.something like https://www.example.com/robots.txt
+
+Thanks

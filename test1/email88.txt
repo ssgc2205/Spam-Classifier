@@ -1,0 +1,9 @@
+hello everyone, 
+
+Does anyone know of any mirror for megaface datasets? 
+
+I cant seem to to be able to download this from the main website, as I'm not part of any university or any company. I'm a solo researcher/practitioner, which want to train some models with this dataset .
+
+I have been searching for a link for a month now, but no luck yet. 
+
+Any help in this regard is greatly apprecaited.

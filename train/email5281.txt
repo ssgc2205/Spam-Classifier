@@ -1,0 +1,1 @@
+I often need to normalize text (company names) for deduplication.  Would be super useful to normalize the string by expanding all acronyms using a database of acronyms and expanded phrases.  Anyone have a lead on something like this?

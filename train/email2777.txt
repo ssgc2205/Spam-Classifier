@@ -1,0 +1,12 @@
+Luigi Pascali has created a remarkable group of data on international trade, creating a natural experiment on the discontinuity between trade by sail -- which limited routes to the winds-- and the coming of the steamship. Pascali is specifically measuring some of the particular impacts of trade to economic historians, but this data has many other potential uses.  
+
+
+Pascali, Luigi. 2017. "The Wind of Change: Maritime Technology, Trade, and Economic Development." *American Economic Review*, 107 (9): 2821-54.DOI: 10.1257/aer.20140832
+
+Datasets at Replication data for: The Wind of Change: Maritime Technology, Trade, and Economic Development
+
+* [Data Set (3.50 MB)](http://doi.org/10.3886/E112994V1)
+* [Online Appendix (2.33 MB)](https://www.aeaweb.org/articles/attachments?retrieve=ICAiEkQRFUnG_ArehzH4E_KukGaYy34B)
+* [Author Disclosure Statement(s) (58.54 KB)](https://www.aeaweb.org/articles/attachments?retrieve=cnh3bGeYAZCdA0NIdD8EKifWQh7w-FLb)
+
+&amp;#x200B;

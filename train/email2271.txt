@@ -1,0 +1,11 @@
+Hi r/datasets,
+
+CEO of DoltHub (https://www.dolthub.com) here. We are running a contest on DoltHub to gather and clean US Presidential Election precinct-level results. The prize pool is $25,000. The prize will be divided up in February based on number of cells added to the database, last edit of a single cell wins.
+
+This kind of contest is possible because Dolt (https://www.doltdb.com) is a database with Git-style version control. It's the only SQL database you can branch and merge allowing hundreds of people to collaboratively edit.
+
+For more information and some hints about how to get started, check out:
+
+[https://www.dolthub.com/blog/2020-12-14-make-money-data-wrangling/](https://www.dolthub.com/blog/2020-12-14-make-money-data-wrangling/)
+
+We're looking forward to this community's contributions.

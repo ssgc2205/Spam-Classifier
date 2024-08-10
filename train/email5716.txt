@@ -1,0 +1,7 @@
+Hello, for a fun little side project I’m looking for a labeled food dataset. I’ve tried looking around but couldn’t find any. Also the one on kaggle isn’t helpful (it’s about barcodes of food) and on the website of academictorrents I couldn’t find one either...
+
+If anyone knows where I can get one, that’d be real helpful! 
+
+Just to be clear: I’d like it to be a dataset of labeled images, such that it can output a string of eg. Tomato when a tomato is given as input. (Pretty straight forward)
+
+Thanks in advance!

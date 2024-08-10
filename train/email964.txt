@@ -1,0 +1,7 @@
+I'd like to create a matrix whose elements are the distance between the corresponding row and column cities. 
+
+I know these exist for known cities like capitals, but...
+
+I want to the rows to be capitals and the columns to be any other cities (currently ~50). 
+
+I have zero programming skills, so I can't write scripts.

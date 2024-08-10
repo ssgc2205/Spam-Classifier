@@ -1,0 +1,1 @@
+Is there any sort of dataset that contains specific road information? I found general information on http://osav-usdot.opendata.arcgis.com/ but I am looking for much more specific data. I could aggregate google maps myself for turn angles but I feel that this data must already exist somewhere

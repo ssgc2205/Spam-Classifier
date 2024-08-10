@@ -1,0 +1,5 @@
+Hello  , we are using 2d detector , to extract keypoints from sequence of  images from a random set of images and find the similarity between two  poses.
+
+Present , we randomly  downloaded images to check for similarity. However we are looking for  image data sets which have images doing a set of sequences in the  correct way and a set of images doing the poses in a wrong way.   Thus,  we can use these images of executing similar sequences of poses in the  right way and wrong way.
+
+Are their resources for such curated content ? Any tips is welcome

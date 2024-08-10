@@ -1,0 +1,20 @@
+I have a list of names with brackets of data in Notepad (Windows 10).
+
+For example, I need to change:
+
+* Alan Kennedy \[EC: 1980-81\]
+* Alan Kennedy \[EC: 1983-84\]
+* Alan Kennedy \[FD: 1978-79\]
+* Alan Kennedy \[FD: 1979-80\]
+* Jimmy Case \[EC: 1976-77\]
+* Jimmy Case \[EC: 1977-78\]
+* Jimmy Case \[EC: 1980-81\]
+* Jimmy Case \[FD: 1975-76\]
+* Jimmy Case \[FD: 1976-77\]
+
+To:
+
+* Alan Kennedy \[EC: 1980-81, 1983-84; FD: 1978-79, 1979-80\]
+* Jimmy Case \[EC: 1976-77, 1977-78, 1980-81; FD: 1975-76, 1976-77\]
+
+How can this be done?

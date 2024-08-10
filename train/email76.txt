@@ -1,0 +1,1 @@
+I am trying to train a neural net which takes in image input of your eyes and returns the probability of you having cataract. I need to have a NON-RETINAL dataset of eyes with cataract. Any links or help with the dataset or resources in general would help out a lot.

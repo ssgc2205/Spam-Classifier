@@ -1,0 +1,3 @@
+Been working on a few projects where I need both historic weather data (\~4-5 years in the past) and pollen count data. I haven't been able to find any data sets / APIs to get this data.
+
+Has anyone else had this problem and found a solution? For context one project is looking at predicting public transit usage (using weather as the main factor) and the other is looking at marketing allocation using pollen data as a main factor.

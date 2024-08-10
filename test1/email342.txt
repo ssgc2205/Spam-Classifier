@@ -1,0 +1,11 @@
+Hello
+
+I am an Msc Analytics students and was interested in doing a dissertation on data driven customer segmentation. My particular interest lies in life time value based segmentation (and / or other behavioural based segmentation) in retail / ecommerce (but can be any other industry as well). So I am looking for a data set which has 
+
+a) transactions
+
+b) demographics (with identifiers to link it with transactions)
+
+c) any other behavioural / psychographic data (with identifiers to link it with transactions).
+
+Thank you in advance!!

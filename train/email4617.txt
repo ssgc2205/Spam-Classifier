@@ -1,0 +1,1 @@
+I'm looking for data sets of e-scooter or micromobility (if scooter is too narrow in scope) which includes a customer ID so I can look at repeat rides etc. All the data sets I'm finding only have trip ID or device ID.

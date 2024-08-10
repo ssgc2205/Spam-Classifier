@@ -1,0 +1,16 @@
+[HuggingFace](https://huggingface.co), a Natural Language Processing startup has just release the  v1.2 of its text datasets library with:
+
+* 611 datasets that can be downloaded to be ready to use in one line of python,
+* 467 languages covered, 99 with at least 10 datasets
+* efficient pre-processing to free the user from memory constraints.
+
+Repository: [https://github.com/huggingface/datasets](https://github.com/huggingface/datasets)
+
+From the [README.md of the repo](https://github.com/huggingface/datasets):
+
+🤗Datasets is a lightweight python library providing two main features:
+
+* one-line dataloaders for many public dataset: one liners to download and pre-process any of the 611 public datasets (in 467 languages and dialects!) explorable and searchable [here](https://huggingface.co/datasets). With a  command like squad\_dataset = load\_datasets("squad"), any of these datasets is ready to use in a dataloader for Numpy/Pandas/PyTorch/TensorFlow/JAX,
+* efficient data pre-processing: simple, fast and reproducible data pre-processing for the above public datasets as well as local datasets in CSV/JSON/text files. With simple commandes like tokenized\_dataset = dataset.map(tokenize\_function) a dataset is efficiently prepared for inspection, evaluation or training of a predictive model.
+
+Some additional links from the [README](https://github.com/huggingface/datasets): [🎓 **Documentation**](https://huggingface.co/docs/datasets/) [🕹 **Colab tutorial**](https://colab.research.google.com/github/huggingface/datasets/blob/master/notebooks/Overview.ipynb) [🔎 **Find a dataset in the Hub**](https://huggingface.co/datasets) [🌟 **Add a new dataset to the Hub**](https://github.com/huggingface/datasets/blob/master/ADD_NEW_DATASET.md)

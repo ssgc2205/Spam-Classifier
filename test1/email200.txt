@@ -1,0 +1,1 @@
+I am working on a recommender system with a dataset consisting of book ISBNs and user votes. I need to link these ISBNs to more information regarding the books (year, genre, author...). Any idea where I can find this complementary data?

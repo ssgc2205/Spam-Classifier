@@ -1,0 +1,3 @@
+I"ve been trying to find an dataset containing short clips/videos of anime characters moving, but I haven't had much luck (as it is a niche topic). I'm trying to train a model that can animate a still image. If anyone could point me to a good direction, it would be greatly appreciated.
+
+Perhaps is it possible to create a synthetic video dataset? Has this every been done before / are there any good research papers on it? I'm new to this kind of stuff, so sorry if what I'm saying sounds dumb.

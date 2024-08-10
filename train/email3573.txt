@@ -1,0 +1,3 @@
+http://www.politico.com/2016-election/results/map/president
+
+I know it might be a long shot but I'd like to get the data from this site, broken down by county. It would take forever to manually copy all that information over so I'm hoping someone might have a better way. Basically just want it broken down like they have it State -&gt; County -&gt; Number of Candidate votes into a spread sheet form. Thanks if anyone gives this a shot! 

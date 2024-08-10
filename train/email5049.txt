@@ -1,0 +1,1 @@
+Hi, I'm interning at a ML company and have been tasked with finding data sets that could approximate commercial activity in US Cities (hopefully that is updated periodically). I know this probably won't be free but I'm really not sure where to look or what resellers are considered legitimate. Any help would be appreciated.

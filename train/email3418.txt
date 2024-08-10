@@ -1,0 +1,1 @@
+I want to plot a global heat map in R and I want to plot it based on the number of traders in the stock market or the value of stocks traded by continent/country/state. I wonder if someone knows sources or maybe packages in R to find such data (especially data of US and Japan from 2020)?

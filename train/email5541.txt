@@ -1,0 +1,5 @@
+Hello, I was looking for a dataset which contains popular tourist places and cities to longitude and latitude. I have found a huge set of towns and cities but i am also after landmarks as well. For example it would have entries for both Paris and the Eiffel Tower. I am not looking for anything huge, 1000 rows would be ideal. 
+
+I don’t know if something could be done via scraping using the google maps api? Does big query have a landmarks dataset?
+
+It’s only a small project so I only want 3 columns ‘name’, ‘longitude‘ and ‘latitude‘

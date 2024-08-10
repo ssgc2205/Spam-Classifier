@@ -1,0 +1,3 @@
+I want to build a terrain reflection model, that involves elevation profile and type of terrain data (grass, forest, sand, asphalt, etc) of each element of resolution.
+
+I have enough elevation data (SRTM and ASTER GDEM), but have no idea about any suitable datasets of terrain type data. Can you advice me some datasets with terrain type maps?

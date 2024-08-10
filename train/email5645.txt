@@ -1,0 +1,9 @@
+I've been working on a project to make it really easy to visualize location data. I posted to r/gis about a month ago and got some great feedback. I wanted to share it here as well to see if anyone else might have any suggestions on how to improve it.
+
+Table &amp; Map makes it easy to visualize your location data in an interactive map. Upload or paste an excel or csv file that contains latitudes and longitudes or addresses and instantly see your data in a table and map.
+
+I have a few example datasets on the homepage that you can use to test if you don’t have a location dataset available.
+
+[https://tableandmap.com/](https://tableandmap.com/)
+
+Thanks all!

@@ -1,0 +1,8 @@
+[Kaggle Dataset Link](https://www.kaggle.com/rtrench/video-game-length-times)
+
+I got an email from kaggle suggesting Id share the dataset here so thought, why not :)  
+The main goal was to get more familiar with using scrapy, and I also thought that the website could provide some interesting data.  
+This data was acquired from the website [https://howlongtobeat.com/](https://howlongtobeat.com/) through a [crawler](https://github.com/raphaelTrench/how_long_to_beat_crawler) I have developed.  
+Here is an [example](https://howlongtobeat.com/game?id=10270) of a game page where data was acquired from. 
+
+If anyone has any feedback about my crawler or dataset, I would gladly welcome it!

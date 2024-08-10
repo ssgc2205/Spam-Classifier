@@ -1,0 +1,15 @@
+Has everyone seen the new rule on Hospital Prospective Inpatient Pricing for medicare that came into effect Jan 1st, 2019?
+
+&amp;#x200B;
+
+I have been looking for this pricing for personal reasons, and found it incredibly difficult to identify where this information is located on each hospital's website. It seems like they bury it on purpose.  This kind of pricing should be easy to access and in one place for all to see.
+
+Creating pricing transparency empowers consumers of medical services with a choice when selecting a hospital for elective or non-emergency procedures.  It's also a huge step forward in the fight to drive down medical costs in the US.
+
+&amp;#x200B;
+
+That's why I decided to explore creating an API and website that makes this information easy to access for consumers and engineers alike.  Is there any interest in this?  I am still working out the details, but I thought it would be good to start talking this through with my fellow geeks.  I have some pretty good engineering skills and a few friends (also engineers) who are interested in helping as well.
+
+&amp;#x200B;
+
+Thanks!

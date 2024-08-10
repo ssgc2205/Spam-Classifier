@@ -1,0 +1,10 @@
+Can someone guide where I can get real-time data (preferred healthcare data) for BI and Data Analytics self project along with business requirement? 
+1. OLTP or OLAP sample data
+2. Laod into Power BI/SSAS Tabular 
+3. Design the data model 
+4. Define the relationships 
+5. Create complicated measure
+6. Design the Dashboard 
+7. Publish Into Power BI service 
+
+Thanks

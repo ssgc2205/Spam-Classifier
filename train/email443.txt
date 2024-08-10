@@ -1,0 +1,7 @@
+I have a blogpost here about why determining the sex of an egg could be so useful. Basically you wouldn't have to annually kill billions of male chicks.
+
+[http://liveatthewitchtrials.blogspot.com/2020/10/detecting-sex-of-chicken-egg.html](http://liveatthewitchtrials.blogspot.com/2020/10/detecting-sex-of-chicken-egg.html)
+
+Does anyone have a dataset. Or access to chickens and willing to help make one of chicken eggs and their sex?
+
+There was a discussion here before about this issue. It is one I have been thinking about for a while [https://www.reddit.com/r/datasets/comments/eijh57/is\_there\_any\_dataset\_for\_nirvis\_near\_infrared/](https://www.reddit.com/r/datasets/comments/eijh57/is_there_any_dataset_for_nirvis_near_infrared/)

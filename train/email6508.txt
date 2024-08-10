@@ -1,0 +1,7 @@
+You might be wondering, does web crawling even needed in data science?
+
+In this article, I am going to share how web crawling benefit data science in 3 real-world scenarios.
+
+Link: [https://towardsdatascience.com/how-web-crawling-benefit-data-science-a6ff0bd4cd1?source=friends\_link&amp;sk=5c3da69b8cc5168d6d1d5cdc7c9d51c1](https://towardsdatascience.com/how-web-crawling-benefit-data-science-a6ff0bd4cd1?source=friends_link&amp;sk=5c3da69b8cc5168d6d1d5cdc7c9d51c1)
+
+I hope you will enjoy this article, and comment below if you have any thoughts to share!

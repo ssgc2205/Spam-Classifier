@@ -1,0 +1,11 @@
+Hi everyone,
+
+I am new to data science and for my practice, I want to put my hands on the data of the most common diseases. I planned to do some visualizations and a feature or two with python. But the problem is that I cannot find such data, my initial idea was that it must be available, I do not want any hardcore specific stuff. I simply want to get the top 100-200 of the most common diseases around the world (or in specific regions).
+
+Did I make the wrong assumption and such data will not be freely available?
+
+Maybe someone has good sources to share?
+
+&amp;#x200B;
+
+Thanks!

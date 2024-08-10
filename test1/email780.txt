@@ -1,0 +1,17 @@
+
+
+&gt;**TL;DR:** [here](https://www.kaggle.com/yamqwe/calculating-an-optimal-diet)
+
+Hello Guys,
+
+Quick idea: What if you had a dataset containing the nutritions and price of various food items? You could optimize your own diet!
+Well.. now you can do exactly this! with the new dataset I uploaded to Kaggle.
+
+You can find it [here](https://www.kaggle.com/yamqwe/calculating-an-optimal-diet).
+
+It contains nutritional values of household commodities. The dataset was used in the "stigler"-problem where ones tries to figure out how to minimise the costs of food while still getting enough nutrients.
+It has more than 230 household Items along with their Price, Nutritional properties and some other features such as the Unit size, Vitamins Content, Protein Content and more.
+
+**Credit to the original Authors: This dataset was originally created by [calmcode.io](calmcode.io)**
+
+Bon appetit!

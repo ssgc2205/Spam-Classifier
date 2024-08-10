@@ -1,0 +1,7 @@
+With the impending shutdown of Yahoo Answers, I was wondering if anyone on here has tried pulling down as complete a dataset of Yahoo Answers as possible? I don't just mean the best questions answers, I mean all the answers, including the most insane awful answers and the worst questions people put together.
+
+I found a 300MB gzip that was fairly extensive from 2015 with about 1.4m rows, but I'm wondering if anyone has put together an even more extensive dataset.
+
+Here's the 300MB one. It has info on the people who initially put it together as well:
+
+[https://drive.google.com/uc?export=download&amp;id=0Bz8a\_Dbh9Qhbd2JNdDBsQUdocVU](https://drive.google.com/uc?export=download&amp;id=0Bz8a_Dbh9Qhbd2JNdDBsQUdocVU)

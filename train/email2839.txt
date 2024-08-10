@@ -1,0 +1,7 @@
+I am requesting articles (particularly op-eds) written by US Vice President Michael Pence for use in a personal text mining project.
+
+Some context: in today's news, there has been speculation (and speculation only) that Mike Pence wrote an article in the NY Times ([see the article here](https://www.nytimes.com/2018/09/05/opinion/trump-white-house-anonymous-resistance.html?action=click&amp;module=Opinion&amp;pgtype=Homepage)) criticizing major aspects of the Trump presidency. The only thing that is known about the article is that it was written by a senior official in the Trump administration. I want to test this speculation by using statistical clustering (kmeans, decision tree) to see if there is any correlation in writing styles between the recent op-ed and what he has written in the past.
+
+**What I do not want:** speeches orated by Mike Pence that were not written by Mike Pence. That would give me false results.
+
+Thank you in advance!

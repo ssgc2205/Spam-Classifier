@@ -1,0 +1,11 @@
+Hello Everyone,
+
+I hope that you are doing well. I want to get retails sales data-sets related to Garments, shoes, etc for analysis to predict future sales. 
+
+Can anyone give me online data-sets available link or can provide me data-sets?
+
+Thanks, 
+
+Regards,
+
+Sajawal

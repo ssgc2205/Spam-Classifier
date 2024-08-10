@@ -1,0 +1,14 @@
+Hello all,
+
+I am currently holding a very large amount of PDFs (10k +) with vernacular datasets (approx 30 pages of tables) that I need to aggregate onto one database.
+
+The catch, I have very limited funds and will not be able to use a paid vernacular OCR software, or an API key.
+
+I would like to perform a simple select.all and paste for each pdfs on an excel sheet. Then remove lines that do not start by a number. 
+When pasting a pdf on excel, the output is correct, only I would like to remove the headings, and automate it for every sheets.
+
+Is there any valuable resources available for this task? Many thanks for the assistance,
+
+Best,
+Chris
+

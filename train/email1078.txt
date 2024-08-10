@@ -1,0 +1,15 @@
+I originally created this dataset to train question answer neural nets, but perhaps other people can find interesting usages for it!
+
+&amp;#x200B;
+
+The data, along with details on how it was created can all be found on [GitHub](https://github.com/FMCumhaill/Reddit-QA-Corpus).
+
+EDIT: probably should have mentioned it  was created using BigQuery and r/pushshift. Shout out to them as always!
+
+&amp;#x200B;
+
+Feedback welcome :D
+
+&amp;#x200B;
+
+&amp;#x200B;

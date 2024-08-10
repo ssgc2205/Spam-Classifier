@@ -1,0 +1,1 @@
+Does anyone have an avro file with some sample data in it that I could have? Can be any size, I can’t find them anywhere and I’m working on some research that requires testing of different file types. Would really appreciate it.

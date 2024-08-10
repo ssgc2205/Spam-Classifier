@@ -1,0 +1,2 @@
+Hi,
+Does anyone knows if a dataset with the pH, moisture, humidity, UV, etc required for each plant or family of plant?

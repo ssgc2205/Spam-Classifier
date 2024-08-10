@@ -1,0 +1,5 @@
+I have just recently been looking into the [USGS The National Map data](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map) and dug in a little to find the [schema for the Structures data](https://web.archive.org/web/20160328235113/http://services.nationalmap.gov/bestpractices/model/acrodocs/Poster_BPStructures_03_01_2006.pdf). Of interest are layers like "Struct\_DDD" which has fields of num\_floors and building height and also type of use of building. I am looking to do queries like County with the most building floors devoted to the Mail and Shipping industry, for example. The Structure data that is [found here](https://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/Struct/National/GDB/) has only a "STRUCT\_Points" layer.
+
+&amp;#x200B;
+
+Does anyone know if other Structures layers are available or were available in the past?

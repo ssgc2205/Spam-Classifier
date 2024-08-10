@@ -1,0 +1,12 @@
+Is there any website i can use that offers an api or something to extract the data? I found many sites that shows demographic data per census tract but there no way to extract the data.
+
+
+I'm looking at all the censustract in all the counties in NYC and a few other counties in NY. I tried many census websites but I cant find the data I want. 
+
+My data should look something like (main columns being the geoid or a combination of county name and the census tract so i can pin point where the tract is):
+
+&amp;#x200B;
+
+|geoid|census tract Name|Population in census tract|percent of people under 18 years old|
+|:-|:-|:-|:-|
+|360610092001003|Census Tract 92|3000|20%|

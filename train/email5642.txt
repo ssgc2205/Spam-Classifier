@@ -1,0 +1,3 @@
+Anyone have any ideas as to where I can retrieve a list of military organizations (both domestic and international). I'm working on a classification problem that can identify military entities. Wikipedia has a list but they include corporations that are contracted by the military to make weapons, for example, and I don't want to include those.
+
+I also have a list of government organizations, but cannot isolate the ones that are military-affiliated

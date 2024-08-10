@@ -1,0 +1,1 @@
+I have the Wiktionary data dump as a start but looking to include slang words, does anyone know if a data dump for Urban Dictionary (or similar slang dictionary website) exists?

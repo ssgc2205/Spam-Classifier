@@ -1,0 +1,3 @@
+Like the title says, I'm looking for a dataset that tracks weight loss for a lot of people and it would be great if there are many attributes available such as diet, calories, etc...
+
+Thank you all!

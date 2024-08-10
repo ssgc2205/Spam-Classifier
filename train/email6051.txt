@@ -1,0 +1,1 @@
+I am looking for a dataset(s) which contains a decent amount of moves involved in a Othello/Reversi game. Any other metadata along with such a dataset is much appreciated.

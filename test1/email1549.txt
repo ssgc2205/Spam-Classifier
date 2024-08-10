@@ -1,0 +1,13 @@
+Hello
+
+I need someone to build me an LTV model (Customer Lifetime Value) for a small startup with the goals of determining: (a)how much we should spend on user acquisition (b) defining a payback period on our marketing spend.
+
+&amp;#x200B;
+
+I will provide a cohorted data set of our current customers dating back to 2016.  We're dealing with a small data set here.
+
+I would appreciate some direction on where I can get this done, whether here or another sub?  This will be a paying gig.
+
+Thank you!
+
+&amp;#x200B;

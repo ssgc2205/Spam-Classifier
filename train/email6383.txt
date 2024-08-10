@@ -1,0 +1,5 @@
+Hello , I'm a student taking a graduate level machine learning course. For a project I need to find a data set that's at has at least 10k observations and 10 variables. 
+
+I want to take the stance of bank/lender and create a model that will predict whether someone should get approved for a mortgage loan. 
+
+Anyone know where I can find this data? It can be mock or outdated.

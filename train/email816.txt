@@ -1,0 +1,11 @@
+i found a bunch of sites but i cant find any way of getting the data. You guys know any good sites that have an api that provide the data. I tried [NYC Open Data](https://data.cityofnewyork.us/City-Government/Demographic-Statistics-By-Zip-Code/kku6-nxdu) but cant find good datasets. I found these sites but idk how to extract the data when looking at inspect elements in chrome:
+
+1) [This site looks good,](https://www.zipdatamaps.com/10021) can just search the zipcode in the url but cant figure out where the list of data is stored.also it takes forever to load a zipcode.
+
+&amp;#x200B;
+
+2) [This site looks very promising but it only shows a portion of ny.](http://www.city-data.com/zipmaps/New-York-New-York.html) All the data is on the page (i think). I think the site wrote all those html using some data in js but idk where it is. 
+
+&amp;#x200B;
+
+3) [this site as well](https://guides.newman.baruch.cuny.edu/nyc_data/nbhoods)

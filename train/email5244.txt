@@ -1,0 +1,1 @@
+I'm looking for datasets of street scenes recordings (images and/or videos), for computer vision prototypes applied to autonomous cars. I've found a lot of them (KITTI, Mapillary Vistas, CityScapes, SYNTHIA...), but all the licenses only allow education and research purposes. Do you know any allowing commercial use ?

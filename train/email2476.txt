@@ -1,0 +1,7 @@
+Hey guys, I'm working on a small project to be able to predict people who are likely down to volunteer (for covid and for other jobs), but I am having a hard time finding a dataset on this subject.
+
+All I really need is a dataset of volunteers' attributes (preferably for different positions) such as age, gender, income, etc...
+
+I'd really appreciate it if someone could point me in the right direction on this, or if you know a source, link me!
+
+Thanks in advance!

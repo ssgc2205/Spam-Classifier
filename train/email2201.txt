@@ -1,0 +1,1 @@
+I'm doing research about the film industry, and how streaming video has made studios change up their game in response to it. Such as some actors and studios signing contracts to release their films on netflix, lower theater attendance, and so on. any good datasets or places to look?  im new to data science so i'm not very knowledgeable about where to look for datasets yet.

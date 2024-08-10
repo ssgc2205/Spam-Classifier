@@ -1,0 +1,15 @@
+Hey all-
+
+I'm working on a mapping project that will explore data from the Arab Spring, including:
+
+-death tolls
+
+-number of protests and where they occurred (which city)
+
+-number of twitter updates from that country
+
+-other relevant information
+
+I'm having some trouble finding up to date, reliable data covering these topics. Can any of you help me out?
+
+Thanks!

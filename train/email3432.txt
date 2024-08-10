@@ -1,0 +1,1 @@
+Looking for any type of dataset that includes data on blood tests (lipid panels, etc.), fundamentals, and then classification based on some type of information relevant to disease. I've been searching far and wide, does anyone know anything that comes close? Much appreciated.

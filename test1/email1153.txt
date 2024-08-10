@@ -1,0 +1,33 @@
+Hi, very niche question here but I am not sure where I can ask, pointers to another subreddit would also be appreciated :)
+
+&amp;#x200B;
+
+Ok so I am not american and I'm trying to understand how the american census type data from the ACS works (total newbie about it). I pulled the data for Massachussets from the ACS website here:
+
+[https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS\_pums\_csv\_2017&amp;prodType=document](https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_pums_csv_2017&amp;prodType=document)
+
+&amp;#x200B;
+
+But I am more specifically interested in the [Greater Boston Metropolitan Statistical Area (MSA)](https://en.wikipedia.org/wiki/Greater_Boston#Metropolitan_Statistical_Area_(MSA)) (aka the Boston–Cambridge–Newton, MA–NH MSA). Now I would like to know what are the PUMAs (Public Use Microdata Areas) for this specific MSA so I can extract only data for this region from the dataset. My problem is I am unable to find that information anywhere.
+
+&amp;#x200B;
+
+I can find the names of the counties that are part of the MSA on wikipedia and try to get the list of PUMAs from this names reference PDF:
+
+[https://www2.census.gov/geo/pdfs/reference/puma/2010\_PUMA\_Names.pdf?#](https://www2.census.gov/geo/pdfs/reference/puma/2010_PUMA_Names.pdf?#)  (page 20)
+
+&amp;#x200B;
+
+But a lot of the names in there are ambiguous and I would prefer to have an official list than guessing from a wikipedia page. I was able to find a list of FIPS place codes for the Greater Boston MSA, but as I understand it FIPS and PUMAs are not convertible into each other.
+
+&amp;#x200B;
+
+It looks like this website manages to do it though:
+
+[https://censusreporter.org/profiles/31000US14460-boston-cambridge-newton-ma-nh-metro-area/](https://censusreporter.org/profiles/31000US14460-boston-cambridge-newton-ma-nh-metro-area/)
+
+So I assume this information is out there somewhere.
+
+&amp;#x200B;
+
+ps: I realize will probably need to pull data for NH as well.

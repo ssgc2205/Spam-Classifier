@@ -1,0 +1,5 @@
+**UTD19 is a large-scale traffic dataset from over 23'541 stationary detectors on urban roads in 40 cities worldwide making it the largest multi-city traffic dataset publicly available.**
+
+[https://utd19.ethz.ch/](https://utd19.ethz.ch/)
+
+In total, we detected almost 5 billion vehicles covering a combined time span of 3.8 years in over 40 cities incl. London, Tokyo, or Zurich. The UTD19 traffic data that we collected at the Institute for Transport Planning and Systems - ETH Zurich and the CITIES Center for Interacting Urban Networks - NYU Abu Dhabi is free for all research use. You only have to sign up, agree with our conditions, and you are all set.

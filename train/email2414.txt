@@ -1,0 +1,7 @@
+Does anyone know where I can get the CSV version of the following dataset? 
+
+The dataset is only available in SPSS, SAS, and STATA format. 
+
+[https://data.stanford.edu/hcmst#download-data](https://data.stanford.edu/hcmst#download-data)
+
+Please and thank you.

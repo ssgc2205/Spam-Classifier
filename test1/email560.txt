@@ -1,0 +1,7 @@
+I follow a bunch of stock market traders, each trading day they post and talk about a lot of tickers. I wish Twitter, like Telegram would allow me to export/scrape all the tweets tweeted by the accounts I follow for the specific day
+
+Like if today is 2/15/2022, then I would want some sort of program that allows me to scrape all tweets made by the accounts I follow and  compile that list into some sort of .txt file whereby I can use a website like   [https://www.online-utility.org/text/frequent\_words.jsp](https://www.online-utility.org/text/frequent_words.jsp)  to find the most mentioned tickers from that .txt file if that makes sense.
+
+Thing is, I am not really a programmer, just a trader, but I thought this sub would point me in the right direction. I don't mind finding someone on Fiverr to do this for me, but are their any free tools that do this you guys think? Also for a complete noob programmer, can I possibly learn to do this or would it be too difficult because of my 0 programming experience? If its possible to learn then please do point me towards the correct videos/websites that teach this sort of stuff.
+
+Some basic reading showed me stuff like "twitter api" and I think this would be required no?

@@ -1,0 +1,1 @@
+Specifically, I need a survival dataset (preferably health related) that includes at least 3-4 ordinal treatment levels and a likely confounder. Ideally the sample size would be between 150-200. If anyone knows of anything that first that description I would be very appreciative.

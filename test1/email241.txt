@@ -1,0 +1,1 @@
+Hi. I am making a discord bot that asks Would You Rather questions. And it appears rrrather API is no longer working. So I am trying to find a dataset of questions large enough to use it for my bot. Any help would be greatly appreciated.

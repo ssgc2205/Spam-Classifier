@@ -1,0 +1,7 @@
+Can you guys help me find some regularly updated data feeds?
+
+What I'm looking for is something like this - [https://archive.luftdaten.info/](https://archive.luftdaten.info/) \- the data is coming from a German project to monitor air quality throughout Europe and it is updated on a daily basis.
+
+The nature of the data is not to important, as it is going to be used for educational purposes. Also, the way data is retrieved is not important, actually the more diverse - the better. The key here is to be regularly updated, as part of the exercise is to workout on ETL processes. 
+
+Thanks in advance!

@@ -1,0 +1,11 @@
+Do you know of any publicly available datasets from industrial equipment? 
+
+I have worked on several projects, but the data is always proprietary so it's hard to share the results.
+
+I'm looking for data to use for applications of machine learning to industrial machine &amp; equipment health? Ex. Using sensor data to train a model to classify failure modes or predict remaining useful life.
+
+I have found several hyped up marketing pieces, but very few real-world examples.... even fewer where the dataset has been made public so that you can repeat their results.
+
+Here are the best two papers I've come across... Know of anything similar?
+https://www.researchgate.net/publication/261282496_Sensorless_drive_diagnosis_using_automated_feature_extraction_significance_ranking_and_reduction
+https://zenodo.org/record/55227#.WKYIXhIrKV4

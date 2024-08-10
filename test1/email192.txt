@@ -1,0 +1,10 @@
+Hey all,
+Trying to teach abstract data modeling and would appreciate a CSV or XLS of some sort of firearm catalog with manufacturer and specs.
+
+Or
+
+Firearms/ tanks / aircraft/ military equipment, plus some specs, plus appearance in war X.
+
+Tldr: some sort of military or military history data set with several dimensions.
+
+Thanks in advance.

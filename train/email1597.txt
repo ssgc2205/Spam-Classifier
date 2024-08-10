@@ -1,0 +1,1 @@
+I recently learned my first programming language, python. Does anyone here find python useful in analyzing data? Are there any good (free) python-data analysis tutorials out there?

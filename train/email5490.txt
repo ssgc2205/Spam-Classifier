@@ -1,0 +1,3 @@
+I'm looking for a collection of all Reddit comments (and posts too, if possible) that was collected before June 2015. A subset of Reddit comments would work as well as long as the date range is substantial, e.g. June 2014 - June 2015.
+
+I know that several users have posted on r/dataisbeautiful with comment data but I'm pretty sure that was all collected at various times later than June. Also, apologies if this is the wrong subreddit for this kind of request - just figured I would start here and look elsewhere if necessary.

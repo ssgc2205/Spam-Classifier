@@ -1,0 +1,1 @@
+Are there any live fire data sets which are accessible either through a CSV url updated daily, hourly, etc. or something which can be pulled or scraped from the internet? Spatial files would be preferred, but long.,  lat., and area are most important.

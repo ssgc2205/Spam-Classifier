@@ -1,0 +1,9 @@
+Hi Everyone. I'm looking for gas price data by state. Currently the EIA offers here:
+
+https://www.eia.gov/dnav/pet/pet_pri_allmg_a_EPM0_PTA_dpgal_a.htm
+
+However, It cuts off in 2010 and i need this data from 2004-2014.
+
+Anyone know where else I could obtain this data? 
+
+Thank you!

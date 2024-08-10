@@ -1,0 +1,11 @@
+Hi all, 
+
+I'm looking for a historical dataset of premier league statistics that has a link between an individual player and the team that he played for.  There are a lot of datasets, but none that I can find that have, for example, a team table and a player table where there is some sort of team id in the player table that links the player to the team they played on.
+
+&amp;#x200B;
+
+If can someone can point me to a dataset with this feature, I'd be grateful. 
+
+&amp;#x200B;
+
+Any help is appreciated.

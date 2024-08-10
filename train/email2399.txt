@@ -1,0 +1,14 @@
+I am trying to get US Population by census block.. Ideally the data should include FIPS code.
+
+It is the first time I go that deep into US Census data and I am thoroughly confused. 
+
+Here are the the resources I have found so far
+https://www2.census.gov/census_2010/03-Demographic_Profile/
+https://www.census.gov/geo/maps-data/data/tiger-data.html
+https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml
+
+But I could not find a file that would have what I am looking for. 
+Multiple resources were linking to tiger-data, but how do I deal with *.shp files?
+And it just seems wasteful to assemble everything from state-level files. 
+
+There must be somewhere a file with a full block-level population stats?

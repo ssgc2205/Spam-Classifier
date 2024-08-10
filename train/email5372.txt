@@ -1,0 +1,11 @@
+I'm looking for any kind of Broadband adoption datasets, mainly for the US.
+
+There's not much out there that I can find so I'm willing to accept pretty much anything at this point.
+
+Ideally, I'd love to find weekly or monthly percentages of the US (or even better, by city, or even just for one city) with broadband.  And I'd love it if it was broken down by speeds or type (DSL / Cable / Fiber) as well.
+
+If the datasets could to back to around the year 2000 that would also be ideal.
+
+But again, becuase I've had such trouble finding anything useful, I'll look at anything at this point.
+
+Thanks

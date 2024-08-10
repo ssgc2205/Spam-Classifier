@@ -1,0 +1,5 @@
+Hello,
+
+I'm looking for a dataset which I can use for some fuzzy logic analysis. This means that the set prefererrably contains a lot of columns describing "relative" terms like for example "How satisfied are you with our UI" and possible values like ("Extremely", "Very", "Moderate", etc.). It doesn't matter what the dataset will be about. 
+
+Any help would be greatly appreciated!

@@ -1,0 +1,17 @@
+Hi everyone!
+
+So a bit about my background – I have a graduate degree in engineering but currently work in a radically different field. At one point I was intimately familiar with Stata, R, and Matlab as part of my math and statistics courses, but unfortunately I have long since forgotten how to use them! I’m now tasked with analyzing data in a way I’m finding difficult because I don’t remember AT ALL how to use these programs. My point here, is that you can assume I know nothing about these programs, but I have the ability to learn (because I once did!).
+
+I have two questions, but I’ll first explain the situation. I have some three hundred lines, each broken into sets of coordinates. Each line has something like 180 x-values and associated y-values. Each of these is in a separate sheet on excel. Not every line has the same number of coordinates. I have provided an example of some of the coordinates on one sheet for reference (reference #1)
+
+Part 1 of my task is transferring each of the 300 lines from excel into one data complete set in Stata, R, or Matlab (your choice!). My first question is, how do I transfer this set of coordinates to Stata, R, or Matlab in a way that is conducive to being analyzed as I need in part 2? I’m not worried about efficiency as much as I am simplicity. If I have to perform the same action manually to each of the 300 sets to set up one master data set, I will do it. Would it be easier for me to copy and paste each line next to each other (as in reference #2)?
+
+Part 2 of my task is to analyze these data. I will be performing several statistical analyses, but I’d just like help with the code/steps for the first example, and I can try to learn from there. As one specific example, I am interested in comparing the mean y-value of each set of those y-values associated with x &gt;= 22.9 to the mean y-value of those y-values below x = 22.9, and whether this difference is statistically significant (p &lt; 0.5).
+
+To break this example down for clarity, (as I feel wording can be difficult here) consider a method in two steps. First would be creating two new data sets from these 300 lines, each set with 300 means. One data set includes an average y-value for those y-values associated with x &lt; 22.9. The second data set is composed of the average y-values for every y-value associated with x &gt;= 2.9 in each line. The second step would be running a t-test on those two new sets to see if they are statistically different. What specific steps would I use to find this answer based on your proposed method of how I set up my data set in part one?
+
+Thanks ahead of time! :)
+
+&amp;#x200B;
+
+https://preview.redd.it/2v7bcc6rs7551.png?width=561&amp;format=png&amp;auto=webp&amp;s=39bb7618c19e7e24f6c9f94b6d869ccf7c1a9907

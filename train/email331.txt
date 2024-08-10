@@ -1,0 +1,25 @@
+I have an idea to make a model to make suggestion on what channel to add to marketing mix, I'm wondering if people could read through and make any suggestions to improve it? Working with a company as part of my undergraduate course so may have the chance to test it in the field. 
+
+The initial idea is to find a load of datasets that have clearly added a channel at a certain point in time, with a KPI value throughout the timeline. use some to test, some to train, then deploy the model is a live experiment for a digital marketing agency. 
+
+**Training** 
+
+3 months worth of touch point data (search, ads pixel and cookie data, email campaign, retargeting), with clear KPI e.g. daily sales, then 2 months in the company introduces a new channel e.g. display ads. the model then looks at the volume of sales before and after adding that channel, and comes out with a figure for how much that channel has contributed.
+
+repeat the process for a bunch of data sets, until the model gets a 'feel' for how much a KPI increases when a certain channel is added based on the existing marketing mix, that would be training. 
+
+**Testing** 
+
+Do the same with test data, and make it predict how much of an impact on KPI adding a channel would have, then compare the prediction to the ground data (average lift in KPI after adding channel) 
+
+**Validation**
+
+Once the model is trained it would be able to analyse a dataset that (which could be visualised as a Markov chain), then based on what it knows from training and testing, it can make a suggestion on what channel to introduce or spend more money on. 
+
+if the company took action on the prediction, it would be able to validate/invalidate that prediction.
+
+Question 1) Is the above any good? 
+
+Question 2) where can I find large multi touch datasets like this to use? 
+
+ Any help would be super appreciated

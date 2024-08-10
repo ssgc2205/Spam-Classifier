@@ -1,0 +1,7 @@
+Conversational data sets example:
+User: hi 
+Bot : Hello how can i help you ? 
+User: How ar u?
+Bot: Did you mean, how are you? If so, I am great.
+
+English grammar correction datasets (ECG)

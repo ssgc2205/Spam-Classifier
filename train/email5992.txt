@@ -1,0 +1,6 @@
+I need to present on a topic of my choosing for a job interview within Tableau (doesn't need to be serious). I think it would be fun to do an analysis on the most loyal NFL fanbases. 
+
+The two main pieces of data I'm looking for are:
+
+1) Historical NFL attendance records (compared vs. record)
+2) Historical revenue by team

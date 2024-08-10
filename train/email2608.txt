@@ -1,0 +1,3 @@
+Hello everyone, does anyone know if there exists a living dataset for a given state or preferably at the national level that would include things like sq footage of home,number of bathrooms, sale price,etc.
+
+I feel like this could be a fun dataset for predicting and analyzing home value.

@@ -1,0 +1,1 @@
+Hi, r/datasets. Is there a dataset containing historical voting records of the US Congress? House, Senate, or both is fine. I want to create a political climate index beginning as a univariate analysis of voters crossing party lines. Later, I'll incorporate multivariate methods to improve the utility of the study, but first, I need a data source. Thanks in advance

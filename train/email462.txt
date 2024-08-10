@@ -1,0 +1,5 @@
+Hi,
+
+I'm a doing a project on variable importance (VIMP)  and variable interactions (VINT)... and im looking for a data set with around 40-60 numerical features with the goal of predicting some response for regression. I specifically want to measure the VIMP and VINTs that are present when predicting the response. I had a look on UCI repository but they don't really have anything that works well. I have also spent hours going through Kaggle but it's hard to find anything that doesn't include categorical features.
+
+Any suggestions as to where I should look?

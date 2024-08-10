@@ -1,0 +1,3 @@
+As the title states I’m looking for the original TBC dataset that is used in training BERT and other transformer models. Does anyone have a source for the original dataset?
+
+Thank you all in advance

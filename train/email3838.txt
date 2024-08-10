@@ -1,0 +1,9 @@
+A lot of data is inaccessible to the general public, and for good reason. Electronic health records are absolutely abundant, but due to the risk of identifying an individual and due to the culture/laws around health information (HIPAA). One company is looking to address this, [MDClone](https://www.mdclone.com/). Their technology links to large data pools and produces totally synthetic data. The data retains the same core statistical properties, but none of the observations represent a real person. For this reason, research using these data are generally IRB exempt and at some point it may be acceptable to make these data public facing.
+
+&amp;#x200B;
+
+So, if you had free rein to analyze some clinical phenomena, what would it be? How would you like to see this technology used? I'll be more specific about the limitations, and say that spatial information is sparse because it is incredibly identifying. The core variables you have for analysis are medical diagnoses and procedures, time and basic demographics (Race, Age, Gender)
+
+&amp;#x200B;
+
+Your thoughts are appreciated!

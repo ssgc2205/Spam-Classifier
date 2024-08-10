@@ -1,0 +1,1 @@
+Hi, do you know any datasets that consist of videos representing different items filmed around them? For example, a cup is put on a table and filmed from all possible sides.

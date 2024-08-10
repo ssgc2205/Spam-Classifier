@@ -1,0 +1,62 @@
+API Endpoint:  http://stream.pushshift.io
+
+This will return SSE styled events for all new comments and submissions (99.99% of the time in correct order -- still QA'ing this part).  
+
+Please let me know if you notice any issues.  Eventually I will have parameters to only stream submissions or comments or specific subreddits.  The event type is either "t1" for comments, or "t3" for submissions.
+
+Event data is a JSON string.
+
+**Parameters**:
+-------------------------------------------------------
+
+*If more than one parameter is specified, they are treated as OR operations.  Meaning that if you are filtering on the subreddit "askreddit" and also on the author "automoderator", you will get both in your stream.
+
+**subreddit**: Include any submissions or comments with this subreddit in the stream.
+
+**author**: Include any submissions or comments with this author.
+
+**over_18**:  Restrict returned submissions ("t3" events) to either NSFW(over_18=1) or non-NSFW (over_18=0)
+
+**event**: Limit to only comments or subreddits.  Values are "t1" for comments and "t3" for submissions. (i.e. event=t3 to get only submissions)
+
+**match**:  Does a regex on the body (comments) and title or self_text (submissions).  Limit in any way you want.  (i.e. match=subreddit":"askreddit for only askreddit comments and submissions -- case insensitive).  If you search for "star", it will match start.
+
+**start_id**:  If you lose your connection to the stream and want to reconnect at a specific id location, pass the start_id parameter and the stream will replay from that id until it goes real-time.  The stream buffers the last half hour of all reddit activity.  Use the last processed event id.
+
+**previous**:  Get the last X events starting from the current event.  In other words, if previous=1000 is passed, the stream will give you the last 1,000 events in order and then resume in real-time mode.  Max value is 100,000.
+
+**Examples**:
+---------------------------------------------------------
+
+     wget -qO- 'http://stream.pushshift.io/?subreddit=askreddit'
+
+**Filter only comments or submissions from the subreddit askreddit**
+
+    wget -qO- 'http://stream.pushshift.io/?author="automoderator"
+
+**Filter only comments or submissions from the author automoderator**
+
+     wget -qO- 'http://stream.pushshift.io/?event=t3&amp;match=imgur
+
+**Show submissions that contain imgur anywhere in the JSON response**
+
+    wget -qO- "http://stream.pushshift.io/?event=t3&amp;over_18=1"
+
+**Get only NSFW submissions** *There is an underscore between over and 18.  It should be over_18*
+
+    wget -qO- --header='Accept-Encoding: gzip,deflate' "http://stream.pushshift.io/?event=t1&amp;previous=10000" | gzip -dc
+
+**Stream the previous 10,000 events using compression (saves bandwidth) and then resume in real-time.**
+
+**Notes**
+-----------------------------------------------------------
+
+The timeout is set to 600 seconds.  If you filter by something very esoteric, the stream could disconnect after 600 seconds.  Please be aware of that.  The timeout resets for any activity.
+
+Also, there can only be one active stream per IP address.  If you need more streams, we can talk.  
+
+**Edit**:  Working out a few kinks -- consider this to be in beta for the next week while I continue to QA this under load.  Thanks!
+
+**Edit 2**:  When using a start_id that is behind the most current id, the stream will deliver content 100 times faster until it catches up.
+
+**Edit 3**:  When using the previous attribute, you can now get up to the last **100,000** events!

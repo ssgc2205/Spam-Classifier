@@ -1,0 +1,13 @@
+Dataset on Kaggle:
+
+[https://www.kaggle.com/nikdavis/steam-store-games](https://www.kaggle.com/nikdavis/steam-store-games)
+
+Scraping, cleaning, and EDA on my personal blog (may help give you some ideas of how to use it):
+
+[https://nik-davis.github.io/tag/steam.html](https://nik-davis.github.io/tag/steam.html)
+
+Downloaded from the Steam and SteamSpy APIs. Includes release data, developers, publishers, genres, positive/negative ratings, average/median playtime, owners (estimation from SteamSpy. Pretty inaccurate though), and price, as well as descriptions, media data (such as links to screenshots), system requirements, and support info (like company url and email).
+
+Created this for a personal learning project and I had a lot of fun creating and investigating it, so thought I'd share it here for you all. Feel free to use it however you like, but credit where necessary would be appreciated. 
+
+Have fun!

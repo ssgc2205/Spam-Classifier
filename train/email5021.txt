@@ -1,0 +1,3 @@
+I was wondering if anyone can recommend a good site. So far I've found [statcounter](http://gs.statcounter.com/#resolution-US-yearly-2012-2013-bar) but was wondering if anyone here can recomment a better source or say if statcounter is good.
+
+I'm doing research for a paper and I need some data about browsers, users, screensizes for users from the USA, Germany and China.

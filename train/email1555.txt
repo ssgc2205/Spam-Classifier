@@ -1,0 +1,7 @@
+I need some help finding a dataset. We can use any kind of data as long as following conditions are met:
+
+- not a very common set that is used for data mining examples
+- a continuous and binary response variable
+- many data points and many covariates (&gt; 10)
+
+Thank you!

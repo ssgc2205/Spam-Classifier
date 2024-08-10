@@ -1,0 +1,1 @@
+Hi there! I would like to request a dataset containing specialized phone call transcripts (for example 911 emergency calls) if possible. I want to use this dataset to train a machine learning model in order to perform data extraction for my University's end studies project. I would really appreciate it if someone could point me in the right direction!

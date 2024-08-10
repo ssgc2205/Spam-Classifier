@@ -1,0 +1,4 @@
+Hello everyone,
+So, for my graduation thesis I chosed to do "predictive monitoring" and I didn't seem to find some system logs datasets to work on so I wonder if any of you has an idea where i can find such thing... Or is it gonna be okay to gather logs from colleagues who use linux?
+Also, if any one has any advise regarding data preprocessing/processing, aproaches to take or anything else please feel free to let me know either in comments or DM...
+Thanks you.

@@ -1,0 +1,2 @@
+I was given a dataset named student performance in medical collage entrance exam, assam ,india. 
+I need to predict the performance of a student but the most dominating feature is the caste. every model i have tried in the dataset only given 50-60% accuracy.  Any advice , insight?

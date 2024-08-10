@@ -1,0 +1,1 @@
+Can anyone guide me to a dataset for human temperature detection? I find a lot of articles on it but none of them provide a concrete link of a dataset. Does FLIR dataset have something useful?

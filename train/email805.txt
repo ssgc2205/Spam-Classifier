@@ -1,0 +1,1 @@
+I am looking for a dataset that would indicate peoples eating habits  (I'm mostly interested in the types of food consumed) and heart failure incidence. Has anyone come across such dataset?

@@ -1,0 +1,3 @@
+Hello! I'm doing a project analysing social networks that arise in Norse mythology. I'm doing the dataset by hand, reading in a dictionary and wikipedia and setting the nodes and edges. I was wondering if anybody knew a way to create it faster, tried scrapping it online but incurred in a lot of issues mainly due to the coding of the Norse letters. Or if you know of someone who has done something similar, let me know, i couldn't find one.
+
+Please and thank you!

@@ -1,0 +1,5 @@
+I´m planning on making a blog post of CBIR (content based image retrieval) but I´d like to use snack products images to make it more interesting. Anybody knows if is there a dataset out there that could be used for this purpose?
+
+Something like this:
+
+https://preview.redd.it/pc5kpai59dx51.jpg?width=1075&amp;format=pjpg&amp;auto=webp&amp;s=6fdc58a15fef62ed27882778daa6fef75b399d91

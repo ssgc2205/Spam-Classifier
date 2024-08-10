@@ -1,0 +1,1 @@
+I want to have an online store's product dataset with title, description, location, ratings, categories, price etc. I need this for a recommender system which im going to create with machine learning

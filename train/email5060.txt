@@ -1,0 +1,9 @@
+The data set must have:
+
+* 2 or more predictors, and
+* 2 response variables to be predicted
+* The response variables must have some sort of shared dynamics
+
+Not sure what to be looking for, really! Kaggle has a lot of data sets but I'm not sure if any would fit the aforementioned requirements. I'd appreciate it if someone could suggest data sets.
+
+Some topics that sound interesting: climate change, sales forecasting, weather forecasting,.. though I'm not sure where to find these data sets and if they fit the 3 requirements above.

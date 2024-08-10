@@ -1,0 +1,9 @@
+Hi,
+
+&amp;#x200B;
+
+I have looked around and can't seem to find a dataset sample that meets my requirements. I am building a powerbi technical test to evaluate the candidates applying where I work. The director would like to have a dataset divided into multiple excel/csv files for each dimension and fact table and have data necessary to build two different reports. ex: one report on departments performance and another one on product sales.
+
+&amp;#x200B;
+
+Thanks in advance

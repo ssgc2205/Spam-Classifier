@@ -1,0 +1,2 @@
+Is there a way to get informations like date and time, upvotes and names (UserID) as recent as possible without requesting the reddit site and storing this information yourself.
+TL;DR: I am searching for a Reddit database access or something similar   

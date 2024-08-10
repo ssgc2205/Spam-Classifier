@@ -1,0 +1,10 @@
+Hello ,
+
+Just to let you know that I have upload a new version of my dataset on smart meter data in London that included:
+-the smart meter data from the UK power grid project (on the london datastore)
+-the details on the acorn groups
+-weather data from dark sky api for the duration of the measurement
+
+You can find the dataset at this link: https://www.kaggle.com/jeanmidev/smart-meters-in-london
+
+If you have any suggestions, remarks open a discussion on Kaggle or let's talk on reddit !!

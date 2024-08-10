@@ -1,0 +1,1 @@
+Looking for (Open, High, Low, Close) for each stock in the Nasdaq. Preferably 20 years back but anything past a year back I cant seem to get.

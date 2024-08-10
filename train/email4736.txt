@@ -1,0 +1,10 @@
+Hello!
+
+I'm working on a college sustainability project related to the collection, consumption and disposal of oyster shells in the state of Massachusetts, USA. 
+
+My group and I have been reaching out to restaurants and oyster shell producers in the area for rough estimates of their throughput, but would like some numerical data as well. 
+We're aware that the Massachusetts DEP puts out a yearly report about shellfish, but the data we found there hasn't been to helpful.
+
+Does anyone know a good dataset that might help?
+
+Thanks!

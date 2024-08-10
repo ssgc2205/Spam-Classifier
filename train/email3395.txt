@@ -1,0 +1,9 @@
+Greetings
+
+I'm a university student in Ireland and for my last year project, I'm building an app that would facilitate finding pen pals with the same interests and keep track of the postage that has been exchanged between the matches. 
+
+With the internet and messaging apps becoming ubiquitous it's very hard to find apps or websites that would facilitate the good ol' snail mail as most of them end up being a) dating apps b) messaging apps, defeating the purpose.
+
+I was wondering if the reason why there's no such option in the market is that there's really no market for it so I was hoping if anyone has ever come across any datasets about pen-pals, or snail mail in general (as I could try at least try to find if there's been a serious decrease in the regular post being sent/shared across people).
+
+So far I've tried Google scholar and kaggle with no luck. Thanks redditors! :)

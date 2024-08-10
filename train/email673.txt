@@ -1,0 +1,18 @@
+Hey I've been building an open COVID-19 case data pipeline: [https://github.com/covid19-data/covid19-data](https://github.com/covid19-data/covid19-data)
+
+Originally, I was using [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) for my visualization initially, but the dataset contains too many inconsistencies (e.g. sudden changes in country names and aggregation level) and they are not being addressed: [https://github.com/CSSEGISandData/COVID-19/issues](https://github.com/CSSEGISandData/COVID-19/issues)
+
+So, I'm working on an alternative data pipeline where everything is transparent. It currently merges
+
+1. WHO daily case data (cleaned by Our World in Data team)
+2. Wikipedia US case data
+3. Worldbank country metadata
+4. ISO 3166-2 Alpha-3 codes from Wikipedia
+
+And uses Tableau's version of the JHU CSSE dataset to extract coordinates (plan to switch to another dataset because of so many errors and inconsistencies). The whole pipeline is automatic (using Python and Snakemake) and everything is indexed by the ISO 3166-2 Alpha-3 codes.
+
+For instance, [https://github.com/covid19-data/covid19-data/blob/master/output/cases/cases\_WHO\_WP.csv](https://github.com/covid19-data/covid19-data/blob/master/output/cases/cases_WHO_WP.csv) is the cleaned country-level case data indexed by 3 letter codes. 
+
+I feel like so much effort is currently being wasted at [https://github.com/CSSEGISandData/COVID-19/pulls?q=is%3Aopen+is%3Apr](https://github.com/CSSEGISandData/COVID-19/pulls?q=is%3Aopen+is%3Apr) because they are just ignored.
+
+Hope to redirect some of these efforts to build a nice open data pipeline! Thanks!

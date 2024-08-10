@@ -1,0 +1,3 @@
+I am interested in finding a dataset of message-reply pairs of conversations with dirty talking.
+
+By dirty talking, to be clear, I mean inappropriate for work. I looked around a little bit but I couldn’t find much of anything large enough. If you have any ideas on how to create a dataset like this on my own, please share.

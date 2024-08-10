@@ -1,0 +1,21 @@
+I'm looking for the China "daily new cases" time series.
+
+Looking at the various links in the "Coronavirus Datasets" pinned thread, I found there are 2 main datasets:
+
+\- worldometers
+
+`259,457,688,769,1771,1459,1737,1981,2099,2589,2825,3235,3884,3694,3143,3385,2652,2973,2467,2015,14108,5090,2641,2008,2048,1888,1749,391,889,823,648,214,508,406,433,327,427,573,202,125,119,139,143,99,44,40,19,24,15,20,11,20,16`
+
+\-   John Hopkins Github (csse folder), which also is the Kaggle dataset
+
+`95,277,486,669,802,2632,578,2054,1661,2089,4739,3086,3991,3733,3147,3523,2704,3015,2525,2032,373,15136,6463,2055,2100,1921,1777,408,458,473,1451,21,219,513,412,434,328,428,576,204,125,125,151,153,80,53,37,27,34,11,13,32,26`
+
+Both data are from January 23 to March 15.
+
+By [plotting](https://i.imgur.com/60GZr92.png) the two time series, we see that
+
+* the initial and final parts are quite different
+* the mid part (except for the spike) almost coincide
+* the spikes are the 21st value (Jan 12) vs 22nd value (Jan 13)
+
+The last observation let me think that one of the two series is wrong. Does somebody know which is the most reliable?

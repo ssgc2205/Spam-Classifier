@@ -1,0 +1,9 @@
+I was trying to download urban dataset from : [https://old.datahub.io/dataset/urban-atlas](https://old.datahub.io/dataset/urban-atlas). But when I'm trying to download, it gives me : 
+
+    &lt;Error&gt;
+    &lt;Code&gt;UserProjectAccountProblem&lt;/Code&gt;
+    &lt;Message&gt;User project billing account not in good standing.&lt;/Message&gt;
+    &lt;Details&gt;The billing account for the owning project is disabled in state absent&lt;/Details&gt;
+    &lt;/Error&gt;
+
+Can anyone provide me with some valid link of these dataset ? Cause the paper I'm comparing with my result, needs this. So I need exactly this dataset.

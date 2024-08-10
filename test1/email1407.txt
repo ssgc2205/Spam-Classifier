@@ -1,0 +1,2 @@
+So I've recently started to play Blackout on Call of Duty: Black Ops 4. In wanting to learn more about analytics as well as gameplay of people around the world I am questioning if there is a dataset or API known to get player data? I have seen other video game companies which place player gameplay data such as: location of death, damage dealt /taken, location of damage dealt / taken, weapon used, etc.
+Getting hold of data like this would be quite interesting to look into! I'm just hoping Activision would play along :)

@@ -1,0 +1,3 @@
+Hey everyone. Im looking for an shp file that contains the layout of bangalore city. I have seen few topography maps out here and i was wondering if someone could pass the shp file to me as im working on a project that requires an shp file to display the spread of data across bangalore map. 
+
+It would be really helpful as im finding shps online but it doesnt specify the actual names of parts of bangalore. Please help!

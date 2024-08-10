@@ -1,0 +1,1 @@
+I'm looking for an open API or dataset that has current and historical data of global sea temperature. I found about that [sea-temperature.com](http://sea-temperature.com/) already offers this data, but it doesn't say how old is it and is not a web service or REST API.

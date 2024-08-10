@@ -1,0 +1,25 @@
+I'm a software engineer at [Liquidata](https://www.liquidata.co/), the creators of [Dolt](https://github.com/liquidata-inc/dolt) and [DoltHub](https://www.dolthub.com/). We published a [dataset of coronavirus state actions](https://www.dolthub.com/repositories/Liquidata/corona-virus-state-action) based on [NGA's State Action Tracking Chart](https://www.nga.org/coronavirus/#states) so that you can get the most up-to-date information about policies and guidelines in your state.
+
+For example, these are the state response start dates for California as of April 13, 2020:
+
+    doltsql&gt; select * from state_action_dates where state_id = "CA";
+    +----------+----------------------------------------+--------------+-------------------------------+----------+
+    | state_id | state_action                           | sequence_num | start_date                    | end_date |
+    +----------+----------------------------------------+--------------+-------------------------------+----------+
+    | CA       | domestic_travel_limitations            | 1            | &lt;NULL&gt;                        | &lt;NULL&gt;   |
+    | CA       | eleven_thirtyfive_waiver_status        | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | emergency_declaration                  | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | essential_business_designations_issued | 1            | 2020-03-26 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | gatherings_limits_and_stay_at_home     | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | income_tax_deadline_extended           | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | major_disaster_declaration             | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | national_guard_activation              | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | nonessential_business_closures         | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | state_employee_travel_restrictions     | 1            | &lt;NULL&gt;                        | &lt;NULL&gt;   |
+    | CA       | statewide_curfew                       | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | statewide_mask_policy                  | 1            | 2020-04-07 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | statewide_school_closures              | 1            | 2020-03-25 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    | CA       | ventilator_sharing                     | 1            | 2020-04-09 00:00:00 +0000 UTC | &lt;NULL&gt;   |
+    +----------+----------------------------------------+--------------+-------------------------------+----------+
+
+Learn more about this data and how we used pull requests on [DoltHub](https://www.dolthub.com/) to improve it in this blog: [https://www.dolthub.com/blog/2020-04-13-corona-virus-state-actions-using-pull-requests/](https://www.dolthub.com/blog/2020-04-13-corona-virus-state-actions-using-pull-requests/)

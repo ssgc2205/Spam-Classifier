@@ -1,0 +1,3 @@
+I've compiled a dataset of adult films. Can I publish it on github or place like Kaggle? Even though it's only text based, some of the titles including adult languages text. 
+
+Or is it better just to host it on my own? Although kind of wasteful for just a dataset. 

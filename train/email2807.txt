@@ -1,0 +1,1 @@
+I am working on a healthcare chatbot, for a certain application I require a resource that maps symptoms to the specialist (doctor) that generally treats them. A dentist being the relevant doctor for a toothache for an instance.

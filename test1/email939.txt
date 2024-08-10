@@ -1,0 +1,13 @@
+I’m an undergrad that just started helping a professor with research. 
+
+He wants me to improve his current method for getting/storing tweets. Right now, the program uses the search api and does some kind of recursive search on retweets/comments on news articles for top news outlets. The api is called with java and stored in MySQL.
+
+Again, my goal is to improve it. My idea was to use the streaming api instead of the search api, dump everything into an amazon fire hose, store raw data in s3 and load into elastic search plus kibana as a UI. (Basically follow this tutorial https://aws.amazon.com/blogs/big-data/building-a-near-real-time-discovery-platform-with-aws/ )
+
+The current program is logging about 35k tweets a day. Can anyone speculate if the proposed setup would be a significant improvement?
+
+I know that speaking strictly data limits, the streaming api should have a higher capacity but I don’t how it behaves in practice. 
+
+ I also no there are issues with time delay on the search api, and only getting a certain percentage of tweets with the streaming api. 
+
+If anyone has experience with the api, I’d appreciate the advice

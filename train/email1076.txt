@@ -1,0 +1,7 @@
+For example, let 'deep learning' be the term I want to predict that the parent is 'machine learning' 
+
+2nd example, let 'corgi' be the term, I want to predict that the parent is 'dog' 
+
+Is there any dataset available to do these kind of predictions?
+
+If not how can and should I go about achieving this?

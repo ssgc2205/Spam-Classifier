@@ -1,0 +1,9 @@
+Finding a good and open dataset with images of clothes is not easy. That's why some time ago I decided to collect my own - and asked the community to help
+
+Here's the result:
+
+* [https://www.kaggle.com/agrigorev/clothing-dataset-full](https://www.kaggle.com/agrigorev/clothing-dataset-full)
+* [https://github.com/alexeygrigorev/clothing-dataset](https://github.com/alexeygrigorev/clothing-dataset)
+* [https://github.com/alexeygrigorev/clothing-dataset-small](https://github.com/alexeygrigorev/clothing-dataset-small)
+
+The dataset is shared under CC0, which means you can use the dataset for any purpose, also commercial

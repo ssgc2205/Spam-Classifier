@@ -1,0 +1,7 @@
+Hi, I am doing a project about network science. I am analyzing a network about Scottish whisky. The adjacency matrix I am given was constructed like this: 86 whiskies were rated in 12 categories (sweetness, medicinale, etc) and the componente (i,j) of the matrix is the correlation coefficient of the vector with the grades of I and the vector with the grades of j. 
+The first thing I have done is to see when the correlation coefficient is high (&gt;0.7 or &gt;0.85) and I have construct a graph with the edge representing that the correlation coefficient is high.
+Then I tried to see if some categories were positively or negatively correlated: I constructed a 12x12 matrix with entries the correlation coefficient of the of the vector of the category I and the one of the category j. 
+The taste categories are not positively correlated neither negatively.
+Now I do not know what else can I do.
+I have been given also the geographical coordinates of the distilleries that produces the  different types of whiskies.
+Thanks for the suggestions!

@@ -1,0 +1,1 @@
+I am learning Tableau and a former Fixed Income / Bond Consultant and would like to put together some cool viz using bond(corp's and muni's mostly) data.  Unfortunately, I don't have access to a Bloomberg terminal.  I was wondering if you could help me locate some datasets? Thanks in advance for any help.

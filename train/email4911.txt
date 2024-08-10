@@ -1,0 +1,25 @@
+Hi guys, I'm a student and have a big analytics project as part of a final. I'm very good at modeling and post-processing but am a bit weak at pre-processing. In order to make sure everything goes smoothly I'd like to make sure I'm correctly identifying datasets attributes as numerical vs categorical.
+
+[Dataset (Google Drive)](https://drive.google.com/file/d/1ag3lAM-KbNjtwlXuMm8l6OkRwPRxI-lo/view?usp=sharing)
+
+I've highlighted the attributes as per the classification I believe they are:
+
+Green = Numerical
+
+Yellow = Categorical
+
+Red = Output
+
+**My big questions regard attributes Q6, Q7, Q35, Q36, &amp; Q37.**
+
+**Q6**: I believe this is **categorical** because hours seems to be on a scale of \[less than 1 hour, 1 hour, 2 hours, 3 hours, 4 hours, 5 hours, more than 6 hours\]. If not for the scale (finite options for survey it would be continuous)
+
+**Q7**: I believe this to be **categorical**. While it's a number, it may be categorical as it seems to be on a finite scale of \[0, 1, 2, 3, 4+\]
+
+**Q35, Q36, &amp; Q37**: I don't understand these attributes as they're responses to "Do you have any kids? - Yes/No \_\_\_". On the surface they appear binary (Yes, No) and thus **categorical** but the max values for these attributes are 6, 7 &amp; 9 respectively perhaps indicating they are **continuous**. Perhaps you can infer what this really means. Perhaps it means for example "Yes I have 6 kids that ride mountain bikes".
+
+What really throws me is when a subject indicates they have kids by entering a value for Q35 and/or Q36, but simultaneously indicates they don't have kids by entering in a value for Q37. As of right now I'm going with **continuous** (numerical).
+
+Even a guess will really help me out.
+
+Thanks!

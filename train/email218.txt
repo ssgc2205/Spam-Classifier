@@ -1,0 +1,10 @@
+Our startup is looking to get some data for a SaaS product. Some of data we are interested in are:
+
+(i) Number of login
+(ii) Billing date
+(iii) Payment date
+(iv) Churn (maybe?)
+(v) Signup
+(vi) Number of visits, signed-up users and paying users
+
+Is there anyone who is interested to partner with us to share some data? We will keep it anonymous and send you back a report at a small fee.

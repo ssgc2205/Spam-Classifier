@@ -1,0 +1,4 @@
+I want to train a BERT-like model for classifying different types of articles on the internet.
+
+Ps. It would be very great if you also knew if there is a dataset for classifying politcal orientation also.    
+And it's also fine if it is multiple datasets. So a dataset that is either bias &amp; normal, satire &amp; theories or something like that

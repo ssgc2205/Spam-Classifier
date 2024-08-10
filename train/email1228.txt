@@ -1,0 +1,1 @@
+I am looking for a dataset of body photographs with the person's height and weight attached. This is similar to the Face2BMI dataset but with full body pictures.

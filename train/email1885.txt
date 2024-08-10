@@ -1,0 +1,3 @@
+[Part 1](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-1/) and [Part 2](http://blog.thedataincubator.com/2014/10/data-sources-for-cool-data-science-projects-part-2/)
+
+Like the title says, we provide our applicants a list of open data sources for their challenge questions, but the posts have been so popular we thought r/datasets would like them too. Enjoy!

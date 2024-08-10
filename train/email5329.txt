@@ -1,0 +1,5 @@
+Hi everybody,
+
+I am looking for a dataset for my project about cells segmentation and counting, this dataset should be annotated in term of segmented mask and number of cells in each image.
+
+I would be grateful if you can help me with this please  🙏  🙏  🙏

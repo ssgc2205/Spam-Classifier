@@ -1,0 +1,21 @@
+Hey everyone,
+
+I was trying to figure out whether there was an easily accessible version of the UC school salary data available somewhere (i.e. something in csv-type format or similar). I know that you can search the database online at  [Compensation at the University of California: Annual Wage (ucop.edu)](https://ucannualwage.ucop.edu/wage/), but they don't allow for easy bulk downloads. I found two other sources that are missing either the name of the employee or the location. Does anybody know if someone has perhaps scraped the site above already or if it's available somewhere?
+
+&amp;#x200B;
+
+EDIT -- I had looked into  [2019 salaries for University of California | Transparent California](https://transparentcalifornia.com/salaries/2019/university-of-california/) (but they are missing info on the campus/location) and also into  [GCC : University of California, Los Angeles (2019) &lt;&lt; University of California](https://publicpay.ca.gov/Reports/HigherEducations/UCEntity.aspx?entityid=8241&amp;year=2019) (which has information on the location but is omitting the employee's names) already. I need something that contains both the location/campus, as well as the name.
+
+&amp;#x200B;
+
+Thanks for the help,
+
+FL
+
+&amp;#x200B;
+
+P.S.: The post below had a link to a GitHub, but that doesn't seem to be accessible any longer.
+
+&amp;#x200B;
+
+[Full salary records for all University of California employees (including students) : datasets (reddit.com)](https://www.reddit.com/r/datasets/comments/6iz29e/full_salary_records_for_all_university_of/)

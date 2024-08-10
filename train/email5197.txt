@@ -1,0 +1,15 @@
+I am an aspiring Data analyst hoping to find a real problem to work on. I have about 50 hours of study and practice under my belt and am ready to put on my big boy pants and start thinking about serious problems.
+
+I am looking for:
+
+total workers / mean earnings / gender / ethnicity / industry / years of experience
+
+I tried the Department of Labor, but all I could find is total workers / earnings / gender / ethnicity. I feel like it's not the full picture and it would be nice to see those deeper insights. Looks like PayScale did a crowd sourced thing, but I don't see a way to get to there actual data directly. 
+
+Anything would be appreciated! 
+
+Here are links to what I have found so far:
+ 
+https://www.bls.gov/cps/earnings.htm
+
+https://www.payscale.com/data-packages/gender-pay-gap

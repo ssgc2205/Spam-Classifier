@@ -1,0 +1,1 @@
+I want to do a remote sensing project on land cover change, and I need some good field data to train and validate my land cover classification. I'm particularly interested in wetlands, peatlands and grasslands, in that order.

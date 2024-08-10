@@ -1,0 +1,1 @@
+I am developing a model of how human value systems work, and am eager to access some datasets on human values (such as honesty, happiness, care for the environment and so forth) in order to test the model. I have already found the World Values Survey but am interested if anyone knows of any others? Thanks.

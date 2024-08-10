@@ -1,0 +1,7 @@
+ This is a long-context, anonymized, clean, multi-turn and single-turn conversational dataset based on discord data scraped from a large variety of severs, big and small.
+
+The raw data for this version contained 51,826,268 messages  
+5103788 (regex) + 696161 (toxic)/51826268, or 0.11% of the messages were removed  
+**The dataset's final size is 46,026,319 messages across 456810 conversations**, which is reduced from 33.06 GB of raw json data to 968.87 MB
+
+[https://www.kaggle.com/jef1056/discord-data](https://www.kaggle.com/jef1056/discord-data)

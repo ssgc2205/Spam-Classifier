@@ -1,0 +1,13 @@
+Hey, folks of Reddit! 
+
+**I'm in a dire situation. I need to complete my college project on artificial intelligence.**
+
+But I'm so lost, I don't know how to build this as I don't have solid experience in A.I. I've only ever built apps and websites. 
+
+**The project given to me is "detecting seat occupancy using A.I"**
+
+So for example, if I take a photo of 9 seats (3 of which are occupied by my friends), The A.I should be able to tell that 3 out of 9 seats are occupied. 
+
+How can I go about doing this (where do I even get the dataset for starters)? I can some grasp terms in deep learning since I've played around with it a tiny bit. 
+
+Any help would be greatly appreciated. Cheers!

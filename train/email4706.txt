@@ -1,0 +1,7 @@
+Is there a way to find any kind of (disaggregated, obviously) data on adult diagnoses of specific psychiatric disorders?
+
+This is fairly easy to do for students, since the school keeps track, but I have no idea if it is even possible for people diagnosed as adults (let alone where to start!) without attempting to sample a population via self-report...
+
+(I though about the census, but that includes how many people overall have disabilities in the US, but not whether they were diagnosed as children or adults...)
+
+Any ideas?

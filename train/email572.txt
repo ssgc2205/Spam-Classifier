@@ -1,0 +1,7 @@
+Hi r/datasets,
+
+This is the CEO of the company that built Dolt and DoltHub. We blogged about our search for the open data Linux.
+
+[https://www.dolthub.com/blog/2020-07-20-search-for-dolt-linux/](https://www.dolthub.com/blog/2020-07-20-search-for-dolt-linux/)
+
+If you have any datasets you think fit the bill, whether they exist or you wish they existed, please let us know.

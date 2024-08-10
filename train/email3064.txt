@@ -1,0 +1,3 @@
+I'd like daily, monthly, or yearly data on Reddit usage by location.  Location could be country, state, county, or anything else and does not have to be exhaustive in any of those levels.  Essentially a time-series-cross-sectional dataset on Reddit usage.  Usage could be measured in posts, visits, unique visitors, registered users, or by another similar metric.
+
+Does anybody know who to ask for this type of historical data?  Or has anybody seen something like this before?

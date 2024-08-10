@@ -1,0 +1,1 @@
+I know about the 1 million song/playlist dataset but i was hoping i could find the metadata of user libraries instead.

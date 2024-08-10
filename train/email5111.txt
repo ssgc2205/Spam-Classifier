@@ -1,0 +1,1 @@
+Ok i got told to read the Kimball book to learn data modeling and star schema, I googled it, but there is more than 1 book... which one should I read?

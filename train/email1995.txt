@@ -1,0 +1,3 @@
+Hi guys!
+
+I'm looking for a dataset, that contains human faces by personalities. A perfect one for me - subfolders with name or id of personality. Does anyone know something like this?

@@ -1,0 +1,9 @@
+I know this is probably a strange and unusual dataset for this subreddit... 
+
+I ended up with this because I wanted to search for certain words Snoop Dogg might have said in a song, so I can sample them. 
+
+Half of the files are completely plain text of just the song title and lyrics, and will require zero to little cleanup. 
+
+The other half have javascript and other crap that needs cleaned up from my rough scraping. Still makes for an interesting dataset, I suppose.
+
+Have at it: [Zip File download - contains 310 plain text files](https://www.dropbox.com/s/iy7bjr65yg14meg/snoopdogglyrics.zip?dl=0)

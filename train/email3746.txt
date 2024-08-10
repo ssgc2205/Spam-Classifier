@@ -1,0 +1,7 @@
+Hello! I am looking for some datasets related to Prek and Early Childhood Education. I have found some US Federal Data here (https://catalog.data.gov/dataset?tags=early-childhood-education), some aggregate labor data here (https://datausa.io/profile/soc/252010/) and some NYC municipal prek mapping info here (https://data.cityofnewyork.us/Education/Universal-Pre-K-UPK-School-Locations/kiyv-ks3f). These datasets are cool but I would like to find some data that can give more insight into the efficacy of prek treatments. If possible it wold be awesome if the data was somehow associated with data that can be used to infer some information about the prevalence of poverty. 
+
+I know the US Free and Reduced Lunch Program funds PreK but I can't find any data on it. 
+
+If there were some sort of national or state level info on PreK adoption rates or outcomes with location data I could probably also pair it up with Census tract poverty data too but I haven't found any good data at scale about the effectiveness of PreK Interventions.
+
+Anyway, can anyone think of any good data on this subject? My Focus has been the United States but I understand the EU sometimes has better data in member languages and that would be awesome too!

@@ -1,0 +1,5 @@
+I would like to find a data set that is similar to https://www.riaa.com/goldandplatinumdata.php?content_selector=gold-platinum-searchable-database# 
+
+The only problem with the RIAA site is that, while it categorizes records by award, there are no specific values of records sold, gross earnings, or the like.
+
+Any help in finding a website that I could scrape these values is appreciated. Thanks!

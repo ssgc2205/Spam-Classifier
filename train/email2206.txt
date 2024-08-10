@@ -1,0 +1,3 @@
+I have been checking financial datasets but it is mostly a random walk. And most of other I have checked have a strong seasonal effect. 
+
+Where should I look, maybe specific industry?, for non seasonal short-term correlated datasets? 

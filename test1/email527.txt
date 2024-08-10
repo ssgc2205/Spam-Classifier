@@ -1,0 +1,3 @@
+Hello!  I'm working on an ML/analytics project and my group had an idea that requires data regarding youtube videos.
+
+Ideally, the dataset would contain textual information from thousands of youtube videos, including title, duration, ads, views, likes, dislikes, etc.  Any ideas or links to datasets that would include such information?

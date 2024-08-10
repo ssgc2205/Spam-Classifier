@@ -1,0 +1,9 @@
+Dear all,
+
+looking for a call-center call data set that contains 24x7 x 365 days worth of call data. Data points I need are: call time, call duration.
+
+Can someone point me to a free data set.
+
+TIA
+
+&amp;#x200B;

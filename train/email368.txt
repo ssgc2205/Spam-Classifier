@@ -1,0 +1,3 @@
+I’m looking for a dataset showing the square footage of leased/leaseable retail locations in the United States. Can anyone help out? 
+
+(I have a dataset or retail outlets for the industry I’m interested in. I’m looking to enrich that dataset by including the square footage.)

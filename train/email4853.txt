@@ -1,0 +1,3 @@
+Hello! I’m looking for census data, specifically a table of racial distribution by tract, but am having a hard time finding it. Census.gov is quite horrible/AFF is officially shut down. Any tips?
+
+If it helps, I’m using R and am willing to use packages. I know of tidycensus but I’m unsure of whether I can get an api key now.

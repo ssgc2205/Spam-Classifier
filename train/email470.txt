@@ -1,0 +1,3 @@
+Hi Folks, does anyone have a dataset containing the Lat/Lon pairs for actual turbines within a windfarm?  I thinking mostly about off-shore farms here, but I'll take on-shore if anyone has it.
+
+Thanks

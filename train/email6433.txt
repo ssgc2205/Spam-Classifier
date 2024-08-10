@@ -1,0 +1,3 @@
+Does anyone know a dataset for insurance fraud detection based on textual claims?
+
+If no, do you know any similar tasks? 

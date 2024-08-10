@@ -1,0 +1,1 @@
+I am trying to apply ML techniques to physiological signals. In particular I am looking for Chronic Obstructive Pulmonary Disorder (COPD) (emphysema, bronchitis etc). Unfortunately I am unable to find a dataset online. I tried physionet kaggle even UCI database yet no luck. Does anyone know of another database I could look at?

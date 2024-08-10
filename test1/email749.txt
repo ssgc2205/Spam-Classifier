@@ -1,0 +1,3 @@
+I have a thesis project I am trying to get of the ground. For my empirical approach to work I need data that links children to parents and includes state identifiers. The time period should cover 1978 through 2012. I have looked into the NLSY79-97, but I am not located in the US and therefore cannot access the state identifiers.
+
+Any tips is much appreciated!

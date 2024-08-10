@@ -1,0 +1,12 @@
+Hi everyone!
+
+I am a student currently researching on plant leaf diseases and was looking for some datasets for the same.
+
+I stumbled upon the CropDeep dataset but I was not able to find any links to the dataset.
+So as the question suggest, I wish to know if it is publicly available?
+
+If no, is there any other similar dataset that could be useful in my situation.
+
+Thanks in advance.
+
+[CropDeep dataset](https://www.mdpi.com/1424-8220/19/5/1058)

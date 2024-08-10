@@ -1,0 +1,19 @@
+I saw some interest on Reddit about the DOJ's press releases from their Breifing Room located here [https://www.justice.gov/news](https://www.justice.gov/news). I wrote a Python script which crawled the site and downloaded the content of 13,087 releases going back to Jan 2009. Could be interesting to see changes over time.
+
+The data contains:
+
+1. Release ID
+2. Title
+3. Content
+4. Topics (if any)
+5. Components (agencies, departments - if any)
+
+Sometimes the Release ID was included in the post text so they left it off as a field. The files are stored as newline delimited JSON. Meaning each line is a JSON record representing a single press release. Looking forward to any work people do with this!
+
+**Data via Kaggle:** [https://www.kaggle.com/jbencina/department-of-justice-20092018-press-releases](https://www.kaggle.com/jbencina/department-of-justice-20092018-press-releases)
+
+**Data via BigQuery:** [https://bigquery.cloud.google.com/table/jbencina-144002:doj.press\_releases?pli=1](https://bigquery.cloud.google.com/table/jbencina-144002:doj.press_releases?pli=1)
+
+**Original Code:** [https://github.com/jbencina/dojreleases](https://github.com/jbencina/dojreleases)
+
+**Extra detail + building Keras RNN classifier**: [https://medium.com/jbencina/scraping-text-data-into-bigquery-and-building-a-keras-rnn-classifier-model-from-doj-press-releases-7899e520a1cf](https://medium.com/jbencina/scraping-text-data-into-bigquery-and-building-a-keras-rnn-classifier-model-from-doj-press-releases-7899e520a1cf)

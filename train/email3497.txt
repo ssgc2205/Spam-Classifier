@@ -1,0 +1,55 @@
+Looking for complete OEM part listing for anything with a part number.  If you were to build a 1998 Toyota T100 part by part, which OEM numbers are required?   Would prefer Toyota, but could start with any make/model or preferably all models/years of a big manufacture.  Its a tall order, do you know if anything like this exists and is available publicly?
+
+Example of the data points in an individual record:
+
+[https://parts.toyota.com/p/Toyota\_1998\_T100-34L-MT/GASKET-PLUG-SEAT-FOR-FRONT-DIFFERENTIAL-CLUTCH-CASE-FOR-FRONT-DIFFERENTIAL-LOCK-CYLINDER-FOR-IDLER-CASE-FOR-REAR-DIFFERENTIAL-LOCK-CYLINDER-FOR-REVERS/62981758/9034110065.html](https://parts.toyota.com/p/Toyota_1998_T100-34L-MT/GASKET-PLUG-SEAT-FOR-FRONT-DIFFERENTIAL-CLUTCH-CASE-FOR-FRONT-DIFFERENTIAL-LOCK-CYLINDER-FOR-IDLER-CASE-FOR-REAR-DIFFERENTIAL-LOCK-CYLINDER-FOR-REVERS/62981758/9034110065.html)
+
+Updates:.
+
+Looks like parts are available in the Product Classification database (PCdb).
+
+If I understand correctly, PCdb is available for free?  You must signup with Autocare Association at [autocare.org](https://autocare.org) and then login to  [https://autocarevip.com/Account/login?ReturnUrl=%2F](https://autocarevip.com/Account/login?ReturnUrl=%2F) to access PCdb.  Anyone get this to work?
+
+[https://www.autocare.org/What-We-Do/Technology/Product-Areas/pcdb/](https://www.autocare.org/What-We-Do/Technology/Product-Areas/pcdb/)
+
+[https://www.autocare.org/What-We-Do/Technology/Resource-Files/ERDiagramPCdbMay2018/](https://www.autocare.org/What-We-Do/Technology/Resource-Files/ERDiagramPCdbMay2018/)
+
+\---
+
+ACES - VCdb lightduty is $2500
+
+PIES - Padb is $1100
+
+ACA VIP is $430
+
+\---
+
+[PIES (Product Information Exchange Standard)](http://www.autocare.org/what-we-do/technology/technologyhelp/#pies)
+
+PIES are Product Information Exchange Standards. The standard was  established to define the attributes of the automotive products. These  attributes include, but are not limited to: brand ID, description,  price, dimensions, weights, NAFTA, UPC and HAZMAT.
+
+[http://www.autocare.org/what-we-do/technology/technologyhelp/#pies](http://www.autocare.org/what-we-do/technology/technologyhelp/#pies)
+
+## [ACES (Aftermarket Catalog Exchange Standard)](http://www.autocare.org/what-we-do/technology/technologyhelp/#aces)
+
+ACES is the Auto Care Association Catalog Exchange Standard. The  standard was established to standardize information for proper product  selection and fitment. ACES drives how YEAR/MAKE/MODEL product searches  and look-ups work. This is a living standard.
+
+[http://www.autocare.org/what-we-do/technology/technologyhelp/#aces](http://www.autocare.org/what-we-do/technology/technologyhelp/#aces)
+
+PAdb:
+
+The Product Attribute database (PAdb) is an automotive aftermarket industry standard reference database to be used in conjunction with the Product Information Exchange Standard (PIES).
+
+[https://www.autocare.org/What-We-Do/Technology/Resource-Files/PAdb\_Documentation/](https://www.autocare.org/What-We-Do/Technology/Resource-Files/PAdb_Documentation/)
+
+Samples:
+
+**Vehicle Configuration Database (VCdb)**
+
+The VCdb and Qdb are  the backbone for those who subscribe to the         [Aftermarket Catalog Exchange Standard](http://autocare.org/What-We-Do/Technology/Product-Areas/aces/) (ACES        ).  The VCdb is used throughout the industry supply chain to understand  valid combinations between vehicles and vehicle systems for buying,  selling, fixing, researching, and reporting on aftermarket vehicles.
+
+[http://www.autocare.org/What-We-Do/Technology/Resource-Files/VCdb\_Sample/](http://www.autocare.org/What-We-Do/Technology/Resource-Files/VCdb_Sample/)
+
+**Product Attribute database (PAdb)** is an auto care industry standard reference database to be used in conjunction with the             [Product Information Exchange Standard (PIES)](http://www.autocare.org/Technology/pies/).
+
+[https://www.autocare.org/What-We-Do/Technology/Resource-Files/Auto-Care\_PADB-Sample-Code\_20150219/](https://www.autocare.org/What-We-Do/Technology/Resource-Files/Auto-Care_PADB-Sample-Code_20150219/)

@@ -1,0 +1,3 @@
+Hello,
+
+I'm looking for any records that might tell me county-level population density for California counties between 1940 and 2000. I'm doing some work on urban change in the Bay Area and would like to map population change over time. Does anyone know where I might find such data or records? Thanks!

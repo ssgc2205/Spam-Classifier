@@ -1,0 +1,3 @@
+Hello, are there any datasets about archived job postings? Or, are there any websites that can show historical job postings in the past so I can scrape the data?
+
+I'm particularly aiming at finding job postings from the police agencies.

@@ -1,0 +1,1 @@
+I have no idea how I'd go about getting this, but I wanted to attempt to get information about popularity of certain file types in email attachments.  Anyone have any ideas // resources?  Thanks!  :]

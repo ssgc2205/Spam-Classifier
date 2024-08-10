@@ -1,0 +1,17 @@
+Hey guys, 
+
+
+I'm wondering how do we identify whether the dataset will be suitable practice the methods of regression ? 
+
+
+Mainly these 3 methods of regression on particular : 
+
+Least square, logistic and regularized regression 
+
+
+What are the criteria that I have to consider before choosing a dataset to work on? 
+
+
+p.s. feel free to share the source of the dataset or maybe a link from Kaggle :)
+
+Appreciate it!

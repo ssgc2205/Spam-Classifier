@@ -1,0 +1,3 @@
+Hoping someone can help. As per the title I'm looking for some big data sets on violent crimes. They can be from any region/country so long as I get a decent amount plotted by date rather than just month. All I seem to be able to find at the moment is monthly totals.
+
+Edit - Doesn't need to be limited to violent crimes, I just want that aspect in particular. Anything else is bonus.

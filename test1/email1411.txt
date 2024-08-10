@@ -1,0 +1,3 @@
+Hello. I'm currently trying to do some research regarding knowledge graphs and graph neural networks (GNN's) and was wondering if there were any standard or benchmark dataset for social media?
+
+For example, maybe a knowledge graph dataset for Facebook users and how they're connected with each other, etc.

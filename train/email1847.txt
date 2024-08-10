@@ -1,0 +1,10 @@
+I've seen many data sets of US Cities, which usually have data like populations and center point (Lat/Long).   
+
+
+What I've been curious about, and unable to find, is tourism data by US City.   
+
+
+For example, Panama City Beach is often touted as the world's most popular spring break destination, but it only has a population of 12,018 (From the US Census of 2010). If you were to strictly be looking at population figures, you'd be lead to believe that Panama City Beach isn't a very popular or lively place, but tourism data would show that it is frequently visited.   
+
+
+Does anyone have any idea on how to acquire this data or any thoughts regarding this? Any help is appreciated!

@@ -1,0 +1,15 @@
+I wanted to do a very simple regression analysis on crime data in America. I can find very general sets online, but does anyone know of how to get ahold of as close to source data as possible? I'm actually looking for something more along the lines of arrest records, as opposed to crimes, however, due to related nature of the two, I would be looking for either.
+
+I'm looking for something along the lines of a large tableset with columns being potentially: "Arrest index"/"specific arrest", "income", "zip code", "race", and whatever other values that may be available.
+
+The point of my project would be to see which has a higher correlation for being arrested, race, or income.
+
+Obviously, both are going to be big factors, but comparing the two would be enlightening for me, and help guide me with another analysis afterwards.
+
+I added zip code, because in lieu of income, zip can be tied loosely with already given income approximations.
+
+Also, if this is not readily available, either through the FBI, or elsewhere, is there a way to petition them to send a copy of such information? They must have it if they have the aggregates they use. 
+
+I'm sure it's a huge workload as well, but that's one of the reasons why I would like to work on this.
+
+Thank you for any help, direction, or advice.

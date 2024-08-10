@@ -1,0 +1,2 @@
+Hey everybody. I've been searching for a free/open source dataset, containing data from GPS trackers/vests for measuring and monitoring athletes performance. I would like to explore and analyse data, do a little research on what can it be used for and also try it hands on. 
+Anybody knows about some useful dataset like that?

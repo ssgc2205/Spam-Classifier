@@ -1,0 +1,1 @@
+I am looking a time series data of the average price of certain models of used cars over time. CarGuru gives me the overall trend plot but only for make model and year. I would like to account for mileage and trim.

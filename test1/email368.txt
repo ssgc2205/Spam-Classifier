@@ -1,0 +1,3 @@
+Hi, I'm aware that this dataset showing trending youtube videos from November 2017 to June 2018 exists: [https://www.kaggle.com/datasnaek/youtube-new](https://www.kaggle.com/datasnaek/youtube-new)
+
+I'm just wondering if anyone knows where I can find a more updated trending dataset with 2018-2019 trending videos?

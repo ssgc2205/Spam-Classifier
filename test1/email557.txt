@@ -1,0 +1,13 @@
+I am a Research and Development intern at University of Colombo School of Computing in Sri Lanka.  I am currently working on a credit card fraud detection research.
+
+But I couldn't find a suitable dataset to work on. I am currently using the credit card fraud detection dataset which can be found in Kaggle.
+
+But I need a real-time dataset with known features so that I can work on the data properly.
+
+his is the work I have done so far with the credit card transaction dataset.
+
+[https://www.kaggle.com/maneesha96/credit-card-fraud-detection-using-autoencoders](https://www.kaggle.com/maneesha96/credit-card-fraud-detection-using-autoencoders)
+
+I used Autoencoders for the model building and H2O as the ML platform in python.
+
+Feel free to comment on the model. :)

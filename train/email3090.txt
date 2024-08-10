@@ -1,0 +1,3 @@
+Not just metro areas or large cities, but datasets of revenue for all businesses located in a particular town/city. My guess is only this information on public companies is available, and would exclude small businesses though, correct? 
+
+Thanks in advance!

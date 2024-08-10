@@ -1,0 +1,1 @@
+Hey! Does anyone know of an platforms that produce content (like Cheddar, Buzzfeed, CNN, WSJ) that provide API access similar to how Twitter provides access for data?

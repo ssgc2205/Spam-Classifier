@@ -1,0 +1,3 @@
+Hi, 
+
+I am looking to create a travel destination recommendation website, looking for cheap flights going to cities with good wether. Where can i get a flight  price API that has unlimited number of requets? I was using Skyscanner API through RapidAPI, however, there is a 50 requests per minute limit. Where can i get an ulimited flight API? thanks!

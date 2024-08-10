@@ -1,0 +1,5 @@
+[https://commonslibrary.parliament.uk/research-briefings/cbp-7529/](https://commonslibrary.parliament.uk/research-briefings/cbp-7529/)
+
+An official dataset from the House of Commons. Comprises very extensive data about parliament elections in the UK, GB, England, Scotland, Wales and Northern Ireland. Are included among others, election results, demographic statistics about members of parliament, mayor elections data, various referendum results, votes in the European parliament from UK parties, etc.
+
+There is also a 94 pages-long .pdf report which summarises the election results. The dataset is described and analysed, with various plots, statistics, and detailed comments.

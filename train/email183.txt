@@ -1,0 +1,37 @@
+Need a loan transactional dataset with maturity divided in tenor buckets of banks for forecasting a bank's iquidity.
+
+\- Following factors should be considered : 
+
+rating net credit risk : 3 types of risk - credit, (interest, liquidity, foreign currency) - 3 central risks, currency(forex functions)
+
+assets
+
+weights
+
+probability of loss
+
+loss given default - held by maturity
+
+recovery rate
+
+\- Required attributes : 
+
+1) Counter party name
+
+2) Counterparty id
+
+3) start date
+
+4) maturity date
+
+5) coupon rate
+
+6) EMI
+
+7) Branch
+
+8) Total loan amount
+
+9) outstanding of loan
+
+10) Interest(Tenor buckets)

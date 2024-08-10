@@ -1,0 +1,9 @@
+I am currently working on a project to try and rank Countries/Ports based on how cheap they are to buy different vessel supplies from.
+
+By supplies I mean anything bought from local markets that a vessel may need. That can be Provisions, Deck Stores, Lubricants, Ropes etc.
+
+Ideally I want a dataset or website from which I can scrape data that directly compares  local prices from different port locations on the same type of items.
+
+I need this to for example say statistically that Singapore is cheaper to buy Provisions from than Panama etc.
+
+*Any interesting dataset on shipping and port costs is also welcome and I would love to take a look at it.

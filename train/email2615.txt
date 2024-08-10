@@ -1,0 +1,7 @@
+Hi guys,
+
+I'm a data science student and I'm looking for datasets of tweets with a classification "factual tweets vs non factual tweets". I only find classifications of positive or negative feelings.
+
+If you have any idea where I can find a data set like this, I'm interested.
+
+Thank you in advance and have a nice day !

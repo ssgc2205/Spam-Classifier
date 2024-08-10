@@ -1,0 +1,1 @@
+I'd like to play around with sensor data. Though I specifically want to play around with timestamped one/off type sensor data (and I'm building my own sensors to create the data itself), I'd like to start playing around with similar data to familiarize myself. Anything out there that's openly available?

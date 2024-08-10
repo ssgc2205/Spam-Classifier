@@ -1,0 +1,3 @@
+I'm looking for a dataset that captures the unfolding of user-device interaction for a mobile device like phone or ipad. For example, a whole bunch of events like unlock --&gt; open app A --&gt; close and scroll to app B --&gt; open app B --&gt; take a screenshot...
+
+I'm looking for a whole bunch of visitor journeys like this. Can anyone direct me to something like this?

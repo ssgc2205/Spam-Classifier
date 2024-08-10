@@ -1,0 +1,6 @@
+Hi guys,
+
+I'm looking for a dataset (EU/NA/national or international, something occidental)  of married people , containing the ***dates of birth*** of the married couple. Any sources ? Would be amazing.
+
+EDIT : Found something on r/tableau ! :
+https://www.reddit.com/r/tableau/comments/dm755n/dataset_of_weddings_containing_dates_of_birth/?utm_medium=android_app&amp;utm_source=share

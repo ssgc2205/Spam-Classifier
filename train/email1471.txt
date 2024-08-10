@@ -1,0 +1,4 @@
+Hello,
+I am searching for a script/application to scrape Facebook Likes as seen from the browser (without using the Graph API). Preferably in Python/Javascript, is there such available? or a dataset containing this data?
+Cheers
+Norig

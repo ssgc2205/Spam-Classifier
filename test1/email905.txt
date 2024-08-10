@@ -1,0 +1,7 @@
+Hi All, this is my first time posting in this subreddit, so I hope this post is acceptable. 
+
+I have spent considerable time scouring my university's JSTOR database, Kaggle, and even this Subreddit to try and find the data I need...all for naught 😩
+
+What I'm trying to find is a breakdown of rideshare (uber, lyft, etc) volume by U.S. city. I am ok with anything from the full raw data set or even just a basic map showing the number of rides per city in a given year.
+
+Any help on this would be greatly appreciated.

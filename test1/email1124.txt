@@ -1,0 +1,5 @@
+I've made a [github repo](https://github.com/SampleDataForChange/wapo-data-police-shootings) to ingest the Washington Post's [data-police-shootings](https://github.com/washingtonpost/data-police-shootings) csv data and publish it weekly as a documented and normalized (third normal form) SQL Server &amp; SQLite database.
+
+CSVs are great for basic use, but my hope is to make the data easier to use for demos, examples, and of course analysis as well! I think the world would benefit from data like this being more readily attainable, so that is part of the larger project [Sample Data For Change](https://sampledataforchange.github.io/) that I work on in my spare time.
+
+Feedback is welcome and hope you find the data useful! I'm looking for more similar data sets to add to the project as well so any suggestions would be great.

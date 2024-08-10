@@ -1,0 +1,10 @@
+Hello, I want to classify fake news articles. I need some dataset to train my model.
+
+Before, I am really sorry if I post in wrong subreddit or violate some rules, which mods can remove my post for that.
+
+The questions is,
+
+1. How, where and what is the best way to get/crawl some fake news article. On the other side, real news is relatively easier to find which I can find in some portals (e.g. BBC news, or something legit)
+2. How many article is considered to be good amount to train a great model? I am using TF-IDF to process words.
+
+Thank you very much :)

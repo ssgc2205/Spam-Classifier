@@ -1,0 +1,1 @@
+Hey all, I want to do some sentiment analysis/text mining based on game threads from /r/nfl but the search API returns a limited number of results... Does anyone have the submission IDs for game threads, historically?

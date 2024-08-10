@@ -1,0 +1,5 @@
+Hey all!
+
+I am currently looking for a dataset containing announcement dates of Board appointments. Is there any good database out there having these information available? I read that Boardex may have these information but right now I can‘t verify this due to lack of access.
+
+Thanks a lot in advance!

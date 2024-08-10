@@ -1,0 +1,1 @@
+We are building a chatbot, the goal of chatbot is to be a conversational mental-health based chatbot.We are looking for appropriate data set.If anyone can help us, if anyone can recommend some data sets that can suit for this purpose, we would be very grateful!

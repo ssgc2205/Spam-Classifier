@@ -1,0 +1,1 @@
+I'm looking for the data sets used in SAS Programming class but I can't seem to locate the ones online. I have the code used and the log output and I'm trying to see if I can retrieve those same data sets to rebuild my SAS 9 skills. I was wondering if if anyone knows where I can find that. Thanks!

@@ -1,0 +1,11 @@
+As the title already says it, I need a publicly available dataset for face spoofing detection of latex/silicone masks.
+
+&amp;#x200B;
+
+Every dataset that I found was restricted and needed a form to be filled.
+
+Can anyone please redirect me to a dataset or a source?
+
+&amp;#x200B;
+
+Thanks

@@ -1,0 +1,5 @@
+How can I do this? I have all the data in .txt files (I'm using a Wikipedia dump), and I would like to turn these texts into images that have a newspaper-like formatting: 
+
+multiple columns, multiple different typefaces, some words bolded and others italicized. 
+
+I would like to generate as many visual variations of a text that I can based on the above criteria. 

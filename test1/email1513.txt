@@ -1,0 +1,1 @@
+I maintain a database of items with product names, brand names, and model numbers.  Sometimes I do not have all three values.  I'm trying to find a way to get the GTIN or ASIN without having to crawl the web.  Can anyone point me in the right direction?

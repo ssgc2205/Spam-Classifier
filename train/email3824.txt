@@ -1,0 +1,9 @@
+Hello, I hope this is in line with the rules. I'm looking for feedback on my side project to collect data. [https://collect2.com](https://collect2.com) I've created a site where you have a simple API end point where you can send data. For now only a number and it then connects it to date/time. I already got some tips/feedback from some of my friends / colleagues, but now I'm looking for input of people who actually use and create datasets.
+
+&amp;#x200B;
+
+My plan is to create a place where people can collect data from their application, computer or something like zapier. The data set can than be shared with the public or use privately. 
+
+&amp;#x200B;
+
+At [https://collect2.com/data-set/public/](https://collect2.com/data-set/public/) there are currently three public data sets listed.  Also feel free to create an account and start sending data through the API.

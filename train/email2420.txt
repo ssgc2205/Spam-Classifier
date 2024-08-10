@@ -1,0 +1,1 @@
+As the description says, I'm wondering if there is a nice collection of youtube links and metadata. It seems like a crawler could collect most/all of this information for the videos on Youtube, but I can't find anyone with a good data set. 

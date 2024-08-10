@@ -1,0 +1,7 @@
+Hi,
+
+I am not able to find these popular datasets that are used as benchmarks in social recommendations. Originally they were supposed to be hosted [here](http://socialcomputing.asu.edu/) which is down.  Other links on the internet that point to these datasets are down as well. The last link I  came across is here  [Douban](https://www.cse.cuhk.edu.hk/irwin.king/pub/data/douban). 
+
+I want these datasets for my research. Does anyone here have them downloaded?
+
+Thanks.

@@ -1,0 +1,1 @@
+I am trying to find a free API that gives me crime data filtered by either zip code or by latitude and longitude. The FBI API filters down to state but nothing less than that and I found crimeometer's API, but that is not free. If someone could please help, I would appreciate it.

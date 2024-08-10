@@ -1,0 +1,3 @@
+I am working on the Red Rot classifier. It is a disease found in sugarcane. I have captured about 400 images of unhealthy sugarcane and 200 healthy ones. I plan to use augmentation on the images to get it up to 1000 total. But it would be better to find more images related to it. 
+
+One more thing is that I don't know what ratio to use between healthy and unhealthy images. Any help would be appreciated.

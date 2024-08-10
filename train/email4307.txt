@@ -1,0 +1,5 @@
+I'm looking for a dataset that has hourly cloud cover details long/lat or weather station.
+
+It looks like NOAA has hourly cloud coverage % but I'm hoping to find something that goes back further. I'm working on a solar panel project.
+
+I found this: https://forecast.weather.gov/MapClick.php?w3u=1&amp;w4=sky&amp;w10u=0&amp;w13u=1&amp;AheadHour=0&amp;Submit=Submit&amp;FcstType=digital&amp;textField1=38.8904&amp;textField2=-77.032&amp;site=all&amp;unit=0&amp;dd=&amp;bw=

@@ -1,0 +1,5 @@
+I'm trying to put together a project on income inequality in California, and was hoping to try and find some data that would help paint a picture over several years that would also show geographic variation. In terms of timespan, I'll take pretty much what I can get.
+
+Ideally it would be something [like this](http://www.census.gov/hhes/www/income/data/historical/inequality/IE-1.pdf) but broken down by county or some other geography.
+
+Any other pointers or suggestions as to where I could find something like this (or if I should stop looking) would be helpful.

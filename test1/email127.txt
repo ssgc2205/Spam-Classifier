@@ -1,0 +1,1 @@
+I'm doing an analysis of the best/worst places to live for allergies. I've read many existing research reports and analyzed Google Trends data, but think that the best indicator of allergies in a given area is the total sales of antihistamine medications, adjusted for population. Any thoughts on where to source this? The US Census data unfortunately isn't granular enough.

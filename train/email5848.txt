@@ -1,0 +1,4 @@
+Please help me by providing different scenarios in which this data can be visualized 
+https://github.com/BurntSushi/nfldb
+As part of classroom project we are working on the dataset.
+We need to formulate and create a research problem that will allow intelligence  extraction from dataset.

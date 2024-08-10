@@ -1,0 +1,5 @@
+Hello reddit, I am currently working on the analysis of performance in a database, related to IoT technologies, so, I look for a csv dataset of at least 300 gb but I found it hard to find one, anyone knows any?
+
+&amp;#x200B;
+
+Thanks in advance!

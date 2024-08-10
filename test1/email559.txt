@@ -1,0 +1,4 @@
+I scraped 50 000 abstracts to do some natural language processing, here if anyone else is interested: [csv in google drive](https://drive.google.com/file/d/1Jcu62pkaGNIFm0XGp6r8gtmYeAmXqD5J/view?usp=sharing) Some of them are in Chinese though so there is some cleaning to do! I've scraped them from earliest to oldest.
+
+  
+\* [some\_q](https://www.reddit.com/user/some_q/) I know you were interested by the sample data set here is a more complete version!

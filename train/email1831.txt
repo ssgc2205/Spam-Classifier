@@ -1,0 +1,1 @@
+I’ve found a dataset that provides average annual temperature by country from 1960-2012, but I need those 4 years, and I’ve had incredible trouble finding it. If anyone could help, I would be really grateful 

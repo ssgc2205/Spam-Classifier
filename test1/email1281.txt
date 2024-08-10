@@ -1,0 +1,3 @@
+HI,
+
+So I am trying to create a chatbot using NLP. I am unable to find a dataset for HR department where the employee can ask for leaves, can know their leave status, can ask for their salary slip etc.Any insights on how to approach this will be  appreciated.

@@ -1,0 +1,5 @@
+For my research, I'm looking for a dataset with images of parking lots taken from eye level.
+
+All I've found so far is datasets with elevated CCTV style images, whereas what I need is more along the lines of google street view.
+
+Does anyone know where I could find this kind of dataset?

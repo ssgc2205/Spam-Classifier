@@ -1,0 +1,1 @@
+I'd like to build a small web app that will give you the weather along your route. For example, traveling from Salt Lake City to Denver you would pass through this list of zip codes or this list of city names. If there's another identifiable piece of data that works too. For example county names or latitude every 60 miles might work. I just can't seem to find this data.

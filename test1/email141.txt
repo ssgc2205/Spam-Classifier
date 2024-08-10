@@ -1,0 +1,1 @@
+Hi i’m looking for a data set that contains every item a chain grocery store sells and what category/aisle it’s in - any ideas? Would prefer a csv so i can easily use pandas in python

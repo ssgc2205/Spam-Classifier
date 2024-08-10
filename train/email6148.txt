@@ -1,0 +1,19 @@
+Hi All
+
+I am looking for a dataset that can provide the following details of bookings made with commercial airliners :
+
+From City or Country
+
+To City or Country
+
+Booking Date compared to actual Travel Date
+
+No of passengers
+
+Mode of Ticket - Ex Economy, Business etc
+
+Airline
+
+opted for any ancillary services
+
+I have looked around a lot and have come up short mostly, fare data seems to be available but that doesn't help me with the other parameters. I would be okay with any paid datasets as well.

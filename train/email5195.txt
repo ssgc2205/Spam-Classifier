@@ -1,0 +1,5 @@
+I am looking for a dataset where user-user relation is modeled like a graph (Nodes and edges) and labels for each node is whether they belong to a single group or interested in a particular topic (ex: politics) -  like binary classification with single class. I am working on label propagation algorithm to assign a label to a particular user depending on the user's friends list/group.
+
+Can anyone please suggest such a dataset?
+
+Thank you!

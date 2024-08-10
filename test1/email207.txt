@@ -1,0 +1,7 @@
+Hi,
+
+So I’ve been maintaining a spreadsheet that’s automatically been recording the date and time that I go to and leave work each day using a GPS app on my phone. I’m looking for ideas on the best way to visualize data. 
+
+Part 2: Similarly to the first part, I’ve been using the same app to record data (same format, i.e. date and time) for when I visit my client’s office (because I’ll be working with this client for the next two years). At some point I’d like to combine the two so that I have a visual for the time in and out of my office and my client’s office. 
+
+Looking for visuals that represent this data by (i) day of the week (ii) by month 

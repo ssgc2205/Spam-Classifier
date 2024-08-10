@@ -1,0 +1,5 @@
+Are there any free, large scale hashtag (Instagram) datasets? 
+
+(Preferably as varied as possible. I've found 1-2 with \~50k posts, from a small selection of profiles which is a bit small). Thanks!
+
+(I'm interested in looking at frequency and cooccurrences)

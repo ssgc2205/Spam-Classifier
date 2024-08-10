@@ -1,0 +1,13 @@
+I've been looking for this data recently, couldn't find it all in one place so I thought I'd collate it and make it available to anyone else who might find it helpful.
+
+This is a list of UTC time zones plus their corresponding country code (ISO\_3166 2 letter) and estimated populations.
+
+I'm using it to assign users default time zones based on their connecting country code (something CloudFlare provides for free via a HTTP header called "CF-IPCountry") by finding all UTC time zones available for their country and selecting the time zone with the highest population as their default.
+
+An example using MySQL would be:
+
+    SELECT timezone FROM UTC_timezones WHERE country = '&lt;USERS_COUNTRY&gt;' ORDER BY population DESC LIMIT 1
+
+[https://drive.google.com/file/d/1S-J77IoS5QLszDHJknW00\_VunY1BIEKJ/view](https://drive.google.com/file/d/1S-J77IoS5QLszDHJknW00_VunY1BIEKJ/view)
+
+NOTE: The population count is based on the cities each zone has been assigned to. I couldn't find population data for all regions within a specific time zone.

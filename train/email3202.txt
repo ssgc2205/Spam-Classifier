@@ -1,0 +1,15 @@
+EDIT: The created dataset can be found on this [GitHub repository](https://github.com/TWinters/JokeJudger-Data).
+
+Hi /r/datasets!
+
+I'm a computer science student currently researching humour theory and how to generate humor with computers.
+For this, I'm creating a dataset with human rated "I like my X like I like my Y, Z" jokes.
+I intend to release this anonymised dataset after I finish my thesis on it next month such that other researchers can also benefit from this dataset!
+
+In order to gather this training data, I created a website called [JokeJudger.com](http://jokejudger.com) where you can **rate and create jokes**. It also aims to help the joke creators by giving them anonymous feedback from other users as a reward. There are also mechanisms in place to [generate challenges](http://www.jokejudger.com/#/create), and even a suggestion system to help with associations.
+
+I'm currently looking for more people to help me out with this. If you'd like to help and [create](http://www.jokejudger.com/#/create)/[judge](http://www.jokejudger.com/#/rate) some jokes on the [site](http://jokejudger.com) and thus improve the quality of this future dataset, that'd be greatly appreciated!
+
+Either way: if you're interested in this dataset, come back in a month or two to this post, as I will probably have linked it here by then!
+
+Thanks for your attention!

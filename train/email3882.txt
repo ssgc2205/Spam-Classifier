@@ -1,0 +1,3 @@
+For example a dataset that gives the estimated population of New York/London/Beijing that is white/asian/black etc.
+
+Or failing that something close (regions/countries perhaps?)

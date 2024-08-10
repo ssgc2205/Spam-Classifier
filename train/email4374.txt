@@ -1,0 +1,1 @@
+Any place where I can find a dataset that has defaults as a measurement? I'm trying to forecast default probabilities, so it would be imperative that there are defaults as well as non defaults

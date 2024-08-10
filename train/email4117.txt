@@ -1,0 +1,1 @@
+Can anyone give me some pointers on finding non-image datasets on water/ocean/air pollution? I've been looking around for a few weeks and I'm not getting anywhere except one huge air pollution dataset on kaggle. Thanks in advance.

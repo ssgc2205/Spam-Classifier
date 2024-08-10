@@ -1,0 +1,3 @@
+I was wondering if anyone was aware if there was a dataset containing the results of government elections at the county level?
+
+ I've found Ballotpedia, but it seems like they only cover the local elections for the top 100 cities in the U.S., and I was hoping to get election results for all counties if possible. If no such dataset already exists, any tips on how one may try to create it? Thanks!

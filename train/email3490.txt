@@ -1,0 +1,13 @@
+Hi Statisticians, 
+
+We are inviting you to participate in an insurance-related curation of data and data+models. Each successful submission of data(only) has an equivalent 300USD per successful submission up to 4. While the reward for data+model submission has an equivalent of 100USD per successful submission up to 3. 
+
+Here is the listing policy for your 'data only' to be accepted: [https://ipfs.kleros.io/ipfs/Qmf7odAHKuyS2NyQcV16oPPficNuESJwEU7gqeJXo2mu4E/primary-document-for-data-submissions.pdf](https://ipfs.kleros.io/ipfs/Qmf7odAHKuyS2NyQcV16oPPficNuESJwEU7gqeJXo2mu4E/primary-document-for-data-submissions.pdf)
+
+Here is the listing policy for your 'data+model' to be accepted: [https://ipfs.kleros.io/ipfs/QmdTcyKVc8dfa2hi2sj5ChFupUe3ypmFhHwnxAt6jK6BQA/primary-document-for-model-submissions-1-.pdf](https://ipfs.kleros.io/ipfs/QmdTcyKVc8dfa2hi2sj5ChFupUe3ypmFhHwnxAt6jK6BQA/primary-document-for-model-submissions-1-.pdf)
+
+I'll be glad to assist you in submitting your entries that need a little knowledge on Metamask, Send/Receive of Ethereum, and Curate dApp.
+
+You may also challenge a submission should you find it not within the rules of listing acceptance. The bounty ranges from 80USD-150USD plus .07 ETH for a successful challenge."
+
+Original announcement: [https://blog.kleros.io/kleros-as-a-tool-for-open-innovation/](https://blog.kleros.io/kleros-as-a-tool-for-open-innovation/)

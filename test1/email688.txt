@@ -1,0 +1,10 @@
+I'm looking for interesting data sets for Women's Soccer. Ideally these are for international competition -- **Olympics, World Cup**, etc.  
+
+Do you know of any of the following:
+
+* Cleaned play by play data
+* Speed/load data (how fast a player ran; total distance; etc.)
+* Well-organized broadcast data
+* Misc. - other interesting numbers/data sets?
+
+Let me know if so. Much appreciated.

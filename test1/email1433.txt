@@ -1,0 +1,1 @@
+I'm looking for a list of time variables such as holidays and sporting events that could disrupt a regression. Any event that would cause a spike or dip in most datasets: Christmas, as an example. Any ideas?

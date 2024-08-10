@@ -1,0 +1,1 @@
+I'd like to work on a personal project for recommending books based on the vocabulary of books previously read, to do this I need the contents of a bunch of books, preferable children's books.

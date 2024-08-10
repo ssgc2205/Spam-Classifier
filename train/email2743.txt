@@ -1,0 +1,2 @@
+Hi,
+I’m fairly new to data analytics so I apologize if this question doesn’t make sense. Are there any datasets with the *predicted* coronavirus case numbers or future community mobility? I’m doing a project that attempts to predict the amount of CO2 that will be released in the future based off of the number of predicted cases. Thank you so much for your help!

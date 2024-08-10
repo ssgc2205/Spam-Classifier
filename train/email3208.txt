@@ -1,0 +1,3 @@
+Looking for a dataset with info on all the Pulitzer prize winners. Ideally it would include author info, page numbers, etc...
+
+Given there are 100's of awards, building this thing out would be quite the thing. Any help appreciated. Thanks!

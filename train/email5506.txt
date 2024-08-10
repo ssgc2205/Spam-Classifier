@@ -1,0 +1,1 @@
+Would greatly appreciate if anyone could help me out in how to map any of the ORBIS company IDs (eg bvdid) to an industry classifier (eg SIC code).

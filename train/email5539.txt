@@ -1,0 +1,5 @@
+The nonprofit (?) unhackthevote.org has been active on Twitter saying that they have statistical evidence strongly implying electoral fraud in the November 2016 US presidential election. They have an analysis ([here](http://www.votesleuth.org/)) showing their results. I've tweeted at the guy a couple of times, when he urges Twitter to help him stop electoral fraud, asking him for a full dataset, and so far he hasn't replied to that request directly, and certainly hasn't sent me any datasets.
+
+I don't actually suspect anything fishy, here. I just want some basic transparency, and if this organization has found what it claims, I want to make awesome graphs about it and discuss it with colleagues and students. And probably tweet it, yeah.
+
+Does anyone know if those data are available elsewhere? Or have you received a dataset from this organization? He might email me tomorrow and attach a file, but I'm hedging my bets because he seems to be dodging, probably for non-nefarious reasons like "I'm too busy," or "the dataset is messy."

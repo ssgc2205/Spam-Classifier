@@ -1,0 +1,7 @@
+Hello everyone,
+
+I'm looking to get my hands on a dataset that keeps track on the various clicks users made on a website. For example how many users clicked the login/logout, how many clicked on purchase buttons etc...
+
+A dataset that tracks various click actions on a website...
+
+Thank you!

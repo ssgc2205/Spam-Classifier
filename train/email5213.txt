@@ -1,0 +1,13 @@
+For example, given a list:
+
+* www.google.com
+* www.yahoo.com
+* www.amazon.com
+
+It would return:
+
+* www.google.com - search
+* www.yahoo.com - search
+* www.amazon.com - ecommerce
+
+That is, without actually visiting the site - so it would be an existing database. Most ones I've found actually visit the site, download the html and categorize the text. But I need basically a big list of urls and corresponding categories.

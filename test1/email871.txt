@@ -1,0 +1,1 @@
+Where can I find the identifiers such as age, sex, risk factors and location of each patient when I analyse the sequence.fasta file of Covid protein sequence?

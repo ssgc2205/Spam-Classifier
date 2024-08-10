@@ -1,0 +1,9 @@
+Hello,
+
+After spending days searching for data sets or APIs that include fundamental data for publicly listed companies, I decided to create my own as they were either not available or quite expensive.
+
+https://keynes.ai/2018/05/02/sp500-company-financial-data-for-fundamental-analysis/
+
+I hosted the data set on my personal website below
+
+feedback and questions are welcome

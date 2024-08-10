@@ -1,0 +1,12 @@
+I'd like to download (preferrably in excel file) statistics from **Austria for the whole last year** (if possible) for 3 sources:  
+
+
+1. Number of daily new cases
+2. Number of daily tests
+3. Number of daily new patients in intensive care
+
+Please help me, I am a total beginner when it comes to LOOKING for these types of data.  
+
+
+I was able to find this link but I have no idea where and how to download Austria specific data:  
+[https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)

@@ -1,0 +1,1 @@
+I am looking for 5 preprocessed email datasets as for a spam filter. Preprocessed into spam and non-spam(ham) obviously, but have had trouble finding many. The only preprocessed ones i have found so far are enron and lingspam. Can someone guide me on where i could find more?

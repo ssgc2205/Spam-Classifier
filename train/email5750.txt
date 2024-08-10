@@ -1,0 +1,3 @@
+Trying to find a list of standard job titles nested within their relevant department and industry (if possible). Base level, just need a list correlating the most popular job titles with their respective departments.
+
+Tried to poke around [bls.gov](https://bls.gov) and couldn't find what I was looking for though I feel there has to be some way to find it from there. Anyone have suggestions? Thanks!

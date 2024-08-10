@@ -1,0 +1,11 @@
+Hello
+
+I am wondering if any of you had a chance to find any dataset on SARS-COV-2 qRT-PCR such as:
+
+\- the number of CT used
+
+\- the number of specific sequences analyzed
+
+for any geographical area (timeseries would be fantastic) ?
+
+thank you in advance

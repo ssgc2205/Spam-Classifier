@@ -1,0 +1,9 @@
+The NOAA globally hour surface dataset has been has been imported into dolt and modeled in a manner that should be easily queryable.  This data is fundamental in training weather forecast models, and analyzing climate change.  Take a look at the blog post covering the dataset.
+
+[https://www.dolthub.com/blog/2020-03-02-noaa-global-hourly-surface-data/](https://www.dolthub.com/blog/2020-03-02-noaa-global-hourly-surface-data/)
+
+&amp;#x200B;
+
+Source Data: [https://www.ncei.noaa.gov/data/global-hourly/](https://www.ncei.noaa.gov/data/global-hourly/)
+
+On Dolthub: [https://www.dolthub.com/repositories/Liquidata/noaa](https://www.dolthub.com/repositories/Liquidata/noaa)

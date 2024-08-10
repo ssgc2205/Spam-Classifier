@@ -1,0 +1,5 @@
+Hello there, I am new to Reddit and Datascience. I am looking for datasets that consist of player stats like positoning, number of passes, types of passes, shots, tackles etc along with their position. My main goal is to collect features of a player that can depict their position in the game i.e midfielder, winger, striker etc.
+
+I believe each role has it's own signature like the way they pass, strike or defend. I want a dataset that depicts those.
+
+Any pointers to where I can get started is helpful. Appreciate any help that you can offer.

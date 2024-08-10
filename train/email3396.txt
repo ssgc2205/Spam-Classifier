@@ -1,0 +1,13 @@
+I have a scientific database of \~800 items.
+
+Each item has on average \~5 keywords. The total number of distinct keywords is \~1800.
+
+I've been asked to devise a scheme of 10-15 categories based on the keywords. The main criteria is that the categories must be as mutually exclusive (and as few) as possible.
+
+There have been a few previous attempts at categorization, but they have all been ultimately deemed unsatisfactory by the organization.
+
+I've tried using fuzzy lookup to consolidate similar keywords, but it didn't make much of a dent in my workload. How would you approach this task?
+
+Edit: The categories are supposed to be broad topics or "subject areas."
+
+Edit II - This Time It's Personal: Thanks everyone for the excellent suggestions. Most of the freely available text analysis tools seem to be ineffective because the terminology I'm working with is too esoteric, but I'm currently exploring the wikidata approach suggested by /u/solresol. I'll update the thread again later.

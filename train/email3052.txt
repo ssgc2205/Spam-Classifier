@@ -1,0 +1,5 @@
+Codebook for dataset: [https://www.resdac.org/cms-data/files/carrier-ffs/data-documentation](https://www.resdac.org/cms-data/files/carrier-ffs/data-documentation) 
+
+&amp;#x200B;
+
+I am looking for a file to download. I am  not familiar with CMS data where should I look?

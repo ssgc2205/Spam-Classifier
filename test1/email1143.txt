@@ -1,0 +1,1 @@
+Basically a dump of as many fonts as possible. I’m planning to use them for OCR training.

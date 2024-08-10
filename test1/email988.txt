@@ -1,0 +1,15 @@
+Hello everyone. 
+
+I'm looking for these datasets: 
+
+*  CASIA Face Anti-Spoofing Database 
+*  Replay-Attack dataset:
+*  MSU Mobile Face Spoofing Database (MSU MFSD) 
+
+Does anyone know where I can get these datasets? specially the  Casia Face Anti-Spoofing Database?
+
+It seems the Casias link is dead and they do not respond to submission requests either. 
+
+The Replay attack dataset wont accept students
+
+So I'd greatly appreciate it if anyone could kindly share any of these or guide me to where I can get them.

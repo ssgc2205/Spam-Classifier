@@ -1,0 +1,3 @@
+I'm looking for a data set that meets the criteria named in the title (or some of them) based on latitude and longitude. I would say that at least 100 rows for North America is a must (and btw. it can be any continent besides Antarctica), so imagine a 10x10 grid over North America with some information about each square.
+Preferable size 400 rows, but anything above 100 would do (even 100000).
+Most important is the type of terrain (forest, desert, mountains etc.), mean elevation and temperature.

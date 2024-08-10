@@ -1,0 +1,1 @@
+I am creating a PDF parser as my major project, would need some data set like openly available Letter of intents, sample quotations, MOUs etc for the training part. Still unable to find any data set like that. Any suggestions, please?

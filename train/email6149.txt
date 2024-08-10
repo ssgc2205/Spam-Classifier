@@ -1,0 +1,9 @@
+I have an assignment that I’m working on and I’m stumped. 
+
+I am writing a paper analyzing rule-based vs relation-based countries and how it impacts international business. 
+
+I can’t for the life of me find enough variables to measure this or differentiate between rules or relationship. 
+
+There have been a few surveys measuring trust but that was all I could really find. 
+
+Does anyone here have any experience doing an analysis like this or could think of some variable examples?

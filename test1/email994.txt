@@ -1,0 +1,23 @@
+Every week or so for about the last two months I keep seeing requests about how to get median income for zip codes in the U.S.  Below is a quick and dirty guide, followed by links to official training webinars on [census.gov](https://census.gov) and then a website on why you shouldn't use zip codes as a geography.
+
+How to get the data:
+
+1. Go to [data.census.gov](https://data.census.gov).
+2. In the "I'm looking for..." search bar, type in "median income"
+3. A quick answer in a box pops up. Underneath that, it says "tables". Click on the text that says "Income in the Past 12 Months (in 2018 inflation-adjusted dollars)". This takes you to a table with an income distribution and mean and median income.
+4. On the upper rightish corner there will be the year. It will say something like "2018: ACS 1-year estimates". Click on this and select the 5-year estimates. You can select years for past data as well. Zip codes aren't available for 1-year data, though. 2018 is the most current year available as the time that I am writing this.  As a side note, you can find the release dates here:  [https://www.census.gov/programs-surveys/acs/news/data-releases.html](https://www.census.gov/programs-surveys/acs/news/data-releases.html) 
+5. To the right of that click on "Customize Data". This pops up a ribbon. Click on "Geographies".
+6. Click on the toggle thingy at the top of the menu under "Geography" to show summary levels. After it shows a 3-digit number before each geography (e.g. 010-nation), scroll a ways down to where it says "860 - 5-digit ZCTA". Click on this. A side bar opens up. You can select all Zip Codes in the US or specific ones. At the top, if you click on the title by the magnifying glass, you can search for a zip code. Just be sure to start it the same was as they are listed. It looks like you have to type "ZCTA5" and then a space and then the zip code. As a note, ZCTA is Census-speak for "Zip Code Tabulation Area".
+7. Once you chosen a few, hit close, and BOOM! you're data shows up. If you choose all Zip Codes, it won't display as there are too many. But you can download them.
+
+Now, there are a bunch of training videos to help you out.  One link is the Census Academy:  [https://www.census.gov/data/academy/topics/data-tools.html](https://www.census.gov/data/academy/topics/data-tools.html).
+
+There are also webinars:  [https://www.census.gov/data/academy/webinars.html](https://www.census.gov/data/academy/webinars.html) 
+
+Instead of using [data.census.gov](https://data.census.gov), the Census also has an API.  The landing page is here:  [https://www.census.gov/data/developers.html](https://www.census.gov/data/developers.html).  
+
+There is also a webinar on how to use the API:   [https://www.census.gov/data/academy/webinars/2019/api-acs.html](https://www.census.gov/data/academy/webinars/2019/api-acs.html).
+
+You might want to find something besides median income.  There are a lot of different tables and data products.  Here is one way to find tables:   [https://www.census.gov/acs/www/data/data-tables-and-tools/](https://www.census.gov/acs/www/data/data-tables-and-tools/) 
+
+Finally, as a caveat, here is a website about why Zip Codes may not be the best geography to use for analyzing data:   [https://carto.com/blog/zip-codes-spatial-analysis/](https://carto.com/blog/zip-codes-spatial-analysis/)

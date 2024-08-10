@@ -1,0 +1,1 @@
+I’m looking for a dataset that contains the most popular songs, artists, and genres of music for the last 5 years at the county level. I haven’t had luck finding this anywhere.... I’m not looking for user details, although a breakdown of these stats by gender and age would be nice. I’d prefer a dataset that contains streaming data, but radio stations could work too!

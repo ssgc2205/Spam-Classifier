@@ -1,0 +1,5 @@
+http://leagueoflegends.wikia.com/wiki/List_of_champions
+
+Does a dataset with each champions base stats exist? Something that has the champion name and their base statistics (at level 1 or level 18) found on their pages: https://i.imgur.com/cmEGucH.png
+
+If it doesn't exist, how would I start by creating it? I needed some of this data so typed it but it took ages to do like 10 champions. I have some experience with Python but not with any particular libraries to be able to extract this data and navigate sites. Where could I request for someone to create such a library?

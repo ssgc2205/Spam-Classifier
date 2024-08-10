@@ -1,0 +1,10 @@
+Hi all,
+
+For a University project in a simulation course, I'm looking for a dateset that will include data about queues in the OS that will help me derive the following distributions:
+
+* Arrival of new processes
+* CPU time required by a process
+* Rate of Disk requests
+* Disk serving time
+
+Than-Q ahead for all the future helpers

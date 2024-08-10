@@ -1,0 +1,1 @@
+I am trying to implement a synthetic control using the data I have of the NYC boroughs. I am trying to find a policy change of some sort that affected one part of the city and not another does anyone have any ideas of a policy implementation that affected only certain parts of NYC and not others?

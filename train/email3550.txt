@@ -1,0 +1,1 @@
+I'm thinking of doing NLP project of classifying MBTI personality type based on the words they often used daily. Does anyone know the datasets containing such data??

@@ -1,0 +1,7 @@
+Hey everyone! I was wondering if anyone knew a web crawler or scraper to gather user ratings and comments from Amazon?
+
+It can be a script in any programming language. 
+
+I tried to search for a dataset earlier, but was unable to find a good one and we wanted something more dynamic. 
+
+Thanks!!

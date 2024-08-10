@@ -1,0 +1,1 @@
+As stated in the title, I'm looking to do my first project on health or biotech (preferred) data. I'm having a hard time finding a dataset that hasn't been explored as much like a dataset on wearable devices in contrast to those found on kaggle. Any input or guidance would be greatly appreciated.

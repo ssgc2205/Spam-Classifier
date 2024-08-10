@@ -1,0 +1,9 @@
+I made a dataset using the top images of this month on r/aww  
+
+
+It started as a simple side project to help animal shelters by measuring how "likable" an image of a pet is and thus increase adoption. I haven't finished it yet but it was the most fun I had making a dataset so far.
+
+It is available here: [https://www.kaggle.com/andrewmvd/wholesome-images](https://www.kaggle.com/andrewmvd/wholesome-images)   
+
+
+Cheers

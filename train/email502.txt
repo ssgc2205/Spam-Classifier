@@ -1,0 +1,1 @@
+Wordnet doesn't come in a very easy-to-use format. I'd love something that comes in a .json file, for example.

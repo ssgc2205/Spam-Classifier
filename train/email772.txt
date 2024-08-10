@@ -1,0 +1,7 @@
+I need a dataset of photos of damaged cars with annotations (damage or not/ type of damage). 
+
+Data I found [here](https://peltarion.com/knowledge-center/documentation/tutorials/car-damage-assessment) cannot unfortunately be downloaded, and [COCO dataset](https://www.kaggle.com/lplenka/coco-car-damage-detection-dataset) has annotations for damage detection, not segmentation. 
+
+Do you know how I can find what I need, or what I should do?
+
+Thank you.

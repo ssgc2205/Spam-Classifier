@@ -1,0 +1,17 @@
+I'm looking at some investment property in a region of the country that I hypothesize is 'up-and-coming'.  I'd like to take a look at trends in the region (surrounding towns) and try to infer some important economic trends.  Where would be a good place to find data for things like:
+
+1. commercial property tax income over, say, the last decade
+
+2. new mortgage signings over the last decade
+
+3. The types of businesses in the area over the last decade 
+(restaurants, hotels, autobody shops, etc.)
+
+3.  Residential Property tax trends over the last decade 
+4.  Anything else?
+
+
+
+I can search the town assessors sites, but the data-repositories vary from town to town, and some of the data is held in things like PDFs, so...not easily parsable as far as I know.
+
+Is there a good place that centralizes information like this that a person new to this research wouldn't be aware of?

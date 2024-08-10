@@ -1,0 +1,1 @@
+Here's an interesting idea by the owner of [Pushshift.io](https://Pushshift.io), along with a great explanation of how Twitter IDs work:  [Reconstructing Twitter's Firehose: How to reconstruct over 99% of Twitter's firehose for any time period](https://docs.google.com/document/d/1xVrPoNutyqTdQ04DXBEZW4ZW4A5RAQW2he7qIpTmG-M/edit?usp=sharing).

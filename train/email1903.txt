@@ -1,0 +1,5 @@
+I am doing a school project where I need to find some pre-existing dataset and use it to study some hypothesis of my choice (related to biology).
+
+It is an introductory course so I want to limit my analysis to linear models, t-tests, chi-square, etc. as these are analyses that I would be able to do myself.
+
+The caveat that is making this very hard is that it needs to be something that hasn't been done/published before.

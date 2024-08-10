@@ -1,0 +1,11 @@
+I am investigating future prevalence of Cholera in Kenya due to climate change scenarios (IPCC AR4). 
+
+The best data i have found is from the Kenyan government disease surveillence network (http://www.ddsr.or.ke/idsr/index.php/bulletins) but frankly its rubbish! It's nominally located (not GPS coodinates).
+
+Please please if anybody has Geolocated Cholera data (could be vector  point data, raster heat map, anything) for Kenya, please let me know. My Degree is on the line.
+
+I am quite happy to pay for the data, but I am only a student so a modest sum will be all i can afford.
+
+Thanks,
+
+Patrick

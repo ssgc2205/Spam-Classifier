@@ -1,0 +1,9 @@
+Hello everyone!
+
+I have been cycling for about a year now, and am currently looking at upgrading to a true road cycling bike. Although, I  have noticed that there seems to be a large variety to choose from and a large price variance between bikes that seem to have similar mechanics. I am still doing research, but it seems like there are a few main things to look at when comparing models: type of frame, what groupset they have, gearing, wheels, and crank set. 
+
+So, I am wondering if anyone has any leads on a data sets that includes different models of road bikes ( maby like 2018 or 2019 to 2020 models?), their price point, and different mechanics they have - such as what type of gearing, wheels, crankset, etc, so I can do an analysis and compare all of my options at once. 
+
+Thanks!
+
+TLDR:   looking for data set that has price, road bike model, and list of main components so I can compare several options at once.

@@ -1,0 +1,3 @@
+Hello everyone!
+I am a graduate student and currently working on building roboadvisor for research purposes as part of studies. As a first step, risk tolerance profiling of potential investor should be conducted. I know that SCF has such data for 2007-2009, but it's way too old. Finametrica also provides analogic questionnaires and has huge datasets for determining risk tolerance, but I can't get access to Finametrica datasets. Any ideas how can I get access to Finametrica risk tolerance datasets or any other dataset that is reliable and relatively fresh(after 2010).
+Would appreciate any advice or suggestion regarding my problem.

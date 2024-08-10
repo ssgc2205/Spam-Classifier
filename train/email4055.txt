@@ -1,0 +1,3 @@
+I wonder if there's **total, all-cause** deaths count per country, ideally **monthly** data.
+
+A chart with not only the current values, but also historical values for at least last couple of years.

@@ -1,0 +1,5 @@
+I am attempting to do a synthetic control method analysis, and want to construct a panel of US states to act as the donor pool to construct a synthetic California. 
+
+I want some basic characteristics like GDP, population, poverty, etc... hopefully going back to 1980-2019 but I can’t find clean datasets. Census has good stuff, but for some reason when filtering the tables, it only goes up to the year 2000. 
+
+Thank you!

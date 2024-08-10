@@ -1,0 +1,5 @@
+Looking for a dataset with injury history by team in College Football. I plan on conducting a study to see if strength of schedule/conference are a factor in injuries. 
+
+The ideal dataset would include team, injury and injury duration. 
+
+Any potential leads would be much appreciated!

@@ -1,0 +1,21 @@
+I have been analysing the Australian Population stats from the Australian Bureau of statistics ([link](http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3235.02014?OpenDocument) and one of the stats is % of each suburb that is between 0-14,15-64 and 64+. 
+
+&amp;nbsp;
+
+So I was trying to get a number of people in each bracket for each suburb.
+
+
+For some reason the sum of the people based on the percentage was not equal to the number of people given for each suburb
+
+&amp;nbsp;
+
+
+
+&amp;nbsp;
+
+the issue was that some of the suburbs added up to 100.1% which man not sound like much but was causing as much as 332 more people to "exist" 
+
+&amp;nbsp;
+
+**TLDR** Make sure your percentages add up to 100.
+

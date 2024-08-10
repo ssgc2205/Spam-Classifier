@@ -1,0 +1,1 @@
+I really need access to the Adult dataset for a project I was working on and all a sudden the UCI machine learning website is down...can someone help, or do you know why this site is down? It has been down almost all afternoon West Coast Time. 

@@ -1,0 +1,1 @@
+Where do I find monthly listener data from Spotify? I'm interested in looking at how the top 10 artists (ranked by number of monthly listeners) has changed over time.

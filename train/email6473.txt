@@ -1,0 +1,10 @@
+The European Commission's Science Hub has a free dataset (with license and privacy statements) of over 600,000 person names in Latin, Greek, Arabic, Cyrillic, Japanese, Chinese, and other alphabets. It is regularly updated from news sources and is very useful if you are testing fuzzy name searches.
+
+
+The text file format is a tab-del text file that has the name and a synonym index so you can link several that should be matches. The file is archived in a gzip format.
+
+
+Dataset info link: https://ec.europa.eu/jrc/en/language-technologies/jrc-names
+
+
+Dataset file: https://wt-public.emm4u.eu/data/entities.gzip

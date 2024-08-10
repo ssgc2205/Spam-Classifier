@@ -1,0 +1,3 @@
+Hi all!
+
+I'm working on master thesis "Prediction of ANN for Wastewater Treatment Plant". Due to COVID-19 I couldn't get any dataset from local WWTP. Can anyone help me find some appropriate database? Thanks in advance!

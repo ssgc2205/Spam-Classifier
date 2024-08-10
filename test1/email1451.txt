@@ -1,0 +1,1 @@
+I know this may sound idiotic but I'm trying to find a dataset to build a hypothesis on (prof words not mine). I essentially need a large dataset more than 10k rows and at least 5+ columns that can show a preliminary correlation (strong). I've searched through data.gov and some other sites but no luck at all. Anyone got suggestions?

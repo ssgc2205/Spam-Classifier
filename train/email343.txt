@@ -1,0 +1,11 @@
+Two guys in 1980 were arguing over whether we were going to run out of resources. They made a bet on the price of  copper, chromium, nickel, tin, and tungsten in 10 years time [https://en.wikipedia.org/wiki/Simon%E2%80%93Ehrlich\_wager](https://en.wikipedia.org/wiki/Simon%E2%80%93Ehrlich_wager)
+
+&amp;#x200B;
+
+I would like to see when a ten year bet on these would win and lose for as long a period of time as possible. Do you know where there is this data on the price of each ot these metals. It does not need to be daily price. Monthly is fine.
+
+Here has them but only up to 2015 [https://www.usgs.gov/centers/nmic/historical-statistics-mineral-and-material-commodities-united-states](https://www.usgs.gov/centers/nmic/historical-statistics-mineral-and-material-commodities-united-states)
+
+Here has copper but not the others [https://www.macrotrends.net/1476/copper-prices-historical-chart-data#:\~:text=The%20price%20shown%20is%20in,2020%20is%20%243.15%20per%20pound](https://www.macrotrends.net/1476/copper-prices-historical-chart-data#:~:text=The%20price%20shown%20is%20in,2020%20is%20%243.15%20per%20pound).
+
+I will turn the prices into a stacked area chart and share the code used to make the visualisation.

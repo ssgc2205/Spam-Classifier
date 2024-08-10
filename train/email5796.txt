@@ -1,0 +1,7 @@
+538 have a really nice graph with their estimates for the average at any one time [https://projects.fivethirtyeight.com/biden-approval-rating/?cid=rrpromo](https://projects.fivethirtyeight.com/biden-approval-rating/?cid=rrpromo)
+
+They also have a dataset of approval ratings but I cant find the same averaged figure in there. If I am missing the file or how to combine them it is my fault. 
+
+Latest polls in here [https://data.fivethirtyeight.com/](https://data.fivethirtyeight.com/)
+
+And theres loads of stories of individual polls. I want to run a correlation of Bidens polling with other variables and will share all the code and ggplot2 graphing steps if i get the polling data in a reasonable format.

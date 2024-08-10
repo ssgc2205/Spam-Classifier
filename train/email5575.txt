@@ -1,0 +1,42 @@
+&gt;This dataset contains estimates of power generation and economic breakevens for solar-power projects at various scales and installation  costs in most communities in Canada.
+
+[https://open.canada.ca/data/en/dataset/7b569daa-59cd-4c14-8ffe-6bc8ebe8d8bb](https://open.canada.ca/data/en/dataset/7b569daa-59cd-4c14-8ffe-6bc8ebe8d8bb)
+
+It's a huge .csv file (170MB) and seems pretty detailed:
+
+    The community's identification code in NRCan's Canadian Geographic Name Database
+    Community name
+    The type of community
+    The province or territory the community is located in
+    Latitude of the community
+    Longitude of the community
+    The closest latitude in the National Solar Radiation Database
+    The closest longitude in the National Solar Radiation Database
+    The type of array modeled
+    A solar project that would help power a home (5 kW)
+    A solar project that would help power a business (200 kW)
+    A solar project that would help power a community (200 kW)
+    A solar project whose panels are on fixed mounts and would sell power to the grid (50 MW)
+    A solar project whose panels are on tracker mounts and would sell power to the grid (50 MW)
+    How economic was modeled on an hourly basis, flat rate or time of use
+    A fixed rate, which does not vary by time of day
+    A changing rate that varies as demand rises and falls at different times of the day
+    Whether provincial tariff costs are applied to utility-scale projects
+    Tariff is applied
+    Tariff is not applied
+    The capacity of the project
+    The amount of electricity generated in the project's first year
+    The amount of electricity generated during the winter in the project's first year
+    The amount of electricity generated during the spring in the project's first year
+    The amount of electricity generated during the summer in the project's first year
+    The amount of electricity generated during the fall in the project's first year
+    The time period of the assumed installation costs, either now, the near future, or in a low-cost future
+    The cost to install solar projects today
+    The cost to install solar projects in the near future as costs fall a modest amount
+    The cost to install solar projects in a low-cost future, where costs fall even more over the long term
+    The solar project's breakeven price in dollars per megawatt-hour
+    The $/MW.h cost of purchasing electricity from the grid in the case of residential, commercial, and community projects. The price at which electricity currently sells at for utility-scale projects
+    The solar project's breakeven price in cents per kilowatt-hour
+    The ¢/kW.h cost of purchasing electricity from the grid in the case of residential, commercial, and community projects. The price at which electricity currently sells at for utility-scale projects
+
+&amp;#x200B;

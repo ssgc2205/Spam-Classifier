@@ -1,0 +1,5 @@
+\[UPDATE\] Big Bad NLP Database
+
+Happy to announce that we've added research papers to 90% of the database, that's 281 datasets! Special thank you to our researcher Gabi Alexandru for her great work!
+
+ [https://datasets.quantumstat.com/](https://datasets.quantumstat.com/)

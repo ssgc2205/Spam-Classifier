@@ -1,0 +1,5 @@
+[Link to dataset](https://github.com/MWiechmann/enron_spam_data)
+
+The Enron-Spam dataset is a fantastic ressource collected by V. Metsis, I. Androutsopoulos and G. Paliouras. The dataset contains a total of 17.171 spam and 16.545 non-spam ("ham") e-mail messages (33.716 e-mails total). The original dataset and documentation can be found [here](http://www2.aueb.gr/users/ion/data/enron-spam/readme.txt).
+
+However, the original datasets is recorded in such a way, that every single mail is in a seperate txt-file, distributed over several directories. This can make reading in the data a bit cumbersome, especially for beginners. Since the data set is such an excellent ressource, I wanted to create a offer a single download of the data through a simple csv-file.

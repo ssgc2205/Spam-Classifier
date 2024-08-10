@@ -1,0 +1,3 @@
+Hey Dataset subreddit,
+
+We are looking for an individual that would be able to scrape info emails from given websites. This task shouldn't be that demanding I suppose. Please let me know at [jan.kucera@boundwell.io](mailto:jan.kucera@boundwell.io)

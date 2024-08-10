@@ -1,0 +1,5 @@
+Hi,
+
+Anybody have tip for some binary datasets? Something similar to https://archive.ics.uci.edu/ml/datasets/zoo
+
+Thanks

@@ -1,0 +1,5 @@
+I'm trying to make some maps with parliamentary constituencies and the ones in France came to mind, but I have no idea how to make the constituency shapes I can see on for example Wikipedia into shapes that can be used with a GeoJSON format. 
+
+&amp;#x200B;
+
+Does anyone please have a copy of this?

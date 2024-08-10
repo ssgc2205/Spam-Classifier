@@ -1,0 +1,9 @@
+Hi. I'm making a chatbot and I would like to see who's replying to who -- in the reddit logs -- and see if a comment itself is a reply.
+
+Sample of the reddit logs:
+
+*{"edited":false,"id":"7va2","distinguished":null,"archived":true,"gilded":0,"created_utc":"1230768002","ups":1,"author":"Envark","score":1,"downs":0,"parent_id":"t3_7mq2x","subreddit":"reddit.com","author_flair_css_class":null,"controversiality":0,"retrieved_on":1428222113,"score_hidden":false,"author_flair_text":null,"link_id":"t3_7mq2x","name":"t1_7va2","subreddit_id":"t5_6","body":"Awww...I was hoping this post was about the living planet."}*
+
+How do I do this? Thank you. :)
+
+**EDIT: I can't put the sample in a code block for some reason.**

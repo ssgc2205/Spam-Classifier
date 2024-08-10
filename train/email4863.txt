@@ -1,0 +1,1 @@
+Any text datasets with regression as task. Couldn't find much on kaggle. Looking for public domain datasets for academic purpose. Have seen a lot on classification obviously but not specifically regression.

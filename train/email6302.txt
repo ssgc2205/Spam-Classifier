@@ -1,0 +1,7 @@
+Hey guys,
+
+I am looking for server data of websites which might include clicks , time duration of a visitor and other important parameters of visitor visiting the website and interacting with it. 
+
+Can someone help me here? Dataset should neither be small nor huge.
+
+Any help will be appreciated.

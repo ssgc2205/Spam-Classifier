@@ -1,0 +1,11 @@
+https://docs.google.com/spreadsheets/d/1Y9A1Y3DaCS9rWtAJCnU-O-62MJEdwV7L-_aoO-d7kZ8/edit?usp=sharing
+Dataset attached
+
+1)Goal is to understand movements on a month by month basis, 2) and over the quarter.
+
+Suggestions on best ways to tackle this?
+
+- pivot table - not sure how that would help. If you put the row labels/y axis as company names, values on the x axis, you can sort by largest to smallest for each month but that change would 'disappear' doing it for each month so you wouldnt be able to track anything
+- simply sorting by largest to smallest - would help trace through or see the trend for specific companies
+
+Would be grateful for any suggestions/happy to compensate for time. Want to make sure im not missing anything vlookups/lookups that could be useful ?

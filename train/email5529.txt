@@ -1,0 +1,5 @@
+ Hi Everyone, 
+
+I want to train the CNN for recognition of cars from the top. Could you make a photo from your home or work or somewhere else with car roofs and send it to my email  notinmindhead (at) gmail (dot) com .
+
+I will make an instance segmentaion all of them and after that  I will make it accessible to all people.

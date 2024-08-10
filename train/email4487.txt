@@ -1,0 +1,14 @@
+I have found the following datasets:
+
+1. traffic package from Python - [https://traffic-viz.github.io/index.html](https://traffic-viz.github.io/index.html)
+2. Open Sky Network Data - [https://zenodo.org/record/4485741](https://zenodo.org/record/4485741)
+3. Open Sky Data and Flight Data - [https://github.com/ActiveConclusion/COVID19\_AirTraffic](https://github.com/ActiveConclusion/COVID19_AirTraffic)
+4. Flight Data - [https://ansperformance.eu/data/](https://ansperformance.eu/data/)
+
+I have been trying to download the data from each but can't seem to figure out how to get the data I really need. It's for a project for one graduate course I am taking. I originally downloaded and merge the data from #2 and ended up with 5 million observations and could not distinguish which country was which and which was what airline. I saw some articles that have used some of the above data and they managed to get the data I am interested in but don't know how they got it. Example is below from the traffic package: [https://traffic-viz.github.io/scenarios/covid19.html](https://traffic-viz.github.io/scenarios/covid19.html) .  Another example is this link that I got from the traffic package list of scenarios page: [https://12ft.io/proxy?q=https%3A%2F%2Ftowardsdatascience.com%2Fvisualization-of-air-traffic-during-covid-19-pandemic-c5941b049401](https://12ft.io/proxy?q=https%3A%2F%2Ftowardsdatascience.com%2Fvisualization-of-air-traffic-during-covid-19-pandemic-c5941b049401) 
+
+&amp;#x200B;
+
+https://preview.redd.it/6tzab78iaeq61.png?width=1576&amp;format=png&amp;auto=webp&amp;s=c13327ed053ff8e9e7e7bf143bb464437120a6d0
+
+I want to do an analysis like above, I want to get all all international airports and airlines then get data on the months and year they have gone to different locations from before COVID-19 to during the pandemic and present time. I would like to have the airline name, airport name, country, dates the airline departed and arrived the airport, etc. If anyone can help me out figure which of the above would have that data or what other dataset can I use?

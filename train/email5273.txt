@@ -1,0 +1,5 @@
+Is there a US zip code list that contains economic data (and maybe ethicity data too?)
+
+When I query wolfram alpha, "US Zip Code 66106" it returns demographic data, ethnic data, income, housing prices etc,
+
+Does anybody know if this dataset is available somewhere?

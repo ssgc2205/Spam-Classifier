@@ -1,0 +1,3 @@
+Hey all, I would like to know what datasets measure HIT adoption  or HIE participation at the physician level and that are preferably freely, publicly available. From an HIE perspective is there any dataset which actually measures the actual number of queries of health information requested or sent or just basically exchanged at the physician or the hospital level?
+
+Thanks!!

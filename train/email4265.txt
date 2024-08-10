@@ -1,0 +1,9 @@
+Does anyone have suggestions for a dataset comprised of consumer preferences?
+
+It seems the Netflix recommendations dataset is no longer available, and I'm looking for something similar.
+
+The idea is to use machine learning to predict consumer preferences, e.g., a consumer likes X and Y, and the algorithm would predict that the consumer also likes Z based upon the dataset.
+
+Thanks,
+
+Charles

@@ -1,0 +1,7 @@
+Hi redditors!
+
+I am working on a hobby project to detect disease in plant leaves. I have found a pretty reasonable [dataset](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset?https://www.kaggle.com/vipoooool/new-plant-diseases-dataset?) on Kaggle for disease detection on single leaf. However, I wish to first isolate leaf/leaves from a picture not necessarily containing a single leaf (possibly using a technique similar to YOLO) and then run the disease classification algorithm  on each isolated leaf.
+
+I can't find any dataset to train a leaf detector. Every dataset that I've found so far deals with plant diseases classification having images of single leaves. If you guys know any such dataset, please let me know.
+
+cheers

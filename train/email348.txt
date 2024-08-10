@@ -1,0 +1,5 @@
+I'm looking for any of these mentioned for a wilderness data science project: animal attacks, bear sightings, mountain lion sightings or missing persons/hikers.  I've already found a missing 411 set but it didn't have any values in most rows for "last known location".  I'm looking to plot all of these on map.  Right now, I'm thinking of focusing on Washington state, but that is open to change.
+
+&amp;#x200B;
+
+Thanks

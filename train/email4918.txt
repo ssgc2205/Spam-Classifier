@@ -1,0 +1,7 @@
+Github: https://github.com/jbencina/facebook-news
+
+BigQuery: https://bigquery.cloud.google.com/dataset/jbencina-144002:fb_news
+
+Dataset contains 19,850 posts from 83 various news organizations &amp; personalities representing up to the last 250 page posts made as of July 14th, 2017. Each post has up to 100 comments for a total of 1,025,403 comments.
+
+**Edit-** Unfortunately someone pointed out one line of code accidentally had post_id written twice. Thus the comments data is actually missing the comment_id. Not a big deal as you can still link comments to the original posts. I fixed the code, but you would need to run again to populate the comment_id field if desired.

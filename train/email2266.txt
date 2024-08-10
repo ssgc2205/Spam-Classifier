@@ -1,0 +1,5 @@
+The dataset provides information on games that have been prohibited by various countries for a variety of reasons, resulting in governments making political decisions and establishing strict regulations against games that involve violence or violate religious or cultural feelings. This is a list of video games that have been prohibited or outlawed by various countries throughout the world. Governments that have outlawed video games have been condemned for increasing digital piracy, reducing commercial prospects, and infringing on people’s rights.
+
+&amp;#x200B;
+
+[Click here to visit the dataset](https://www.kaggle.com/sarveshtalele/list-and-cause-of-banned-games)

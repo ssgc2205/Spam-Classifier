@@ -1,0 +1,3 @@
+This could be some interesting data to compare the 2018 election against so I scraped it from [Townhall.com](https://townhall.com/election/2016/president) and organized it a little.
+
+Get the [datasets here](https://github.com/brennejm/Data/tree/master/US_HouseElectionResults).

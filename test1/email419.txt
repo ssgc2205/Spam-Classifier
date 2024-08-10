@@ -1,0 +1,1 @@
+I'm taking a design of experiments class where we have a class project to analyze an experiment using ANOVA. Are there any readily-available datasets you guys know of that would be relatively easy to analyze? Thanks in advance!

@@ -1,0 +1,9 @@
+Hi,
+
+&amp;#x200B;
+
+I'm looking for a phishing (containing whois data) dataset with clean and malicious urls for a school project.
+
+&amp;#x200B;
+
+Thanks,

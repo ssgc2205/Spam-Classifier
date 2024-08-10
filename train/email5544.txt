@@ -1,0 +1,6 @@
+Looking for some interesting data sets to use for my marketing secondary data project. My professor gave a couple of examples (majority were outside of marketing): 
+- People's irrational preference toward round numbers (used baseball statistics about .300 BAT average)
+-Stock returns positively correlated with sunshine
+-US GDP growth negatively correlated with the tempo (beats/min) of the five most popular songs of the year.
+- Number selection of Mega Million (people's tendency for numbers below 40)
+-More parking citations in the cold weather

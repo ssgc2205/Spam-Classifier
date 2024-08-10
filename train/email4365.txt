@@ -1,0 +1,5 @@
+[https://gh.clickhouse.tech/explorer/#download-the-dataset](https://gh.clickhouse.tech/explorer/#download-the-dataset)
+
+There is also an article explaining how to load data into ClickHouse and examples of what you can actually extract from it.
+
+What is also awesome: you can press the `pencil` icon on any query and mess with the data in real time in ClickHouse playground (free of charge).

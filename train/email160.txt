@@ -1,0 +1,1 @@
+I'm looking for a county-level dataset of daily temperatures in the US - I found the monthly averages dataset on [NOAA](https://www.ncei.noaa.gov/news/noaa-offers-climate-data-counties) but was only able to find the station data for daily temps.. which is more granular than the county level I would like. Any suggestions?

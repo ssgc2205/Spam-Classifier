@@ -1,0 +1,5 @@
+Is there a publicly available dataset somewhere containing information of newly registered businesses in the USA? Preferably on a per year basis.
+
+Don't need to be that clean either. Total businesses per year and state would do. Or something similar.
+
+I have been looking al over the place and would really appreciate any help here.

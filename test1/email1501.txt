@@ -1,0 +1,1 @@
+Hello, I'm looking for a dataset to train my model of images of 3D Printed objects with different kinds of defects and problems for my dissertation and I can't find anything. If anyone can help me with that it'll be highly appreciated. Thank you

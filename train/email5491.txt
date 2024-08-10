@@ -1,0 +1,3 @@
+Hi all,
+
+ I work for a legal tech startup focused on creating a record of communications and documents and we are looking for a dataset to populate our demo with. Any help would be appreciated. We have looked at the Enron data set and it's a great start but it primarily consists of emails. We are looking for something more varied. Thank you in advance.

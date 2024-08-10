@@ -1,0 +1,10 @@
+I extracted from the Youtube API all the video statistics from the official Cyberpunk 2077 channel.  
+Also, I extracted all the 200k+ comments and comment replies available at the time.  
+
+
+Heres the link:
+
+ [https://www.kaggle.com/andrewmvd/cyberpunk-2077](https://www.kaggle.com/andrewmvd/cyberpunk-2077) 
+
+  
+Cheers!

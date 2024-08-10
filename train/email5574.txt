@@ -1,0 +1,5 @@
+Hey people of /r/datasets! What's on your dataset wishlist? (Needs to be data that can be scraped)
+
+&amp;#x200B;
+
+I wrote a library that does most of the scraping heavy lifting and want to get a sense of what kind of information people are looking for. I'll scrape whatever the top comment requests and open it up to anyone from this sub who wants it.

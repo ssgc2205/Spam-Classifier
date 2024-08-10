@@ -1,0 +1,9 @@
+[political ads on google and partner parties](https://transparencyreport.google.com/political-ads/library)
+
+[facebook political ads from NYU researchers](https://github.com/online-pol-ads/FBPoliticalAds)
+
+[propublica ads database](https://www.propublica.org/datastore/dataset/political-advertisements-from-facebook)
+
+​
+
+credit:[Data is plural Jeremy Singer-vine](https://tinyletter.com/data-is-plural)

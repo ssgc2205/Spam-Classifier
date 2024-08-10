@@ -1,0 +1,9 @@
+Hello fellow redditors,
+
+So i'm creating a piece of data journalism based on reddit and the /r/science subreddit, but I need data. On how many comments are made, the topics being discussed, how many posts and threads about each topic (they tag their posts with their own description such as "social science") and in total per day, month and year even etc. all things like this. Now my question is: is there an easy place to access all of this kind of stuff? I've found [redditlist.com](https://redditlist.com) and [redditmetrics.com](https://redditmetrics.com) but they aren't the most up to date, or in depth so am wondering if anyone can help with this?
+
+&amp;#x200B;
+
+Thanks,
+
+Titan

@@ -1,0 +1,5 @@
+Does anyone know how to get the dataset the Obama campaign used to win re-election? Or datasets similar to them?
+http://www.youtube.com/watch?v=mZmcyHpG31A
+or
+http://www.infoworld.com/article/2613587/big-data/the-real-story-of-how-big-data-analytics-helped-obama-win.html
+"What you probably haven't heard is how the Obama campaign built a 100-strong analytics staff to churn through dozens of terabytes of data with a combination of the HP Vertica MPP (massively parallel processing) analytic database and predictive models with R and Stata to gain a competitive edge."

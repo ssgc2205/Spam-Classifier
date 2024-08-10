@@ -1,0 +1,6 @@
+I need a dataset with 5000 rows of data (3000 should also suffice). The trick is to have a predictor variable which is categorical, preferably with two states, three is also fine.
+
+I tried going to kaggle and the like, but i just couldn't find anything satisfying above criteria. I am usually good at finding stuff but I have failed. If you have any personal favorite data site, please let me know.
+
+Love,
+Me

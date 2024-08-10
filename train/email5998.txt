@@ -1,0 +1,1 @@
+I need to do a project where I denoise some basic images that are piecewise polynomial. They can be piecewise constant, linear, quadratic etc... it doesn't really matter just as long as I have some data set of images that I can work with. Does anyone know of a resource for this?

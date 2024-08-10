@@ -1,0 +1,1 @@
+Do you know of any other services? Sportradar has historical data publicly availed on BigQuery, but only through 2018. I’ve been trying to graduate from their trial api so I can use their data to publish stuff from this season. https://sportradar.us/2017/03/ncaa-mens-basketball-shotcharts/

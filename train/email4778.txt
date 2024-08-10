@@ -1,0 +1,3 @@
+Hello!
+
+I'm looking to find a dataset that shows what percentage of demographics voted towards either major US political party in the past election. I've seen something that looks like [this](https://www.statista.com/statistics/1184426/presidential-election-exit-polls-share-votes-age-us/#statisticContainer), but I was wondering if there was something free that was put up by an official govt source. If anyone found something like this, please share! I'd really appreciate it :) Thanks!

@@ -1,0 +1,9 @@
+Hello guys,
+
+we are team of Data Scientists drawn across the globe and currently working on predicting the exposure risk of contracting the corona virus (COVID-19) based on the activities and symptoms exposed to between the last 14 days. This research was conceived out of passion to assist health/government officials in combating the spread of the virus and assist in saving human lives. Kindly share the link with others as we need huge response to observe trends using Machine learning novel data-driven approach;
+
+[https://ee.kobotoolbox.org/x/#MNr5zDTT](https://ee.kobotoolbox.org/x/#MNr5zDTT)
+
+username: covid19
+
+password: savealife

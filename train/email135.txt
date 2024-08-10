@@ -1,0 +1,7 @@
+I'm looking for a large dataset of n-grams (preferably 4-grams or 5-grams, though bigrams or trigrams might also work), in order to get some cooccurrence data. Are there any such datasets (freely) available?
+
+Sadly, it looks the Google n-grams datasets (http://googleresearch.blogspot.com/2006/08/all-our-n-gram-are-belong-to-you.html -- not the more recently released book n-grams) now cost $150 + shipping.
+
+I thought I'd heard that Bing also provided n-grams datasets (http://research.microsoft.com/en-us/collaboration/focus/cs/web-ngram.aspx), but it looks like all the access is through some limited API, so (unless I'm missing something) I can't find all the cooccurrences for a given word X.
+
+Are there any other datasets available / am I misunderstanding what Bing provides? Or is my only option to just pony up and pay for the Google data?

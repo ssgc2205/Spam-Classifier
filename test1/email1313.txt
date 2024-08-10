@@ -1,0 +1,1 @@
+just .wav files or .mat files for inner race, outer race, rolling element failure bearings.

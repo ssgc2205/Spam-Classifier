@@ -1,0 +1,3 @@
+Hi!
+
+I'm participating in a hackathon, and we're looking to build a model which predicts the future earnings of a YouTube channel. I know of socialblade's calculator, and the [dataset in Kaggle](https://www.kaggle.com/datasnaek/youtube/data), but I was wondering if there is any dataset of open YouTube analytics pages we can use as a learning set.

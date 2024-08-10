@@ -1,0 +1,7 @@
+https://www.huduser.gov/portal/usps/index.html
+
+This data seems to be available to non-profits and gov. I'm neither, but also not looking to profit from this data.
+
+It looks like there's a ton of businesses selling this dataset and similar sets for real estate business, but I'd rather get it directly from the government for free if possible.
+
+Any ideas? Really I'm interested in any datasets about vacant properties in the US, preferably cities.

@@ -1,0 +1,8 @@
+Hello everyone. I have a class project that requires me to do linear regression on a data set (any topic).  Having a hard time finding a data set that fits the project requirements. It'd be much appreciated if yall can point out some data sets that fit this data
+
+The requirements are:
+
+1. Min of 1,000 instances
+2. Min of 15 numeric variables
+3. It is preferred to not have extensive missing data. 
+4. Must be excel compatible

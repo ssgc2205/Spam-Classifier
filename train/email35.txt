@@ -1,0 +1,5 @@
+I am looking for a dataset of "bad" or swear words, with alternative "good" words I can replace them with. For example:
+
+ass -&gt; butt, fu\*king -&gt; fricking, ugly -&gt;  not pretty..
+
+Anybody knows about dataset similiar to this?

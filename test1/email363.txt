@@ -1,0 +1,3 @@
+Is there a single source where one can easily download Bjørn Lomborg's various data examples from either/both of his books? I'd like to use the compendious data to practice R / ggplot with.
+
+I know he cites where each data set comes from in the book, I just wonder if there's a compendium.

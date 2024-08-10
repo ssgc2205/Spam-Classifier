@@ -1,0 +1,3 @@
+I have been looking for some sample data sets to use in Tableau to start building a personal portfolio. I haven’t had much luck in finding some practice data sets that aren’t the SuperStore sales data...
+
+If you have any suggestions I would really appreciate it. Thank you!

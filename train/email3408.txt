@@ -1,0 +1,3 @@
+We may be seeing a once in a lifetime chance to quantify datasets coming from various public and private data sources. Tracking the rate at which data is released and reported could prove incredibly insightful.
+
+Is anyone looking at the metadata of all of this stuff? This has the making of a Big Data gold mine.

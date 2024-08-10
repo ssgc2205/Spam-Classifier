@@ -1,0 +1,3 @@
+What questions do you ask or consider before purchasing third party data sets or POS data from retailers? Aside from questions regarding frequency and format (etl, csv, etc...).
+
+Many thanks!

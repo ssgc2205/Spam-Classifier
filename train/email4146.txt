@@ -1,0 +1,1 @@
+Looking for a dataset (of no specific size or subject matter) to run some simple Brier score analyses - so, it would include probabilistic forecasts and actual outcomes for binary questions. 

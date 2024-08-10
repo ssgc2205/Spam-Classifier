@@ -1,0 +1,1 @@
+I'm currently working on building a dataset of every single Person of the Year since 1927 but I'm having a hard time finding the url's for cover stories for anything before 2009? Does anyone know where I can find these? I promise to share the dataset + the for loop I wrote to webscrape these url's

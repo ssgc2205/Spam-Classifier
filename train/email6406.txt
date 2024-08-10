@@ -1,0 +1,1 @@
+Data: all the adult tennis racquets from Tennis Express, more details are in the [link](https://www.kaggle.com/leoyuanluo/tennis-racquets-specs)

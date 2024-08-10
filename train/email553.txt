@@ -1,0 +1,3 @@
+I’m looking for year by year population statistics for US states before 1977. Current Pop Survey does this to a degree, but doesn’t have data for Alaska before ‘77. 
+
+I’m just looking for proportions of each state for age, race, gender. I’m happy to work with microdata and aggregate it if anyone know of CPS-type stuff.

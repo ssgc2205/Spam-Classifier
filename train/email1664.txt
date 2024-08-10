@@ -1,0 +1,3 @@
+Hey! Im looking for either a source or how to best build a dataset of stock market manipulation cases where action was taken by the SEC. Any help would be phenomenal. Thanks!
+
+EDIT: Any possibility there is a simple list of all US companies that had accounting scandals out there? Only found a small list from forbes with 20~ data points that was stopped in 2003, but im gonna need more than 20 observations....

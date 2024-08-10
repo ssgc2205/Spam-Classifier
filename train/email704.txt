@@ -1,0 +1,3 @@
+I'm doubtful that something like this exists, but is anyone aware of a (mail) package tracking dataset--something that would report all the scans of a package as it moved through the delivery system? Not really picky where the data comes from, but in the US would be nice (but anywhere would be interesting).
+
+I wasn't able to find anything on Google, but maybe someone else has stumble across this before...

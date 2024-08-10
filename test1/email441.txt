@@ -1,0 +1,1 @@
+Hello Guys. I urgently require data set (resistance values) for hand gesture recognition using flex sensors.

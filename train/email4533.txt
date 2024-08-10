@@ -1,0 +1,9 @@
+Hi,
+
+I wanted to analyze the airline traffic as I feel people have started travelling more recently. Obviously, the air line traffic would have dipped drastically during lockdown but I think it would have picked up by now mainly because of the vaccination. I was thinking of using ANOVA to see if there is a statistically difference in b/w 3 different time periods:
+
+1. Air traffic during lockdown (Mar 2020 - June 2020)
+2. Air traffic during post lockdown (July 2020 - Oct 2020)
+3. Air traffic during holidays and after announcement of vaccine (Nov 2020 - Jan 2021)
+
+I was not able to find any free resources that have the global air traffic data.

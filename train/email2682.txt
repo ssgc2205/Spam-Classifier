@@ -1,0 +1,3 @@
+I'm working on my Final Year Project. My Project will mainly focus on geolocating users based on their tweets. I already have a dataset but it contains tweet id's instead of text. I already tried using twint but it has bugs which prevent it from fetching the tweets. 
+
+The only solution I have left is to use the Twitter API but 2 members from my group have tried for a developer account and got rejected with no reasons given. Can anyone help with a template or anything from people who already got accepted.

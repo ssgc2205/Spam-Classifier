@@ -1,0 +1,5 @@
+I’m the creator of [https://tokendatabase.com](https://tokendatabase.com/), an API service for accessing cryptocurrency market data.
+
+We have a new CSV download feature for candle data from over 5700+ crypto-currency markets. You can check it out here [https://tokendatabase.com/download](https://tokendatabase.com/download)
+
+Let me know if you have any requests or feedback!

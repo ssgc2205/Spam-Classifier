@@ -1,0 +1,5 @@
+Hi guys,
+
+can anyone please suggest me any dataset for a factor analysis on SAS? It should have a marketing problem behind it, like the launching of a new product..or something like this.
+
+Thank you very much

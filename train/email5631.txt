@@ -1,0 +1,3 @@
+Where can I find an easy to pull dataset for movies released 2017 onwards. Metadata like budget, revenue, awards nominated, awards won, genre, metacritic score, rotten tomato score etc ?
+
+I know I can pull from the movie database API but I don't know how to do that. Is there a database out there I can pull into Excel to do linear regression on?

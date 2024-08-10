@@ -1,0 +1,16 @@
+Hi everyone,
+
+I'm looking for a dataset that comprehensively covers US zip codes and corresponding geographical data; this would be for business use, not personal use, and I'd prefer some guarantee as to data quality.
+
+
+To that end I had a friend recommend: http://www.zip-codes.com/zip-code-database.asp
+
+
+The samples they provide look reasonable, and it comes in at 1/5th the cost of: http://greatdata.com/zip-codes-lat-long
+
+
+Additionally, the Zip-Codes.com dataset includes attributes like population and income, which could potentially see some business use as well.  
+
+I'm hoping someone can weigh in and let me know what their personal recommendation is as to this sort of dataset.
+
+Thanks!

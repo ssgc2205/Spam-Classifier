@@ -1,0 +1,3 @@
+We are designing a knowledge graph of a huge database of companies we have. One features we do not currently have is a list of suppliers of companies, that is, other companies that sell products/material/parts to a company. I'm looking into finding a way to collect such information. 
+
+Is there any public dataset about companies' suppliers? Or any way that I can get some indirect data so that I can infer who are suppliers of who. For example, customs declaration data about importations of products? I found some organizations that can provide trade data, such as [Xportmine](https://www.xportmine.com/), but primarily, I'm looking into public or free dataset. 

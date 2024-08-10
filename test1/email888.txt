@@ -1,0 +1,11 @@
+I want to analyse drivers behaviour, specially, to cluster drivers according to their "driving style". 
+
+Data I expect is acceleration, breaking, temperatures, fuel consumption, speed, torque, inclination etc.
+
+I tried [geotab](https://data.geotab.com/our-data) data, but I can't sign up to have access to their google big query.
+
+There is the [kaggle data](https://www.kaggle.com/yunlevin/levin-vehicle-telematics), but it is not diverse enought.
+
+&amp;#x200B;
+
+Can anyone help?

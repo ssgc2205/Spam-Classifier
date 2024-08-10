@@ -1,0 +1,5 @@
+Hi everyone!
+
+I'm working on a NLP project, which requires data for Maithili language. It requires sentences in Maithili language, in a domain of finance and agriculture. If anyone knows anything, please do share here.
+
+Any magazines, newspaper will also do the job.

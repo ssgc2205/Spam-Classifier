@@ -1,0 +1,23 @@
+Hello,
+
+ What's Flat Data?
+
+&gt; Flat explores how to make it easy to work with data in git and GitHub. 
+&gt; It builds on the "git scraping" approach pioneered by Simon Willison 
+&gt; to offer a simple pattern for bringing working datasets into your repositories 
+&gt; and versioning them, because developing against local datasets is faster and 
+&gt; easier than working with data over the wire.
+&gt;
+&gt; (Source: [Flata Data - GitHub Office of the CTO](https://octo.github.com/projects/flat-data)) 
+
+
+  For a long running real-world example following the flat data "git scraping" approach
+  even before Simon Willison pioneered the approach 
+  allow me to highlight the [/factbook.json](https://github.com/factbook/factbook.json) datasets.
+
+  The 260 country profile datasets get auto-updated twice a month (on the 1st and 15th)
+  via the [/factbook](https://github.com/factbook/factbook) scripts
+ for easy (re)use and offline world data exploration.
+
+  What's your take on Flat Data?
+ Do you know (or use) any datasets via git and GitHub?

@@ -1,0 +1,1 @@
+I am wondering if there is any time series data of Canada or Ontario hospital data that includes data on number of beds, inpatient care, outpatient care, long term care, nursing etc. 

@@ -1,0 +1,1 @@
+I'm looking for datasets that would show the prevalence of medical issues (esp. heart related disorders) for various different occupations. I have tried searching for this, but all I can find are workplace injury datasets, which is not what I am looking for. I want to look at disorders not directly related to any particular occupation or caused by the workplace environment.

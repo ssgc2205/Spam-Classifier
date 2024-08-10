@@ -1,0 +1,2 @@
+I am a Student of MS Software engineering and I want to do Research on Early Detection of   
+ Coronavirus, and for this, I want the dataset of patients who were tested and symptoms were found in them.

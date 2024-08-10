@@ -1,0 +1,19 @@
+Hello frens,
+
+&amp;#x200B;
+
+I published on kaggle a dataset of 3200 fundus images for the purpose of classfication of 46 different labels (retinal diseases). It has both common diseases such as diabetic retinopathy, glaucoma, etc as well as rarer ones for a more realistic representation of clinical settings.
+
+&amp;#x200B;
+
+It is available [here](https://www.kaggle.com/andrewmvd/retinal-disease-classification).
+
+&amp;#x200B;
+
+All credit go to the authors of this dataset:
+
+&gt; Samiksha Pachade, Prasanna Porwal, Dhanshree Thulkar, Manesh Kokare, Girish Deshmukh, Vivek Sahasrabuddhe, Luca Giancardo, Gwenolé Quellec, and Fabrice Mériaudeau, 2021. Retinal Fundus Multi-Disease Image Dataset (RFMiD): A Dataset for Multi-Disease Detection Research. Data, 6(2), p.14. Available (Open Access): [https://www.mdpi.com/2306-5729/6/2/14](https://www.mdpi.com/2306-5729/6/2/14) 
+
+&amp;#x200B;
+
+Cheers

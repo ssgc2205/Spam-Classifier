@@ -1,0 +1,10 @@
+Yet another dataset about Movies, TV Shows and Games. This dataset  consists of more than 150K titles and 10K games. Data are scraped from [criticker.com](https://www.criticker.com/) and for each item meta-data fields like title, description, and publish date are provided.
+
+**What makes this dataset different:**
+
+* **Then is comes to deep learning, size does matter**. My goal is to create a huge dataset with almost every movie/tv show and game item from criticker.
+* **~~Ratings and Reviews~~**~~.~~ (not yet)
+
+[kaggle dataset](https://www.kaggle.com/sp1thas/criticker-dataset)
+
+[github repo](https://github.com/sp1thas/criticker-dataset)

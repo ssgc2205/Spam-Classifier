@@ -1,0 +1,3 @@
+For my college project I 've taken topic related to data analysis and data visualization but I'm not sure which dataset to consider . I m beginner and project require at least medium level unique dataset. Please suggest me some dataset which will give me chance to learn and experiment with it.
+
+Edit :By "*medium level unique dataset*" ...I mean they are expecting us to come up with something innovative and as this project is going to last for whole sem I want something which will allow me to explore

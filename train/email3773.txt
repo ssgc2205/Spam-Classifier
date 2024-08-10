@@ -1,0 +1,3 @@
+I'm looking for a dataset with text written by at least 10 authors from the same genre (or at least categorized by genre). All of the authors should have more texts and each should contain around 30 words.
+
+Any help is appreciated.

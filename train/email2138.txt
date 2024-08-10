@@ -1,0 +1,1 @@
+Hi folks! Anyone aware of datasets/resources reporting readership indices (e.g. nr average readers per day) for news media by country? I am especially interested in European countries, but datasets with broader scope would also be great :) Thanks!

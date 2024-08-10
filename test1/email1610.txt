@@ -1,0 +1,5 @@
+I was in talks with a small NGO about trying to predict future donation flows. Volunteer side project basically. The project didn't work out due to legal stuff and them being unprepared that this would mean some work on their end to prep the data for example.
+
+The topic itself was highly interesting though and I'd like to work further out of personal interest. Does anyone know a dataset of raw donation data, as in basically \[donation amount, date time\], completely anonymized?
+
+All I can find are statistics and activity reports to international undertakings. Stuff that moved millions, not small donations.

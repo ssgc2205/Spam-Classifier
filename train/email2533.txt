@@ -1,0 +1,5 @@
+Hi,
+
+I am building out a Tableau portfolio and would love to be able to analyze the real estate market and real estate reviews in my city. My background is not super technical, I am about to graduate with an MBA and a concentration in analytics. We used SAS and Tableau in the few electives that I took so I have no experience with API's. 
+
+Thanks!

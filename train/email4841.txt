@@ -1,0 +1,1 @@
+Hello folks, I need dataset for predicting personality from one’s handwriting. It is for my university project. Please give some idea where I can get it. Thank you.

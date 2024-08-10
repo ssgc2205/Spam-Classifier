@@ -1,0 +1,5 @@
+[generated.photos](https://generated.photos) seems to be my only choice If I want generated faces through an API, but it is not free.
+
+It might be an inappropriate question to post here, but can I just open the [This Person Does Not Exist](https://thispersondoesnotexist.com/) website in my app and display it with proper credits?
+
+I can try using StyleGan and train it myself, but I am unclear if the resulting images itself would fall under the  [Nvidia Source Code License-NC (nvlabs.github.io)](https://nvlabs.github.io/stylegan2/license.html).

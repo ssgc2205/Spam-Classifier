@@ -1,0 +1,3 @@
+Looking for a dataset around depression detection for ML course :) Ideally would contain a mix of continuous and categorical variables to measure against depression y/n or something of the sort. 
+
+Thank you!

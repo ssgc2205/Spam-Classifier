@@ -1,0 +1,11 @@
+Hi r/datasets,
+
+CEO of DoltHub here. We just finished our basketball database bounty called SHAQ. Here's the data if anyone wants to use it:
+
+[https://www.dolthub.com/repositories/dolthub/SHAQ](https://www.dolthub.com/repositories/dolthub/SHAQ)
+
+And here's the write up on how it did:
+
+[https://www.dolthub.com/blog/2022-01-10-shaq-bounty-retrospective/](https://www.dolthub.com/blog/2022-01-10-shaq-bounty-retrospective/)
+
+We're on to our next data bounty, US Housing Prices, [https://www.dolthub.com/repositories/dolthub/us-housing-prices](https://www.dolthub.com/repositories/dolthub/us-housing-prices), if the idea of getting paid to build databases intrigues you.

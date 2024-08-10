@@ -1,0 +1,7 @@
+Hi! First time posting in this sub.   
+I've got some trouble trying to find a dataset with VG sales for 2019-2020 for PC, the idea behind it is to analyze its YoY Growth and some other stuff.   
+I tried google and kaggle but found nothing at all related to sales, if someon can direction me where to look at (even if it's via API, tried with steam but it's not well documented or at least i didn't find how to get sales count data) i'd be really grateful
+
+&amp;#x200B;
+
+Thanks!

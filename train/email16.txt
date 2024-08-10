@@ -1,0 +1,3 @@
+I'm looking for a spam and ad dataset. I want to classify text as either non-spam or spam. Spam included ads, scams, promotions, etc. I've found very little regarding this, most of which have barely 5k records. I'd like something over 20k rows if possible. 
+
+Thanks.

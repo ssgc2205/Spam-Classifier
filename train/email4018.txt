@@ -1,0 +1,23 @@
+Websites such as Zillow and Redfin display this information, but I'm wondering if someone has compiled a dataset containing this information. 
+
+I recall years ago that a classmate did a project using this data, being able to include a GIS map.
+
+ 
+
+Example of the information:
+
+#### Price and tax history
+
+##### Price history
+
+**Date**   **Event**   **Price**
+
+10/25/2007   Sold   $459,000 (+35%)$252/sqftSource: Public Record 
+
+5/6/2005   Sold   $340,000 (+30.8%)$186/sqftSource: Public Record 
+
+9/28/2001   Sold   $260,000 (+3614.3%)$142/sqftSource: Public Record 
+
+12/7/1998   Sold   $7,000 (-96%)$4/sqftSource: Public Record
+
+8/2/1996   Sold   $175,000$96/sqftSource: Public Record

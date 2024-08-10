@@ -1,0 +1,5 @@
+Hi everyone,  
+I'm searching, as stated in the title for a food description dataset.  
+To be precise I'm searching something like [this one](https://www.kaggle.com/zynicide/wine-reviews), but with food. Something like "This food is salty, and can be paired with ...". 
+
+I've used both the [amazon review](https://www.kaggle.com/snap/amazon-fine-food-reviews) and the [recipe description](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions) datasets. The first one doesn't have a label, so it's impossible to understand what the comments object is, while the second often has description that are completely useless.

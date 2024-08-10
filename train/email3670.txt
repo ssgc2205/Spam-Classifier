@@ -1,0 +1,5 @@
+feel free to use my weekly updated  lotto draws. Includes Finland lotto, VikingLotto and Eurojackpot draws
+
+[https://github.com/DanShai/lotto-data-json](https://github.com/DanShai/lotto-data-json)
+
+cheers

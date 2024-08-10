@@ -1,0 +1,7 @@
+Hi 
+
+Does anyone know the maximum size of the Notes in the MIDIC III dataset? In the demo they dont have examples of the notes. 
+
+If someone has some Notes examples to share, I d be really thankful
+
+Thanks!

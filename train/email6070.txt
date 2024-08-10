@@ -1,0 +1,11 @@
+When looking at images there are common sets of usage rights, Free, Non commercial and non-commercial attributed usage, etc. Are there similar sorts of usage rights for public data sets and feeds?
+
+I'm aware of: 
+
+
+Free
+Freemium (API usage restrictions)
+With Attribution
+Paid For
+
+But are there common usage restrictions or licences to back up these models?

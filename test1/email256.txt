@@ -1,0 +1,1 @@
+I’m looking for a hospital data set of patients treated for carpal tunnel syndrome and their characteristics and objective as well as subjective findings and their outcomes following surgery or non operative treatment for a new diagnostic application . Minimum dataset ideally 5000.

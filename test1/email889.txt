@@ -1,0 +1,1 @@
+I was planning to create something like John Hopkins dashboard and wanted to know if I could get live data from some place

@@ -1,0 +1,1 @@
+For a project I need to create graphs depicting temperature change over time in california and would like data showing average per month or yearly perhaps. Thanks for any help or tips I cannot find this data anywhere

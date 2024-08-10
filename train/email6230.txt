@@ -1,0 +1,20 @@
+I'm sharing a new dataset from Harvard Law School Library!
+
+The Caselaw Access Project ([case.law](https://case.law/)) shares 40 million pages of freely available machine-readable case law. This year, we released  a citation graph based on our data ([case.law/download/citation\_graph](https://case.law/download/citation_graph/)).
+
+Citation graphs are a way to see how cases are connected and answer questions about the law, like "What's the most influential case" or "What's the most cited jurisdiction?". Here's our first visualization of the dataset that shows how states and jurisdictions cite each other: [case.law/exhibits/cite-grid](https://case.law/exhibits/cite-grid)
+
+This dataset is also being made available on Kaggle: [https://www.kaggle.com/harvardlil/citation-graph/](https://www.kaggle.com/harvardlil/citation-graph/)
+
+Here are more ways to access the data:
+
+* CAP API: [case.law/api](https://case.law/api/)
+* Bulk Data Service: [case.law/bulk](https://case.law/bulk/)
+* Downloads: [case.law/download](https://case.law/download/)
+* Historical Trends: [case.law/trends](https://case.law/trends/)
+
+If you make something new with the dataset (applications, research, and more), send it our way: [case.law/contact](https://case.law/contact/)
+
+Thanks!
+
+\- Caselaw Access Project

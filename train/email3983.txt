@@ -1,0 +1,3 @@
+Preferably from some scientific or technical background.
+
+Thought of the UCI Reuters Newsgroup dataset. But it is too well-known and onlay available in a strange XML format.

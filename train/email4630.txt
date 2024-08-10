@@ -1,0 +1,3 @@
+Hi Everyone,
+
+I’m desperately trying to get income by zip code using the census data tables and I’m having 0 luck after hours of research. Can anyone sit down and show me how to pull this information from the tables please?

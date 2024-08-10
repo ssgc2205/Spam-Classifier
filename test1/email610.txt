@@ -1,0 +1,7 @@
+Hi,
+
+For my thesis, I am trying to build a dataset of UK government bonds (such as announcement date, issue date, amount issued). My current plan is to web scrape PDFs from the UK gov. website, but that is proving to be a little challenging since the PDFs vary a lot. Does anyone know another way of getting this information?
+
+I am also looking for data on U.K. inflation swaps or data on U.K. indexed bonds vs. normal bonds to figure out inflation numbers.
+
+Thank you!!

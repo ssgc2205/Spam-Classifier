@@ -1,0 +1,9 @@
+Hi everybody.
+
+&amp;#x200B;
+
+Just for fun, i want to plot the stats (R, HR, RBI, SB, AVG) for each of my fantasy baseball players.
+
+Do you know a easy way to extract these information quick every day from the page?
+
+thank you all.

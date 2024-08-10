@@ -1,0 +1,23 @@
+Not sure if this is the right subreddit, if not can someone please let me know where would be better?
+
+So for Football (Soccer) it's 3 points for a win, 1 for a draw, 0 for a loss.
+
+But if you can only Win or Lose what is the best way?
+
+3 for a win, 1 for a loss.
+
+3 for a win, 0 for a loss.
+
+3 for a win, -1 for a loss.
+
+2 for a win, 1 for a loss.
+
+2 for a win, 0 for a loss.
+
+2 for a win, -1 for a loss.
+
+1 for a win, 0 for a loss.
+
+1 for a win, -1 for a loss.
+
+Any help is appreciated :)

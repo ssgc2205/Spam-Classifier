@@ -1,0 +1,11 @@
+Hi r/datasets!  I just stumbled onto this sub this morning, what a great resource!
+
+Anyway, I'm hoping someone can help me find transaction-level import/export data.  I know it exists *somewhere* but I can't seem to find it.
+
+I can easily find aggregated data by HTS code etc., but what I'm looking for is the transaction data itself - i.e. date, port of origin, shipper, consignee, etc.
+
+Thanks!
+
+&amp;#x200B;
+
+\*edit: spoke (emailed) with someone at the ITC, basically it's FOIA for "non-confidential" information (which is a decent chunk of data actually) or alternatively obtaining stupidly complex certifications for handling the confidential fields. 

@@ -1,0 +1,5 @@
+Hello,
+
+I need to collect some data for my Master's dissertation and want to get it from ebay. My goal would be to get a large dataset to analyse but that is obviously infeasible if I do it by hand but I also don't want to pay for something of this sort. Are there any freewares around that would help me with this?
+
+Thank you!

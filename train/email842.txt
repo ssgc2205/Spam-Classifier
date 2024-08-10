@@ -1,0 +1,13 @@
+Hi guys, I just found this subreddit while looking for a dataset for my assignment and I thought maybe you guys could help me. For uni I have to make an assignment in R with a dataset that fits the following description "it should contain at least fifty observations, one categorical and one continuous variable.". I have already made the assignment before, but sadly I failed it. And after the trouble I had finding a dataset last time I thought it maybe easier to ask people who know more than I do.
+
+&amp;#x200B;
+
+Other criteria for this assignment are to be able to perform a test statistic (t or z test) by hand and perform a linear regression test using R. The latter made me fail the last assignment so if anybody knows the command for that, it would be much appreciated.
+
+&amp;#x200B;
+
+I know nobody has to help me or anything and I am not expecting much, but if anybody any time and a little advice to spare it would be much appreciated!
+
+&amp;#x200B;
+
+(edit) Thanks everybody for the advice, passed my assignment!

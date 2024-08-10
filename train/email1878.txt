@@ -1,0 +1,15 @@
+Hi all,
+
+I am looking to see if any of you data wiz people would be interested in creating a "dataisbeautiful" type image or fun analysis.
+
+Two weeks ago, 4chan trolled a shirt mockup website by uploading gross, funny, and anything-goes designs. After all was said and done... many of us actually wanted to buy many of the shirts. So, I created a survey to see which shirts people wanted. The answers are... very funny.
+
+[[Very NSFW] Here is the original imgur album.](http://imgur.com/a/uxOm0)
+
+[[Somewhat NSFW] Here is the survey.](http://kwiksurveys.com/s.asp?sid=aef4s0gx7kl89qi339604)
+
+[[Textually NSFW] Here is the dataset.](https://dl.dropboxusercontent.com/u/28234700/Data%20Dump.xlsx)
+
+The questions with large areas of blanks means that the question(s) were added at a later date.
+
+Feel free to ask any questions!

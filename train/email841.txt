@@ -1,0 +1,9 @@
+Hi r/datasets,
+
+I just published a blog post on how to publish open data using Dolt and DoltHub, tools we built. Dolt is git crossed with a SQL database. The blog uses ImageNet and WordNet as an example. In the end, you have your own copy of ImageNet and WordNet is SQL form. Check it out and we'd love to host your data projects!
+
+[https://www.dolthub.com/blog/2020-04-10-dolt-dolthub-become-publisher/](https://www.dolthub.com/blog/2020-04-10-dolt-dolthub-become-publisher/)
+
+If you just want to clone the dataset, you can do that here:
+
+[https://www.dolthub.com/repositories/Liquidata/image-net](https://www.dolthub.com/repositories/Liquidata/image-net)

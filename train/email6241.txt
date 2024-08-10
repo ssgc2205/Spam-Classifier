@@ -1,0 +1,3 @@
+I am trying to find data set to understand word correlations in keyword searches. Is there any data set sufficiently large that by searching for eg "health" I can expect a result that is significant if I want to understand the relation between 'care" and "recovery"
+
+The best I can think of at present is to use the twitter api but getting a sufficently sized data set is tricky. 

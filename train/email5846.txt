@@ -1,0 +1,9 @@
+Sorry if this has been asked a lot here, reddit search is really bad.
+
+Finding raw data at a national level isn't that difficult most of the time, but looking for global covid data all I get are visualizations, pre-analyzed data, and everything but raw data. On the official WHO site they didn't provide very useful data, and I've been searching for an hour but found nothing useful.
+
+Seeing all these sites that enable you to see cases, deaths, and testing across different countries and territories, I wonder where can I find the data?
+
+I am specifically looking for the amount of coronavirus cases, tests, recoveries, and deaths that occurred every day (or any other short interval that's shorter than a week) in a lot of countries with that data available.
+
+I want to do some analysis with pandas and matplotlib as a fun project

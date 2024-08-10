@@ -1,0 +1,1 @@
+Image classification and pattern localization are very common tasks. Many datasets with pre-classified data, from MNIST to ImageNet, are made for this. But all known datasets have only normal, 2D images. Alas, I don't know any suitable datasets for volumetric image classification or volumetric pattern localization (e.g. on tomograms). Does anyone know such a dataset?

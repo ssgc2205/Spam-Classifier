@@ -1,0 +1,1 @@
+Is there a database with world population with high detail? I can get the USA down to county, and I am looking for as close as that as possible for the rest of the world. Any idea where I might get it?

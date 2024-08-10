@@ -1,0 +1,3 @@
+I would like to know, if there is any public data set with personals skills? For example something similar to https://www.linkedin.com/directory/topics-i/
+
+I would be particularly interested in dataset of keywords used in job descriptions. Do you guys know if something like this exists? I haven't had luck to find anything useful :(

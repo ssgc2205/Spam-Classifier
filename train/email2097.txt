@@ -1,0 +1,10 @@
+So Zillow only allows you to pull data of a specific address. It doesn’t allow you to pull all data from a specific region or even narrow it down further. 
+
+I’m just trying to get recently sold house data such as price, sq ft, beds, baths, etc for my zip code. Is there any way I can get a list of addresses that were recently sold that I can plug into zillow? Does anyone have any ideas how I can get my hands on this data other than scraping the mls which is a big no no. 
+
+For example, would like my county website have data on property sales? Are there any other 
+websites out there with this data and an api? 
+
+My ultimate goal is to do some house price prediction based on different factors using machine learning. I’m trying to avoid using zestimates which is why I want recently sold houses so I can just use the sale price. 
+
+Any help would be greatly appreciated

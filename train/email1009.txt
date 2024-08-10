@@ -1,0 +1,9 @@
+I just finished making a dataset of Chinese characters. 
+
+Each file is a 28x28 PNG, the same as the CS231n example notMNIST data. 
+
+It's just under 10 GB compressed. 
+
+[https://medium.com/@peterburkimsher/making-of-a-chinese-characters-dataset-92d4065cc7cc](https://medium.com/@peterburkimsher/making-of-a-chinese-characters-dataset-92d4065cc7cc)
+
+This could be used for making a better OCR or handwriting recognition program for Chinese Hanzi/Japanese Kanji. 

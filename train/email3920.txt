@@ -1,0 +1,7 @@
+This is the dataset I am working with:
+
+ [https://www.kaggle.com/kemical/kickstarter-projects/discussion/89710](https://www.kaggle.com/kemical/kickstarter-projects/discussion/89710) 
+
+I would like to know what the state column represents.
+
+For example, what is the difference between  "live" and "successful" states? what exactly the "undefined" state means etc?

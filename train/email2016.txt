@@ -1,0 +1,19 @@
+Hello everyone,
+
+Please let me know if this is the wrong place to post this kind of stuff.
+
+Edit: If you'd like an update when/if we publish the dataset or some models using it, please let me know :)
+
+This is a simple data collection app that, after you have provided some ratings, gives you some movie recommendations for you to watch later. You can try it out here: [https://mindreader.tech/](https://mindreader.tech/).
+
+The difference between this one and datasets like MovieLens is that here we are asking you about actors, genres, directors, subjects, etc. as well.
+
+We're working on my specialization within cold-start recommender systems, specifically interview-based systems that try to ask users what they think about certain items in order to generate a good initial profile for them.
+
+Most interview systems ask towards items during this interview. In a movie-recommending setting, this means that you would be asked if you like certain movies. It of course makes much more sense to ask the user whether they like horror movies, comedy movies, etc. first before delving into more specific topics. However, no dataset with this feedback explicitly stated exists.
+
+That is what this little game is for.
+
+From the little feedback we have received so far, it looks like our hypothesis holds true. Users answer "Don't know" to movies much more often than they do for non-movie entities. If you are interested, we return all our statistics of the dataset at [https://mindreader.tech/api/statistics](https://mindreader.tech/api/statistics) so you can have a look yourself.
+
+I hope you want to try it out - if nothing else, you are aiding research and getting some recommendations out of it ;)

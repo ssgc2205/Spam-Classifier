@@ -1,0 +1,5 @@
+I have done loads of data scraping, and I would prefer to collect it myself. Unfortunately, I don't know where to get it from. 
+
+The GitHub search API is very limited, and the actual pages only give you 100 pages worth of history.
+
+Any ideas where I could get full data for projects?

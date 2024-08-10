@@ -1,0 +1,5 @@
+I'm looking for as the title of the post describes any and all monitoring event data, system logs (linux, windows, network, storage), or any well known application log data sets. 
+
+&amp;#x200B;
+
+Needing it for a machine learning project. Anonymized is ok but real is best if possible. 

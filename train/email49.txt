@@ -1,0 +1,3 @@
+Hi all, 
+
+I am looking for a dataset the tracks median household income by country (not just OECD countries) and by year, dating back to 1980. Does anything come to mind?

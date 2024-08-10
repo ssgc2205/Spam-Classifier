@@ -1,0 +1,20 @@
+Is this data available publicly or is a kept secret by the airlines? More specifically I'm looking for data with this info:
+
+
+Flight Date
+
+Purchase Date
+
+Price
+
+Airline
+
+Seat Class
+
+Flight Duration
+
+Number of Stops
+
+Departure City
+
+Arrival City

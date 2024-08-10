@@ -1,0 +1,5 @@
+I need help with how to collect user interaction data from my website. Data such as keypress, mouse clicks, scrolls.
+
+can anyone pls explain
+
+Thank you

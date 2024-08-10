@@ -1,0 +1,5 @@
+Pretty much the title. I'm very new to this but have this deliverable to the client about providing a dashboard for fundraising. I just want to use any made up sample data but a bit extensive and with a few metrics. I looked on kaggle, data world but even if i find something close to fundraise it's just very different from what I'm looking for. I'm probably not searching correctly(if there's a right way) but please help me if you can find any dataset for this. Also, it should not be paid :)
+
+&amp;#x200B;
+
+Thanks!

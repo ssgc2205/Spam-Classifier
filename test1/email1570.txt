@@ -1,0 +1,3 @@
+I scraped nearly all Rotten Tomatoes critic reviews. I kept 240,000 fresh, and 240,000 rotten reviews. They are labeled. Column 1 = Freshness [fresh, rotten], column 2 = text of review. 
+
+Available on my [Google Drive](https://drive.google.com/file/d/1N8WCMci_jpDHwCVgSED-B9yts-q9_Bb5/view?usp=sharing)

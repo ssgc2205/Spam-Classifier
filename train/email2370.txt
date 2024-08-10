@@ -1,0 +1,1 @@
+Here is a list of over [350 Datasets](https://datagious.com/datasets/). Looks like the majority are free to use. I have some friends using the free ones for test projects.

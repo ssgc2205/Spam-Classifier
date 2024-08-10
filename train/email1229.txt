@@ -1,0 +1,17 @@
+I need a marketing or CRM dataset for use with a software demo.
+
+Fields like :
+
+Account
+
+Contact Info (several)
+
+Sales/Transactions
+
+... perhaps in separate files.
+
+Ideally it is a real dataset, not synthetic, and has some light customer detail/segment info in it. The main purpose is to measure some of the patterns that may exist in the data.
+
+It can be an old dataset, and the product sold can be really anything.
+
+I'm willing to pay for it but I need to be able to use it in product demos. Thank you in advance.

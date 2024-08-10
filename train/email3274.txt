@@ -1,0 +1,9 @@
+Hi, looking for text/numbers search engine which could help me to identify patterns/strings by vertical/column way. Let me explain.  Let's say, we have this chunk of random text:
+
+paosjj
+
+kaskol
+
+asdkks
+
+And i am looking for the string of text ***osd*** for example by vertical/column way. In this example it's in 3rd position from the left. What text search engine or application I could use for this, to find quickly these strings of texts or numbers and highlight them. Thank you very much in advance!

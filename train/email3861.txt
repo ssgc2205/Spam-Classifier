@@ -1,0 +1,11 @@
+I wrote a script for my Assignment, which extracts images from Google Images and creates a Image Classification Dataset.
+
+I want to know if this would be helpful to others.
+
+It might have a few bugs here and there, also I believe that with little adjustments it could be extended for other sites as well.
+
+If anyone is interested, do tell me.
+
+&amp;#x200B;
+
+Here is the link to the gist: [https://gist.github.com/Ehsan1997/dce2cbc529f9b3a9b82a70c8e6eb3bdd](https://gist.github.com/Ehsan1997/dce2cbc529f9b3a9b82a70c8e6eb3bdd)

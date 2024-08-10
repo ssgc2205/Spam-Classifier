@@ -1,0 +1,9 @@
+I am working on an undergraduate econometrics paper examining metro-level GDP but I want to compare it monthly and yearly to see different trends and see how certain events effect the GDP. 
+
+I am looking to find a place (or places) where I can look at the GDP of different cities over a 10 year period. For example, looking the GDP of Tokyo and see how it changes every month, for the past 10 years. So I can compare Tokyo's GDP in March, April, and May 2010 to Tokyo's GDP in March, April, and May 2011 and on and so forth. 
+
+The cities I need to find the data for is: Boston(USA), NYC(USA), London(UK), Tokyo(JP), and Berlin(GE)
+
+&amp;#x200B;
+
+Any help/suggestions is very welcome! Also going to post on r/AskEconomics

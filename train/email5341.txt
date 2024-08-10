@@ -1,0 +1,1 @@
+Looking to do a course project on survival analysis in R, preferably something health related such as from a clinical trial. Have tried navigating websites and papers but they are cumbersome or are not the data I’m looking for. Have also considered datasets from packages such as KMSurv but I don’t want to do work that hundreds have already done. Any suggestions on where to find?

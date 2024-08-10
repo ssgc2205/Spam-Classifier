@@ -1,0 +1,5 @@
+Subdivide 'injury' into 'minor injury' and 'serious injury'. I'd like to see what the stats are so I can compare different activities such as skiing, rock climbing, surfing, football, etc. and their corresponding accident rate per human per hour.
+
+Be interesting how they all compare to driving too.
+
+Is there any decent source on the web, preferably in CSV format?

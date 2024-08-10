@@ -1,0 +1,1 @@
+I haven't ever looked for datasets before, and although I know star catalog files exist out there I haven't been able to find any through search engine or searching on this sub. I'm looking for one to play with in Python, so I don't need something gigantic, although I won't turn it down.

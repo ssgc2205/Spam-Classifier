@@ -1,0 +1,2 @@
+Where would I go about finding sets of images for Unicode characters? For example, a set of images that are all 50x50, each one corresponding to a times new roman Unicode character.
+EDIT: NVM found just what I needed and more: http://www.angelcode.com/products/bmfont/

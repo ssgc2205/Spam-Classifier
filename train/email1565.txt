@@ -1,0 +1,3 @@
+I need to show software build job statuses for a demo dashboard. I was thinking about using Apache foundation's Jenkins builds api but these don't happen very often or update often enough. I can't think of a dataset where their is more frequent updating of software builds (e.g. processing, failed, done).
+
+Can anyone think of something like that?

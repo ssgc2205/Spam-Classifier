@@ -1,0 +1,7 @@
+ 
+
+Hi everyone,
+
+For my thesis I'm looking for a daily count of subscribers for a subreddit. [https://subredditstats.com/](https://subredditstats.com/) is great but for whatever reasons it excludes a couple of days which I desperately need to have. Does anybody have any way of finding this out?
+
+Thank you!!

@@ -1,0 +1,1 @@
+For my master thesis I'm trying to build a system that gives feedback on whether a person's deadlifting form is correct or not, for that I'll need a  bunch of clean video's of people doing deadlifts, preferebly a good mixture of bad form and good form. Does anybody know where or how I could find such a dataset.

@@ -1,0 +1,1 @@
+Does anyone know if a dataset of traffic violations or traffic tickets by each USA States exist?  I don't think i've seen one besides local city levels.

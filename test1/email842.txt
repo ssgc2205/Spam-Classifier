@@ -1,0 +1,12 @@
+Hey all! I’m looking for any datasets of organized destination events, the type of events that attract international travellers. For example:
+
+**Sporting events**
+- like World Cup, Super Bowl, Wimbledon, Olympics, marathons
+
+**Music and Arts events**
+- Such as Coachella, Burning Man, Fuji Rock, South Beach Food and Wine Festival
+
+**Cultural events**
+- like Mardi Gras, Brazilian Carnival, Trinidadian Carnival, Hajj
+
+For my use case, I only need the event name and city but dates would be a bonus!

@@ -1,0 +1,3 @@
+I'm working on a project that requires analyzing e-mail text, but for obvious reasons, I don't have direct access to such data.
+
+So I'm looking for a dataset that will have similar properties, such as length, language, style, etc, but so far had no luck. Any ideas?

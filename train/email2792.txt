@@ -1,0 +1,17 @@
+##Data (ndjson files)
+
+###April
+https://files.pushshift.io/reddit/comments/RC_2018_04.xz
+
+8,371,376,260 bytes (compressed) | 82,497,938,640 bytes (uncompressed)
+
+98,096,451 comments
+
+
+###May
+https://files.pushshift.io/reddit/comments/RC_2018_05.xz
+
+8,633,799,504 bytes (compressed)  | 84,330,099,226 bytes (uncompressed)
+
+
+100,109,100 comments

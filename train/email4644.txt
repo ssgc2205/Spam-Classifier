@@ -1,0 +1,8 @@
+I was looking out for some dataset(s) which is similar to what is given in the post title. Basically I just want it to be like some description of face such as 'a black haired female with blue eyes who is smiling' will be given along with the corresponding face. 
+
+I have found some dataset(s) like CelebA : http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html . 
+However, it would have been much better if there was description provided with corresponding face instead of only some facial attribute(s).
+
+Another dataset which I have found is Face2Text : https://arxiv.org/abs/1803.03827 . It's exactly what I want but there are only 400 images in this which is very less.
+
+Edit (in title) : its regarding

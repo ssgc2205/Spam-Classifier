@@ -1,0 +1,21 @@
+Results: https://easyupload.io/e7l57l
+
+So the Five Factor Mindfulness Scale is divided up between:
+
+* Observe
+
+* Describe
+
+* Act with Awareness
+
+* Nonjudge
+
+* Nonreact
+
+And I've measured the five factors combined into "Mindfulness" as well.
+
+So I mostly put out this questionnaire to get an idea of internal validity. The Five Facets are fairly distinct from each other, except that it seems that Nonreactive people tend to also be Nonjudging.
+
+A few of these questions are really weak. As an example, "I am easily distracted" only has four correlations greater than 30%, and only one greater than 40%: "When I do things, my mind wanders off and I'm easily distracted."--which is a similarly weak question. There definitely doesn't seem to be any reason to keep both questions.
+
+It's possible that this 39 item questionnaire could be shortened significantly without any real loss. I'll be using a shortened version in the future.

@@ -1,0 +1,1 @@
+Speech recognition software like siri and alexa doesn’t work for people who stutter, so I’m trying to build a machine learning model that does. This needs a bunch of training data, so I’m looking for datasets that have audio files of speech with stuttering with english transcripts.

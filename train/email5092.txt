@@ -1,0 +1,1 @@
+I want to check the change of prices for Uber / Lyft over last 10 years. To do that, I am looking for temporal data of average costs over a few routes. Can someone help me with this data please?

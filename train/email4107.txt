@@ -1,0 +1,3 @@
+Greetings all,
+
+I'm working on a class project where I'm trying to show "the death of print media as told by pornography" and I feel Playboy would be most representative. I currently have quarterly revenue data (1998-2008) and daily stock data (1971-2007). I was hoping to find either expanded datasets of the above or, more importantly, subscription data. I understand that Playboy is no longer traded publicly so it's unlikely that I'll find any other stock or revenue data. Thanks in advance!

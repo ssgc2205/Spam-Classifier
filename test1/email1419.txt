@@ -1,0 +1,6 @@
+I would like to make a presentation and i need a dataset which i can use to do most of the following analysis:
+Regression, Clustering, Decision Trees, Logistic Regression,etc?
+
+I would like to use it with softwares spss or R.
+
+Any free datasets? I could only find samples and files differently for every topic, but i need a big database which is suitable for multiple type of analysis

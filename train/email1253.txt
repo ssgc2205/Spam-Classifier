@@ -1,0 +1,10 @@
+I have converted the reddit [comment dataset of Stuck_In_The_Matrix](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/) to CSV format. 
+
+It's available as a torrent via:
+
+http://images.schedim.de/reddit-csv.torrent 
+(Hope that works ;) - first attempt at sharing a file via BitTorrent)
+
+Size of Archive: 143 GByte
+
+edit: typo, added link

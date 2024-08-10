@@ -1,0 +1,7 @@
+Produced this as part of my thesis and think it might be quite useful for work on this topic. The original [documents](https://intelligence.house.gov/social-media-content/social-media-advertisements.htm) were released in redacted .PDF format making their analysis rather inaccessible. To remove this barrier to entry and allow for more research on this topic, the relevant text data has been cleaned into a downloadable .xlsx file. There exists some inconsistencies in some entries due to the redacted nature of the files but an attempt has been made to retain as much information as possible. Do improve it if you can!
+
+File here: [https://github.com/kyiyeunggoh/kyiyeunggoh.github.io/blob/master/Other%20Projects/Russian%20FB%20Ads/all\_fb\_ads.xlsx](https://github.com/kyiyeunggoh/kyiyeunggoh.github.io/blob/master/Other%20Projects/Russian%20FB%20Ads/all_fb_ads.xlsx)
+
+The code used to produce this .xlsx can be obtained here: [FB Ads Script.Rmd](https://github.com/kyiyeunggoh/kyiyeunggoh.github.io/blob/master/Other%20Projects/Russian%20FB%20Ads/FB%20Ads%20Script.Rmd)
+
+File data dictionary and some accompanying visuals: [https://kyiyeunggoh.github.io/Other%20Projects/Russian%20FB%20Ads/Data\_Dictionary\_\_FB\_Russian\_Ads\_.html](https://kyiyeunggoh.github.io/Other%20Projects/Russian%20FB%20Ads/Data_Dictionary__FB_Russian_Ads_.html)

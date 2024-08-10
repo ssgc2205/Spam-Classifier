@@ -1,0 +1,6 @@
+I am interested in studying dialog in multiple modalities, such as spoken and via computer-mediated chat. While I am aware of many corpora in this area, I have been unable to find one with timestamp information. This information could be:
+
+* Utterance timing for a spoken dialog, such as when an utterance begins and/or ends.
+* For a keystroke-based dialog, timing on when an utterance begins/ends, and/or possibly the timing of each individual keystroke.
+
+Is anyone aware of a dataset that contains this type of information?

@@ -1,0 +1,23 @@
+ **Reddit**, I've taken some **time** to crawl the internet and **combine** my findings into a single collection to **share** with you all. I'm going to post this around in various places because I **believe** that this should be shared with as many **individuals** as possible. 
+
+* I made sure to crawl a **large** variety of websites and eliminate any duplicate files (I did this via checksum not filename and kept the longest file name). However **there**'s a large amount of files  that aren't as descriptive as others due to the way they were hosted and the way the page **displayed** the track data. While a humungous amount of these are clearly obvious, some may not be, just a warning!
+
+* That *being said*, this is the largest midi collection on the internet spanning numerous repositories past and present. I've done a lot of work to crawl hundreds of sites, download their entire publicly available midi (I didn't crawl **paywall** content but I've peaked behind and it's not much better than what's available in public), keep the best named uniques and organize them into a folder. 
+* Genres include: Pop, Classical (Piano/Violin/Guitar), **E***D***M**, VideoGame, Movie/TV Theme
+
+I made this collection with the intent of ensuring that a large amount of well created music wasn't lost due to the sands of time or the frustration of 5 file downloads per hour restrictions. I feel like all producers could benefit from having a profoundly large swath of midi files at their fingertips for inspiration, reference or remix purposes. This is a large collection, with a large amount of content creators, too many to reference here and their identities are generally impossible to know. Some will be spot on and miraculous; others will sound like total garbage. I didn't go through it by hand due to not having 15 lifetimes of spare time. You get to download the collection and taste de jour. 
+ 
+This is a reference tool kit and like all things, is not flawless but does the job well. Also I discovered that many sites with impressive looking file counts don't even come close to their listed size; not all but most are running 1/10th of their posted file counts. Enjoy and make lots of music!
+
+
+**130,000 Midi File Collection 3.65Gb Uncompressed / 1.02 Gb Compressed ZIP**  || 
+&gt; https://mega.co.nz/#!Elg1TA7T!MXEZPzq9s9YObiUcMCoNQJmCbawZqzAkHzY4Ym6Gs_Q
+
+***
+
+Pastebin Sample of Structure: http://pastebin.com/Q50iwHmb 
+
+With Love,  
+
+The Midi Man
+:-)

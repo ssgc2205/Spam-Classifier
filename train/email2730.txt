@@ -1,0 +1,31 @@
+I have put together a zip file of all comments and submissions made to Reddit during the election period:
+
+    UTC 2016-11-08 00:00:00 until UTC 2016-11-10 23:59:59 for comments
+    UTC 2016-11-07 00:00:00 until UTC 2016-11-10 23:59:59 for submissions
+
+The reason I included an extra earlier day for submissions is so that comments made at the beginning of the dataset can still (mostly) be properly linked to a submission.
+
+All data like score information was removed because these comments and submissions were collected within a few seconds of being submitted.  This means that fields like ups, score, gilded, etc. are not included since they would be useless.  
+
+I am making this available to academics and dataviz people who are interested in seeing how Reddit reacted during the election period.
+
+Link to actual file:  http://files.pushshift.io/reddit/requests/Reddit_Election_Raw_Data.zip
+
+Please feel free to PM me with any questions.
+
+------------------------------
+
+**Metadata:**
+
+    sha256sum 34b6a42775f2abc03a5063913b9d0ffb59880c786b7d3c4a28ec8192bdde0963  Reddit_Election_Raw_Data.zip
+
+    Number of comments / submissions:
+    2576713 RC_2016-11-08
+    2876675 RC_2016-11-09
+    2502357 RC_2016-11-10
+    309438 RS_2016-11-07
+    323042 RS_2016-11-08
+    350886 RS_2016-11-09
+    300991 RS_2016-11-10
+    9240102 total
+

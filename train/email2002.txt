@@ -1,0 +1,5 @@
+Hello everyone!
+
+for scientific purposes I'm looking for a record that contains information about needed spare parts from claims of car insurance companies. Does anyone have an idea? The dataset does not have to be large, it's just to illustrate how my algorithm works for the paper. Any hint is welcomed!
+
+Enjoy your day ;)

@@ -1,0 +1,7 @@
+Any idea what kind of exploration I can do to this dataset?
+
+So far I thought to make a demographics on age, gender. To find reasons why patients undergo surgery, allergy tests, etc.
+
+Any other data exploration ideas?
+
+Dataset Link: [https://www.kaggle.com/tboyle10/medicaltranscriptions](https://www.kaggle.com/tboyle10/medicaltranscriptions)

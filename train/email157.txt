@@ -1,0 +1,27 @@
+Hey guys, so I conducted an ANOVA test of some data and these are the results:
+
+
+PAIRWISE COMPARISONS [Q=TukeyHSD: *=p&lt;0.05 **=p&lt;0.01]
+
+
+[Red]vs[Brown] t(358)=2.85  p&lt; 0.0046  Q=4.2810
+
+
+[Red]vs[Blue] t(358)=4.11  p&lt; 0.0001  Q=5.2718**
+
+
+[Red]vs[Yellow] t(358)=0.69  p&lt; 0.4890  Q=0.9534
+
+
+[Brown]vs[Blue] t(358)=6.58  p&lt; 0.0001  Q=9.5529**
+
+
+[Brown]vs[Yellow] t(358)=2.17  p&lt; 0.0308  Q=3.3276
+
+
+[Blue]vs[Yellow] t(358)=4.71  p&lt; 0.0001  Q=6.2252**
+
+
+
+
+But the problem is trying to figure out what it means. Is the Q meaning that since it is higher than the p value that it is significant? This is super confusing for me.

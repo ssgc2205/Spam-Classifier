@@ -1,0 +1,5 @@
+My coworker won't stop watching Maury on his lunch breaks.
+
+I'm wondering if it is even possible to scrape this information. [IMDB](https://www.imdb.com/title/tt0120986/episodes) has a few names in some of the episode descriptions but no results. 
+
+I think this could result in an interesting Data is Beautiful.

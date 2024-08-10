@@ -1,0 +1,5 @@
+Hello! Like the title said, I'm looking for a music api for commercial use (so Spotify is out).
+
+All I want to do is list the artist and the track name after a search, I don't want to play the actual song.
+
+Any help would be greatly appreciated!

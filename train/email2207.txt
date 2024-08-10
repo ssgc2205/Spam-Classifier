@@ -1,0 +1,5 @@
+I have noticed Pandas has several storage options, pickle, feather, parquet, sql, hdf5, etc.
+
+Are any of these worth looking into for simple text data?
+
+If it makes a difference, I am mostly looking at 2-10 columns, with 10-50 million rows. I am not looking to alter the data after storage. Storage space is a concern since I am dealing with so many rows. Speed is a concern as well, since I am dealing with so much data. Memory is somewhat of a concern, but I can always process the data in smaller chunks, so I don't think it'll be too much of an issue.

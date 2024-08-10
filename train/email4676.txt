@@ -1,0 +1,8 @@
+Hello all,
+
+Currently I'm searching for a dataset mentioned in a paper I read that contains quarterly Hotel Occupancy Tax receipts for Texas hotels between 1995-2005. The data I'm looking for is mentioned here: [https://comptroller.texas.gov/taxes/hotel/](https://comptroller.texas.gov/taxes/hotel/). I created an account for their SIFT database and was able to access this data for 2018, 2019, and of course most of 2020. However, it seems as though they have not uploaded older data. Does anyone have this data handy, or know where I could find it?
+
+Best,E.  
+
+
+EDIT: As an update to this post! After I took a better look at the data the files provided by the Comptroller does in fact go back to 1995. 

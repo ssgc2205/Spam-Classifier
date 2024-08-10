@@ -1,0 +1,11 @@
+[People killed by police 1/1/14 - 12/4/14](http://anth.cipher-space.com/killedbypolice/)
+
+This is data I extracted from the [Killed By Police](https://www.facebook.com/KilledByPolice) facebook page, which I am not affiliated with. The page posts people that were killed by police. The data here is more comprehensive than what I posted a few days ago.
+
+Please note that the Killed By Police page's says: "Inclusion implies neither wrongdoing nor justification on the part of the person killed or the officer involved. The post merely documents the occurrence of a death."
+
+I have normalized the data by comparing it to the average annual number of murders in a state from 2011-2013, according to FBI stats. The numbers for 2014 are not out yet. So this data is 11 months of data compared to an average of the three previous years. That might make some stat heads shake their heads, I know.
+
+But with this I show what percent of a state's murders are committed by police. I thought that would be better than comparing it to population. More to come later.
+
+You may be more interested in the raw data that I share at the bottom of the page. I have two files: one for 2014 that is fairly clean, and one raw file of ALL the facebook page's posts.

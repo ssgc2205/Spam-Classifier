@@ -1,0 +1,7 @@
+The dataset contains 439K emotion attributions and explanations from humans, on 81K artworks from WikiArt.
+
+Paper: https://arxiv.org/pdf/2101.07396.pdf
+
+Github: https://github.com/optas/artemis
+
+Dataset: https://www.artemisdataset.org/#dataset

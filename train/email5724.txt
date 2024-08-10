@@ -1,0 +1,5 @@
+I'm looking for data on how many Android phones have which display height. Note: I'm not interested in physical height (inches) or number of physical pixels, but in the number of **density-independent pixels (dp)** (more info [here](https://developer.android.com/guide/practices/screens_support#dips-pels)).
+
+My goal is to know how prevalent small displays still are, and use this info in my work as a designer for mobile apps.
+
+I'm aware that regional differences exist, so I'm focusing on the US for now. Europe would also be ok.

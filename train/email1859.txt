@@ -1,0 +1,3 @@
+I am trying to improve my knowledge with in text mining and NLP. Therefore I am looking for a dataset with, for example, text input from patient on their symptoms (or similar). My goal is to find key words, i.e. the symptoms and cluster patients based on their symtoms.
+
+Edit: I am extending the question as I am more interested in the process than the results. Is there any dataset that has the same characteristics?

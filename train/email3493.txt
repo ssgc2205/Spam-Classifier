@@ -1,0 +1,5 @@
+Hi,
+
+Do anyone know of a data set that maps VINs to Make and Model (primarily for cars)?
+
+Thanks!

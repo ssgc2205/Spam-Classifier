@@ -1,0 +1,8 @@
+I am currently teaching an applied statistics course, and will therefore at one point also cover multivariate analysis. For this, I thought it could be fun to demonstrate the power of some of the techniques with real life data.
+
+Any suggestions for a dataset that would be interresting analysing would be highly appreciated.
+
+
+
+Also as a side note. I have heard rumors that there existed a dataset consisting of the answers to some seemingly random questions, together with the gender of the person replying. That if analysised with e.g. a BDT could give a quite significant separation of gender.
+

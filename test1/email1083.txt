@@ -1,0 +1,7 @@
+I've written a graphical CSV file viewer and editor for Windows 7/8/10 that lets you view and edit CSV data directly in line plots. I always needed such a tool myself in my job as an engineer working with sensor data files, but I had a hard time finding what I needed, so I ended up writing my own. Now I'm about to release version 1.0 to the public, but before I release it, I'd like to have it tested with as many different data files as possible. Is anyone in here interested in trying it out and providing some feedback?
+
+[https://www.waveworks.dk/flow/beta.html](https://www.waveworks.dk/flow/beta.html)
+
+It's most useful for numeric data files where each column is a variable and each row is a sample, but I've put a lot of effort into making sure that it can load any valid CSV file. It should also be able to load rather large files, but above 1 GB it might become painful, depending on computer specs.
+
+Any feedback - bugs, unexpected behavior, annoying user interface, feature requests and praise - will be greatly appreciated! You can post it here as a comment, use the built-in feedback form in the Help menu and/or write in the user forum.

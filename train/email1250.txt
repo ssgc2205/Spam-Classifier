@@ -1,0 +1,1 @@
+I need to do an evaluation on  travelers (when they come, how long they stay, etc) for a region. Anyone have any idea on how to compile that data? I was thinking cell data, but I'm not sire if that's available.  

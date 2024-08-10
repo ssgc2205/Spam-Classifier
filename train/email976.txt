@@ -1,0 +1,5 @@
+[PsychoFlickr dataset](http://vips.sci.univr.it/dataset/psychoflickr/)
+
+More info on the [author’s website](http://www.cristinasegalin.com/)
+
+I downloaded the dataset but haven’t figured out how the ids ( numbers) are binded to usernames in order to label the images with appropriate personality metrics. If anyone figures it out I would appreciate any insight.

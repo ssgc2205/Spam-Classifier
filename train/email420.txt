@@ -1,0 +1,5 @@
+I am in need of a dataset or table where I can cross-tabulate the proportion of a population by age and chronic underlying condition (diabetes, asthma, etc.) with COVID-19 outcomes. It is to create an agent-based COVID-19 model. I can find lots of data by age, lots by underlying conditions, but not both. I essentially need to be able to fill in the table below for different age brackets. Can anyone help? I'm at a loss here.
+
+&amp;#x200B;
+
+https://preview.redd.it/57gv2cvuxj651.png?width=687&amp;format=png&amp;auto=webp&amp;s=b9c9924c42ca8f77ecca816df14432bba6c5c794

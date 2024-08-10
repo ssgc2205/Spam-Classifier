@@ -1,0 +1,1 @@
+I was recently reading the original gSpan paper ([https://sites.cs.ucsb.edu/\~xyan/papers/gSpan-short.pdf](https://sites.cs.ucsb.edu/~xyan/papers/gSpan-short.pdf)) and they mention a chemical compound dataset. I was wondering if anyone happened to have a copy, as the link in the paper is dead

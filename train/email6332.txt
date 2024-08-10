@@ -1,0 +1,7 @@
+Hello there r/dataset  
+
+
+I am looking for the open source 1M recipies that these wonderful people ( [http://im2recipe.csail.mit.edu/](http://im2recipe.csail.mit.edu/) ) have created. However the official website seems to be under rework and the data set is unavailable. Does any one else know where I can get it in document format?   
+
+
+Thank you very much

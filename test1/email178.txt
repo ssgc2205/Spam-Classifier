@@ -1,0 +1,7 @@
+So far I've hacked together a crawler using [Newspaper](https://github.com/codelucas/newspaper) to extract data from sites in the scope I was given.  However I'm having difficulties collecting the right data.  I'm just wondering if there is a resource out there I missed that might help.
+
+Edit: More details,
+
+I need to look at how a given Israeli-English news source might be sited or referenced in English media outside Israel (Stuff like, text only mentions, hyperlinks, or footnotes).   
+
+Along with that I need to scan each relevant article for things like authors, date, and title.  The idea is to get some sense of which Israeli news sources have biggest influence on outside media.

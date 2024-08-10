@@ -1,0 +1,9 @@
+Hi there,
+
+I'm looking if the Flickr API Download Tool and face landmark extraction Script which nVidia use to create the FFHQ Dataset.
+
+I try to create my own to train a new StyleGAN2 model from my own Pictures, but my json strings are not compatible ( dlib.shape\_predictor(model).tolist() ) and I want to compare the code.
+
+&amp;#x200B;
+
+Thanks

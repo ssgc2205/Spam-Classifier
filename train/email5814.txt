@@ -1,0 +1,7 @@
+ Hi, I'm working on an open source project where I'd like to incorporate ISP outage data. This service claims that it reports accurate ISP outage data, that is not crowdsourced like downdetector: https://www.thousandeyes.com/outages/faq
+
+Quote: "Q: Where does outage data come from?
+
+A: ThousandEyes agents located across the Internet perform billions of measurements each day, yielding a massive data set that includes network interface and application server-level information on when and where network traffic is disrupted and applications are unavailable."
+
+Anyone wager a guess on what websites they are scraping, and what measurements they are making to come up with this data?

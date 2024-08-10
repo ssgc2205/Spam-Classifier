@@ -1,0 +1,11 @@
+Does anyone know a big data set that contains information about the age of the parents of newborns including the babies gender. It does not have to be directly about it but should somehow contain this information.
+
+It can be in the form of (gender baby, age mother, age father) or (persons gender, persons age, father age, mother age) or any version. As long as I can deduce the age difference between child and parents. So any additional information is irrelevant and can be included.
+
+I'm not sure if raw, non-cumulated data like this exists publicly available. But if it is anonymised (especially it is doesnt contain any family structures and sensitive information) I see a possibility.
+
+I didn't find anything that is super obvious or widely spread but maybe someone of you knows some data. There are of course plenty of websites that are publishing cumulated data in the sense of age structures - but no raw numbers. The only small data set that I found and that contains part of the data is [THIS](https://data.gov.sg/dataset/live-births-by-birth-weight-age-group-of-mother-and-child-gender) (data.gov.sg).
+
+&amp;#x200B;
+
+I hope someone knows a good source.

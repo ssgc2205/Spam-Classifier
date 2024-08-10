@@ -1,0 +1,5 @@
+Hey all,
+
+Im creating a model for unemployment rate, and im wondering what some good data would be to collect / some good variables to include in my model.
+
+Thanks!

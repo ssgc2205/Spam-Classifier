@@ -1,0 +1,14 @@
+Hey all!
+
+I'm doing research this summer and I need help finding some data. I need the most current data possible on average measurements for American females, aged ~18-30. I found [this data](http://www.cdc.gov/nchs/fastats/body-measurements.htm) but it seems a bit out of data, and I was hoping someone could find something a bit more recent. 
+
+The parameters I am looking for include:
+* Height
+* Weight
+* Bust
+* Waist
+* Inseam
+
+Obviously I don't need all of these, but as many as possible would be lovely. I feel like this data should be easier to find, but I am having trouble. Can anyone give me a suggestion where to look, or find some current data for me?
+
+Thanks ahead of time!

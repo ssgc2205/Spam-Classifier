@@ -1,0 +1,9 @@
+Hello,
+
+I am looking for ways to collect news article corpus of specific media like CNN or Fox that also has a time range. 
+
+For instance:
+
+corpus of all CNN articles published in 2012, corpus of all FOX articles published in 2012, etc. 
+
+How do I approach getting this data? Do I need to scrape them myself?

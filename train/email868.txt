@@ -1,0 +1,3 @@
+I have to study a database about tornados in usa from 1950-2009. And they asked me to relate other data sets that i could find with that one, if it makes sense. If you guys have ideas and links. 
+
+I tried to search and most info about meteorology isn't available on its fullest, there are only samples.

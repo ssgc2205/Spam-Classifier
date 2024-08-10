@@ -1,0 +1,34 @@
+Carried on from [Second Discussion Thread](https://www.reddit.com/r/datasets/comments/i5krmb/coronavirus_datasets/)(Archived)
+&gt; Carried on from [Original Thread](https://www.reddit.com/r/datasets/comments/exnzrd/coronavirus_datasets/)(Archived)
+&gt; 
+&gt; &gt; You have probably seen most of these, but I thought I'd share anyway:
+&gt; 
+&gt; &gt; **Spreadsheets and Datasets:**
+&gt; &gt; 
+&gt; &gt; * [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
+&gt; &gt; * [John Hopkins University Github](https://github.com/CSSEGISandData/2019-nCoV) confirmed case numbers.
+&gt; &gt; * [Google Sheets From DXY.cn](https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/edit#gid=1187587451) (Contains some patient information \[age,gender,etc\] )
+&gt; &gt; * [Kaggle Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+&gt; &gt; * [Strain Data](https://github.com/nextstrain/ncov) repo
+&gt; &gt; * [https://covid2019.app/](https://covid2019.app/)  (Google Sheets, thanks /u/supertyler)
+&gt; &gt; * [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide) (Daily Spreadsheets, Thanks /u/n3ongrau)
+&gt; &gt; 
+&gt; &gt; **Other Good sources:**
+&gt; &gt; 
+&gt; &gt; * [BNO](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/) Seems to have latest number w/ sources. (scrape)
+&gt; &gt; * [What we can find out on a Bioinformatics Level](https://innophore.com/2019-ncov/)
+&gt; &gt; * [DXY.cn Chinese online community for Medical Professionals](https://ncov.dxy.cn/ncovh5/view/pneumonia) \*translate page.
+&gt; &gt; * [John Hopkins University Live Map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+&gt; &gt; * [Mutations](https://nextstrain.org/ncov) (thanks /u/Mynewestaccount34578)
+&gt; &gt; * [Protein Data Bank File](https://3dprint.nih.gov/discover/3DPX-012867)
+&gt; &gt; * [Early Transmission Dynamics](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316) Provides statistics on the early cases, median age, gender etc.
+&gt; &gt; 
+&gt; &gt; **\[IMPORTANT UPDATE:** *From February 12th the definition of confirmed cases has changed in Hubei, and now includes those who have been clinically diagnosed. Previously China's confirmed cases only included those tested for* [*SARS-CoV-2*](https://en.wikipedia.org/wiki/2019_novel_coronavirus)*. Many datasets will show a spike on that date*.\]
+&gt; &gt; 
+&gt; &gt; **There have been a bunch of great comments with links to further resources below!**  
+&gt; &gt; \[Last Edit: 15/03/2020\]
+
+- [COVID-19 Mobility Data Aggregator](https://github.com/ActiveConclusion/COVID19_mobility)  [^[source ^comment]](https://www.reddit.com/r/datasets/comments/i5krmb/coronavirus_datasets/g0rwpih/)
+- [County level mask mandate data set(US)](https://docs.google.com/spreadsheets/d/1CYmIiNDeBrUcVyazo21jCXyE4eemE1hmc71jCOnoGW8/edit#gid=796552815) [^[source ^comment]](https://www.reddit.com/r/datasets/comments/i5krmb/coronavirus_datasets/g0pz1qw/)  
+- [NYT county level cases and mask usage](https://github.com/nytimes/covid-19-data) [^[source ^comment]](https://www.reddit.com/r/datasets/comments/i5krmb/coronavirus_datasets/gdk385v/)
+- Please check the comments of the previous threads for more datasets.

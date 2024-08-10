@@ -1,0 +1,5 @@
+I heard the myPersonality dataset was discontinued, but here I appear to have found it on github after a quick front page google for it...
+
+Is that it??
+
+https://github.com/Myoungs/myPersonality-dataset/blob/master/mypersonality.csv

@@ -1,0 +1,1 @@
+I wanted to do an NLP operation on those texts to deduce the kind of actor in the TV series.

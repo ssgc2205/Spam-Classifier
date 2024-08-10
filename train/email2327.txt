@@ -1,0 +1,1 @@
+ Hello Everyone, I am currently taking a data analysis class and have to do a project revolved around Regression. What are some interesting topics, ideas, or datasets that you guys would recommend? I need to be able to find a CSV file of it an analyze the given data.

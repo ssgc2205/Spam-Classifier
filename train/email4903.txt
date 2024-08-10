@@ -1,0 +1,11 @@
+Hello,
+
+&amp;#x200B;
+
+I'm doing a project for school where I analyze how the global pandemic impacted the global maritime shipping industry, such as how many countries are impacted and the variation in the number of crates shipped.
+
+Does anyone know any useful datasets I could use for this?
+
+&amp;#x200B;
+
+Thanks

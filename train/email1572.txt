@@ -1,0 +1,3 @@
+Also if possible to have websites tagged appropriately to their product category, example: clothes, tools, engineering applications, etc.
+
+Thanks for any help. Hopefully I can create a cool data visualization timeline animation from it.

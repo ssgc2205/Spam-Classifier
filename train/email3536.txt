@@ -1,0 +1,27 @@
+Hello
+
+ In some papers, it referred to a dataset of Beijing. For example:
+
+ &gt;"The traffic network is located between the Second Ring Road and Third Ring Road in Beijing."
+
+&gt;" 2-min travel speed data collected from three remote traffic microwave sensors located on a southbound segment of a fourth ring road in Beijing City."
+
+&gt;" a dataset consisting of probe vehicle data collected in the urban network of Beijing, China, during one week from June 1st (Monday) to 7th (Sunday), 2015"
+
+&gt;"north-east transportation network of Beijing"
+
+I searched the internet for finding the dataset of vehicles in Beijing and just I found these links: 
+
+http://jtw.beijing.gov.cn/
+
+http://cgs.bjjtgl.gov.cn/chgs/Main.jsp
+
+But Chinese is not my native language and I can not explore these sites for searching such data!
+
+Can anyone that fluent in Chinese, explore these sites and check that can I request traffic speed data of previous months? Can I email them and request dataset?
+
+Also, there is a contact link and some emails in this link:
+
+http://www.bjjtgl.gov.cn/jgj/96629/index.html
+
+Thank you

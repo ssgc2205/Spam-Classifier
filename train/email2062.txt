@@ -1,0 +1,7 @@
+Hello,
+
+I need a dataset/database for all employment types from A to Z. I checked some popular platforms like kaggle, but I couldn't find anything. Did anyone find something like this before and would you share it with me?
+
+&amp;#x200B;
+
+Types like: all of developer positions, java developer, software developer etc, or automative engineer or spacecraft engineer, all kind.

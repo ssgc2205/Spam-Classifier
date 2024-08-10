@@ -1,0 +1,5 @@
+ok, i know my title is vague, but for the past few years, ive been trying to properly get image files, audio files, and etc like map data and 3d models from games. however, most of the games im interested in gathering data from have their assets packed into .dat files. i've been trying for literal *years.* i've tried pretty much every type of extractor, online, offline, cmd plugins, etc, and whenever i do get files, they're always broken.
+
+could someone please, please help me. i either need some sort of reliable .dat extractor, or if someone can do it manually, i don't mind uploading a google drive file full of the .dat files..
+
+i just stumbled on this subreddit today, right when i was about to throw in the towel, so this is basically my last attempt. any and all help is appreciated, thank you. i appreciate your time, and hope you have a nice day!

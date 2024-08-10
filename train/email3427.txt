@@ -1,0 +1,9 @@
+ Hi all, 
+
+I was looking for raw data to visualize the moving patterns of educated millennials across American metropolitan areas (large, mid-size, and small) along with metrics related to housing – real estate purchases or rentals – and job industry breakdowns (tech, finance, etc.).
+
+If there’s a way I could get these divided by Census ethnicity as well (white, black, Hispanic, etc.), that’d also be helpful, although I’m sure that may be a stretch. 
+
+Does anyone know where I could find data like this, or if it exists at all? I know the Census and the American Community Survey have data, but I was looking for something more detailed and specialized. 
+
+Appreciate any help! Feel free to refer me to other subreddits if need be.

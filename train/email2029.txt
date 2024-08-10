@@ -1,0 +1,3 @@
+Hi all, 
+
+I need a large number of datapoints of the above- where would I be able to find something like this? I am trying to obtain a large sample of images during certain time frames (ie minutes/hours days) of lab specimens that developed mold.

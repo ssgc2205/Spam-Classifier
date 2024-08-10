@@ -1,0 +1,4 @@
+I'm looking for a data set or resource that lists all properties and buildings in a given city and the use of those buildings. In particular buildings of multiple or large occupancy.  
+For instance, all apartment blocks in Sheffield. 
+
+Any help or guidance appreciated

@@ -1,0 +1,3 @@
+I'm looking for a simple relational database to test SAS code on.  Such as test performance of views and different buffer options. 
+ 
+What I'm looking for is some database with about ~2000 lines that can be merged to about 5 different dimensions. I'd rather use real data instead of simulating it. 

@@ -1,0 +1,1 @@
+Hi, we're currently doing a group project in class where we're going to predict weather using datasets and a can sized satelitte. We're having trouble finding weather api's to pull data from and was wondering if you guys know of any free ones. The data should be from the past five years. Thanks for reading and have a wonderful day :)

@@ -1,0 +1,5 @@
+Hey
+
+I'm looking for anti-mask sentiments in USA data for a personal project. A few news outlets ( [https://www.usatoday.com/story/news/nation/2020/07/15/arizona-most-resistant-wearing-covid-19-face-masks-study-finds/5442738002/](https://www.usatoday.com/story/news/nation/2020/07/15/arizona-most-resistant-wearing-covid-19-face-masks-study-finds/5442738002/) ) posted articles on such data citing survivalathome.com but there is no information as such on the website. Does anyone know where I can find such a dataset?
+
+Thank you

@@ -1,0 +1,1 @@
+I am currently working on an initiative which requires telematics data. The dataset available on kaggle is not sound enough for the purpose. Can anyone please help me out in getting telematics dataset.

@@ -1,0 +1,5 @@
+Question for all data enthusiasts who subscribed to this fine subreddit: where can I find reliable historic data on subjects like race, age and inequality for the US, grouped by state (nation is too broad, county too detailed).
+
+I started looking around on the Census.gov website, but I can't find any easy downloadable data from before 2010. I'd like to see the evolution over the last couple of decades.
+
+Could someone point me in the right direction?

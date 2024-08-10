@@ -1,0 +1,11 @@
+I'm just kicking off this project with a friend. I've spent 4 years in the personal data space and he's spent 5 years on security teams. 
+
+Thoughts from supporters, users, critics would be great. 
+
+[https://www.thekanary.com/](https://www.thekanary.com/)
+
+1. Verifiable by sharing sites scanned, info found, and aggregate progress / improvement
+2. Doesn’t claim to secure accounts that already have large security teams and privacy settings settings
+3. Free
+4. Actionable so you can request information be taken down, report incidences to the government, participate in class action claims, know if a site re-posts information it shouldn’t
+5. Works with minimal information like email

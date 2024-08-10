@@ -1,0 +1,5 @@
+Does anyone know where one could get a sample of real-time RFID scanning data?  E.g. from a warehouse or some inventory management system?  The ideal dataset would have some kind of time stamp for each scan, of course.
+
+My thought on, "Why RFID specifically," is that there could potentially be a richer, higher resolution set of data than a barcode scanning scenario, in which an individual would need to be paid to sit there and scan things.
+
+Failing RFID data...what about just bar code scans at various points in a warehouse?

@@ -1,0 +1,3 @@
+Hey, I am trying to improve my writing abilities by blogging about topics which interest me. Here is my first post, it is on biologically relevant datasets available on Kaggle. Feedback is much appreciated.  
+
+[Blog Post](http://whyiswritinghard.blogspot.co.uk/2017/11/kaggle-datasets.html)

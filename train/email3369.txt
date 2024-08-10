@@ -1,0 +1,5 @@
+If you are looking for free / open / public datasets related to life sciences or healthcare, you can check out this website: [https://www.h4intelligence.com/data](https://www.h4intelligence.com/data).
+
+Data types include 3D structures of biomolecules, agriculture, biomedical literature, census, clinical trials, diseases, drugs &amp; compounds, ecological data, EMR / EHR / PHR, epigenomics, genomics, images, interactions, metabolomics, pharmacogenomics, proteomics, public health data, relationships, toxicology, toxonomics, transcriptomics, and videos, etc.
+
+\[self-promotion\]

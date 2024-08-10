@@ -1,0 +1,9 @@
+Hey everyone,
+
+I'm looking for a dataset that has game by game line-ups for teams across Europe over many years. So for example;
+
+Date Team Home Team Away Team GF GA GD Player 1 Player 2...
+4/25/2016 Spurs Spurs WBA 1 1 0 Lloris Vertonghen...
+4/25/2016 WBA Spurs WBA 1 1 0 Myhill Evans...
+
+Where each game is represented from each team's point of view. Does anyone know if one exists or will I have to scalp the data online?

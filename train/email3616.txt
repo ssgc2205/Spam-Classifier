@@ -1,0 +1,1 @@
+NLP has various applications. Most are implemented in English. But I am trying to understand if there is an application that is unique and specific to any language other than English. If your native language is other than English, do you have any ideas? Where and how do you want NLP implemented?

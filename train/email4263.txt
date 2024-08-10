@@ -1,0 +1,1 @@
+Hell everyone, I am looking for a dataset of NICS background checks numbers in a csv or other spreadsheet format instead of the PDF format that is put out by the FBI [here](https://www.fbi.gov/services/cjis/nics).

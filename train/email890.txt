@@ -1,0 +1,7 @@
+Hello people. 
+I am in desperate need of data from fellow Book lovers and Movies lovers. Since the Model I am making isn't actually based on a  much researched topic in Machine Learning ( Domain of my Model is Cross Domain Recommendation System) I haven't been able to find data of people who have rated Books AND Movies TOGETHER . Imdb and Goodreads datasets have people rating movies and books respectively but there is no common user rating his own favourite books and his own favorite movies simultaneously, and that's what I need. 
+Really sorry for the long description but I had to explain why I can't just take the dataset from online. 
+Please fill this Google form out. I am really passionate about this field and I really need the data for making a good model and hopefully start what might just be a life long career in this field. 
+Thank you. 
+
+https://docs.google.com/forms/d/1U4z1QRnqsWr_86BIpGEpHltUT-8DcSNbOsFap-GCbXw/edit?usp=drivesdk

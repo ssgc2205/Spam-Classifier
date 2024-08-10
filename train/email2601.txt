@@ -1,0 +1,5 @@
+I'm looking for dataset of all the known entities in our solar system (from planetary bodies and comets in scale down to known constituents of the Oort Cloud and Kuiper Belt, even as small as the orbital debris around Earth). Perhaps even better would be a metadirectory of datasets for the collection. 
+
+I've been manually hunting down the individual datasets that are available to the public. It's difficult for me to tell how complete the obvious sources  are relative to all the data available, so I'm hoping for a scholarly or research source that has a more insightful grasp of the scope required.
+
+Thanks in advance for your help!

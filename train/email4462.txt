@@ -1,0 +1,3 @@
+patients should have diabetes.
+
+data should be like all parameters like  fbs , pp2bs , fundus retinotherapy , creatinine ,urine albumine ,etc in the dataset

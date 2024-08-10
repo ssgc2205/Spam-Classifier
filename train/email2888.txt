@@ -1,0 +1,3 @@
+ I am looking for a dataset of traffic flow and its corresponding weather data, such as rain and temperature, of the same location. I am studying the effect of weather variables on traffic, preferably inside cities not on highways.
+
+P.S. I could find traffic data of some locations without the corresponding weather, and vice versa. What I need is both data of the same location.

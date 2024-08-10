@@ -1,0 +1,3 @@
+[https://github.com/willhaslett/covid-19-growth](https://github.com/willhaslett/covid-19-growth)
+
+Want to do your own analytics on the JH COVID-19 data? This provides a sensible starting point in Python/Pandas, wired up to the daily JH CSV files. Has a US focus as of now. Support for filtering by arbitrary regions.

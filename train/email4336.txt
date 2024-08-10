@@ -1,0 +1,1 @@
+I'm looking for a dataset on (industrial) operations or something similar, where I can apply ML algorithms. Any industry. Suggestions?

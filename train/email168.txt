@@ -1,0 +1,11 @@
+So what I want to do is pretty specific, and after an extensive search, I have not come across a dataset that contains this.
+I want to compare different metrics for automatic speech recognition evaluation. It could be useful to have a corpus containing the following to have something to compare against.
+
+
+reference | hypothesis | usefulness score
+---|---|----
+original text | ASR hypothesis | (mean) score for the hypothesis found in a survey
+
+My hopes aren't too high as this is a very niche thing to look for, but nevertheless, I figured I could ask here.
+
+I got the idea form here: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.6817&amp;rep=rep1&amp;type=pdf

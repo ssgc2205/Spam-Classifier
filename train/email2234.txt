@@ -1,0 +1,9 @@
+I work for a Casino and we are looking to move an event from December to August and I have to figure out if that is a good idea or not.  
+
+I need to take into account many variables like the differing room rates in August and December, I'll need to make assumptions about certain segments of guest that attend the event in August but still make a trip in December and some wont.  
+
+I need to see if the gain in play in August is greater than the loss of play in December.  
+
+Is there a software that could help me analyze the data in a meaningful way? 
+
+I'll have a list of players and Ill add various information such as if they attended a concert during the event, if they attend any concerts during the year, how many trips they make a year.  Id like to find a software that will help me manipulate and analyze it.

@@ -1,0 +1,3 @@
+Hopefully I'm not breaking any rules of this subreddit with requests but, can anyone point me to a source on Oil Rigs where I can get some datasets about equipments and operating times for Oil Rigs? 
+
+specifically I'm looking for a data set that has the rig name, rig operator, equipment on the rig, up-time, down-time and any maintenance/repair information about the rig. 

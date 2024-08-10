@@ -1,0 +1,5 @@
+Hello,
+
+Nadir Altinok, Noam Angrist and Harry A. Patrinos have released a Policy Research Working Paper on behalf of the World Bank in 2018, where they claim that they have a dataset that covers 163 countries between 1965 and 2015. There they talk about differences in education among countries, genders, income levels and so on, but I cannot find the data that they are referring to. The report can be found [here](http://documents.worldbank.org/curated/en/706141516721172989/Global-data-set-on-education-quality-1965-2015).
+
+I managed to find something on [github](https://github.com/owid/owid-datasets/tree/master/datasets/Global%20Data%20Set%20on%20Education%20Quality%20(1965-2015)%20-%20Altinok%2C%20Angrist%2C%20and%20Patrinos%20(2018)), but it is definitely not the whole dataset. So helping me find the original one would be appreciated. Thank you :)

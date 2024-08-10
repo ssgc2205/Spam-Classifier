@@ -1,0 +1,1 @@
+I am currently working on a spam article filtering program. I am aa need of a good spam and ham dataset.

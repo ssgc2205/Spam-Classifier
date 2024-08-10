@@ -1,0 +1,3 @@
+Hi everyone,it is going to be my first time using a dataset.I've a homework, i will make an application of apriori [algorithm.It](https://algorithm.It) would be great if i can find a dataset tracking the spread of coronavirus.I just want it to be simple but would be great if it shows like Rome-Istanbul flights is related to spread.Can anyone send a dataset for weka or excel about this topic?
+
+Thanks in advance &lt;3

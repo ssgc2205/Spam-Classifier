@@ -1,0 +1,3 @@
+I like to have a database on the Paralympics, not just the most recent one. I like to have the country, sport, medal, gender and year.
+
+thanks

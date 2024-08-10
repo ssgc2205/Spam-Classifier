@@ -1,0 +1,10 @@
+I'm studying left censored data and I'd like to find a realistic dataset (preferably not to large) that features left censored data.
+
+Do you know of any?
+
+Edit: As it seems there's some confusion about the term, this is what is meant by left censored:
+
+As explained here
+https://en.m.wikipedia.org/wiki/Censoring_(statistics)
+
+When the data in the dataset can't get lower than a certain threshold, but the actual data point may well be. Eg if you measure temperature and the lowest value on the scale is 0. The temperature can be -5, but we can't see that with our scale.

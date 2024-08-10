@@ -1,0 +1,11 @@
+Hello there,
+
+I was looking for interesting datasets and I found the dataset of [Number of International Visitors to London](http://data.london.gov.uk/dataset/number-international-visitors-london). I downloaded it and now I have a doubt, which I could share with you and try to clear as much as possible.
+
+The xls file contains some sheets. Assume I select the 'By country' one. In the row regarding Argentina, in the first column (year 2002) I see 14,6 as value (that's rounded up).
+
+Now, I can't understand it. The header says "Visits (000s)", so I think those values are thousands? I mean, that 14,6 becomes 14600? Plus, there is some ambiguity on using the comma: in the UK the . symbol is used as a decimal mark, thus I think the aforementioned value would be 14,600.00, right? (fourteen thousand and six hundred)
+
+I know that maybe this is a *silly* question but I can't understand it alone!
+
+Thank you!

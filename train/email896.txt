@@ -1,0 +1,20 @@
+Hello m8s
+
+I crawled reviews of 2400 different chocolate bars as well as metadata and US and Canadian chocolate producers.  
+
+
+The data is available [here](https://www.kaggle.com/andrewmvd/chocolate-ratings).
+
+Also, the simple crawler that captured this data is available [here](https://www.kaggle.com/andrewmvd/chocolate-ratings-crawler).
+
+&amp;#x200B;
+
+As always, credits go to the  Manhattan Chocolate Society:
+
+&gt; Manhattan Chocolate Society, Flavors of Cacao \[Internet\]. Available from: [http://flavorsofcacao.com/](http://flavorsofcacao.com/) 
+
+&amp;#x200B;
+
+Happy new year;
+
+Cheers

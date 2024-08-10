@@ -1,0 +1,5 @@
+There used to be an "An open access repository of images on plant health to enable the development of mobile disease diagnostics" but has since become unavailable. A lower quality version was uploaded to [github](https://github.com/spMohanty/PlantVillage-Dataset), but I'm looking for the original. Thanks.
+
+&amp;#x200B;
+
+[https://arxiv.org/abs/1511.08060](https://arxiv.org/abs/1511.08060)

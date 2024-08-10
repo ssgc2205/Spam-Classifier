@@ -1,0 +1,5 @@
+I'm attempting to learn Power BI and am not satisfied with the training videos and materials I've seen so far. 
+
+To that end, I want to work from some data that has some relevance to my work environment and is relatively straight forward. I know finding historical data for WTI and Brent is relatively easy but I'd like to find a way to chart other flavors of crude over time (from ANS to West Texas Sour) as well as pricing information for heating oil, jet fuel, diesel, gas, six oil, asphalt, etc... 
+
+Thoughts? 

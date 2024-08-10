@@ -1,0 +1,16 @@
+Hey guys :)   
+
+
+I have to implement a chatbot for my bachelors thesis, I made a very very small dataset my own with which the bot works fairly okay, when asking specific questions of course. 
+
+&amp;#x200B;
+
+But for normal, unrelated, questions I struggle to find labeled data. 
+
+&amp;#x200B;
+
+Do you have any sources on where to get one? It is fine if it is still a smaller dataset since it is just my bachelors thesis and the expectation is not to handle a million entry dataset. 
+
+&amp;#x200B;
+
+Any suggestion appreciated

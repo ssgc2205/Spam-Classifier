@@ -1,0 +1,1 @@
+I'd like to do some reliability analysis of different product categories (basically make a blog about how things fail). It would be really helpful to have datasets on actual failures, anyone know where I could get this?

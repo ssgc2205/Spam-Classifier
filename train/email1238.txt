@@ -1,0 +1,1 @@
+Hi! I aim to make an statistics with the results of natural and anthropogenic risk factors and develop a hierarchy of risk factors to identify the places where each risk factor poses low, medium and high threats. Which statistical test would you recommend me to do?  Thank you!

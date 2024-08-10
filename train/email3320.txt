@@ -1,0 +1,7 @@
+Hi, 
+
+I am interested in a dataset that compiles information on entrepreneurship compensation in Venture Capital / Private Equity financing deals. Advanced-HR used to compile this information, but they no longer share this information after acquisition by Morgan Stanley. Other paid or unpaid sources such as Crunchbase, VentureSource etc. do not have this information.  
+
+Any leads for paid or freely available datasets are welcome. 
+
+Thank you.

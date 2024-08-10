@@ -1,0 +1,3 @@
+I’m dealing with a dataset with has values of atmospheric pressure as 0.1bar to 1.8 bar. (Max and min atmospheric pressure is 1.08bar and .8bar respectively.). 
+Similarly temperature ranging from -170degree Celsius to 300degree celsius. 
+How should I deal with them to feed in a Machine Learning model?

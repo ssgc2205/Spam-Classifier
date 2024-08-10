@@ -1,0 +1,3 @@
+I'm looking for data from freelancing and corwdsourcing platforms.
+
+For example data about project postings and project descriptions, freelancer work histories, project durations, budgets etc.

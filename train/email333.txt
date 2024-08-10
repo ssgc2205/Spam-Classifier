@@ -1,0 +1,2 @@
+What could be useful datasets or datasources for understanding problems and concerns in cities?
+So far, I can imagine datasources like Twitter or open311, but curious to hear if anyone has other ideas for datasources or datasets. Thanks!

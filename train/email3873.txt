@@ -1,0 +1,1 @@
+I'm currently trying to create a chatbot that tries its best to replicate the mannerisms of a teenager and I was wondering if there were any good datasets from sources online, like social media or messaging apps, that could help. Thank you!

@@ -1,0 +1,12 @@
+Correlation One is excited to announce [**Data Science for All: Women’s Summit**](https://www.correlation-one.com/ds4a) will be back this Fall with a fully virtual program! 
+
+This upcoming September, 150 promising young women will be invited to our Women's Summit program. The program offers free case-based training, professional development workshops, mentorship from experienced data scientists, competitive employment opportunities, and the opportunity to build a network of data-driven peers and leading organizations.
+
+* **When**: September - October 2020 (full schedule [here](https://www.correlation-one.com/ds4a))
+* **Where**: Virtual 
+* **Who**: Open to women (graduating seniors, graduate and PhD students, young data science professionals)
+* **Cost**: Free, by application only
+* **Application**: [Link to application](https://correlation-one.typeform.com/to/aGdqNR?utm_source=reddit&amp;utm_medium=reddit&amp;utm_campaign=pro)
+* **Deadline**: August 9, 2020 (round 2 deadline)
+
+If you have any questions, please direct them to [ds4aws@correlation-one.com](mailto:ds4aws@correlation-one.com).

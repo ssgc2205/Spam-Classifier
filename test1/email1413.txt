@@ -1,0 +1,7 @@
+Data includes subreddit creation date, number of subscribers, subreddit title and descriptions, public/private, etc.
+
+http://files.pushshift.io/reddit/subreddits/subreddit_data.bz2
+
+**sha256sum** 75d68a71f7a8b67f0b5948ccd12d12af7c4d313b3c2c2e91b600246075c8ffc9
+
+This data was captured within the past 24 hours.  This is the complete list of subreddits minus a couple that weren't returned by the Reddit API (Status 500).  I'm assuming they may be ones that were once completely removed from the system such as the subreddit /r/jailbait, etc.  

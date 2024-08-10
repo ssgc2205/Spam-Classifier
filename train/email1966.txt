@@ -1,0 +1,1 @@
+Any labeled dataset of mold on wall? This is for a computer vision project

@@ -1,0 +1,1 @@
+Hi, I am looking to create a project that generates sheet music based on the audio of an instrument like piano. That being said, are there any datasets that have both the audio of a song and its associated sheet music? Thanks!

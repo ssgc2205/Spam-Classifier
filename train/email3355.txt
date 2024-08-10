@@ -1,0 +1,7 @@
+I want to understand how milk temperature changes .  It's probably best to explain the kind of plot I'd like to be able to make, with publicly available data.  x-axis: air-temperature, y-axis: milk-temperature.  Basically, I'd like to understand how fast milk temperature changes with a corresponding change in ambient air temperature.  I'd be nice to get this data for different kinds of milk (1%, 2%, etc...), and even different kinds of cartons, if possible.
+
+I wasn't able to find any information on this googling around, but it seems to me like it must exist, perhaps at the FDA or CDC.  How else can they recommend that after 4 hours of power outage, you should throw out your milk, for example?
+
+It might even be modelable with an equation (ignoring the cartons), since we know the fat content of the milk?  
+
+Any pointers greatly appreciated! TIA

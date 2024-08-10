@@ -1,0 +1,8 @@
+&amp;#x200B;
+
+[Sample image. ](https://preview.redd.it/2s1statmlcm61.png?width=656&amp;format=png&amp;auto=webp&amp;s=c10b35926616e7a7e2f6d58d15d19f701f0efb6d)
+
+Hey, I'm working on a project that requires to detect text on containers like shown in the image, I have a very very small dataset hence the accuracy is low. I would be grateful  if you could guide me to where I can find similar images, I've searched Kaggle and other major dataset sites but no luck. 
+
+I'm even open to a synthetic dataset and suggestions on ways to create them.   
+Thank You

@@ -1,0 +1,1 @@
+I'm looking fir time-series data for traffic congestion at certain nodes or stations to train (LSTM) - RNN Algorithm on it, and try to predict traffic congestion for the next 5 - 10 mins

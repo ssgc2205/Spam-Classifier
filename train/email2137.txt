@@ -1,0 +1,3 @@
+I'm looking for small datasets to help me learn Python. I've found the best way to do is to have a small dataset I understand and work through some tutorials using that dataset.
+
+Any ideas on datasets like that?

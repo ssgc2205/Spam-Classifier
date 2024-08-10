@@ -1,0 +1,11 @@
+Hi all,
+
+I am currently learning regression analysis at school and was wondering how to apply it in some everyday situations such as the TF2 steam market economy.
+
+This would probably use the same way you would make a regression model for a real life stock market economy so I was wondering:
+
+\- Does anyone have any preexisting datasets on previous TF2 transactions on [backpack.tf](https://backpack.tf) or the steam market? 
+
+\- If not, any pointers or resources for using Python Pandas to scrape such data from either website?
+
+Thanks :)

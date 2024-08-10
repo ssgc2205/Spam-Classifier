@@ -1,0 +1,5 @@
+Hey, my thesis is about arabic speech recognition with CNN,
+
+anyone know where can i found the arabic letter pronunciation dataset??
+
+Thank you, i really need it

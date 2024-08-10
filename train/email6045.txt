@@ -1,0 +1,9 @@
+Hello,
+
+I am taking a graduate level course on applied machine learning. The goal of the course is not to have a rigorous understanding of the mathematics behind ML algorithms, but to develop an intuitive sense for how to handle data and use it for an end-to-end ML project.
+
+To this end, we are required to do a class project with a fairly rich (a good amount of features which I can later engineer) and large dataset. Pretty much the only requirement for the dataset is that it needs to have at least 1000 instance. While that seems like a small number, my professor has insisted that something like 1000 entries from time series data will not cut it. Instead, it has to be at least 1000 uniquely identifiable instances.
+
+My background is in materials science and nanotechnology, but I cannot find any interesting datasets for the same which meets the above requirement. It would be great if someone could share ideas for some datasets I can look into. PLEASE NOTE that I am not very picky about what domain the dataset is from. My only request is that it is not a toy dataset (like MNIST or Titanic Survival), but it should be something that has interesting applications if I choose to work on it.
+
+So far I have been looking at the UCI repository and Kaggle and I am drawn towards human activity recognition or text classification (sentiment analysis and author attribution), but I am open to any suggestion ya'll have. 

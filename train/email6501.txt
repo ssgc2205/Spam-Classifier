@@ -1,0 +1,9 @@
+Hello there!
+
+&amp;#x200B;
+
+I put together different pre-trained word embeddings (word2vec, fastest, glove, paragram) in a unified gensim-format which is fast to load and provides some handy methods. You might find it useful in kernels for NLP competitions/analysis or if you don't know which embedding you want to use, you can download this collection and then just replace the source without changing anything in the code: [https://www.kaggle.com/iezepov/gensim-embeddings-dataset](https://www.kaggle.com/iezepov/gensim-embeddings-dataset)
+
+&amp;#x200B;
+
+\#KaggleDatasets

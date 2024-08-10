@@ -1,0 +1,5 @@
+Hi all,
+
+I found a dataset that contains the play-by-play data for the NBA in the last 6 years ([https://www.kaggle.com/schmadam97/nba-playbyplay-data-20182019?select=NBA\_PBP\_2020-21.csv](https://www.kaggle.com/schmadam97/nba-playbyplay-data-20182019?select=NBA_PBP_2020-21.csv)), but in terms of shot location it only includes the distance of the shot taken.  For my interests, I need the exact location on the court using X position and Y position, and I can't find an actual dataset with this information anywhere.  Can anyone please help me out?  Cheers!
+
+e: to be completely specific, I know that there are shot chart datasets out there, but my particular case needs them to be associated with specific plays so I can analyze the shot charts of plays relative to each other

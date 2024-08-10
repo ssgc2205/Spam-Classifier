@@ -1,0 +1,5 @@
+Hello,
+
+I am wondering if anybody might know good sources of car accidents of datasets that contain information like person characteristics, road conditions,  cause of accidents and injuries/fatalities.  
+
+I am doing some exploring if I can do research to see if hands free cell use laws has has a postive effect on decreasing distracting driving incidents.

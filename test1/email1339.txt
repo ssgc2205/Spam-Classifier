@@ -1,0 +1,1 @@
+Hello! I am looking for a dataset of apartment leases to train a model on. Preferably these would be in some kind of text format, although anything will do. No need for any annotations or anything as I plan to do unsupervised learning on it.

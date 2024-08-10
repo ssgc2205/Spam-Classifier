@@ -1,0 +1,3 @@
+Hi
+
+Where can I find a  **C++** code for emotion detection from facial expressions?

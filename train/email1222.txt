@@ -1,0 +1,3 @@
+I am looking for a zip code database for a project I am working on - but I can't seem to find one that is free. It seems absurd that the USPS charges for this information.  
+
+All the sites I find charge or are scammy - or have data that is seven or eight years old.  Does anyone know of a place I can find the zip, city, state, lat and long for free? 

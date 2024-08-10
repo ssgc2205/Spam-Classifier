@@ -1,0 +1,1 @@
+Can someone please help me finding a dataset for indoor and outdoor objects. I need it for my project that will assist the blind in obstacle detection.

@@ -1,0 +1,2 @@
+Hello. I've decided to share a part of the data that I've been scraping, cleaning and integrating for my football betting and analytics. This should be very interesting for every sports analytics enthusiast.
+[https://www.kaggle.com/secareanualin/football-events](https://www.kaggle.com/secareanualin/football-events)

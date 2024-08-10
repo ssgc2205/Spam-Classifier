@@ -1,0 +1,5 @@
+Seems like everything is gleaning data from us in our everyday lives...our phones, our cars, our f$$king coffee makers...
+
+I'm assuming that these data-sets, can't all be silo'd on the individual app/product makers servers...leading me to speculate that there are data wholesalers out there.
+
+Where can I find and/or buy data gathered from apps, phones, web services and other services?

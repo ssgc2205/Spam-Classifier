@@ -1,0 +1,11 @@
+I am currently a undergraduate sophomore at my college and I am soon going to declare my major. I want to make sure that I am picking the right degree/major/minor for becoming a business intelligence analyst/specialist and a data analyst. .The degree is called MIS (management information systems). The degree is a mixture between business and information technology. All the business classes I already finished like marketing, accounting, finance, management, etc. 
+
+1. The soon to be technical classes I will take are python, database management systems, SQL, system analysis, data warehousing, ETL, data analytics, business intelligence, project management, and an internship.  Are those classes worth taking for the data field? I already now those are classes that are good in the data field but I just want to make sure.
+
+2. Are any of those particular subjects difficult to learn as in are the concepts hard to understand? If you need a comparsion for something I find difficult it's something that requires tremendous hours of studying to fully understand the concept of what is being taught in class like computer engineering majors. How would you rank them from being the most difficult to being the easiest?
+
+3.If it turns out that I don't like data analytics once I graduate, what other carrer fields can I go into that aren't a business intelligence specialist or a data analyst? 
+
+4 .As for the minor, my college recommends I minor in marketing, applied economics, supply chain or finance. Out of those 4 options which one will be the best and most broad in the data analyst field?
+
+5. With that certain combination of the MIS major and whatever minor you recommend I get, what other types of career fields can I go into?

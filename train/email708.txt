@@ -1,0 +1,3 @@
+I'd like to compare Netflix's series and movie offering (monthly or yearly) to see, over time, how their offering has diversified and changed, based on several metrics such as average show rating.
+
+I couldn't find anything relevant on Kaggle or here.

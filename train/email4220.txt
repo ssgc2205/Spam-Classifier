@@ -1,0 +1,5 @@
+Don't know if this is the right place to ask, but I'm doing history/historical geography research on homesteading in the early 20th century, and I wanted to do some quantitative analysis of homestead patents in Oregon. 
+
+I want to plot the number of homesteads per year for each county in Eastern Oregon between 1900 and 1929. I can get all of the homesteading patents on this website: http://www.glorecords.blm.gov/search/ (By selecting "homestead original" under "authority"). However, it's huge pain in the ass to count for each county, each year, and would probably take me upwards of four hours. 
+
+Is there anyway to extract this data without just counting it?

@@ -1,0 +1,7 @@
+I am a fresh graduate with a degree in Applied Math and Statistics. My degree had a concentration in computer science. I am looking for work in data analytics.
+
+I took the core math/stats classes for my degree. Some examples are data mining, time series analysis, linear regression, algorithms I &amp; II, database systems (SQL), software engineering, and so on. I know Python, R, Matlab, SQL, Java.
+
+I have no work experience and I'm looking for work in data analytics. I was wondering if there are any online edx courses I could take to fill my knowledge gap for what I will need on the job day to day. Preferably some crash course I could get done in under a month working on it full time.
+
+Thanks.

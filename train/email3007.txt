@@ -1,0 +1,9 @@
+We started collecting this data about a month ago in BigQuery - try it out.
+
+Sample queries:
+
+/r/bigquery/comments/3io7wj/qotd_wikipedia_most_revised_pages_per_day_query/
+
+Table: 
+
+https://bigquery.cloud.google.com/table/bqpipelines:wikipediaEdits.wikiStreaming

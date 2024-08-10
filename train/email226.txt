@@ -1,0 +1,7 @@
+I am in need for training data for receipt scanning. I work for a startup so this would be for commercial use. I need the receipt images and and bounding boxes with the text, similar to SROIE 2019 (which I have). I am looking for receipts that were created in the US. If someone could point me to where I might find this, I would be very grateful.
+
+&amp;#x200B;
+
+Thanks,
+
+Hadil

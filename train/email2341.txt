@@ -1,0 +1,1 @@
+Does anyone know if there is a data set available for specs on TVs. I'm specifically interested in the VESA size for matching TV mounts to specific TVs.

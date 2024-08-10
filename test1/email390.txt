@@ -1,0 +1,5 @@
+Anyone know where I can find the \*actual\* data backing this NOAA [Earthquakes of the 20th Century](https://sos.noaa.gov/datasets/earthquakes-of-the-20th-century/?fbclid=IwAR24j72K5H9U2P1-6CuEmC8cEl-ec0NiHfPq9EoyoCmDtGVyWz6eAZUzXEw) "dataset"?
+
+&amp;#x200B;
+
+The closest I can find are some pre-processed PNGs with imprecise renderings.  Where can I find that actual data they used to render these?  Why isn't it published?

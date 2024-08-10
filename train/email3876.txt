@@ -1,0 +1,9 @@
+Hey everyone,
+
+Inspired by  [u/numb\_my\_pain](https://www.reddit.com/user/numb_my_pain/) 's post the other day, I created my own anime dataset. I scraped livechart.me, which has seasonal listings of anime. 
+
+I scraped the data using Microsoft Power BI's Power Query (with web queries), resulting in about 8k animes recorded. This includes seasonal anime, movies, OVAs, etc. Data was collected from the very first season (winter of 1907), up to winter of 2020, though there are many seasons missing throughout the years.
+
+The dataset is available on Kaggle:  [https://www.kaggle.com/ze1598/animelivechart](https://www.kaggle.com/ze1598/animelivechart) 
+
+Please let me know what you think as this is my first time putting together a dataset for distribution.

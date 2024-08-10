@@ -1,0 +1,2 @@
+Hey y'all I'm taking a class that wants me to analyze a dataset that's at least 10 gb in size but I'm struggling to find one to download! I'm pretty new to this can you help direct me to some interesting datasets?
+Thanks!

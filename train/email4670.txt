@@ -1,0 +1,5 @@
+Hello,
+
+I am trying to build a classifier that will detect plagiarism in programming assignment submissions using NLP. I am looking for the dataset, which I can use to train my model. Any help would be greatly appreciated.
+
+Thanks.

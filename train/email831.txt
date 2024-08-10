@@ -1,0 +1,3 @@
+I'm working on a chiller plant fault detection and diagnosis and looking for a model driven or data driven generated data set with both normal and faulty data. Most of the research papers that have done FDD with machine learning have used ASHRAE PR-1043 data set and it is no where to be found. Really appreciate if any one can guide me through finding me a valid data set.
+
+Thank you.

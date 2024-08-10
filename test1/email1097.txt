@@ -1,0 +1,9 @@
+I work in healthcare research and look after a nationwide database containing project level data on clinical trials (where study running/ type of study/important dates/recruitment etc). 
+
+I currently extract the raw data into excel, tidy it up, write vlookups, if statements, pivot tables. 
+
+Looking for a better way forward in analysing this data for reporting. 
+
+I've no sql experience or any other programming language. 
+
+Any recommendations on software to learn to make an analysis quicker and generate tables/graphs?

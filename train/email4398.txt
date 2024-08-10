@@ -1,0 +1,1 @@
+I'm working on a bayesian network to genetare synthetic WIM observations such as gross vehicle weight, total vehicle length, individual axle load and inter axle distances. It will be very helpful to have data sets for different sites. Thanks

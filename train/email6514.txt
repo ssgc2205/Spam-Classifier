@@ -1,0 +1,3 @@
+I am looking for a dataset with spider images.  
+Just any image of a spider is fine and it does not have to be labeled more that spider.  
+I cannot find such a dataset anywhere so I thought I would try here.

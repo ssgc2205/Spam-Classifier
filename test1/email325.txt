@@ -1,0 +1,16 @@
+I'm interested in lists of usernames by service (this could be useful, for example, for making username generators). So far, the best thing I've found is this:
+
+https://github.com/notwa/twitch_usernames
+
+I know there's a reddit comment database, but it's 250 GB and I just really want the set of unique usernames for it. If anyone could host that, I'd be quite interested.
+
+Other services that might be interesting:
+
+- Wikipedia
+- Github
+- Twitter
+- Youtube
+- Tumblr
+- Services whose primary user interface is *not* English.
+
+Mainly I just want the usernames, but if it also has other data (like gender or age breakdowns), that would be fine as well.

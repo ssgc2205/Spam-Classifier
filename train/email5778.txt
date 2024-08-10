@@ -1,0 +1,1 @@
+i'm looking for a dataset for blog comment spam.  the latest one i can find is almost 3 years old.

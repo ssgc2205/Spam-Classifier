@@ -1,0 +1,14 @@
+Hi everyone,
+
+I'm looking for public datasets of scanned documents (images, pdfs) with handwritten signatures present. It doesn't have to be annotated/labeled. So far I found:  
+
+
+[https://www.cs.cmu.edu/\~aharley/rvl-cdip/](https://www.cs.cmu.edu/~aharley/rvl-cdip/)
+
+[https://www.nist.gov/srd/nist-special-database-2?fbclid=IwAR1A75LW2JCkOEKqGC37n94hktBe5TLCR8caojd5PrMxZg0q54ye9gHMoTA](https://www.nist.gov/srd/nist-special-database-2?fbclid=IwAR1A75LW2JCkOEKqGC37n94hktBe5TLCR8caojd5PrMxZg0q54ye9gHMoTA)
+
+[https://www.gsa.gov/real-estate/real-estate-services/leasing-policy-procedures/lease-documents](https://www.gsa.gov/real-estate/real-estate-services/leasing-policy-procedures/lease-documents)
+
+&amp;#x200B;
+
+Anyone else knows of other sources? Thanks!

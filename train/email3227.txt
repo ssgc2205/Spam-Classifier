@@ -1,0 +1,5 @@
+I'm looking for a dataset that contains text entries with things like simple statements of actions or such that may be morally ambiguous. I'm very flexible as my experiment can be done with labeled or unlabeled data. It also doesn't have to be unambiguous. 
+
+I'd also be open to similar datasets that could be modified. I've got plenty of experience with modifying massive datasets. So I'm just looking for some raw material to work with. 
+
+Also would be interested in any links to related papers, anything that has to do with morality and deep learning. I've done some of my own searching, but of course I know lots of you know things I don't know!

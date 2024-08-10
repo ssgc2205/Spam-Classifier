@@ -1,0 +1,2 @@
+Heyo,
+I'm working on a school project that involves natural language processing and need a dataset with naval or air transit reports written in plain English for natural language processing. It does not have to be tagged but that would be super awesome. Any help is appreciated! :)

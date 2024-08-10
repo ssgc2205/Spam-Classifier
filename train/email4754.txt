@@ -1,0 +1,5 @@
+Find Indian food datasets here: [https://www.kaggle.com/kanan275/indian-food-image-dataset](https://www.kaggle.com/kanan275/indian-food-image-dataset)
+
+&amp;#x200B;
+
+It can be used for calorie counting, food detection and recognition problems.

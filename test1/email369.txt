@@ -1,0 +1,11 @@
+Hey guys I need a data set that is as current as possible for game releases, their maturity level, and date of release. 
+
+&amp;#x200B;
+
+I have seen the video game sales data set but there isnt very current data there for the past 5 years. I need to see the counts basically of how many games of each rating have been released in the last years. 
+
+&amp;#x200B;
+
+Any guidance is much appreciated, 
+
+thanks guys

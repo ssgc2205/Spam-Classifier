@@ -1,0 +1,1 @@
+Hi! I'd like to learn a little bit about calculating Customer Lifetime Value using survival analysis and Buy 'Til You Die models. Anyone have a sqmple dataset to play around with? Thanks!

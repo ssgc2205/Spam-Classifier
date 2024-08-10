@@ -1,0 +1,5 @@
+I'm looking to find some image datasets regarding sports for my final project for a ML course. There is a ton of raw sports data online that is easily accessible, but I cannot find any image based datasets.
+
+Two of the ideas that I was thinking of were1) taking a photo of a baseball pitchers release point of the ball to predict type of pitch/ball placement and 2) taking a photo of football line up to predict the play of the defense/offense.
+
+I've done a decent amount of digging and can't find an image based dataset for either of those two ideas. Does anyone know of any sports image datasets online that are free to access or am I out of luck with the project idea?

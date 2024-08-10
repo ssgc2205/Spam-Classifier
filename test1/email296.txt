@@ -1,0 +1,1 @@
+I'm looking for an image set with annotations/labels that I can use to train an my object detection program. The image set should consist of different types of cars, trucks, and buses to start with. Where could I find an image set solely focused on vehicles? Thanks.

@@ -1,0 +1,1 @@
+I will be teaching statistics for clinical trials to students lacking much of a math/statistics background. I am in search of simple CSV files representing real-life data from clinical research. Topics will be relatively elementary (e.g., chi-square, t-test, anova, some regression). Any suggestions on where to start?

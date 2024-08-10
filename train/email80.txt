@@ -1,0 +1,9 @@
+Hello Reddit, 
+
+I'm looking for 'natural' large graph datasets (hopefully labeled). By natural I mean datasets where graph is close-to-original structure (like karate graph or dolphins).
+
+I want to avoid graph with adjacency matrix being similarity (or its approximation) matrix as I find those less 'natural' (sorry for that fuzzy term here) 
+
+My final goal is to run clustering algorithms (spectral, local and others) so labels would be appreciated for further evaluation,
+
+thanks  

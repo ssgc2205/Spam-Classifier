@@ -1,0 +1,1 @@
+I’m looking for an image dataset consisting of simple shapes (circles, squares, triangles) of different colours labeled according to these two features. I’m just looking for a simple toy dataset, so something similar to this with those two features (colour and simple shape) would also be helpful.

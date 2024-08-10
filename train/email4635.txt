@@ -1,0 +1,24 @@
+*(I just discovered this sub and immediately subscribed.  This place looks right up my alley!)*
+
+I've got an application that analyzes a user-submitted license plate and attempts to validate whether it's in a proper format.  I do this with a dataset containing possible regex combinations.  
+
+For example, the state of Alabama may have plates in a format of:
+
+    [0-9][A-Z]{2}[0-9]{4}
+    [0-9]{2}[A-Z][0-9]{4}
+    [0-9]{4}[A-Z]{2}[0-9]
+
+(or any of a number of different combinations).  
+
+Arizona might have plates in the format of 
+
+    [0-9][A-Z]{3}
+    [0-9]{2}[A-Z]
+    [0-9]{2}[A-Z]{2}
+    [0-9]{4}
+
+etc.
+
+I've managed to kludge together a list of a couple thousand permutations for the US and Canada but it's still very incomplete.  I still find perfectly valid plates that aren't being vetted as correct.  And I don't have any data at all for Mexico.
+
+Does anybody know of a good source of data for this?

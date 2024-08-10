@@ -1,0 +1,9 @@
+Hi,
+
+I am interested in a dataset that compiles longitudinal information on Doctoral candidates, i.e. the attrition rates, completion rates, job placement after graduation, student and program characteristics, etc.  
+
+Any leads for paid or freely available datasets are welcome.
+
+Thank you.
+
+PS: I am agnostic about the field, or even the profession. A similar dataset for some other professions such as Management consulting or Investment banking may also be useful.

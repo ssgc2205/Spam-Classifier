@@ -1,0 +1,12 @@
+Does anyone know how I could gather a dataset of images of clouds? In particular, photographs of small clouds from the vantage point of humans on earth (as opposed to satellite images from space).
+
+This is what I have in mind:
+
+[example 1
+](http://jonvilma.com/images/cloud-6.jpg)
+
+[
+example 2](http://cdn.ttgtmedia.com/visuals/searchCloudComputing/applications/cloudcomputing_article_001.jpg)
+
+I have found [Cloud Data Set 
+ from UCI](https://archive.ics.uci.edu/ml/datasets/Cloud), but the data no longer seems to be on the page (or am I unable to find it)?

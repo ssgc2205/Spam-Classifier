@@ -1,0 +1,17 @@
+I'm wondering if theres any free datasets or resources out there with UK postcode information at a street level?
+
+I've downloaded National Statistics Postcode Lookup dataset as well as the geonames(UK) dataset and the ordnancesurvey road names file but none of these seem to have the street names or are to high level.
+
+An example of what I'm looking for is for the postcode "BT47 3JR we have the data 'Backhill Road, Eglinton, Londonderry, Northern Ireland' or at least 'Backhill Road'.
+
+&amp;#x200B;
+
+I know the royal mail provide something along these lines but its a paid service.
+
+&amp;#x200B;
+
+If anyone could assist me with this i'd be really grateful.
+
+&amp;#x200B;
+
+Thanks

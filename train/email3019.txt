@@ -1,0 +1,1 @@
+I'm looking for a dataset that has a recent population per city for all (or all major) cities in the world. I'm able to find datasets by country and over various time periods, but haven't had luck finding an aggregated dataset for the entire world or major continents.

@@ -1,0 +1,3 @@
+Specifically, I'm trying to find companies that moved into and out of investment grade credit over time. 
+
+Anybody have an idea of where I can find a dataset that shows the credit ratings of companies over time?

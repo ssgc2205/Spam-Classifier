@@ -1,0 +1,1 @@
+Are their any available datasets that I could easily use for Atlantic Ocean? I can't understand netCFD as I have no idea what it does. I just need a sea surface temperature for a specific coordinates for a specific time. Say for example, the sea surface temp on the coordinates 17.8N, 88.0W on May of 2008.

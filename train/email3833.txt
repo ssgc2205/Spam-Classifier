@@ -1,0 +1,2 @@
+I am experimenting in tensorflow with classifying how many persons are present in an image for a university project. Does anyone know of a dataset with images of groups of people with labels for how many there are?  
+I suspect that there should exist such a dataset somewhere, but I cannot figure out what terms to search for to find it. Any help would be appreciated! 

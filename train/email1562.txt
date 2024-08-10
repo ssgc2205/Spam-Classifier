@@ -1,0 +1,5 @@
+I want to automatically detect if a given text is an ad or not.
+
+I'm looking for a dataset that would contain Google Ads kind of content: short, text-only ads on any topic.
+
+I was sure I could find that easily but so far no luck!

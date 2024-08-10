@@ -1,0 +1,32 @@
+Introduction
+
+Probably  every data scientist  has come across a situation where you have  created many different  models, with different parameters or the entire  architecture, and  started experimenting.
+
+Aside  from the model architecture, you  wanted to experiment with the choice  of optimizer, learning rate, number  of epochs, and so on. Thus, in  fact, you will have many different  experiments and it will become more  and more difficult to structure the  results obtained. In this article,  we'll show you how to properly and  conveniently manage and log your  machine and deep learning experiments.
+
+Today   there are many utilities that allow you to conveniently manage your   experiments, such as: Weights &amp; Biases, MlFlow, Neptune, Comet.ml   and others.
+
+[MlFlow](https://mlflow.org/)  is an open  source platform for managing the machine learning  lifecycle. This  platform is great for single use, but not very suitable  for use in large  teams, or if you have a large number of experiments.
+
+[Neptune](https://neptune.ai/)   is a lightweight run management tool that helps you keep track of your   machine learning runs. It offers 3 types of subscriptions, 2 of which   are paid. If you are going to use this service individually, then you   will get free access.
+
+[Comet](https://www.comet.ml/site/)   is a machine learning platform for tracking, comparing, explaining and   optimizing experiments and models. It also provides different   subscriptions, but there is a limit on the maximum number of team   members equal to 5.
+
+We will show you how to effectively log experiments using one of these platforms, namely [***Weights &amp; Biases***](https://wandb.ai/site).
+
+Weights &amp; Biases overview
+
+W&amp;B   is a platform that helps data scientists to track their models,   datasets, system information and many other features. With a few lines   of code you can start tracking everything of these features. It is a   paid utility for team use, but provides free access for personal and   academic purposes.
+
+You can use  W&amp;B with your favourite  framework, this platform supports many  machine learning and deep  learning frameworks, like tensorflow, keras,  pytorch, sklearn, fastai  and many others. All tracking information will  be sent to the dedicated  project page on the W&amp;B website, from  which you can open high  quality visualizations, aggregate information  and compare models or  parameters.
+
+One  of the advantages of remotely storing the  experiment’s information is  that it is easy to collaborate on the same  project and share the  results with your teammates. W&amp;B provides 4  useful tools:
+
+1. **Dashboard:** Experiment tracking
+2. **Artifacts:** Dataset versioning, model versioning
+3. **Sweeps:** Hyperparameter optimization
+4. **Reports:** Save and share reproducible findings
+
+In our tutorial we will consider every one of these tools.
+
+Read more: [https://broutonlab.com/blog/data-science-experiments-management-with-weights-and-biases-platform](https://broutonlab.com/blog/data-science-experiments-management-with-weights-and-biases-platform)

@@ -1,0 +1,9 @@
+Over the course of a few years I have downloaded all my replays from the game CS:GO (Matchmaking 5v5 on 64 tick Valve Servers). For my personal use I use CSGO demo manager https://www.csgo-demos-manager.com/ which can extract a lot of data from these replays. I have played this game solo for over 99% of the time. It has a massive amount of data in it, and a massive amount of different players. It is a record of allmost 3000 games (2974 to be exact) with almost 30000 different players (Me + 9 other steamaccounts for every game). If anyone is interested, I am willing to share the whole archive. I sometimes look at the statistics, but mostly use it to track all players I have met to see who has been banned by Valve's systems.
+
+All demo's are watchable in CSGO from every players point of view, nothing is manipulated.
+
+proof: https://imgur.com/a/CNtwxrZ
+
+If anyone is interested. Let me know. I'm willing to share the whole archive (including my JSON files from the demo manager, they have a bit more data, because I lost allmost a 1000 replays due to a diskcrash). You can also run them through the demo-manager yourself.
+
+Reply if you are interested, or DM me.

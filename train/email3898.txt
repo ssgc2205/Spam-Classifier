@@ -1,0 +1,11 @@
+I want to do a test of a quasi-experimental model. Ideally the data I would test this on would have data that is:
+
+1. Geocoded by city, or at largest state/province
+2. Longitudinal with a 2-5 year gap being available
+3. Based on individuals, households or businesses as the unit of observation.
+
+If that's not available, I would settle for a panel that is not longitudinal. I'm also open to data from any country. Economic, sociological, educational or health data sets would be nice, but I'm open to other areas.
+
+I had tried using the NLSY and PSID, but they all seem to have restrictions on their geocodes that I'm not able to access.
+
+Questions or comments welcome. Thanks!

@@ -1,0 +1,5 @@
+Can anyone help me understand how, in the dataset linked below, the World Bank calculates that the subscription count per 100 inhabitants of the United States is 124? Surely not that many people have two mobile subscriptions? Even if you consider employer-owned phones, I don't know anyone with two mobile phone subscriptions.
+
+I would appreciate any help interpreting these numbers. Thanks.
+
+ [https://data.worldbank.org/indicator/it.cel.sets.p2](https://data.worldbank.org/indicator/it.cel.sets.p2)

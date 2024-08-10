@@ -1,0 +1,8 @@
+Hi! I'm working on a small analysis in this dataset: http://archive.ics.uci.edu/ml/datasets/Adult 
+but so far I'm a little confused about some of the variables:
+
+capital-gain
+capital-loss
+fnlwgt
+
+Could someone explain me what's the meaning of these fields? I've tried to google it but it's been hopeless...thanks in advance!

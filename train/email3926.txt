@@ -1,0 +1,3 @@
+Im looking for a dataset of devices that use certain Qualcomm chipsets. Googling isnt giving me much and Qualcomm doesnt necessarily list what prodicts have their components except one chipset listing 
+ 
+Its for their QCC-line up specifically the QCC51XX series and the QCC302X series

@@ -1,0 +1,3 @@
+Introducing the schrutepy python package! Do NLP and text analysis with the entire transcriptions from The Office
+
+[https://technistema.com/posts/python-text-analysis-with-the-schrutepy-package/](https://technistema.com/posts/python-text-analysis-with-the-schrutepy-package/)

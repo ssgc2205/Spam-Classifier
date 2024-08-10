@@ -1,0 +1,9 @@
+Hello fellow Redditers!
+
+I am a comp sci student and I'm looking for a dataset involving movie data that has information for the movie title, a ratings scale, and comments relating to the movie. The Netflix dataset has the first two, but doesn't have any comments associated.
+
+I found the netflix prize dataset, a flixster dataset, and a MovieLens dataset which all have titles and ratings. Now I need comments. 
+
+Any ideas? =)
+
+Thanks!

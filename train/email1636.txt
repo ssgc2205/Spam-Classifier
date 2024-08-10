@@ -1,0 +1,3 @@
+Hi everyone! I am looking for a dataset that contains all of the names of musical artists and bands in list format.
+
+P.S. I forgot to specify, sorry. I only want the data of the artists and bands from the past up to now (2021) and excluding the upcoming artists and bands. (2022 onwards)

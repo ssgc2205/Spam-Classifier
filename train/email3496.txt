@@ -1,0 +1,1 @@
+I'd like to start looking how vaccinations effect overall infection rates. Does anyone know of a vaccination dataset for the UK? (or for anywhere else in the world?

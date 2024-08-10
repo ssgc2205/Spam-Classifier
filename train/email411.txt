@@ -1,0 +1,3 @@
+Please let me know which licence should one apply for. Usage access Reddit api and create analytics on top of it and selling the analytics on a web platform.
+
+[View Poll](https://www.reddit.com/poll/mpmvt7)

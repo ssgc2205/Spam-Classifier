@@ -1,0 +1,13 @@
+Does anyone have something like this or have any idea about generating data for this? 
+
+I was thinking if the dataset does not already exist I would make a website asking for directions from points to points in different classifications. 
+
+If I'm not clear in my premise, I'm looking for a dataset with text like these examples:
+
+* "Go 30 meters south, then 40 meters north."
+
+* "Go left on Broward Street, then take a right onto Main Street, then continue straight for 5 miles."
+
+* "Go to Harry's Famous Restaurant."
+
+Any dataset with text like such of any units or places would be greatly appreciated for my project!

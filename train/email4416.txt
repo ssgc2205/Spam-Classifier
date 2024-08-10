@@ -1,0 +1,8 @@
+I've noticed that it's become quite difficult to find a good open dataset for real-estate data.  Mainly the features I'm looking for are:
+
+* Bedrooms
+* Bathrooms
+* Amount of space (square feet / square meters)
+* Price (total or rent would be fine)
+
+Anything else would be bonus.  Any recommendations appreciated!  Thanks!

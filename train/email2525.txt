@@ -1,0 +1,9 @@
+[https://drive.google.com/file/d/1ElC\_Jsc4ZAq8CNXQgx23OmhVFeaPZXd3/view?usp=sharing](https://drive.google.com/file/d/1ElC_Jsc4ZAq8CNXQgx23OmhVFeaPZXd3/view?usp=sharing)
+
+&amp;#x200B;
+
+This zipped file contains CSV with the stock symbol as the name of the file. Each file contains all date, open, high, low, close and volume data avalible with in the date range of 03/06/2014 - 03/05/2019.
+
+&amp;#x200B;
+
+Source: IEX

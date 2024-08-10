@@ -1,0 +1,4 @@
+ This dataset contains temperatures from different cities in Canada, minimum and maximum temperatures of January(Winter), July(Summer) and through out the year are given in this dataset.  
+Elevation, co-ordinates of those cities are also mentioned. **One can perform geospatial analysis using this data.**
+
+Dataset: [https://www.kaggle.com/hemil26/canada-weather](https://www.kaggle.com/hemil26/canada-weather)

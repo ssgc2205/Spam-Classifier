@@ -1,0 +1,3 @@
+Guys and Gals,
+
+I am researching for implementing Artificial Intelligence in Healthcare. For my ongoing research I need Cancer, Diabetes, HIV/AIDS, Pneumonia dataset to analyse. Is there anyone who can help me? Thanks.

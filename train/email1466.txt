@@ -1,0 +1,7 @@
+I just spent a good deal of time cleaning up the data from the TSA throughput pdfs [found here](https://www.tsa.gov/foia/readingroom).
+
+This has data going back to 2017 (some of the earlier data is missing some weeks and is the specific checkpoint per airport per hour of the day.
+
+It's a large set of just shy of 7 million rows at this point so I broke up the data into data by quarter.
+
+https://github.com/sullivankevint/TSA-througput-data

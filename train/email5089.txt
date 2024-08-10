@@ -1,0 +1,11 @@
+I'm trying to pull a list of geotagged locations for the following:
+
+[https://destinilocators.com/boweryfarming/site/locator.php](https://destinilocators.com/boweryfarming/site/locator.php)
+
+[https://destinilocators.com/plenty/site/locator.php](https://destinilocators.com/plenty/site/locator.php)
+
+I am not tech savvy, only been able to right-click and inspect / view page source. I see some references to ArcGIS geocode for each of those pages, so am guessing there are geotagged locations in there. I just have no idea how to extract them.
+
+If someone could walk through the process of pulling the data out, that would be appreciated. Of course, if I just get the output that will be helpful too, but more so trying to learn how to do this myself.
+
+Thanks in advance.

@@ -1,0 +1,7 @@
+Hi,
+
+I'm looking for a dataset with multiple (4+) binary variables that are related to each other in a non-trivial way (e.g. they are not just dummy variables for some categorical feature). 
+
+My idea is to use such a dataset as a use case for the tool for multiple sets visualization I've recently created ([https://github.com/gecko984/supervenn/](https://github.com/gecko984/supervenn/)). I was thinking about possible uses for the tool to outline in a blog post I' writing, and binary features came to my mins as a possible source of sets that might be interesting to visualize. Unfortunately, I haven't been able to find such datasets yet. 
+
+Any suggestions will be very appreciated. Thank you!

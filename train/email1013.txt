@@ -1,0 +1,3 @@
+Hello , 
+
+Me and my friends are writting a paper about detection of face and masks using machine learning,  I would like to compare our dataset with others in our paper , but I cant find, I found only face datasets , does anyone know a famous face and mask dataset?

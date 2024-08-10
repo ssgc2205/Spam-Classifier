@@ -1,0 +1,1 @@
+Hello, I would like to have a suggestion of where i can find small historical data  with multiple tables that can be used to build star, snowflake data warehouse models apart from adventure database and worldwide importer of course. thx !

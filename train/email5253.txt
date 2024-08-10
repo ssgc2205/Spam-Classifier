@@ -1,0 +1,1 @@
+This is a bit of a stretch, but is there any way I get information on the average income within a radius of specified coordinates? I have a list of coordinates for various universities, and I want to lookup the average income of the surrounding communities. Thanks!

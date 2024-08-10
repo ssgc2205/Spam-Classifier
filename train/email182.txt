@@ -1,0 +1,1 @@
+I am hoping to find some resources that I could use in finding a dataset  &gt;10,000 records regarding home sales, including information on rooms, square footage, etc. I am building a  "hot or cold market" prediction model for a school project and have not had any luck finding any datasets to use as a training dataset that would work. Any help is appreciated, thanks!!

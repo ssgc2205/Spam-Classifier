@@ -1,0 +1,5 @@
+I find [https://www.timeanddate.com/](https://www.timeanddate.com/) does not really provide any exportable data in CSV format for me to use. Is there any resource you guys know of that provides me civilian sunrise and civilian sunset data from which I can plot the percentage of sun exposure increase between two locations?
+
+My use case: I simply want to answer "How much percentage more sun am I getting where I am currently living versus where I have lived?" And I want this to be a real world exercise in using data so I may become more familiar with processing data. I did this many years ago; but, forget a lot of what I knew. This would be an awesome real-world example to get me back in the game.
+
+Thanks all!

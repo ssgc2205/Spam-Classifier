@@ -1,0 +1,3 @@
+I am trying to download the YCB Video dataset from the [PoseCNN project page](https://rse-lab.cs.washington.edu/projects/posecnn/), but get the  "Too many users have viewed or downloaded this file recently." message because the dataset is hosted on a Google drive. 
+
+Is there anywhere else I can download it from?

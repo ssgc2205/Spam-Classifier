@@ -1,0 +1,11 @@
+DISCLOSURE: I made this python package
+
+&amp;#x200B;
+
+This python package is essentially an API to a database populated by data that I scraped from the SEC website(os: [https://www.sec.gov/data/foiadocsfailsdatahtm](https://www.sec.gov/data/foiadocsfailsdatahtm)). This is my first time building a python package, database, and using the GCP so if things are not ideal please let me know as I am new to this. I am working on an analysis and it ended up being more efficient to build out an api for myself so I thought i'd make a project out of it and put it towards public use!
+
+Here is the github and the docs: [https://github.com/jc22dora/ftdpack](https://github.com/jc22dora/ftdpack)
+
+EDIT:
+
+Rewording

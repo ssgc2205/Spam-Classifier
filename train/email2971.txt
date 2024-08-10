@@ -1,0 +1,3 @@
+Does anyone know any good datasets for activity detection and recognition. We are working on a project where we want to reduce the size of videos a cctv capture. We want to do this by only recording footage of anomalous events like fighting, stealing, accidents etc.
+
+I've found the activity net dataset but this does not contain anomalous events. Can you please share any datasets for activity detection and recognition which contains anomalous events. Thanks!

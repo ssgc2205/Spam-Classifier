@@ -1,0 +1,15 @@
+I was looking to do some LEGO sorting using object detection (my friend is building the actual sorter, I'm writing the software)
+
+I looked around for labeled datasets, but couldn't find any good ones. The ones I did find were fairly limited (basic parts, not enough variation, black background, no bounding boxes, etc.) [example](https://www.kaggle.com/marwin1665/synthetic-lego-images-images22)
+
+So I scripted Blender to generate a synthetic dataset for 600 unique lego parts with multiple parts per image resulting in **900,000 labeled class instances!**
+
+**Download it here:** [**https://www.kaggle.com/dreamfactor/biggest-lego-dataset-600-parts**](https://www.kaggle.com/dreamfactor/biggest-lego-dataset-600-parts)
+
+What's cool about this dataset:
+
+* It's the largest publicly available LEGO dataset for object detection
+* Uses SoTA domain randomization techniques to bridge the sim-to-real gap
+* Cheap to generate more data with [DreamFactor](https://dreamfactor.newnoetic.com)
+
+I'd love to know if people find this useful or interesting, I can also release the trained PyTorch model as well 😇

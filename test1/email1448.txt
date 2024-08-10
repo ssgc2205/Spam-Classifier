@@ -1,0 +1,3 @@
+Hi everyone,
+
+I'm working on a Data Analytics project for school and I'm trying to dig up lottery ticket sales datasets for the United States. Powerball would be preferred but any lottery ticket sales info would help. So far I've only found [this](http://www.naspl.org/index.cfm?fuseaction=content&amp;menuid=17&amp;pageid=1025) but I need more info. Thank you!

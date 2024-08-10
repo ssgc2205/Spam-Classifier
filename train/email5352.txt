@@ -1,0 +1,3 @@
+Is there a dataset/resource that measures humans decisions on what words in the text are most important for a machine learning task? I'm interested in textual entailment, but any task would be useful!
+
+The use-case here is building a better saliency map. There are a lot of methods out there (attention maps, simple gradients, smoothgrad, integrated gradients, etc...) and all of the papers show examples of a given map. However, none of them that I found have a dataset of human responses as a "gold-standard".

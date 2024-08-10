@@ -1,0 +1,7 @@
+I am teaching myself R and wanted to calculate and plot some ratios (ROA or ROE etc) for some well known stocks over the last 10 years and then do some forecasting.
+
+Basically, is there an easier way to get this data apart from manually visiting the companies site's and downloading their historic annual reports (pdf) and copy/paste the figures I would like into a spreadsheet.
+
+I have had a look at yahoo finance which does provide financial statements, but I cannot work out how to access historical statements.
+
+I think what I am looking for is an API? Is this sort of data available freely? Any of you out there do this sort of thing regularly? I would really appreciate your input!

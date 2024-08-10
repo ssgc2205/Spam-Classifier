@@ -1,0 +1,5 @@
+As title says,  I'm looking for datasets of CG, video data (could be saved as frames), preferably from video games. I need real life actions (driving, flying etc.), rather then just models (I found some kitchens and stuff but I'm looking to detect from similar to real life situations).
+
+This is for a university project, so no commercial use will be done.
+
+Appreciate your help.

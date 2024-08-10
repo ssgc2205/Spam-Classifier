@@ -1,0 +1,1 @@
+Can anyone point me in the right direction for a dataset with NBA games, their outcomes, and the spread set for that game? Hopefully be using for a ML project for an undergraduate class.

@@ -1,0 +1,5 @@
+Hi, I'm looking for a Dutch text corpus, preferably with coherent paragraphs (not shuffled sentences). I could download/parse wikipedia but I have a hard time believing there isn't something out there already.
+
+I did some googling of course but couldn't find anything readily available.
+
+What I'm \*really\* looking for is a dataset of Dutch texts on rhyme, but at this point I'd be happy with any Dutch really.

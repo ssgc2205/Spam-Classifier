@@ -1,0 +1,1 @@
+I have two similar dataframes for two different years. They have same columns. I want to combine that so that I have one big dataframe. How to do that in Python? Is it merge, concat or join? What type? Thanks

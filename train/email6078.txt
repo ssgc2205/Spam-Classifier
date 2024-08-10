@@ -1,0 +1,5 @@
+Of possible interest.
+
+Scraping a public website without the approval of the website's owner isn't a violation of the Computer Fraud and Abuse Act, an appeals court ruled on Monday. The ruling comes in a legal battle that pits Microsoft-owned LinkedIn against a small data-analytics company called hiQ Labs.
+
+[https://arstechnica.com/tech-policy/2019/09/web-scraping-doesnt-violate-anti-hacking-law-appeals-court-rules/](https://arstechnica.com/tech-policy/2019/09/web-scraping-doesnt-violate-anti-hacking-law-appeals-court-rules/)

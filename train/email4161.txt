@@ -1,0 +1,6 @@
+I am trying to decide if it is worthwhile collecting a dataset? I am a developer who can (legally) collect users sites visited, amount of time on site, sex, age, location ( &amp; timezone), and sites categorized into approx. 80 different categories (such as automotive, online shopping, porn, etc). I estimate it would be between 5,000 - 20,000  unique users at peak per month. (It could grow, but it would cost me more money).  
+
+
+I myself am not a data scientist, so I personally have no use for the data (although my application does for non-commercial use, hence it is collected but not necessarily stored). However, running servers for API calls, database storage and the management of it takes time and money. Ideally I would love to be able to find a buyer for the anonymous data to continue to pay for the service I offer (which is free).
+
+Is it really worth saving users browsing data these days?

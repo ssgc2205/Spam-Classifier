@@ -1,0 +1,1 @@
+I'm looking for a multi-class image dataset comprising of pictures of animal footprints. I've been unable to find one, and ended up making my own dataset. However, I was unable to properly validate my data. So, I'm looking for a dataset that has already been validated.

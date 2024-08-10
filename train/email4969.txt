@@ -1,0 +1,2 @@
+Hello! I’m doing a project which takes symptoms and makes predictions as to what the disease could be. 
+Thank you in advance!

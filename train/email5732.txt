@@ -1,0 +1,9 @@
+ 
+
+We made this dataset  coming from the information collected from a Home Medical Services Company.  The Challenge related to this dataset:  
+
+# Impact of the Environment on "Sensitive" people" and the Prediction of the level of sanitary actions in geographical areas based  environment data and its effect on "Fragile" people. 
+
+If you have any questions feel free to ask.
+
+&amp;#x200B;

@@ -1,0 +1,9 @@
+**Documentation:**  https://github.com/pushshift/api
+
+There has been a lot of requests for documentation for the Pushshift.io API.  I've spent some time on this and have created a living document that is under active development.  I am also open-sourcing the entire API and putting the code up on Github.
+
+Please feel free to make suggestions for the documentation or to create pull requests to help make the API better.  
+
+If you have any questions about the API, please post them in here. 
+
+Thanks!

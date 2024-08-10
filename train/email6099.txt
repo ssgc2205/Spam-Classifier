@@ -1,0 +1,6 @@
+Hello friends, I'm trying to do seatbelt recognition in drivers (using or not using), I tried to do some filming but my go pro setup didn't work well in the end. I know the task is very specific but I think a more general dataset of cars/road/traffic could help me, the only restriction is the image need to be FRONTAL and the height can be high or low, doesn't matter, if i can see the driver inside... like this one below (frame from my video, low quality sadly).
+
+  
+[EXAMPLE](https://imgur.com/a/dPtWU9h)
+
+I tried looking into CVonline compendium and Yet Another Computer Vision Index, but didn't find something that may seem useful, trying to post here before scrapping youtube for videos of toll, ticket booth from parking.

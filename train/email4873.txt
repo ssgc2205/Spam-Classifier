@@ -1,0 +1,1 @@
+I'm looking to find if there are repositories of research papers that come with either the data or programs they used. Basically a repository of research papers that are reproducible or at least claim to be. If I've thought of the idea I assume someone else already has as well and it exists. I just don't know where to find it. Thanks for the help.

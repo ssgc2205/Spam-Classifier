@@ -1,0 +1,1 @@
+I am looking for an unstructured data set (like a text file) that contains personal information like emails, phone numbers, addresses so that I can transform it into structured data. Any links? 

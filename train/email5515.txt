@@ -1,0 +1,7 @@
+Hi guys, 
+
+I'm trying to build a toy project about consumption of vehicles and searching for a small dataset having car weight, to be integrated with the data I already scraped (consumption data for different vehicles).
+
+It does not need to be 100% accurate (the range indicated in Wikipedia would be enough).
+
+Do you happen to know where to find it?

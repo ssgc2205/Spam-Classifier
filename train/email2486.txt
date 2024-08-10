@@ -1,0 +1,8 @@
+Hello,
+
+I'm looking for MRI data of patients with dementia/Alzheimer. I've found quite good dataset of mri images of patients with dementia, but of course I would like to have more.
+
+Dataset:
+http://www.oasis-brains.org/app/template/Index.vm
+
+Thanks!

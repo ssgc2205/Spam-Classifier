@@ -1,0 +1,5 @@
+I am conducting research on the link between the ongoing COVID-19 pandemic and changes in air quality attributable to changed air travel patterns in this period. 
+
+I have not had much luck finding suitable data. I can find data on quantities of air travel, (e.g. how many flights in a given time period in a certain area), but most information i've found that deals with emissions in a timespan from air travel have been estimates based on the quantity of air travel, and are not in the form of a dataset. 
+
+My focus is on Australia but would benefit from any data that is relevant to this problem, regardless of location.

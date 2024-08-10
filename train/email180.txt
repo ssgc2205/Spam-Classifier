@@ -1,0 +1,7 @@
+Hello, I'm a new comer to science at all, and I intend to build a recommend system to recommend news to users.
+
+To do this, I need a dataset about users interest for news, or users likes, dislikes, shares or even comments about news on social networks such as Facebook, Twitter, g+, whatever.
+
+I already did some search for datasets, but find nothing great so far. Does someone have a idea ? another place to look for it ? another idea to build my own dataset ?
+
+thanks very much for any help! 

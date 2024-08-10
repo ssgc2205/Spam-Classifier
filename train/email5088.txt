@@ -1,0 +1,6 @@
+
+I am in a data analytics class and have been given a project to make up a business, use a data set to demonstrate the crisp-dm process. The problem is my teacher is not a good teacher and hasn’t given us any recourses. Every data set I have found doesn’t transfer into rapid miner in a way that I can manipulate it and I feel very lost. 
+I hope it’s okay to post this here. I am basically looking for any data set that I can work on in rapid miner that is simple enough (this is my first time using the program), and I’m going to make up a business depending on what data set I have. 
+Any help is very appreciated
+
+Please let me know if there is more information you need that would be helpful, like I said I’m very very new to this

@@ -1,0 +1,3 @@
+I'm trying to build a model that checks forms for exercises and maybe also counts reps by using key points. I believe this is a popular topic but I couldn't find any datasets for this whatsoever. I'm looking for datasets consisting of images (or videos) of pretty much any exercise, in preferably its flexed as well as relaxed state (for e.g: state of being up and down in push ups) grouped separately. That said, I realise beggars can't be choosers.
+
+Thank you!

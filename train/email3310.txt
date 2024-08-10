@@ -1,0 +1,1 @@
+I think I looked everywhere and the closest dataset I am looking for is [https://www.kaggle.com/cdc/mortality](https://www.kaggle.com/cdc/mortality) this dataset, but they don't have a state or city,  the place of death is home/care home/hospital etc..   I can not find anything detailed with the cause of death and place of death.  I wanted to extract certain conditions from it.

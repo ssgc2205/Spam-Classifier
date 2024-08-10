@@ -1,0 +1,1 @@
+Hello , I am looking for dataset for vibiration readings of servo motors detailed its health (failure or not ) to use in a predictive maintenance model and I would appreciate any help regarding this matter, thank you in advance .

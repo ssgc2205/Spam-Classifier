@@ -1,0 +1,3 @@
+In case there's any other data enthusiast trying to find good data sets for India please try www.censusindia.gov.in
+
+And not data.gov.in

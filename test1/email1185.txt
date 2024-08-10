@@ -1,0 +1,1 @@
+I am trying to locate a dataset with a collection of known advertising tracker scripts for a neural network that adapts to new trackers and blocks them automatically, anyone have any ideas or resources I could use to either locate or assemble one?

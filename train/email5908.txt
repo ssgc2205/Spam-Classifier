@@ -1,0 +1,3 @@
+I am working with publicly available birth certificate data through the CDC [Wonder](https://wonder.cdc.gov) query tool. 
+
+If anyone else has worked with this dataset I would love to compare notes. 

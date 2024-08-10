@@ -1,0 +1,5 @@
+For example:
+
+“The company is closing today.”
+
+“\n\n READ ALSO — The company is closing today... \n CLICK TO READ MORE. “

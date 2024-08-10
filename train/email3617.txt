@@ -1,0 +1,5 @@
+I am interested in comparing social media datasets across countries/language, and was wondering if anyone had ideas about getting a dataset for Baidu Tieba similar to [pushshift's](https://pushshift.io/) reddit dataset? Preferably with the ability to filter based on forums and descriptions of forums. 
+
+&amp;#x200B;
+
+Thank you!

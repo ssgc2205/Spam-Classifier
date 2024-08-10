@@ -1,0 +1,8 @@
+I’m looking for a dataset that shows gas prices for major gas stations over the years. 
+I am doing a final project and want to create something similar to gas buddy using python. 
+
+Can’t find anything. 
+
+Any help is appreciated 
+
+Thanks!

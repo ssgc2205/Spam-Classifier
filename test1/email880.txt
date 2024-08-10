@@ -1,0 +1,3 @@
+I am looking for a weather dataset of the Eastern European countries. Thought this will be a cakewalk since I only need temperature, humidity, and pressure. But it seems to be quite hard to find any quality data about weather in this region. All popular datasets either include 5-15 major cities (I need more than that) or datasets are not updated regularly (I need at least once a week update).
+
+Has someone ever run into weather datasets of Ukraine/Russia/Romania/Moldova, etc.? Doesn\`t matter if they are free or not, all I need is quality

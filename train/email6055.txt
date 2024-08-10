@@ -1,0 +1,7 @@
+Hi,
+
+Not sure if this is the correct place to ask this question - but need help for a college project, the quality of which would be enhanced by this information.
+
+I need to be able to view traffic data (location of origin) for the last 6 months on different 'aggregator' websites. Open to using paid tools, but I'd need information broken into states-districts-towns for India.
+
+Is this possible? I'd really appreciate help.

@@ -1,0 +1,6 @@
+Hi guys I’m going to generate a large amount of synthetic data with a 3d modeling software. I want to generate hand gestures and I need to make it automated with codes.    
+
+
+[sample](https://preview.redd.it/8m3jbp6phto61.jpg?width=620&amp;format=pjpg&amp;auto=webp&amp;s=7e25ad57b646d41983bab1a8513cd62b7958f6f3)
+
+what software do you suggest for?

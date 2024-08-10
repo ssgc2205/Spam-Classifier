@@ -1,0 +1,1 @@
+(i apologize for my english)In this class project we should basically find a dataset that has numerous tables, clean it and organise it using R and python, identify the relationship between those tables using SQL then make a statistical analysis using R, and i couldn't find any datasets with numeric values and multiple tables that could work for my situation.

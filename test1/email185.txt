@@ -1,0 +1,7 @@
+I am attempting to graph Various astronomers contribution to the field vs how famous they are. We are talking about several 1000s of people. 
+
+Using https://ui.adsabs.harvard.edu/ and their API(https://github.com/adsabs/adsabs-dev-api) I am able to measure contribution. 
+
+I still need to measure fame. After looking around a bit, the usual way seems to use the count of google results. However, I am not able to get that data from Google. Google sheets cannot use importXML on google search anymore and google's search api is limited 100 searches a day. 
+
+Any ideas about how to get my needed data?

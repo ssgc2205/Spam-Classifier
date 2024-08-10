@@ -1,0 +1,5 @@
+I'm looking for a labelled dataset of facial images and associated country of origin. I'd like to build a classifier to try and predict nationality based on face.
+
+Is there such a dataset out there?
+
+Thanks 

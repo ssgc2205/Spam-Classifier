@@ -1,0 +1,3 @@
+I initially wanted to create a map that shows all of the metro/micro areas served non-stop from Charlotte Douglas. Then I realized some airports may fly directly to Charlotte Douglas but CLT does not fly there non-stop in return. It may only be a handful but I'd like to show those as well.
+
+Ideally I need is a spreadsheet with every airport code showing the airport code of every airport it flies to. If that exists.

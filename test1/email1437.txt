@@ -1,0 +1,7 @@
+Hi,
+
+I currently work on map structure prediction so given a partial observation of the map i search to predict the structure of some region a didn't observe yet. To do so i need a dataset of map/floorplan/structured maze in order to build my dataset but all the floorplan/maze i found are not structured \(generated randomly which is useless for my research\) or their are available only in pdf which is not the best format for extracting coordinates of walls.
+
+Ideally, i would like to find structured maps that could be represented as a matrix of 0s and 1s \(empty = 0, wall = 1\) but its very important for those map to be structured, to describe a structured scene that we could see in the real world
+
+Thanks you !

@@ -1,0 +1,11 @@
+Hello! I need a dataset for a project for uni that I thought was going to be really easy to find, but it turned out otherwise.
+
+I'm looking for an average annual country temperatures (in csv preferably) per year (since 2005 and up to 2019, if possible).
+
+I've looked through quite a few websites already but couldn't find anything useful.
+
+Ideally column names would be the year (2005, 2006,...) and rows the country name.
+
+Any help would be super appreciated!
+
+Thank you!! &lt;3

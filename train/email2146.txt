@@ -1,0 +1,5 @@
+I have been thinking about the idea of having a tool or application to generate trendy sounds for TikTok using AI. I couldn't find any suitable dataset online. 
+
+Can anyone recommend a suitable dataset of TikTok sounds or any soundtracks datasets?
+
+If there is none and you would like to create one, how will you go about that?

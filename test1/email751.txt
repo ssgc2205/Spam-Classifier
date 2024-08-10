@@ -1,0 +1,3 @@
+so, i'm trying to build a dataset on the Foreign Direct Investment losses by country as a result of the Arab Spring and more generally any political violence &amp; conflict. I've looked at collecting data from Political Risk Insurance institutions (private, national &amp; multilateral) but at best they provide a total for the year but not broken down by country.
+
+Does anyone have any suggestions for how to go about collecting this data?

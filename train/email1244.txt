@@ -1,0 +1,1 @@
+I want to use CV to read the spine of a book. I was wondering what datasets are available for this?

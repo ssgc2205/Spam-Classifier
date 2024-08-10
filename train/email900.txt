@@ -1,0 +1,1 @@
+A simple example I can think is exporting my email inbox to view inbox frequencies, or at what times I sent emails since opening this account.

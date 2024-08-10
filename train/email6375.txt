@@ -1,0 +1,3 @@
+I have been looking for a dataset with percent religious affiliation by zip code, but have so far been unsuccessful. Would anyone know where to find this data? Even a rough estimation should work fine. 
+
+I have searched the census website, but it doesn't appear that they track religion by zip code. 

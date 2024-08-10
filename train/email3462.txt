@@ -1,0 +1,5 @@
+I'm a total beginner in ML and want to practice a bit, but I'm struggling with finding datasets for every ML algorithm I learn.
+
+I'm not in a stage where I can go and download a dataset of something that's interesting to me then decide which algorithm to use, I need to do it the other way around, decide which algorithm then find the dataset.
+
+Any advice please?

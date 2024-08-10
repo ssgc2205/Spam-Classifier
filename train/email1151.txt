@@ -1,0 +1,7 @@
+Hey guys ! 
+
+  I'm looking for a dataset of labelled microscopy images (probably *transmission electron microscopy*), with infected cells. I would like to work on a model for virus detection.
+
+&amp;#x200B;
+
+Thanks !

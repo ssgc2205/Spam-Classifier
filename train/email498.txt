@@ -1,0 +1,1 @@
+I want a dataset with posts categorized to categories like: sport, politics, economics, art etc.. If there is no such dataset i'd be glad to work on one if someone is willing help me

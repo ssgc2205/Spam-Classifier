@@ -1,0 +1,1 @@
+Hi all, looking for a open source data set for a Generalized Linear Model class. The data set needs to have a non-normal distribution (e.g., Logistic, Probit, Gamma, Poisson, Negative Binomial). Leads appreciated!

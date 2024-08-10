@@ -1,0 +1,1 @@
+Hello fellow students/ scientists, I would like to download the dataset of Stanford Marketing Basket Database. This dataset contains data about households on supermarket trips during 1991 to 1993. I see it used in many papers and was wondering if it was for download. 

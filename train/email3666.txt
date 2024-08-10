@@ -1,0 +1,1 @@
+I’m looking for an API or database where I can look up the record label of songs (popular in US in recent years) by providing the song title and artist. Any suggestions?

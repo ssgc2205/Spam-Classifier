@@ -1,0 +1,3 @@
+So I used MNIST Database to train neural network in matlab.This works good on testing data but when I create a digit in Paint and apply using the neural network,It is pretty inaccurate.
+
+Can anyone give some other databases for digit recognition?

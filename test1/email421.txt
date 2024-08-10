@@ -1,0 +1,1 @@
+I am currently working with data that has mismatching occ code classifications. I am wanting to either convert the 1980 occ codes to be compatible with 2000 BLS codes or vice versa. I know there are things such as "crosswalks" that exist, but I'm unfamiliar with these. Any advice on how to efficiently do this would be greatly appreciated.

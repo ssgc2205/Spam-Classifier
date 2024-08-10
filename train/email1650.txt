@@ -1,0 +1,1 @@
+I am attempting to train a text complexity classifier, does anyone know where I could obtain a proper (open source) dataset for this? I've checked out the NEWSELA and WeeBit corpora, but they do not seem to be available to the general public.

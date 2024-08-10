@@ -1,0 +1,3 @@
+The NY Times has a dashboard for each county on their web page that features cases, deaths, hospitalized, etc. It also lists the positivity rate for the county. However the positivity rate is not included in the [dataset they host on Github](https://github.com/nytimes/covid-19-data). 
+
+Does anyone know of a dataset with county-level test positivity data over time?

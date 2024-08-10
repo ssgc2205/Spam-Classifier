@@ -1,0 +1,1 @@
+Is there a solid dataset that exists that houses the names and social accounts (pages, handles etc.) for athletes, teams/leagues, media outlets, brands and celebs/influencers? Ideally API driven and maintained but not mandatory. Thanks in advance.

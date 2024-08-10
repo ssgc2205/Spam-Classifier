@@ -1,0 +1,25 @@
+Hello,
+
+I have acquired a large volume of anonymized transactional data during one of my projects.
+
+The data includes:
+  - transaction date
+  - MCC Code
+  - transaction type
+  - transaction amount
+  - POS
+  - city/state/country
+  - account balance
+  - account type
+  - card type (debit, credit)
+  - anonymized customer ID
+  - bank internal informations
+
+The data doesn't display any personal information on customers and is only useful for modelling purposes.
+I have also all the documentation that goes along.
+
+Does anyone have an idea on how I could monetize this data ?
+
+
+
+

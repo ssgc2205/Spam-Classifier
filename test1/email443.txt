@@ -1,0 +1,5 @@
+The ICIJ has recently published a report about a number of suspicious transactions flagged by the US financial crimes enforcement agency FinCEN as Suspicious Activity Reports. 
+
+The data ([explanatory link](https://www.icij.org/investigations/fincen-files/download-fincen-files-transaction-data/), [direct link to zip](https://media.icij.org/uploads/2020/09/download_data_fincen_files.zip)), consists of two csv files respectively containing details about the SARs and their transactions and a list of connections between banks.
+
+I definitely think there's some interesting analysis that can come out of analyzing these. Some that I can think of is trying to analyze trends in the nature of these transactions over time, or building some predictive model to predict the suspiciousness of a transaction. I'm definitely still a novice at this so I'd be really interested in hearing new ideas.

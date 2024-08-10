@@ -1,0 +1,5 @@
+Looking for a dataset of publicly traded companies, and their employee counts. Employee counts could be estimated, and we are specifically looking for companies with less than 500 employees.
+
+The dataset is going to be used to calculate the benefit each company is going to receive from the CARES Act, if you’re catchin my drift.
+
+Thank you!

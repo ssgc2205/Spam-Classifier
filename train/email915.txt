@@ -1,0 +1,9 @@
+Hi Everyone, I'm having trouble finding consistent data for MLB Salaries.
+
+&amp;#x200B;
+
+My goal is to do a project starting in excel where I can find the most and least lucrative deals for starting pitchers- I've had no trouble finding performance data (Fangraphs) or current contract data (Spotrac) or even 2012-present contract signing data (Cot), but finding data that has year by year salary data is extremely difficult. Does anyone know of a place where I can find such data?
+
+&amp;#x200B;
+
+Thanks!

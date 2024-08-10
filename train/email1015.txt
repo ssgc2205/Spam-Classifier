@@ -1,0 +1,7 @@
+Hello everyone.  I am trying to make a choropleth map and the only blank map that I can find has the US down to county level, but not down to zip code level.  My data only has street address, city, state, and zip code.  
+  
+So I need a table or database that maps zip code to the state county.  I understand that a zip code can fall into more than one county, which is ok, I will just remove duplicates.  
+  
+I found a few sites that provide this type of info, but seems like they want to charge for it or is in a format that I can't just download the entire zip-county data at once.  
+  
+Thanks in advance!

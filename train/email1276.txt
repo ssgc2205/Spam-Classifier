@@ -1,0 +1,9 @@
+Hello everyone,
+I'm trying to obtain subreddit growth data as part of a research, I'm working on cryptocurrencies and I thought it would be interesting to see how the price change when lots of people get into a specific currency. 
+
+redditmetrics.com has the data I need, but I'm looking for an automated way of downloading it. 
+I tried few python libraries, but it seems they're more oriented on downloading reddit itself rather than the statistics. 
+
+Do anyone know what should I try doing? 
+
+Thanks a lot

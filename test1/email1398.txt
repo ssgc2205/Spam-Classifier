@@ -1,0 +1,2 @@
+I am currently doing my Master's thesis on Automatic identification of firearms(pistol) from cctv footage using image processing and neural nets. Can anyone help me find image datasets of handguns, more specifically of a person holding a handgun? 
+Thank you 

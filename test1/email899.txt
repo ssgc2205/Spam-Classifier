@@ -1,0 +1,3 @@
+I'm working on a tool that will attempt to provide an estimated story point score based on commit history, the quality and completeness of the code committed, etc.
+
+So basically I need project history and commit history tied together. Having a hard time finding this.

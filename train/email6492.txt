@@ -1,0 +1,1 @@
+In a searchable, queryable dataset that isn't hidden behind some archaic GIS app from the 1990s. I've tried looking at county websites, and most of them seem to have horribly incomplete data hidden behind awful GIS, but websites like Zillow, Trulia, Redfin etc seem to have the data for every single house so clearly it exists somewhere.

@@ -1,0 +1,8 @@
+Hi All,
+I don't have much experience writing crawlers, and I'm not sure what the best to get information about reddit posts is... could someone guide me in the right direction?
+
+**Question I'm trying to answer:** Something seems a bit off about a particular reddit post I saw today:
+
+https://www.reddit.com/r/videos/comments/79i4cj/youtube_user_demonstrating_how_facebook_listens/
+
+I'm interested in doing some clustering analysis on early posters to that thread and see if there is in pattern among the users who helped get the snowball rolling...

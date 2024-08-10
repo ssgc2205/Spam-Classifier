@@ -1,0 +1,3 @@
+Hello! I'm sharing the full tweets database (61M records, 13G csv file) I collected during US presidential elections in 2016 for my website whoispresident.com. Feel free to play with it, maybe compare with current tweets :) Hope this will be useful to someone.
+
+https://data.world/alexfilatov/2016-usa-presidential-election-tweets

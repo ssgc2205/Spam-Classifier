@@ -1,0 +1,3 @@
+Note: I am **not** looking for football statistics datasets.
+
+I'm looking for a dataset of images from games of American football - either NFL or CFB (or mixed) is fine. Basically the shots from televised broadcast games, but as still images. I'm willing to go through videos to extract what I need, but I'd like to know if I can avoid it.

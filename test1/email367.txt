@@ -1,0 +1,5 @@
+Hi all,
+
+I am new to this sub, but have a request that I am hoping someone can help me answer. I am currently working with a food pantry to help them track their food inventory, and am looking for a multi-level categorization that can be used to map some existing data into categories. 
+
+For example, Level 1 could be "Meat", with Level 2 being "Beef" or "Chicken" and Level 3 being "Ground Beef", "Roast Beef", "Deli Meat Beef". I am fairly confident that a classification of this sort must be common and readily available, so I am hesitant to recreate it from scratch. Does anyone have any suggestions for where to look for this information?

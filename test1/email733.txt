@@ -1,0 +1,23 @@
+I downloaded monthly data from the Refinitiv Eikon Datastream, dating from the 01.01.2002 to the 01.12.2021. 
+
+For the variable "price" I obtain 239 observations.   
+However, I am interested in the  "opening price". For which I obtain only 212 observations. 
+
+The 27 singeltons missing are allocated on the 1st or the 9th month of a year.  
+01.01 missing values: every year 2002-2021, except 2005 and 2011.   
+01.09 missing values: 2002, 2003, 2007, 2008, 2012, 2013, 2014, 2018, 2019 
+
+I guess that the 01.01 has no opening price as the stock market has holidays for the New Year's Day.   
+Moreover, I guess that the 01.09 has no opening prices in some years because it is labor day in america? Could that be possible?   
+
+
+Despite the reason for the missing data. I need the data. Other providers, like yahoo finance, have opening prices for each single month in the same time period. 
+
+Unfortunately, I need to use the Refinitiv Eikon Datastream, as I rely on further variables like ESG Ratings which I can only access there.   
+
+
+Does someone has an idea how to download opening prices for each month using Refinitiv Eikon Datastream ? Is there maybe an option to take the next days opening price in case there is no data for the 1st of the month? 
+
+Thank you for reading!  
+Best for you,  
+Sebastian

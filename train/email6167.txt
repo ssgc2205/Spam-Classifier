@@ -1,0 +1,3 @@
+Hi, I'm planning to make a **chatbot** (about **mathematics subject Q &amp; A** ). It helps the students to get a correct decision about mathematics subject
+
+*I'm in search of a dataset that helps my bot for learning.*

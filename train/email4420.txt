@@ -1,0 +1,3 @@
+hello all,
+
+im making a model measuring net exports. what do you think would be some good variables, dummys, interactions, etc. to include in my mode. Thanks

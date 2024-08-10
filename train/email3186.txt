@@ -1,0 +1,5 @@
+This dataset contains 10 files with around 271,342 tweets (as of last count) 
+
+Using Natural language processing, we have classified the tweets on industry and for HSN HISCO codes. Depending on the user's location, their provincial information is also added.  
+
+[https://www.kaggle.com/skylord/dutch-tweets](https://www.kaggle.com/skylord/dutch-tweets)

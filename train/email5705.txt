@@ -1,0 +1,7 @@
+Hello all,
+
+I am working on a Machine Learning University Project.I am aiming to distinguish troll tweets from genuine tweets.
+
+I have the following database : [https://www.kaggle.com/fivethirtyeight/russian-troll-tweets](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets), which contains 3 million troll tweets from known troll accounts.
+
+In order for this to work, I would also need genuine tweets relating to the same topics (i.e - Trump, Clinton, America, Politics etc.)Does anyone know where I could find that?

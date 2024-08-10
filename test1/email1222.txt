@@ -1,0 +1,1 @@
+Hi all, I'm looking for a nazi symbol dataset or even a hate symbol dataset to train an object detection model on. Searching the internet, there seems to be plenty of hate speech datasets but no hate images. Anyone know of any such datasets or can point in the right direction of obtaining one?

@@ -1,0 +1,7 @@
+Hey,
+
+I am searching for a CNC milling machine dataset for a project "tool wear rate prediction using deep learning" at university. Can someone please suggest me any source to such datasets?
+P.S.: The datasets for CNC milling machine on Kaggle are not relevant to my project, please don't suggest me that dataset.
+
+Thanks,
+jW

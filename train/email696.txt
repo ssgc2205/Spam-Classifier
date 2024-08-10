@@ -1,0 +1,10 @@
+Hello frens,  
+
+
+I crawled all user reviews of Valorant available on metacritic at the moment (11 pages)  
+It has the score, review text, review votes and a couple other columns;  
+[https://www.kaggle.com/andrewmvd/valorant-metacritic-reviews](https://www.kaggle.com/andrewmvd/valorant-metacritic-reviews)   
+
+
+Enjoy the data  
+Cheers

@@ -1,0 +1,3 @@
+Hi everyone, I've just downloaded my Netflix's dataset, and trying to find a datadet that cointains movies and shows duration (per episode).
+
+Thanks in advance.

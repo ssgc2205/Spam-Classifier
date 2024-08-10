@@ -1,0 +1,3 @@
+http://www.bls.gov/data/inflation_calculator.htm
+
+Pretty much a way to have the data from this calculator in table form without writing it all out.

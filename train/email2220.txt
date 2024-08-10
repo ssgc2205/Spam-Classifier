@@ -1,0 +1,8 @@
+I'm having a particularly tough time finding an open dataset for movies that has the plot/synopsis/summary for a film and the primary genre to which it belongs (I used to work at Blockbuster back in the early-90s, would the rule was every film could only be categorized to a single genre, and the MPAA rating for the film (G, PG, PG-13, R, NC-17). I'm attempting to do a machine learning project whereby a film's description (which is carefully-crafted marketing fluff) and genre can be used to predict its rating.
+
+It's a proof-of-concept thing at the moment, but I can't seem to find a dataset that has all three of these features at the same time. 
+
+Thanks for the help! :)
+
+*UPDATE:*
+I found a really cool collection of datasets at https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records :)

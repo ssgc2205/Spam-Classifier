@@ -1,0 +1,1 @@
+Hi, all.  I am looking for a data set made up of university policies. I would like to do a time-series analysis to see how university policy changes over time (so preferably I would have older as well as newer university policies). I would be so grateful for your help finding this data set, as this data has thus far been difficult to find. Thank you!

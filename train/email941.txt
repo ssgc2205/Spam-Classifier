@@ -1,0 +1,9 @@
+Hi all,
+
+We create datasets by taking pictures of specific objects. eg, footwear, home appliances and personal devices, shelves in grocery stores, waste on the streets etc.
+
+Orders come unevenly and sometimes our resources are overloaded, but sometimes it’s idle and we want to use this time to collect the most requested data. What data is most relevant for you?
+
+Also I’d like to ask your opinion about our service in general. We collect and label datasets. The collection and annotation processes are managed, to ensure that you will receive images in the required quantity and quality. We grant perpetual licenses for commercial or non-commercial purposes. What flaws do you see in our project? What should we change, remove or improve?
+
+We are here: [tagias.com](https://tagias.com/). Any feedback would be greatly appreciated!

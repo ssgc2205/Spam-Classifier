@@ -1,0 +1,1 @@
+Hello, Im working on a project and I need to filter tweets that talk about football (in connotations as well). Is there any dataset/vocabulary that could help me do it?

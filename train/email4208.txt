@@ -1,0 +1,3 @@
+I can't find the breast cancer microarray data used in  West et al. (2001) [https://www.pnas.org/content/98/20/11462.short](https://www.pnas.org/content/98/20/11462.short) 
+
+Any idea where I might find it?

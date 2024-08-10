@@ -1,0 +1,1 @@
+Hi, folks. I'm a teaching assistant for a database course and also helping to organize a bootcamp to help students learn SQL / NoSQL concepts. I'm looking for large datasets (enough that, given different queries, performance would be noticeable) that I would be able to download/host on a server at my campus for students to practice against. Preferably free! Thanks!

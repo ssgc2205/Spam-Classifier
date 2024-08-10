@@ -1,0 +1,6 @@
+Hi guys, I am looking for a dataset for my data processing project. This is my first course on data analysis ever and as I am new to the field it takes some time to get used to everything. I searched many sites but havent been able to find a set that has things I need. Here are some of the specifications the set has to have:
+
+1. It has to have some missing values and be at least a bit messy so I can show how to improve on this
+2. It has to be able to predict something so I can plot graphs and do a simple analysis (which means most of the data should be numerical)
+
+I am very greatful for any kind of input. Thank you

@@ -1,0 +1,1 @@
+Hi, I'm trying to build a citation network analysis over different research fields, especially within the social sciences. I have tried using the Scopus API, crossref and so on, but it takes a while scraping such huge areas. Do anybody know of a place where I can get it already? Would really appreciate it!

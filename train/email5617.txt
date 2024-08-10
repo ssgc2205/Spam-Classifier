@@ -1,0 +1,1 @@
+Looking to conduct a research on minority owned banks amd their effects on surrounding areas and their people. Need data on the county level to do a DiD regression.

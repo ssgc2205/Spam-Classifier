@@ -1,0 +1,7 @@
+Scraped the [fifa.com](https://fifa.com) statistics page for each game into CSV.  
+
+[https://gitlab.com/djh\_or/2018-world-cup-stats/blob/master/world\_cup\_2018\_stats.csv](https://gitlab.com/djh_or/2018-world-cup-stats/blob/master/world_cup_2018_stats.csv)  
+
+Columns are: \`Game,Group,Team,Opponent,Home/Away,Score,WDL,Pens?,Goals For,Goals Against,Pen Shootout For,Pen Shootout Against,Attempts,On-Target,Off-Target,Blocked,Woodwork,Corners,Offsides,Ball possession %,Pass Accuracy %,Passes,Passes Completed,Distance Covered km,Balls recovered,Tackles,Blocks,Clearances,Yellow cards,Red Cards,Second Yellow Card leading to Red Card,Fouls Committed\`  
+
+There's a little ruby scraper in that repo along with the source pages, but the above CSV is what is created.

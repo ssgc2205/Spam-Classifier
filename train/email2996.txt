@@ -1,0 +1,3 @@
+I'm interested improving my wife's estimated term. Anyone know of a dataset with pregnancy duration, number of children, age of mother, other general demographics. 
+
+She's in he 30s with twins so it should be shorter than normal (37 weeks on average) but I would like to forecast this for myself. 

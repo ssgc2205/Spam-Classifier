@@ -1,0 +1,6 @@
+Hello everyone,  
+I'm looking for publicly available datasets on industrial steam systems (basically the configuration, steam pressures, flowrates, temperatures together with their fuel and flue gas characteristics).
+
+I've tried searching on Kaggle, OpenEI and US Deparment of Energy websites (among numerous others) without success.
+
+Would anyone here know where a dataset of this type could be found please?

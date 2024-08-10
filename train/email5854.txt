@@ -1,0 +1,23 @@
+Hi. I'm trying to help a friend with her recent makeup store. I was looking for datasets on the makeup market in Brazil, but I was not very successful. Does anyone know any?
+
+I think the most important thing is
+
+&amp;#x200B;
+
+\- Product's name
+
+\- Product type
+
+\- Retail price
+
+\- Wholesale price
+
+\- Region
+
+&amp;#x200B;
+
+But what they have can help me a lot
+
+&amp;#x200B;
+
+Thank you very much for your attention

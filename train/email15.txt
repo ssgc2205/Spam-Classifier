@@ -1,0 +1,7 @@
+Hello all, I'm working on creating distributed computing materials for highschool level students which can be done on raspis.  
+
+
+I'm looking for datasets thats are 100GB + in size, probably no bigger than 2TB.  Also examples of analysis which could be done on them which would be interesting and understandable to those students.  
+
+
+My first effort is import the rapid7 sonar datasets of DNS queries (\~Billion row database).

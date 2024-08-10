@@ -1,0 +1,1 @@
+How am I able to access Twitter data that doesn't pertain to my account? Are there open ways for data analysts to look at trending topics / hashtags over time (time series data)

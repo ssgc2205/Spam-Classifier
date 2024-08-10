@@ -1,0 +1,3 @@
+What would you find interesting to compare with data on homicide and/or suicide as cause of death? I want to use some eurostat data to create visualisations for a study project and looking for an interesting angle. I know I can find some random correlations with many statistics, but I'm not necessarily looking for those. Just something interesting to consider when talking about these causes of death.
+
+Alternatively, I'm also considering using data on passport power (how many countries a holder can enter without any visa). Again, this will unsurprisingly correlate nicely with many economic factors, but I'm trying to think of someting less obvious and got stuck.

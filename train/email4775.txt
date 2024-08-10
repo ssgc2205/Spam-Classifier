@@ -1,0 +1,1 @@
+Hi, I am searching for a labeled dataset for social engineering attack detection or phishing email detection. I would appreciate any help and thanks you in advance.

@@ -1,0 +1,2 @@
+I'm looking for downloadable data for MLS player salaries. I have found it in pdf form at https://mlsplayers.org/salary-guide/
+but was looking for it in csv or excel form

@@ -1,0 +1,1 @@
+For instance, I need xfish_1.png, xfish_2.png, and xfish_3.png to be grouped and yfish_1.png, yfish_1.png, and yfish_1.png to be grouped. How should I go about this so I don't have to sort 3,000 different images?

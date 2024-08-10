@@ -1,0 +1,5 @@
+I am trying to run reports from this data source:  [Census - Table Results](https://data.census.gov/cedsci/table?q=AB1700CSCB01%3A%20Annual%20Business%20Survey%3A%20Business%20Characteristics%20of%20Respondent%20Employer%20Firms%20by%20Sector,%20Sex,%20Ethnicity,%20Race,%20and%20Veteran%20Status%20for%20the%20U.S.,%20States,%20Metro%20Areas,%20Counties,%20and%20Places%3A%202017&amp;t=Owner%20Race%20and%20Ethnicity%3AOwner%20Sex&amp;g=0100000US) 
+
+&amp;#x200B;
+
+This is data to tell the race and sex of business owners in a certain region. My struggle is that Race and Sex columns include a lot of data results that are "total". What does this mean? Anybody have any experience with this or census data in general?

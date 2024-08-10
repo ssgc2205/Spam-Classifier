@@ -1,0 +1,7 @@
+ 
+
+New Debt dataset
+
+https://www.kaggle.com/morra1996/usgs-debt-by-state
+
+Merge all the CSVs together and you'll have everything you need by state

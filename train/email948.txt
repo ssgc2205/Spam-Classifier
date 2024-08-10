@@ -1,0 +1,3 @@
+We are working on a example NLP exercise for retail sector. We need unstructured customer/client interaction data (such as  call logs with transcriptions). It doesn't have to be retail or corporate data, government or public would be useful as well.
+The DECODA RATP Corpus would be perfect, but has a lot access and reuse rights issues
+http://lrec.elra.info/proceedings/lrec2012/pdf/684_Paper.pdf

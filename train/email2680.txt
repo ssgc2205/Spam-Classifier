@@ -1,0 +1,3 @@
+https://files.pushshift.io/reddit/comments/ is a great dataset for past years of reddit comments, but they don't have any datasets for 2020, unfortunately.
+
+Is there a similar dataset that is up to date?

@@ -1,0 +1,1 @@
+I'm looking for a database with dental radiograph images to evaluate whether an algorithm can make a diagnosis from dental radiographs. Does anyone have any suggestions of where to look?

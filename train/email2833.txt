@@ -1,0 +1,3 @@
+Apple has released its own mobility trends data from Apple Maps that can be downloaded as CSV. Updated daily
+
+ [https://www.apple.com/covid19/mobility](https://www.apple.com/covid19/mobility)

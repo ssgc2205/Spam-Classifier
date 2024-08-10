@@ -1,0 +1,1 @@
+I’m working on a case study for my portfolio for a no-degree certification program &amp; placement assistance, and found a Fitbit dataset on Kaggle, but I need a second dataset. Something that includes reproductive health and fertility would be amazing. Do you have any suggestions? I’m looking to import into R Studio. Thank you!

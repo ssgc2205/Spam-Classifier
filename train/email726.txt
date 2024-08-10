@@ -1,0 +1,1 @@
+So, i am trying to train an AlexNet just to get a better understanding but due to lack of computational resources, I cant use the ImageNet dataset. So i was wondering if there is a dataset of size similar to the Cifar-10 but with images of resolution 224x224

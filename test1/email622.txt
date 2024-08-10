@@ -1,0 +1,8 @@
+Hi guys..
+
+I'm looking for Complete Blood Count / Full Blood Count datasets for a machine learning project.  
+I was unable to find anything useful in kaggle and [data.world](https://data.world).
+
+Help me out bois and gals!
+
+Thanks!

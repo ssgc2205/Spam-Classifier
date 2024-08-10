@@ -1,0 +1,2 @@
+Free object detection with bounding boxes, suitable for training mobile models. (Speed limits, traffic lights, pedestrian crossings, stop signs). It has 877 images in it. You can try to train a model in the MakeML app in a few clicks.  
+[https://makeml.app/datasets/road-signs](https://makeml.app/datasets/road-signs)

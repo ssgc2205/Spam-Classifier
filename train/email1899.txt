@@ -1,0 +1,6 @@
+I’m looking for a CSV of:
+Title, Description, [other properties]
+
+Of all Pypi projects. Is this available somewhere?
+
+I know I could scrape it but it seems to only show the first 10K results if I recall correctly.

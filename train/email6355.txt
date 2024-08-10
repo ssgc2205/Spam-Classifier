@@ -1,0 +1,22 @@
+[https://archive.org/download/AO3\_story\_dump\_continuing](https://archive.org/download/AO3_story_dump_continuing)
+
+[https://archive.org/details/updateablefanfic](https://archive.org/details/updateablefanfic)
+
+[https://archive.org/details/FanficRepack\_Redux](https://archive.org/details/FanficRepack_Redux)
+
+[https://archive.org/details/fanfic-meta-sqlite](https://archive.org/details/fanfic-meta-sqlite)
+
+[https://archive.org/details/fictionpress\_save\_01\_nov\_26\_2018](https://archive.org/details/fictionpress_save_01_nov_26_2018)
+
+&amp;#x200B;
+
+I'm BACK! I've uploaded hundreds of gigs of fanfic from [archiveofourown.org](https://archiveofourown.org), fictionpress, and [fanfiction.net](https://fanfiction.net), along with a sqlite db of the metadata, for easy searching. Need a natural language corpus? there are probably better ones out there, but here's this one! in about a dozen different languages too!
+
+&amp;#x200B;
+
+enjoy.
+
+
+EDIT: ao3continuing and updateable are compilations of datadumps I've had sitting around a while, ao3's are identical to the previous ones, with the addition of the newer dumps in one place.
+
+I made these as one stop shops for those 2 website dumps in the future.

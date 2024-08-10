@@ -1,0 +1,9 @@
+Hi there,
+
+&amp;#x200B;
+
+I am a big fan of boxing and want to run regression modelling against amateur boxers to identify what are the key factors leading to victories. Like Moneyball story but with boxing gloves.
+
+&amp;#x200B;
+
+Does anyone have amateur fight records with punches thrown/landed, type of punch (jab, straight, uppercut), scores and the outcome of the fight? Appreciate your help!

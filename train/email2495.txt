@@ -1,0 +1,5 @@
+In case you didn't see the [introduction thread](https://www.reddit.com/r/datasets/comments/4x5v4s/introducing_the_rdatasets_sidebar_series_official/), /r/datasets is starting a sidebar series! Every week or so I'll post another mega thread on a different topic.
+
+Use this thread to post every Electionand Political Poll Data source you know of. I made this the first sidebar series thread as it's relevant to our 2016 elections, but please feel free to post data for other election, other years, and other countries.
+
+Here's to a successful sidebar series!

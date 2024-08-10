@@ -1,0 +1,2 @@
+Hey guys, I wanted to do a hypothesis test to check if 'Mangal Dosha (related to astrology)' really affects a marriage. Mandal Dosha will be a categorical variable i.e. whether a person has mangal dosha or not(yes or no) which can be obtained from date of birth.So, where can I get data to carry out this analysis.
+Thank you

@@ -1,0 +1,7 @@
+I’m looking for data sets showing rent prices over time for Major cities in the US.
+
+My goal is to generate graphs showing rent trends.
+
+Ideally it would be an API I can just query and get what I need from on demand, but if its a giant bundle I am happy to parse that out and build my own DB.
+
+Where can I find data related to this?

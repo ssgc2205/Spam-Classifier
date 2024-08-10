@@ -1,0 +1,1 @@
+I'm looking for a dataset of weld defect images to train a model on. Unfortunately, every dataset I've seen it for radiographic (x-ray) or some other non-standard image. Thank you!

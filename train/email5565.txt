@@ -1,0 +1,5 @@
+So I saw a post on /r/dataisbeautiful yesterday about tracking daily "happiness" scores over a long period of time. I'd like to do the same thing but I'd also like to track other stuff like hours spent on computer, hours spent exercising/working/reading, how often i masturbate, and points earned on Memrise (language learning). 
+
+The problem is all of those use different scales (although they're all daily). Happiness would be 1-10, hours spent doing something would be likely less than ~8, daily masturbation would be either yes or no, points earned on Memrise would be in the thousands, etc... 
+
+If I wanted to combine all of these datasets as graphs to look at correlations, how could I go about it? I'm having trouble thinking of a system. Thanks for any tips! It's appreciated. 

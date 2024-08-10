@@ -1,0 +1,1 @@
+I have a spreadsheet of the FIPS codes ( [https://www.census.gov/geographies/reference-files/2018/demo/popest/2018-fips.html](https://www.census.gov/geographies/reference-files/2018/demo/popest/2018-fips.html) ) and I have participants zipcodes and I am trying to merge this data. Does anyone have a dataset where this has already been done?

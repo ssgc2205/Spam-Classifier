@@ -1,0 +1,7 @@
+(Cross-posting from r/LanguageTechnology)
+
+[https://github.com/l74d/scholarly-trees](https://github.com/l74d/scholarly-trees)
+
+I have put up some (not so few) parse trees online as a dataset. Not something as substantial as Penn Treebank, since the trees are not human-edited, but still way more parse trees than from Penn to feed into your later-stage NLP algorithms, free of charge or hassle.
+
+The current format is straight from where they were generated. Suggestions of alternative formats based on ease of use would be heavily appreciated!

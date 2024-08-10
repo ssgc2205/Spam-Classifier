@@ -1,0 +1,1 @@
+I want to work on a fake news detection (or conspiracy theory) bot for Twitter / Facebook etc. The only data I have found so far is a few years old and I'm looking for some... can you help me

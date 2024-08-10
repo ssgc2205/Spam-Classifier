@@ -1,0 +1,9 @@
+Texas Department of Criminal Justice (TDCJ) publishes information on their current inmate population as an Excel (xlsx) file.
+
+Here is the direct download link:
+
+https://www.tdcj.texas.gov/documents/High_Value_Data_Sets.xlsx
+
+Alternatively, you can visit this link and click the "High Value Data Sets" link:
+
+https://www.tdcj.texas.gov/kss_inside.html

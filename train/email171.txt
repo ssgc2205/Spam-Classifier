@@ -1,0 +1,11 @@
+Hi everyone,
+
+I'm stuck trying to figure out a way to create a dataset of car images where the images are the features and the labels are the angles at which the images were shot.
+
+For example, if we can only see the back of the car, then the feature is the image of the back of the car and the label \`back\` (or something like that).
+
+I have searched for something like that but the closest thing I could find is the cars-196 dataset which its labels are the make,model and year of the car.
+
+Links to relevant dataset/papers/methodologies that will help me obtain/generate that dataset are more than welcome!
+
+Thanks!!!

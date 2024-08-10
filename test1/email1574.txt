@@ -1,0 +1,10 @@
+Hello! I am in search of a dataset for a statistics project. Unfortunately the prof has not been helpful on where to find datasets. What I am looking for:
+At least 200 samples
+At least 3 continuous variables
+At least 2 categorical variables
+1 dichotomous variable as an outcome variable for logistic regression (eg. sick and healthy)
+Preference for health related data sets
+
+If anyone knows where to find a dataset, or has a dataset I could use it would be appreciated :) I will be using R software to analyze the dataset which prefers excel format.
+
+Thanks in advance!

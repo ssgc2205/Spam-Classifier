@@ -1,0 +1,3 @@
+Hi all! 
+
+I’m trying to data scrape fighter data using R, but I’m completely new to all of this. Can someone help me?

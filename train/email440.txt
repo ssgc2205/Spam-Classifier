@@ -1,0 +1,7 @@
+Looking for a data set that for each article on English Wikipedia (or subset of them) would show all other Wikipedia articles linked to from it.
+
+The closest I could find is to [download everything](https://en.wikipedia.org/wiki/Wikipedia:Database_download), but that feels like an overkill that would take a lot of time to process.
+
+Basically would like to sharpen my skills in python, and also see if my hypothesis that you are always &lt;=6 steps away from an article about WWII.
+
+TIA!

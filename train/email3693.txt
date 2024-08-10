@@ -1,0 +1,5 @@
+Are there *any* datasets available for bank account transactions? Specifically looking for business account transactions. I've been scouring the web for this but without luck. (Edit: There are some promising old threads on r/datasets that I'm in the process of following up on.) I understand transactional data is sensitive, but I would've expected there to be some anonymized datasets available.
+
+Any help or advice greatly appreciated!
+
+Edit: Also, if anyone sits on large chunks of data and wants to monetize it I'd be happy to talk.

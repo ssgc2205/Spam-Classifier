@@ -1,0 +1,5 @@
+Hi there! We've just added a new dataset to Gourdian, this one courtesy of Google's Project Sunroof. This dataset essentially describes the rooftop solar potential for different regions, based on Google's analysis of Google Maps data to find rooftops where solar would work, and aggregate those into region-wide statistics.
+
+It comes in a couple of aggregation flavors - by census tract ( https://gourdian.net/g/eric/sunroof_solar.solar_potential_by_censustract#summary ), where the region name is the census tract id, and by postal code ( https://gourdian.net/g/eric/sunroof_solar.solar_potential_by_postal_code#summary ), where the name is the postal code. Each also contains latitude/longitude bounding boxes and averages, so that you can download based on that, and you should be able to do custom larger aggregations using those, if you'd like.
+
+This dataset seems like it'd be interesting to cross reference with things like weather, and perhaps electricity prices, to find the best places for people to invest in rooftop solar. If you have any other ideas of what it'd be good to combine with, let us know, and we can try to prioritize ingesting those!

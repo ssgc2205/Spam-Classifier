@@ -1,0 +1,11 @@
+I am learning R for a statistics course online for school.
+
+was wondering I there are any resources that could help
+
+Cheatsheats for data or something because I do think we only use a subset of R (or something) 
+
+I dont know. I just know Im lost. Already. I think I need a tutor. 
+
+Any leads would be mad appreciated!
+
+Thanks in advance!
